@@ -202,7 +202,7 @@ export default function App() {
       {/* ── 배경 ── */}
       <div style={{ position:"fixed", inset:0, zIndex:0,
         backgroundImage:`url(${BG})`, backgroundSize:"cover", backgroundPosition:"center 25%",
-        filter:"blur(0px) brightness(0.65)", transform:"scale(1.04)" }} />
+        filter:"blur(0px) brightness(1)", transform:"scale(1.04)" }} />
       <div style={{ position:"fixed", inset:0, zIndex:0,
         background:"linear-gradient(180deg,rgba(4,2,14,0.5) 0%,rgba(4,2,14,0.75) 35%,rgba(4,2,14,0.97) 100%)" }} />
 
