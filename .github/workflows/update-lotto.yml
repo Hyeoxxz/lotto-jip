@@ -1,0 +1,27 @@
+name: Update Lotto Data
+
+on:
+  schedule:
+    - cron: '30 12 * * 6'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run update script
+        run: python scripts/update_lotto.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add src/App.jsx
+          git diff --cached --quiet || git commit -m "Update lotto data"
+          git push
