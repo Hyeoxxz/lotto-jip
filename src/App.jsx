@@ -165,6 +165,7 @@ export default function App() {
   const [stockNews,    setStockNews]    = useState([]);
   const [stockLastFetched, setStockLastFetched] = useState(null);
   const [stockDate,    setStockDate]    = useState(null);
+  const [autoSummary,  setAutoSummary]  = useState(null);
   const stockFetchedRef = useRef(false);
 
   // ── GitHub Actions가 매일 아침 생성한 JSON을 읽어옴 ──────────────────────
@@ -178,6 +179,7 @@ export default function App() {
       if (!res.ok) throw new Error("파일 없음");
       const data = await res.json();
       setStockSummary(data.aiSummary || null);
+      setAutoSummary(data.autoSummary || null);
       setStockNews(data.news || []);
       setStockLastFetched(data.updatedAt || null);
       setStockDate(data.date || null);
@@ -638,27 +640,21 @@ export default function App() {
             )}
 
             {/* 메인 요약 */}
-            {!stockLoading && stockSummary && (
+            {!stockLoading && (stockSummary || autoSummary || stockNews.length > 0) && (
               <>
-                {/* AI 요약 박스 */}
-                <div style={{ background:"linear-gradient(135deg, rgba(79,124,255,0.12) 0%, rgba(45,212,191,0.08) 100%)",
-                  border:"1px solid rgba(79,124,255,0.25)", borderRadius:18, padding:"18px 20px", marginBottom:14 }}>
+                {/* 자동 요약 박스 */}
+                <div style={{ background:"rgba(255,215,0,0.06)",
+                  border:"1px solid rgba(255,215,0,0.2)", borderRadius:18, padding:"18px 20px", marginBottom:14 }}>
                   <div style={{ display:"flex", alignItems:"center", gap:8, marginBottom:10 }}>
-                    <span style={{ background:"rgba(79,124,255,0.2)", color:"#7b9fff", fontSize:10,
-                      padding:"2px 8px", borderRadius:6, fontWeight:700 }}>AI 요약</span>
+                    <span style={{ background:"rgba(255,215,0,0.15)", color:"#FFD700", fontSize:10,
+                      padding:"2px 8px", borderRadius:6, fontWeight:700 }}>📰 뉴스 요약</span>
                     <span style={{ fontSize:11, color:"rgba(255,255,255,0.28)" }}>
-                      {new Date().toLocaleDateString("ko-KR", { month:"long", day:"numeric" })} 아침 브리핑
+                      매일 오전 7:30 자동 수집
                     </span>
                   </div>
-                  <div style={{ fontSize:13, color:"rgba(255,255,255,0.75)", lineHeight:1.8 }}>
-                    {stockSummary.summary}
+                  <div style={{ fontSize:13, color:"rgba(255,255,255,0.65)", lineHeight:1.8 }}>
+                    {autoSummary || `${stockDate || "오늘"} 주요 경제 뉴스가 수집되었습니다.`}
                   </div>
-                  {stockSummary.riskFactors && (
-                    <div style={{ marginTop:10, padding:"8px 12px", background:"rgba(239,68,68,0.1)",
-                      borderRadius:8, fontSize:12, color:"rgba(255,150,150,0.85)" }}>
-                      ⚠️ {stockSummary.riskFactors}
-                    </div>
-                  )}
                 </div>
 
                 {/* 지수 전망 */}
