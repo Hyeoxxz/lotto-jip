@@ -1,27 +1,36 @@
-name: Update Lotto Data
+name: Update Lotto & Stock News
 
 on:
   schedule:
-    - cron: '30 12 * * 6'
-  workflow_dispatch:
+    - cron: '30 12 * * 6'   # 토요일 오후 9:30(KST) — 로또 업데이트
+    - cron: '30 22 * * 0-5' # 월~토 오전 7:30(KST) — 주식 뉴스 업데이트
+  workflow_dispatch:         # 수동 실행 가능
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Install dependencies
         run: pip install requests
-      - name: Run update script
+
+      - name: Run lotto update (토요일만)
+        if: github.event.schedule == '30 12 * * 6' || github.event_name == 'workflow_dispatch'
         run: python scripts/update_lotto.py
+
+      - name: Run stock news update
+        run: python scripts/update_stock.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add src/App.jsx
-          git diff --cached --quiet || git commit -m "Update lotto data"
+          git add src/App.jsx public/stock_briefing.json
+          git diff --cached --quiet || git commit -m "Auto update $(date +'%Y-%m-%d %H:%M')"
           git push
