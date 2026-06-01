@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback, useEffect, useRef } from "react";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 실제 동행복권 당첨번호 데이터 (1026~1225회차)
@@ -158,6 +158,41 @@ export default function App() {
   const [showPrev, setShowPrev] = useState(false);
   const [histPage, setHistPage] = useState(1);
   const HIST_PER_PAGE = 10;
+  // ── 주식 탭 상태 ──────────────────────────────────────────────────────────
+  const [stockLoading, setStockLoading] = useState(false);
+  const [stockSummary, setStockSummary] = useState(null);
+  const [stockError,   setStockError]   = useState(null);
+  const [stockNews,    setStockNews]    = useState([]);
+  const [stockLastFetched, setStockLastFetched] = useState(null);
+  const [stockDate,    setStockDate]    = useState(null);
+  const stockFetchedRef = useRef(false);
+
+  // ── GitHub Actions가 매일 아침 생성한 JSON을 읽어옴 ──────────────────────
+  const fetchStockBriefing = useCallback(async () => {
+    setStockLoading(true);
+    setStockError(null);
+    try {
+      // 캐시 방지용 타임스탬프 추가
+      const ts = new Date().toISOString().slice(0, 13); // 1시간 단위 캐시
+      const res = await fetch(`/stock_briefing.json?t=${ts}`);
+      if (!res.ok) throw new Error("파일 없음");
+      const data = await res.json();
+      setStockSummary(data.aiSummary || null);
+      setStockNews(data.news || []);
+      setStockLastFetched(data.updatedAt || null);
+      setStockDate(data.date || null);
+    } catch(e) {
+      setStockError("브리핑 파일을 불러오지 못했어요. GitHub Actions가 아직 실행 전일 수 있어요.");
+    }
+    setStockLoading(false);
+  }, []);
+
+  useEffect(() => {
+    if (tab === "stock" && !stockFetchedRef.current) {
+      stockFetchedRef.current = true;
+      fetchStockBriefing();
+    }
+  }, [tab, fetchStockBriefing]);
 
   const gen = useCallback(() => {
     if (spin) return;
@@ -233,7 +268,7 @@ export default function App() {
 
       {/* ── 탭 ── */}
       <div style={{ position:"relative", zIndex:1, display:"flex", justifyContent:"center", gap:6, padding:"18px 16px 0" }}>
-        {[["pick","🎯 번호 생성"],["stats","📊 통계 분석"],["history","📋 회차 기록"]].map(([k, l]) => (
+        {[["pick","🎯 번호 생성"],["stats","📊 통계 분석"],["history","📋 회차 기록"],["stock","📈 주식 브리핑"]].map(([k, l]) => (
           <button key={k} onClick={() => setTab(k)} style={{
             padding:"7px 14px", borderRadius:20, border:"none", cursor:"pointer",
             background: tab === k ? "rgba(255,215,0,0.15)" : "rgba(0,0,0,0.42)",
@@ -566,6 +601,171 @@ export default function App() {
                 marginTop:4,
               }}>더 보기 ({HISTORY.length - histPage * HIST_PER_PAGE}개 남음)</button>
             )}
+          </div>
+        )}
+
+        {/* ══════════════════════════════ 주식 브리핑 탭 ══════════════════════════════ */}
+        {tab === "stock" && (
+          <div style={{ animation:"fadeUp 0.3s ease" }}>
+
+            {/* 헤더 */}
+            <div style={{ display:"flex", alignItems:"center", justifyContent:"space-between", marginBottom:16 }}>
+              <div style={{ fontSize:11, color:"rgba(255,255,255,0.28)" }}>
+                {stockLastFetched ? `업데이트: ${stockLastFetched}${stockDate ? ` (${stockDate})` : ""}` : "매일 오전 7:30 자동 업데이트"}
+              </div>
+              <button onClick={() => { fetchStockBriefing(); }}
+                style={{ background:"rgba(255,215,0,0.1)", border:"1px solid rgba(255,215,0,0.25)",
+                  color:"#FFD700", fontSize:11, padding:"5px 12px", borderRadius:12, cursor:"pointer",
+                  fontFamily:"'Noto Sans KR',sans-serif" }}>
+                🔄 새로고침
+              </button>
+            </div>
+
+            {/* 로딩 */}
+            {stockLoading && (
+              <div style={{ textAlign:"center", padding:"60px 0" }}>
+                <div style={{ fontSize:28, marginBottom:12, animation:"spin 1s linear infinite", display:"inline-block" }}>⚙️</div>
+                <div style={{ fontSize:13, color:"rgba(255,255,255,0.4)" }}>AI가 오늘의 시장을 분석하는 중...</div>
+              </div>
+            )}
+
+            {/* 에러 */}
+            {!stockLoading && stockError && (
+              <div style={{ background:"rgba(239,68,68,0.12)", border:"1px solid rgba(239,68,68,0.25)",
+                borderRadius:14, padding:"20px", textAlign:"center", marginBottom:16 }}>
+                <div style={{ fontSize:13, color:"#f87171" }}>{stockError}</div>
+              </div>
+            )}
+
+            {/* 메인 요약 */}
+            {!stockLoading && stockSummary && (
+              <>
+                {/* AI 요약 박스 */}
+                <div style={{ background:"linear-gradient(135deg, rgba(79,124,255,0.12) 0%, rgba(45,212,191,0.08) 100%)",
+                  border:"1px solid rgba(79,124,255,0.25)", borderRadius:18, padding:"18px 20px", marginBottom:14 }}>
+                  <div style={{ display:"flex", alignItems:"center", gap:8, marginBottom:10 }}>
+                    <span style={{ background:"rgba(79,124,255,0.2)", color:"#7b9fff", fontSize:10,
+                      padding:"2px 8px", borderRadius:6, fontWeight:700 }}>AI 요약</span>
+                    <span style={{ fontSize:11, color:"rgba(255,255,255,0.28)" }}>
+                      {new Date().toLocaleDateString("ko-KR", { month:"long", day:"numeric" })} 아침 브리핑
+                    </span>
+                  </div>
+                  <div style={{ fontSize:13, color:"rgba(255,255,255,0.75)", lineHeight:1.8 }}>
+                    {stockSummary.summary}
+                  </div>
+                  {stockSummary.riskFactors && (
+                    <div style={{ marginTop:10, padding:"8px 12px", background:"rgba(239,68,68,0.1)",
+                      borderRadius:8, fontSize:12, color:"rgba(255,150,150,0.85)" }}>
+                      ⚠️ {stockSummary.riskFactors}
+                    </div>
+                  )}
+                </div>
+
+                {/* 지수 전망 */}
+                <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:10, marginBottom:14 }}>
+                  {[
+                    { label:"코스피", data: stockSummary.kospi },
+                    { label:"코스닥", data: stockSummary.kosdaq }
+                  ].map(({ label, data }) => {
+                    if (!data) return null;
+                    const isUp = data.outlook === "상승";
+                    const isDown = data.outlook === "하락";
+                    const col = isUp ? "#22c55e" : isDown ? "#ef4444" : "#f59e0b";
+                    const bg = isUp ? "rgba(34,197,94,0.1)" : isDown ? "rgba(239,68,68,0.1)" : "rgba(245,158,11,0.1)";
+                    const bd = isUp ? "rgba(34,197,94,0.25)" : isDown ? "rgba(239,68,68,0.25)" : "rgba(245,158,11,0.25)";
+                    return (
+                      <div key={label} style={{ background:"rgba(0,0,0,0.45)", border:"1px solid rgba(255,255,255,0.07)",
+                        borderRadius:16, padding:"14px 16px" }}>
+                        <div style={{ fontSize:12, color:"rgba(255,255,255,0.4)", marginBottom:6 }}>{label}</div>
+                        <div style={{ display:"flex", alignItems:"center", gap:8, marginBottom:6 }}>
+                          <span style={{ fontSize:16, fontWeight:700, color: col }}>
+                            {isUp ? "▲" : isDown ? "▼" : "─"} {data.outlook}
+                          </span>
+                        </div>
+                        <div style={{ fontSize:11, color:"rgba(255,255,255,0.45)", lineHeight:1.5 }}>
+                          {data.reason}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+
+                {/* 주목 종목 */}
+                {stockSummary.keyStocks && stockSummary.keyStocks.length > 0 && (
+                  <div style={{ background:"rgba(0,0,0,0.45)", border:"1px solid rgba(255,255,255,0.07)",
+                    borderRadius:18, padding:"16px 18px", marginBottom:14 }}>
+                    <div style={{ fontSize:11, color:"rgba(255,255,255,0.28)", marginBottom:12 }}>📌 오늘 주목 종목</div>
+                    {stockSummary.keyStocks.map((s, i) => {
+                      const isBuy = s.signal === "매수관심";
+                      const isWarn = s.signal === "주의";
+                      const sigCol = isBuy ? "#22c55e" : isWarn ? "#ef4444" : "#f59e0b";
+                      const sigBg = isBuy ? "rgba(34,197,94,0.12)" : isWarn ? "rgba(239,68,68,0.12)" : "rgba(245,158,11,0.12)";
+                      return (
+                        <div key={i} style={{ display:"flex", alignItems:"flex-start", gap:12,
+                          padding:"10px 0", borderBottom: i < stockSummary.keyStocks.length-1 ? "1px solid rgba(255,255,255,0.06)" : "none" }}>
+                          <div style={{ minWidth:42, textAlign:"center" }}>
+                            <div style={{ fontSize:13, fontWeight:700, color:"#FFD700" }}>{s.name}</div>
+                            <div style={{ fontSize:9, color:"rgba(255,255,255,0.28)", marginTop:2 }}>{s.code}</div>
+                          </div>
+                          <div style={{ flex:1 }}>
+                            <div style={{ display:"flex", alignItems:"center", gap:6, marginBottom:4 }}>
+                              <span style={{ fontSize:10, padding:"2px 8px", borderRadius:6, fontWeight:600,
+                                color: sigCol, background: sigBg }}>{s.signal}</span>
+                            </div>
+                            <div style={{ fontSize:12, color:"rgba(255,255,255,0.5)", lineHeight:1.5 }}>
+                              {s.reason}
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
+
+                {/* 키워드 */}
+                {stockSummary.keywords && (
+                  <div style={{ display:"flex", flexWrap:"wrap", gap:8, marginBottom:18 }}>
+                    {stockSummary.keywords.map((kw, i) => (
+                      <span key={i} style={{ fontSize:11, padding:"4px 10px", borderRadius:20,
+                        background:"rgba(255,255,255,0.06)", color:"rgba(255,255,255,0.4)",
+                        border:"1px solid rgba(255,255,255,0.08)" }}>#{kw}</span>
+                    ))}
+                  </div>
+                )}
+              </>
+            )}
+
+            {/* 뉴스 목록 */}
+            {!stockLoading && stockNews.length > 0 && (
+              <>
+                <div style={{ fontSize:11, color:"rgba(255,255,255,0.28)", marginBottom:10 }}>📰 오늘 주요 경제 뉴스</div>
+                {stockNews.map((n, i) => {
+                  const impactCol = n.impact === "호재" ? "#22c55e" : n.impact === "리스크" ? "#ef4444" : "#f59e0b";
+                  const impactBg = n.impact === "호재" ? "rgba(34,197,94,0.1)" : n.impact === "리스크" ? "rgba(239,68,68,0.1)" : "rgba(245,158,11,0.1)";
+                  return (
+                    <div key={i} style={{ background:"rgba(0,0,0,0.45)", backdropFilter:"blur(12px)",
+                      border:"1px solid rgba(255,255,255,0.06)", borderRadius:14, padding:"12px 16px", marginBottom:8,
+                      display:"flex", gap:12, alignItems:"flex-start" }}>
+                      <div style={{ fontSize:10, color:"rgba(255,255,255,0.25)", minWidth:38,
+                        fontFamily:"monospace", paddingTop:2 }}>{n.time}</div>
+                      <div style={{ flex:1 }}>
+                        <div style={{ fontSize:13, color:"rgba(255,255,255,0.8)", lineHeight:1.5, marginBottom:6 }}>
+                          {n.title}
+                        </div>
+                        <div style={{ display:"flex", alignItems:"center", gap:8 }}>
+                          <span style={{ fontSize:10, color:"rgba(255,255,255,0.25)" }}>{n.source}</span>
+                          <span style={{ fontSize:10, padding:"1px 7px", borderRadius:5,
+                            background:"rgba(79,124,255,0.12)", color:"#7b9fff" }}>{n.tag}</span>
+                          <span style={{ fontSize:10, padding:"1px 7px", borderRadius:5,
+                            color: impactCol, background: impactBg }}>{n.impact}</span>
+                        </div>
+                      </div>
+                    </div>
+                  );
+                })}
+              </>
+            )}
+
           </div>
         )}
 
