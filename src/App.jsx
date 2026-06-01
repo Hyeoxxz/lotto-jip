@@ -745,8 +745,17 @@ export default function App() {
                       <div style={{ fontSize:10, color:"rgba(255,255,255,0.25)", minWidth:38,
                         fontFamily:"monospace", paddingTop:2 }}>{n.time}</div>
                       <div style={{ flex:1 }}>
-                        <div style={{ fontSize:13, color:"rgba(255,255,255,0.8)", lineHeight:1.5, marginBottom:6 }}>
-                          {n.title}
+                        <div
+                          onClick={() => n.link && window.open(n.link, "_blank")}
+                          style={{ fontSize:13, color:"rgba(255,255,255,0.8)", lineHeight:1.5, marginBottom:6,
+                            cursor: n.link ? "pointer" : "default",
+                            textDecoration: "none",
+                            transition: "color 0.15s",
+                          }}
+                          onMouseEnter={e => { if(n.link) e.target.style.color="#FFD700"; }}
+                          onMouseLeave={e => { if(n.link) e.target.style.color="rgba(255,255,255,0.8)"; }}
+                        >
+                          {n.title}{n.link ? " ↗" : ""}
                         </div>
                         <div style={{ display:"flex", alignItems:"center", gap:8 }}>
                           <span style={{ fontSize:10, color:"rgba(255,255,255,0.25)" }}>{n.source}</span>
