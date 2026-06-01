@@ -78,6 +78,7 @@ def fetch_google_news():
             for item in items[:6]:
                 raw_title = item.findtext("title", "").strip()
                 title = clean_title(raw_title)
+                link = item.findtext("link", "").strip()
 
                 # 출처 추출 (구글 뉴스 형식: "제목 - 언론사")
                 source = "구글뉴스"
@@ -97,6 +98,7 @@ def fetch_google_news():
                     "source": source,
                     "tag": tag,
                     "impact": impact,
+                    "link": link,
                 })
                 count += 1
                 if count >= 4:
