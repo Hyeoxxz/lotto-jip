@@ -657,8 +657,8 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* 지수 전망 */}
-                <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:10, marginBottom:14 }}>
+                {/* 지수 전망 — aiSummary 있을 때만 */}
+                {stockSummary && <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:10, marginBottom:14 }}>
                   {[
                     { label:"코스피", data: stockSummary.kospi },
                     { label:"코스닥", data: stockSummary.kosdaq }
@@ -684,10 +684,10 @@ export default function App() {
                       </div>
                     );
                   })}
-                </div>
+                </div>}
 
                 {/* 주목 종목 */}
-                {stockSummary.keyStocks && stockSummary.keyStocks.length > 0 && (
+                {stockSummary && stockSummary.keyStocks && stockSummary.keyStocks.length > 0 && (
                   <div style={{ background:"rgba(0,0,0,0.45)", border:"1px solid rgba(255,255,255,0.07)",
                     borderRadius:18, padding:"16px 18px", marginBottom:14 }}>
                     <div style={{ fontSize:11, color:"rgba(255,255,255,0.28)", marginBottom:12 }}>📌 오늘 주목 종목</div>
@@ -719,7 +719,7 @@ export default function App() {
                 )}
 
                 {/* 키워드 */}
-                {stockSummary.keywords && (
+                {stockSummary && stockSummary.keywords && (
                   <div style={{ display:"flex", flexWrap:"wrap", gap:8, marginBottom:18 }}>
                     {stockSummary.keywords.map((kw, i) => (
                       <span key={i} style={{ fontSize:11, padding:"4px 10px", borderRadius:20,
