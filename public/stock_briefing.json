@@ -1,42 +1,66 @@
 {
-  "updatedAt": "2026-06-02 08:49",
-  "date": "2026-06-02",
-  "autoSummary": "2026년 06월 02일 주요 경제 뉴스 10건. 호재 3 · 리스크 1 · 중립 6",
+  "updatedAt": "2026-06-03 09:10",
+  "date": "2026-06-03",
+  "autoSummary": "2026년 06월 03일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
   "news": [
     {
-      "time": "08:49",
-      "title": "코스피 8700선 돌파, 코스닥은 하락 마감",
-      "source": "2news.co.kr",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvc3JYZ1JqMGZXUTR1WEJZUTU3VEdMeEtzdUFlSERKWlNlektGOUhQZ1VDbGhoSE5FV2pQRHNHMWJwUWZQOVhxemhGdk5aZUZBaUJTMDlDZ0d6U0tRNW93c3NkWFhNTlU?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "젠슨 황 훈풍에 코스피 신고가 랠리...코스닥 5거래일 연속 하락세",
-      "source": "프리진경제",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Vm1fbkY0R2xjZTVMczl4X1F6TUV6TXMzNzdEZFNTeUI0Q2FRMGlNbkx0Wl9wbzZFdVFESzVCdW94YXlxQnQ0ZzNEQmlwU2RSbmV0OGp0NnVFWXJOTTNwSERGTzN3VWFyaktFUg?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "5월 코스피 44조 팔아치운 외국인, 코스닥 2.8조 순매수",
-      "source": "조선일보",
+      "time": "09:10",
+      "title": "[국내 증시] 6월 3일 한국 주식 휴장한다 왜?…코스피·코스닥·코넥스·파생상품시장 모두 쉰다",
+      "source": "CBC뉴스",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTVpob0ZEbXVvSzl0Wlk5dmRxM1ZmUXIzZVY3aS04VDZfZUloZ01wSndZckpWeUF0RnVqYmt3N2U1OWloeTRITGFWa0NLd2dubllYMkk3V241elR1ZHhXajNWak9RYWNFalRLMHAwNW9YREFsamlKRDhVYjctMWN4R2FQRUJ1MmRDekNJ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUXF3MWs3bkFNMmUyZFM0SURycWJnYS1mY2hHeUxEMzhGNDFEd1R3SXRPcDVQRmJOOUNmRDZPRE91VmFFcmRQTjYtdUxLc2dCbE5WVFlaTElYRkJLSWV1UW9ZcG1ZT1hf?oc=5"
     },
     {
-      "time": "08:49",
+      "time": "09:10",
+      "title": "개미들 '코스피'에 쏠린 사이…외인은 코스닥 담았다 [분석+]",
+      "source": "한국경제",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hS2Y0RlZDTzNLeTJnTlJkRXhJUGh1eFZnSkY4S1REUHlPSnlYdlg4RE1xRWxuZ2ZqUXB3d2VLemFuamlSbGp4SUhCT1FLTldMaHR5d2xSLWN4d9IBVEFVX3lxTE1YOGRubzlPN2VpWVNrTlV1enBvazBQVklqb2MzN3Fhb2ZTcTIwRzFDek8xTDRESXNSQWVBdm1lNC1LdTJuVmdtcFZnaWdBZUc3alZBTg?oc=5"
+    },
+    {
+      "time": "09:10",
+      "title": "[생생한 주식쇼 생쇼] 코스피 조정 속 코스닥 빈집 털이와 피지컬 AI 전략",
+      "source": "매일경제 마켓",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBienpraE5hVFB5dEVYT0pWdk5nbGszaXp5ZzB3ZWxSTUZ1UXBlb0NpUGd0cGlXbE8yUzhfcWVud2ZCTUpTaDZpYTVldHF3S1dINmc?oc=5"
+    },
+    {
+      "time": "09:10",
       "title": "코스피, 상승 마감..코스닥 내림세 마무리",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00dXlzQnV6eVU1OENTTTMzdEtsX1FXYVgxNWFOSlFKa0I2V29Tc0lTSy01NDFEM29KZ1hpRUJkcmdoYS1oTGxiY1A2Zl9RRlROdFVQbENUSGRfYldBRDR0NEMzRzNJV2hXWjhr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZlZ0Zl9pUXZYV2pkVUpDSHhia19ZX1JpS2o1YU9iVV81cGFGeE1ja0hZZmo4cGluTlA2eHQ2aUplcmE0aTVxR2h1WHNzSFJoQTBVMDFHWjU3Rk5lTUNqdHowcDZlY0ZTdlo0?oc=5"
     },
     {
-      "time": "08:49",
+      "time": "09:10",
+      "title": "환율 12거래일 연속 1500원대, 금융위기 기록 넘어서... 수출·증시·금리도 못 막은 고환율",
+      "source": "조선일보",
+      "tag": "글로벌",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0xnaDY2VUItR1N6OVV3d2pBc0phNDAyQ3pJR1hLYThzdng4OFdSLUZHT3hlVWxTdTh4LVhFYnk5NkNlTXM4TUphN1d0VGZjVWRXaG0yeEMyS1FCVmY2OVA2XzNQQ1EyQjZHempiY21fQjNaODByWlMwVEtFc0F3QldZNl80dDVQVTNBS293?oc=5"
+    },
+    {
+      "time": "09:10",
+      "title": "코스피 불장에도 비틀거린 은행주, 금리인상 타고 반등 가능할까",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tdEc3UnYzM1o5ZFpGamhoSjJHZVNqTnZCNXBPMkxEWG9QaHZHa0hlNlliSTlyX29Ib1I1YVljZFY2T1BCRGo1NTI2YlhnRnpfaXR1NVdQRTJtUdIBVEFVX3lxTE4wbU1sZEVYTTl1Snpzc2FVeHFFV2YzT3VTSDdrZ0hmeE45YjdTeHViOUlBaVRuRUtQek52ZWRZN3FoYURpQTFhUGtselQ4bzZhQXJ0MQ?oc=5"
+    },
+    {
+      "time": "09:10",
+      "title": "[아주사설 | 기본·원칙·상식] 반도체 호황에 기댄 금리 인상, 한국경제는 준비됐나",
+      "source": "아주경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tN0s2b3pIMXExY2NIN01HV1g4cnRzSzJCT00yTjNFLW1ZU05QQUhkOFRFRmduT05NRUMzR2JLU0c1ZnpLWGVHTUNYUGJRUDhwRjdwbEM5Y3k3UdIBWEFVX3lxTFBsek56QUZOaWYyVERHd3phbFYtaWxqRDBVU2RNRXNhQ1BQU19QMC0xVXU0SmJkRTFIcV9IbmV0UWVnTnJJTVBfSkx6MUJWOUdvTTY5Z2U0T0M?oc=5"
+    },
+    {
+      "time": "09:10",
       "title": "신현송 “경제 강력해 딜레마 적다” 기준금리 인상 또 시사",
       "source": "중앙일보",
       "tag": "정책",
@@ -44,44 +68,20 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95bkFLbkwzemFSUnBocC1XZEdfb0pvejl0UUptQlNCZDRKRjdMcmNscmtnQkN5SlRDQWRDTEc5VFdFOXBxR0Q2TktRdVplVWU2Um13YzlR?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "신현송 “한국성장 강력, 통화조정 장애물 적어”… 금리인상 또 시사",
-      "source": "동아일보",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0VHVxV2lleUNwQlhEdUNjd0VMWmpxSzBLR3ZMb1VVOHhkSEZGOWVHRGdWOERobTktVE1Ja3JHTVdfWHJtYUVHVGNsTDFPOXBQRS1wbnRhSTVaMzZkdXZjM2c5ZWxDZ000RHBnVnU1U3dzYkJKQlHSAWZBVV95cUxOSGg3MmNLbzBFWjNWVXhsY2xmbFI4WlJvY1loT3I1bUxzeG9wdk5hSFdNUlVvOE4zWXV6aDRTMFdlWUhISlRtaVpWRmxCbExMMmJTVjl6cnRWTHRuVHA4WkhtT3F0VHc?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "[스타트 경제] 한국은행 \"적절한 시기 금리 인상 필요\"...시장선 7월 인상 기정사실화",
-      "source": "YTN",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRFdUV0ZjeUp4STNGZmtEZlBBb0xFNm9PTVJaWGxadkZvX0VRSGZrV09KMHZhaGZWUnRZUlhISWs2NmtTOW4xR3A3YjZELWItMVB0Y0FJMHREd29KNnc?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "\"일본,인플레 대응 늦어지면 공격적 금리 인상 불가피\"",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DcXh2MVRNVksxTklUQ096c3ZuMV80dXJRbEFtN28xR3dTTEZfengzdDl2UjBEN05ndW1zdGx3cHc4NHdKYXJESUIwTk1yLWx2QXROSXprdkx0Z9IBVEFVX3lxTE5VUmhzYnczSnRmSjlJT1ltSENoN1VqU0dDMDlKSXZnSHZuZDBlZk9TZElEV0pjM0tuMXJaemFlTmJUTDMwbFZPbk1XQl9pV3lYdlNRWA?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "삼성·SK, 앤트로픽에 조단위 투자…AI 인프라 핵심으로 부상",
-      "source": "연합뉴스",
+      "time": "09:10",
+      "title": "젠슨 황 ‘선택적 침묵’ 왜?... 삼성전자 언급 않고 하이닉스만 칭찬",
+      "source": "조선일보",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUXpLUzR4TktnYm5sLXFuN3VEQmFIeXNkcXpnTVNhekFnYWx0ZWh1eGpMQUh0QXoycWFUb3hVUE82WERNUWZpR1FXa3J4ME9abWJMOWllNzJ2SzjSAWBBVV95cUxNamkyYkVxckJ2TTMyOWpINV9JMDZIb1RQOTQ5b1RfWWxwZG5iX1A0SzA3MU5GaHNTVlVwYzN4cWVTSDRIaEhucVdwSlVYQmItUkg0eWZoTURhQ0dZYnFZR3E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHNqN0t3ejg5bGtHSUc5Q1haWnVwUjJ4Tl9jWURINW5UWlIyZTVJLXVDXzdRQUQtMVBwbEJ0V0xXeVRIWENjS1ppRmNxZWZwalA0bGtYX2htVmxnWHRZa1V1dGJicjdHa1pHam9ZckZLcmRPYUtEUUZLSy1xbVZIbU9qSQ?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "AI 기업 ‘큰 손’ 부상한 삼성·SK…메모리 경쟁력으로 AI 에이전트 주도권 노려",
-      "source": "경향신문",
+      "time": "09:10",
+      "title": "젠슨 황 \"AI칩 공급 여전히 부족\"…삼성전자·SK하이닉스 수요 지속 전망",
+      "source": "뉴시스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KSUx5OWRSTDNVeExuR1JDOVU1MndXb0t5eUlyaGI1dzJTR0o5YzBWRk4xTWphUnc2WVNnY0hSY1hkZVpHR2dEWmdXWE9VZmRNcVVlLXViY3NaZ9IBX0FVX3lxTE0wcnptc2N1OFdtS0xzTl9UM1pKV3laWHl1Yk02N19mR3oteWo0T2NYdUNMNDNYbElXaUxnZk4xemFVdVNudC1KU3hSb0hmUTlMbVpmQVA1NlBlQTY3RDAw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uQS1DV2FrT0k3OVNwTUF0SWVSRnpLcVZGa2c4WV9HZ1F5dU9xN3k0SHluZ2dfakVpT3BjTGg3ZnhIV0VlWnV2ZEJuTGY5ZUlJdVBRQlIydmxOSUl1VXpTNNIBeEFVX3lxTFBNaGUwMnR3NjlMRjlzUmpNcURnalZkWXpnLTlMR0dUeU9ZRzBYdXRhSDZOVGEyVHVHb0g4bHdHb05ra1RYbWRaNXBBTVpOOVZYRUo3TTJBb0dpQ2lPYlJnMEcxUXVhVGlwUmJfM1RlMDhUSERFNmkxTA?oc=5"
     }
   ],
   "aiSummary": null
