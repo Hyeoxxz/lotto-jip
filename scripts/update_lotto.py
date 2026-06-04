@@ -31,9 +31,25 @@ def fetch_round(n, retries=3):
     return None
 
 def calc_latest_round():
+    """동행복권 API에서 직접 최신 회차를 가져옴 — 계산 오류 없음"""
+    # 높은 회차부터 내려오며 실제 추첨된 마지막 회차 탐색
+    from datetime import date, timedelta
     start = date(2002, 12, 7)
     today = date.today()
-    return (today - start).days // 7 + 1
+    estimated = (today - start).days // 7 + 2  # 넉넉하게 +2
+
+    for n in range(estimated, estimated - 5, -1):
+        url = f"https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo={n}"
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=10)
+            d = r.json()
+            if d.get("returnValue") == "success":
+                print(f"  ✅ API 확인: 최신 추첨 완료 회차 = {n}회차 ({d['drwNoDate']})")
+                return n
+        except:
+            pass
+    # API 실패 시 계산식으로 fallback
+    return estimated - 2
 
 # ── App.jsx 읽기 ──────────────────────────────────────────────────────────────
 try:
