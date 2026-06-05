@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-05 08:44",
-  "date": "2026-06-05",
-  "autoSummary": "2026년 06월 05일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
+  "updatedAt": "2026-06-06 08:45",
+  "date": "2026-06-06",
+  "autoSummary": "2026년 06월 06일 주요 경제 뉴스 10건. 호재 4 · 리스크 2 · 중립 4",
   "news": [
     {
-      "time": "08:44",
+      "time": "08:45",
       "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -12,7 +12,23 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XUFF0aGQ5Z0xFa29XM2dNYzR5Z1A1VlVtb09hbzEwazFPRGxhTTkzUGRvV2VuZTBnaW0xQ0RZQVBxaWFRMjZ5VHRmWXJVaXRqemp5QUY0bVE3ZEM0OF9GNNIBYEFVX3lxTE1XUFF0aGQ5Z0xFa29XM2dNYzR5Z1A1VlVtb09hbzEwazFPRGxhTTkzUGRvV2VuZTBnaW0xQ0RZQVBxaWFRMjZ5VHRmWXJVaXRqemp5QUY0bVE3ZEM0OF9GNA?oc=5"
     },
     {
-      "time": "08:44",
+      "time": "08:45",
+      "title": "코스피·코스닥, 내림세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02X18yT3ZLSllPSktIYWFib0JjNk1pZmgtNHpvWHFrOWw4R2laS2luMWU2TjVBaHFENmxLMlRTSm1WMGlZeHVLYWhVZzhRMnNNRm9hLVhsWkUzZktFckdQd29BTXY4RnRKUHNZ?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "환율 1,548원 돌파…코스피·코스닥 오전 한때 급락",
+      "source": "프리진경제",
+      "tag": "글로벌",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LbGo1bmtiOVY1U0s1M0R2R3QxXzVvakptcmc3ZGZGcW1xSlY5S2lrMnc1WEV3YmNrTXBTU1hHaU1vWWw5a3Y4NkVrd2hkWWNvU1h0N1k4Vl96WWV1c1RvdUwwMWJfOWdpcGJENg?oc=5"
+    },
+    {
+      "time": "08:45",
       "title": "[국내 증시] 6월 3일 한국 주식 휴장한다 왜?…코스피·코스닥·코넥스·파생상품시장 모두 쉰다",
       "source": "CBC뉴스",
       "tag": "시장",
@@ -20,39 +36,15 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUXF3MWs3bkFNMmUyZFM0SURycWJnYS1mY2hHeUxEMzhGNDFEd1R3SXRPcDVQRmJOOUNmRDZPRE91VmFFcmRQTjYtdUxLc2dCbE5WVFlaTElYRkJLSWV1UW9ZcG1ZT1hf?oc=5"
     },
     {
-      "time": "08:44",
-      "title": "코스피, 내림세 장 종료..코스닥 상승 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kT09XR0dkT2JWeEwxbU1lQUJqWEl1REtZeXY5bzYxUGlBVnI0TG9HZGszRHBFRlJQcGRvdlRXVTFkcmd1V2FpM0kxZkN3d2F0dzJSRi01RWtPbEJabEVmcnhPeUt5SnpRYURV?oc=5"
-    },
-    {
-      "time": "08:44",
-      "title": "[생생한 주식쇼 생쇼] 코스피 조정 속 코스닥 빈집 털이와 피지컬 AI 전략",
-      "source": "매일경제 마켓",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBienpraE5hVFB5dEVYT0pWdk5nbGszaXp5ZzB3ZWxSTUZ1UXBlb0NpUGd0cGlXbE8yUzhfcWVud2ZCTUpTaDZpYTVldHF3S1dINmc?oc=5"
-    },
-    {
-      "time": "08:44",
-      "title": "\"7월 금리인상 사실상 확정\"…개미들 긴장하는 이유",
+      "time": "08:45",
+      "title": "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]",
       "source": "한국경제",
       "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oWnVVMVk1T3BqZ3lsNDZTdEtGaklLeW5VNy1EZGtHZkNfc21FdFdqTWlyOEhUVEg0Q25CaWV3YlFTNk5tZHF3Q1ZEbVcyNmNEQjA5R1VhMFJBUdIBVEFVX3lxTE50RVR1dkZLYUJodWNtaFlYeFR1UUtRVGZXaFRaYjdIQkF5NVExelBWRXRqaTNJUFRQdDZfSTg3T2xvZEhOTGRxNUFtaTRlcjZNc3p0UQ?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JU081WUhTRWFtQzJqQUJJWF9Ja2dIUDZCU1liSzhpaWJ4blVUblpFOVN0bW8yRzFPR081WDU0cXU1NHFtSXhuNjRoeXRTUVlJZ2hYeVcwZE9Zd9IBVEFVX3lxTE9KalByZ3ZZMTJXdTFwNlh2MGZEblNlQmQ4ckZXbzM4VGlUX3VaYVhKY3VKbXNTNXJxUGhWeWpsVDF0cGs5dnJVRWc4OVNhTEd2NUFrRw?oc=5"
     },
     {
-      "time": "08:44",
-      "title": "[아주사설 | 기본·원칙·상식] 반도체 호황에 기댄 금리 인상, 한국경제는 준비됐나",
-      "source": "아주경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tN0s2b3pIMXExY2NIN01HV1g4cnRzSzJCT00yTjNFLW1ZU05QQUhkOFRFRmduT05NRUMzR2JLU0c1ZnpLWGVHTUNYUGJRUDhwRjdwbEM5Y3k3UdIBWEFVX3lxTFBsek56QUZOaWYyVERHd3phbFYtaWxqRDBVU2RNRXNhQ1BQU19QMC0xVXU0SmJkRTFIcV9IbmV0UWVnTnJJTVBfSkx6MUJWOUdvTTY5Z2U0T0M?oc=5"
-    },
-    {
-      "time": "08:44",
+      "time": "08:45",
       "title": "중동 리스크에 금리인상 우려 확대…다우 1.2% 하락",
       "source": "한국경제",
       "tag": "글로벌",
@@ -60,28 +52,36 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11c0wtR0kyNGxDNlVRSTU2OVVqdW5SWEdtOTNWWWlSX3hySDhSOWhHX282N0FoOExycHNVUmhPVzlYdWExdHlSMVVTalR1QXhqd0Vrd1F5UGg2QdIBVEFVX3lxTFBlYkdXV25pcXlSSzlPX0VmTXY0c2pLRVA1bDJJWFVkY3p2cVMySFBXMi14V2VldGd1VVQ3OGpYTnFLVjVLX2xHVWVra1hibnpOdjB0ZA?oc=5"
     },
     {
-      "time": "08:44",
-      "title": "빅스텝 우려에…국고채 금리 2년7개월만에 최고치",
+      "time": "08:45",
+      "title": "에너지 쇼크·금리 발작…'스파이크플레이션' 진입",
       "source": "한국경제",
       "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkNWFuU3MtZjFIaXFzOEdSRDN2RXFfR1p4Z0ZkN05USmRGOV9meDZFQld2TWZCNV9sRW02LUtndW5XR21BbW9ZZnVYcXNvLUk2OVdmenRmaU5HZ9IBVEFVX3lxTFBDUEJpb2Z0Ymc1WkNmQkpHREdRQW1oZHBHOUJITzFkVWdoNmhzczBnajVNaEhhbzNJU1dnZ1dOY3R3ellJa2w1aHI2VjZVaVlXWlR2Vw?oc=5"
-    },
-    {
-      "time": "08:44",
-      "title": "중국 반도체 증설에 삼성전자 SK하이닉스 불안, \"D램·낸드 1~2년 내 공급과잉 가능성\"",
-      "source": "비즈니스포스트",
-      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hV1Bla0owdE1OYkFBNDhWNVpBNFh1ek1lWld5Sk5rTjBmeHBUVldxYlpnSnJOMjhGcVlVdjNXOHZ0Q2JITmc3cTkzT1JiVmhoaEZDQlF3UEtKaGczSEIweEhKT0dVYWVwSUE4d1FmejhzYjg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcWlUVnJ2MW9yakcxRDBUelRWMWFfQkpjXzFVOTNaaF9lTE5Ec09iMjM3MC1uR2dLc09RU0lEV3Jxa0RhMk5nYmFyX2ZkWlZfT2VkaWhhRmV4QdIBVEFVX3lxTE1JX2FJV01ieldVN2d5X2hqZXc0U2lqc0FvWXJKOVZmaUJmcldVMXU1dWJrMjZGTEVuR0t6cUdZaEhyT2t0RmdyWXRlYnJIM0p1Z0xGYQ?oc=5"
     },
     {
-      "time": "08:44",
-      "title": "젠슨 황 ‘선택적 침묵’ 왜?... 삼성전자 언급 않고 하이닉스만 칭찬",
-      "source": "조선일보",
+      "time": "08:45",
+      "title": "삼성화재, 코스피 약세에도 13% 급등…금리 인상 기대·외국인 매수 몰려",
+      "source": "한국경제",
       "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHNqN0t3ejg5bGtHSUc5Q1haWnVwUjJ4Tl9jWURINW5UWlIyZTVJLXVDXzdRQUQtMVBwbEJ0V0xXeVRIWENjS1ppRmNxZWZwalA0bGtYX2htVmxnWHRZa1V1dGJicjdHa1pHam9ZckZLcmRPYUtEUUZLSy1xbVZIbU9qSQ?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1YnYwWmtadXJwWnNQMmtsYVNwTlhYcmJzcGEwcGxtYnBERl9yNW5lM3h5WTY0UzBRT2cyUTJBRnFCaWlWYXJXZ2FCb0Zzc091VkN3MGprOEZqQdIBVEFVX3lxTFA3aTdVeWVWUndaNTZob2hrY1VLeERZWFprTUdDZ2NiMWZ3V2RWdlVTSUpHN29ENFFrVU9iTjJpYzFUUDhGV1htZzFhSUlfWThRMkxKcg?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "[영상] “AI 반도체 수요 증가 끝이 안 보여… 삼성전자·SK하이닉스, 실적 대비 여전히 저평가”",
+      "source": "주간동아",
+      "tag": "기업",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RWGlCTm1BMDRCWVBkeEl6T0dFQU9Ta294cXllakx4ZC1GeFFjQU1pYlpNczNWemQ4Tm1ZeTVTcW9xYy1zNVc0cjI1LW9Sc0ludTJZU1hxVDI4Y2JlNDd1cnhRQjlpamJ1?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "‘브로드컴 쇼크’에…삼전전자 5%·SK하이닉스 7% 급락",
+      "source": "마켓인",
+      "tag": "기업",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvb0pfV0paRW5yT3pHRWJlSVpVNlI5SzU2OFYyaURWbXgzVTJxZWNZek5ib1Qyc19rRmN3MllEcmRsbnhaWnd3QUtiMEszMTlZNjZBTnQ2TmtxaWg0SVJQTzNibjNCLTliOUJpR3ItZVhwQTA?oc=5"
     }
   ],
   "aiSummary": null
