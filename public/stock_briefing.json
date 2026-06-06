@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-06 08:45",
+  "updatedAt": "2026-06-06 23:18",
   "date": "2026-06-06",
-  "autoSummary": "2026년 06월 06일 주요 경제 뉴스 10건. 호재 4 · 리스크 2 · 중립 4",
+  "autoSummary": "2026년 06월 06일 주요 경제 뉴스 10건. 호재 4 · 리스크 3 · 중립 3",
   "news": [
     {
-      "time": "08:45",
+      "time": "23:18",
       "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -12,15 +12,23 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XUFF0aGQ5Z0xFa29XM2dNYzR5Z1A1VlVtb09hbzEwazFPRGxhTTkzUGRvV2VuZTBnaW0xQ0RZQVBxaWFRMjZ5VHRmWXJVaXRqemp5QUY0bVE3ZEM0OF9GNNIBYEFVX3lxTE1XUFF0aGQ5Z0xFa29XM2dNYzR5Z1A1VlVtb09hbzEwazFPRGxhTTkzUGRvV2VuZTBnaW0xQ0RZQVBxaWFRMjZ5VHRmWXJVaXRqemp5QUY0bVE3ZEM0OF9GNA?oc=5"
     },
     {
-      "time": "08:45",
-      "title": "코스피·코스닥, 내림세로 장 마감",
+      "time": "23:18",
+      "title": "\"강세장 주도주 쏠림은 흔한 일\"‥박스권 갇힌 코스닥 활성화는?",
+      "source": "MBC 뉴스",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SZVllVUN0alFwWGVLb3FDb21oTXlpZVYtSjBVZDRJWTNZQ2J6QkNQNFdlTWpud2Z5NkNNeDVFMUt0RUxwU1NiQU1FMG9UTTRmdE5jSmxMVGFNbzZxSGdJRFU3VE9VTDgtOUVvV3czRUFaMzhOcnF6UtIBeEFVX3lxTE9qSjlwTHh3OTduWGR1dTM1ampoZzQ4QnlUcVBJYmNuWks5MWxwZ1BTVVR0WlBaX2otbm81YWhPeDNXRXBMblhRaTZqUEpXN0Z2Ym1OOEpzR0h0Q3FqVFA5ZDBINldnZW9UTDdzUG9zZ0QtN0ZQUXkwaw?oc=5"
+    },
+    {
+      "time": "23:18",
+      "title": "코스피·코스닥, 내림세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02X18yT3ZLSllPSktIYWFib0JjNk1pZmgtNHpvWHFrOWw4R2laS2luMWU2TjVBaHFENmxLMlRTSm1WMGlZeHVLYWhVZzhRMnNNRm9hLVhsWkUzZktFckdQd29BTXY4RnRKUHNZ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YRHgzak0tLWd3RmNabDJ2WklNcEJzQ0hxU2NicjdMbGl2U3BoZWVXUVh5bHlUZ1pHX2dBcUk1UXdQWFdUcW1tMHRJbmQ4amlWWlF6Q2Z5YzA1YV8xWjRhc0V2dFNzcVlTTlc4?oc=5"
     },
     {
-      "time": "08:45",
+      "time": "23:18",
       "title": "환율 1,548원 돌파…코스피·코스닥 오전 한때 급락",
       "source": "프리진경제",
       "tag": "글로벌",
@@ -28,23 +36,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LbGo1bmtiOVY1U0s1M0R2R3QxXzVvakptcmc3ZGZGcW1xSlY5S2lrMnc1WEV3YmNrTXBTU1hHaU1vWWw5a3Y4NkVrd2hkWWNvU1h0N1k4Vl96WWV1c1RvdUwwMWJfOWdpcGJENg?oc=5"
     },
     {
-      "time": "08:45",
-      "title": "[국내 증시] 6월 3일 한국 주식 휴장한다 왜?…코스피·코스닥·코넥스·파생상품시장 모두 쉰다",
-      "source": "CBC뉴스",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUXF3MWs3bkFNMmUyZFM0SURycWJnYS1mY2hHeUxEMzhGNDFEd1R3SXRPcDVQRmJOOUNmRDZPRE91VmFFcmRQTjYtdUxLc2dCbE5WVFlaTElYRkJLSWV1UW9ZcG1ZT1hf?oc=5"
-    },
-    {
-      "time": "08:45",
-      "title": "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JU081WUhTRWFtQzJqQUJJWF9Ja2dIUDZCU1liSzhpaWJ4blVUblpFOVN0bW8yRzFPR081WDU0cXU1NHFtSXhuNjRoeXRTUVlJZ2hYeVcwZE9Zd9IBVEFVX3lxTE9KalByZ3ZZMTJXdTFwNlh2MGZEblNlQmQ4ckZXbzM4VGlUX3VaYVhKY3VKbXNTNXJxUGhWeWpsVDF0cGs5dnJVRWc4OVNhTEd2NUFrRw?oc=5"
-    },
-    {
-      "time": "08:45",
+      "time": "23:18",
       "title": "중동 리스크에 금리인상 우려 확대…다우 1.2% 하락",
       "source": "한국경제",
       "tag": "글로벌",
@@ -52,36 +44,44 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11c0wtR0kyNGxDNlVRSTU2OVVqdW5SWEdtOTNWWWlSX3hySDhSOWhHX282N0FoOExycHNVUmhPVzlYdWExdHlSMVVTalR1QXhqd0Vrd1F5UGg2QdIBVEFVX3lxTFBlYkdXV25pcXlSSzlPX0VmTXY0c2pLRVA1bDJJWFVkY3p2cVMySFBXMi14V2VldGd1VVQ3OGpYTnFLVjVLX2xHVWVra1hibnpOdjB0ZA?oc=5"
     },
     {
-      "time": "08:45",
-      "title": "에너지 쇼크·금리 발작…'스파이크플레이션' 진입",
-      "source": "한국경제",
+      "time": "23:18",
+      "title": "[한국경제 ‘기대와 우려’] 물가 파고 엄습…금리인상 신호 확대",
+      "source": "yonhapmidas.com",
+      "tag": "정책",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cXlpMEtRUlVKMXFyNUNYWUwzMG1uUFBMUmZkRjdyR0tOaldna1NqYmExZDFXWE03a1JQdDFlcnAxVDloVDBTb1FCMmF0VlhmajVBcWRJc1pOX09Ia2ZwdVdLTEJ1SXVWVlFBLUhB?oc=5"
+    },
+    {
+      "time": "23:18",
+      "title": "유가·금리 상승 속 필라델피아 반도체 지수 상승세 유지 [굿모닝 글로벌 이슈]",
+      "source": "v.daum.net",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03NmJTMjZqZDA1cEpBVmptdTVMcjdqNzlxV2FTRUthcnFqdk5reWR0el9JMFhMUE9HVS16b0E2RXJVdlpPeHVvWGJBUjhObm8?oc=5"
+    },
+    {
+      "time": "23:18",
+      "title": "[포커스] 금리 인하의 꿈은 끝났나",
+      "source": "CEONEWS",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcWlUVnJ2MW9yakcxRDBUelRWMWFfQkpjXzFVOTNaaF9lTE5Ec09iMjM3MC1uR2dLc09RU0lEV3Jxa0RhMk5nYmFyX2ZkWlZfT2VkaWhhRmV4QdIBVEFVX3lxTE1JX2FJV01ieldVN2d5X2hqZXc0U2lqc0FvWXJKOVZmaUJmcldVMXU1dWJrMjZGTEVuR0t6cUdZaEhyT2t0RmdyWXRlYnJIM0p1Z0xGYQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkd0JydlNqeVV3WGxuanQ5eVhfVk1odVNCUnQxbXZQZHN6b0JKUFNZQmt4Qm5UNWphQkQwajQyVnVoUnN6RkNtUFFPeGNYdGx4NERvWURQdUplUXpfUFdz?oc=5"
     },
     {
-      "time": "08:45",
-      "title": "삼성화재, 코스피 약세에도 13% 급등…금리 인상 기대·외국인 매수 몰려",
-      "source": "한국경제",
+      "time": "23:18",
+      "title": "코스피 급락에 '매도 사이드카'…삼성전자·SK하이닉스 '약세'",
+      "source": "경기일보",
       "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1YnYwWmtadXJwWnNQMmtsYVNwTlhYcmJzcGEwcGxtYnBERl9yNW5lM3h5WTY0UzBRT2cyUTJBRnFCaWlWYXJXZ2FCb0Zzc091VkN3MGprOEZqQdIBVEFVX3lxTFA3aTdVeWVWUndaNTZob2hrY1VLeERZWFprTUdDZ2NiMWZ3V2RWdlVTSUpHN29ENFFrVU9iTjJpYzFUUDhGV1htZzFhSUlfWThRMkxKcg?oc=5"
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOOWpmSzdOeWxSS0dhLWJxWElmdldvOTl3YldVOWFsSjI0cF81ZExOaFVsU1ZaTkdlck1ySVpKWmNEcDAyZS1xeEstdUgzNVVXTGRNYThmbkRfMlU?oc=5"
     },
     {
-      "time": "08:45",
+      "time": "23:18",
       "title": "[영상] “AI 반도체 수요 증가 끝이 안 보여… 삼성전자·SK하이닉스, 실적 대비 여전히 저평가”",
       "source": "주간동아",
       "tag": "기업",
       "impact": "호재",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RWGlCTm1BMDRCWVBkeEl6T0dFQU9Ta294cXllakx4ZC1GeFFjQU1pYlpNczNWemQ4Tm1ZeTVTcW9xYy1zNVc0cjI1LW9Sc0ludTJZU1hxVDI4Y2JlNDd1cnhRQjlpamJ1?oc=5"
-    },
-    {
-      "time": "08:45",
-      "title": "‘브로드컴 쇼크’에…삼전전자 5%·SK하이닉스 7% 급락",
-      "source": "마켓인",
-      "tag": "기업",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvb0pfV0paRW5yT3pHRWJlSVpVNlI5SzU2OFYyaURWbXgzVTJxZWNZek5ib1Qyc19rRmN3MllEcmRsbnhaWnd3QUtiMEszMTlZNjZBTnQ2TmtxaWg0SVJQTzNibjNCLTliOUJpR3ItZVhwQTA?oc=5"
     }
   ],
   "aiSummary": null
