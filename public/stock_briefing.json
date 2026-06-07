@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-07 16:45",
+  "updatedAt": "2026-06-07 16:48",
   "date": "2026-06-07",
-  "autoSummary": "2026년 06월 07일 주요 경제 뉴스 10건. 호재 2 · 리스크 3 · 중립 5",
+  "autoSummary": "2026년 06월 07일 주요 경제 뉴스 10건. 호재 3 · 리스크 3 · 중립 4",
   "news": [
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -12,7 +12,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XUFF0aGQ5Z0xFa29XM2dNYzR5Z1A1VlVtb09hbzEwazFPRGxhTTkzUGRvV2VuZTBnaW0xQ0RZQVBxaWFRMjZ5VHRmWXJVaXRqemp5QUY0bVE3ZEM0OF9GNNIBYEFVX3lxTE1XUFF0aGQ5Z0xFa29XM2dNYzR5Z1A1VlVtb09hbzEwazFPRGxhTTkzUGRvV2VuZTBnaW0xQ0RZQVBxaWFRMjZ5VHRmWXJVaXRqemp5QUY0bVE3ZEM0OF9GNA?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "\"강세장 주도주 쏠림은 흔한 일\"‥박스권 갇힌 코스닥 활성화는?",
       "source": "MBC 뉴스",
       "tag": "시장",
@@ -20,7 +20,7 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SZVllVUN0alFwWGVLb3FDb21oTXlpZVYtSjBVZDRJWTNZQ2J6QkNQNFdlTWpud2Z5NkNNeDVFMUt0RUxwU1NiQU1FMG9UTTRmdE5jSmxMVGFNbzZxSGdJRFU3VE9VTDgtOUVvV3czRUFaMzhOcnF6UtIBeEFVX3lxTE9qSjlwTHh3OTduWGR1dTM1ampoZzQ4QnlUcVBJYmNuWks5MWxwZ1BTVVR0WlBaX2otbm81YWhPeDNXRXBMblhRaTZqUEpXN0Z2Ym1OOEpzR0h0Q3FqVFA5ZDBINldnZW9UTDdzUG9zZ0QtN0ZQUXkwaw?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "환율 1,548원 돌파…코스피·코스닥 오전 한때 급락",
       "source": "프리진경제",
       "tag": "글로벌",
@@ -28,7 +28,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LbGo1bmtiOVY1U0s1M0R2R3QxXzVvakptcmc3ZGZGcW1xSlY5S2lrMnc1WEV3YmNrTXBTU1hHaU1vWWw5a3Y4NkVrd2hkWWNvU1h0N1k4Vl96WWV1c1RvdUwwMWJfOWdpcGJENg?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "코스피·코스닥, 내림세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
@@ -36,15 +36,7 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YRHgzak0tLWd3RmNabDJ2WklNcEJzQ0hxU2NicjdMbGl2U3BoZWVXUVh5bHlUZ1pHX2dBcUk1UXdQWFdUcW1tMHRJbmQ4amlWWlF6Q2Z5YzA1YV8xWjRhc0V2dFNzcVlTTlc4?oc=5"
     },
     {
-      "time": "16:45",
-      "title": "싹싹 모아 팔았는데 '휴~'…오른만큼 떨어졌다",
-      "source": "v.daum.net",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQnFWUnVFSl84X1JWQlRTMzNMUVBHX0hyamZjRmVLbVlReUl4SmFMQlY0a0NRUjNwWHFpR2w3M2xFUW52OTVrYWpuOHJVbEU?oc=5"
-    },
-    {
-      "time": "16:45",
+      "time": "16:48",
       "title": "중동 리스크에 금리인상 우려 확대…다우 1.2% 하락",
       "source": "한국경제",
       "tag": "글로벌",
@@ -52,7 +44,15 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11c0wtR0kyNGxDNlVRSTU2OVVqdW5SWEdtOTNWWWlSX3hySDhSOWhHX282N0FoOExycHNVUmhPVzlYdWExdHlSMVVTalR1QXhqd0Vrd1F5UGg2QdIBVEFVX3lxTFBlYkdXV25pcXlSSzlPX0VmTXY0c2pLRVA1bDJJWFVkY3p2cVMySFBXMi14V2VldGd1VVQ3OGpYTnFLVjVLX2xHVWVra1hibnpOdjB0ZA?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
+      "title": "유가·금리 상승 속 필라델피아 반도체 지수 상승세 유지 [굿모닝 글로벌 이슈]",
+      "source": "v.daum.net",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03NmJTMjZqZDA1cEpBVmptdTVMcjdqNzlxV2FTRUthcnFqdk5reWR0el9JMFhMUE9HVS16b0E2RXJVdlpPeHVvWGJBUjhObm8?oc=5"
+    },
+    {
+      "time": "16:48",
       "title": "[한국경제 ‘기대와 우려’] 물가 파고 엄습…금리인상 신호 확대",
       "source": "yonhapmidas.com",
       "tag": "정책",
@@ -60,7 +60,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cXlpMEtRUlVKMXFyNUNYWUwzMG1uUFBMUmZkRjdyR0tOaldna1NqYmExZDFXWE03a1JQdDFlcnAxVDloVDBTb1FCMmF0VlhmajVBcWRJc1pOX09Ia2ZwdVdLTEJ1SXVWVlFBLUhB?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "한국은행 금리 인상 신호 '섣부르다' 시각 나와, 해외 전문가 \"일본 버블경제 붕괴 재현 우려\"",
       "source": "비즈니스포스트",
       "tag": "글로벌",
@@ -68,7 +68,7 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyTmZJM21BMVRCSFVSWjVRY0hleFA2eU9JRldqWTU5TDJ6MWVzZ1N1Z2lmM1ZlQ3E1dXlzZHM1bEJtbTNnY0JKcVIwUnFjWDd1ZlN3Y1RVSVFOdEE0Vk44Y0YtbW82NGtQN3h6U2V5azZqTEU?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "삼성·SK하이닉스, 2분기도 초호황 질주…글로벌 이익 톱티어 전망 이어진다",
       "source": "아주경제",
       "tag": "기업",
@@ -76,7 +76,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pT2NPNV9KRXozZloxcjdFRUFxUTlWdUhncHhqUU5NY1Nab254Q3IxOWhYNWZpUVMwUklWRnNuU21lN1k1T19JSEVXclM4UjRHNGlqckVUMEFEZ9IBWEFVX3lxTE5NNmp1VzFMeVBISk5GQm1JMzZ1bXAzVUl3bW84d2x4bm0wV3FWQ1E0dDd3a3N6UTBPcGlzcUVzb2dIRFFTVV9YWUxrS3hQRFdoaV92SnlEZ1I?oc=5"
     },
     {
-      "time": "16:45",
+      "time": "16:48",
       "title": "“삼전 35만원에 샀다” “하이닉스 230만원이다” 공포의 월요일이 온다…개미들 ‘초긴장’",
       "source": "헤럴드경제",
       "tag": "시장",
