@@ -1,7 +1,7 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from "react";
 
 // ─────────────────────────────────────────────────────────────────────────────
-// 실제 동행복권 당첨번호 데이터 (1026~1225회차)
+// 실제 동행복권 당첨번호 데이터 (1026~1226회차) — 이후 회차는 앱 실행 시 API로 자동 추가
 // GitHub Actions가 매주 토요일 오후 9시(KST) 자동 업데이트
 // ─────────────────────────────────────────────────────────────────────────────
 // HISTORY_START
@@ -148,8 +148,46 @@ function Ball({ n, size = 52, delay = 0, animate = false, dim = false }) {
 
 // ─────────────────────────────────────────────────────────────────────────────
 export default function App() {
-  const stats   = useMemo(() => buildStats(HISTORY), []);
-  const latest  = HISTORY[HISTORY.length - 1];
+  const stats   = useMemo(() => buildStats(liveHistory), [liveHistory]);
+  // ── 최신 회차 자동 추가 (CORS 프록시 경유 동행복권 API) ─────────────────────
+  const [liveHistory, setLiveHistory] = useState(HISTORY);
+  const latestFetchedRef = useRef(false);
+
+  useEffect(() => {
+    if (latestFetchedRef.current) return;
+    latestFetchedRef.current = true;
+
+    const lastRound = HISTORY[HISTORY.length - 1].round;
+    const fetchNew = async (roundNo, acc) => {
+      try {
+        // allorigins: CORS 프록시 (무료, GitHub Pages/Vercel에서 동작)
+        const target = encodeURIComponent(
+          `https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`
+        );
+        const res = await fetch(`https://api.allorigins.win/get?url=${target}`);
+        const json = await res.json();
+        const data = JSON.parse(json.contents);
+        if (data.returnValue === "success") {
+          const entry = {
+            round: data.drwNo,
+            date: data.drwNoDate,
+            numbers: [data.drwtNo1, data.drwtNo2, data.drwtNo3, data.drwtNo4, data.drwtNo5, data.drwtNo6],
+            bonus: data.bnusNo,
+          };
+          return fetchNew(roundNo + 1, [...acc, entry]);
+        }
+      } catch(e) {}
+      return acc;
+    };
+
+    fetchNew(lastRound + 1, []).then(newEntries => {
+      if (newEntries.length > 0) {
+        setLiveHistory([...HISTORY, ...newEntries]);
+      }
+    });
+  }, []);
+
+  const latest = liveHistory[liveHistory.length - 1];
 
   const [nums,    setNums]    = useState([]);
   const [spin,    setSpin]    = useState(false);
@@ -221,7 +259,7 @@ export default function App() {
     hm === "recent" ? stats.recent20[b] - stats.recent20[a] : stats.total[b] - stats.total[a]
   );
   const maxFreq = Math.max(...Object.values(hm === "recent" ? stats.recent20 : stats.total));
-  const histSlice = [...HISTORY].reverse().slice(0, histPage * HIST_PER_PAGE);
+  const histSlice = [...liveHistory].reverse().slice(0, histPage * HIST_PER_PAGE);
 
   return (
     <div style={{ minHeight: "100vh", fontFamily: "'Noto Sans KR', sans-serif", color: "#fff", paddingBottom: 60, position: "relative" }}>
@@ -254,7 +292,7 @@ export default function App() {
           animation:"shimmer 5s linear infinite", lineHeight:1, marginBottom:4,
         }}>나장현서 로또집</div>
         <div style={{ fontSize:11, color:"rgba(255,255,255,0.32)", letterSpacing:3 }}>
-          실제 동행복권 {HISTORY.length}회차 · 현재 {CURRENT_ROUND}회차
+          실제 동행복권 {liveHistory.length}회차 · 현재 {CURRENT_ROUND}회차
         </div>
 
         {/* 최신 당첨번호 배너 */}
@@ -326,7 +364,7 @@ export default function App() {
                     {nums.map((n, i) => <Ball key={`${ak}-${n}`} n={n} size={62} animate delay={i * 0.09} />)}
                   </div>
                   <div style={{ fontSize:11, color:"rgba(255,255,255,0.22)", letterSpacing:1 }}>
-                    {CURRENT_ROUND}회차 도전 · {HISTORY.length}회차 실제 데이터 분석
+                    {CURRENT_ROUND}회차 도전 · {liveHistory.length}회차 실제 데이터 분석
                   </div>
                 </>
               )}
@@ -431,7 +469,7 @@ export default function App() {
                   </div>
                   <div style={{ fontSize:12, color:"rgba(255,255,255,0.45)", lineHeight:2 }}>
                     📋 <b style={{ color:"rgba(255,255,255,0.75)" }}>{CURRENT_ROUND}회차</b> 도전<br />
-                    📊 실제 <b style={{ color:"rgba(255,255,255,0.75)" }}>{HISTORY.length}회차</b> 동행복권 데이터<br />
+                    📊 실제 <b style={{ color:"rgba(255,255,255,0.75)" }}>{liveHistory.length}회차</b> 동행복권 데이터<br />
                     📈 합계 {analysis?.sumVal} · 홀{analysis?.oddCount}짝{6-(analysis?.oddCount||0)} · 트렌드 가중치
                   </div>
                   <div style={{ fontSize:11, color:"rgba(255,255,255,0.25)", marginTop:8 }}>같이 부자 되자 🍀</div>
@@ -445,7 +483,7 @@ export default function App() {
               borderRadius:14, border:"1px solid rgba(255,255,255,0.06)" }}>
               <div style={{ fontSize:10, color:"rgba(255,255,255,0.25)", lineHeight:2.2 }}>
                 {[
-                  `📦 동행복권 ${HISTORY.length}회차 실제 데이터 (1026~${latest.round}회차)`,
+                  `📦 동행복권 ${liveHistory.length}회차 실제 데이터 (1026~${latest.round}회차)`,
                   "📈 최근 20회 트렌드 가중치 60% + 전체 빈도 40%",
                   "🔄 연속번호 · 미출현 간격 · 구간 분포 패턴 반영",
                   `🗓 매주 일요일 0시(KST) 자동 +1 → 현재 ${CURRENT_ROUND}회차`,
@@ -580,7 +618,7 @@ export default function App() {
         {tab === "history" && (
           <div style={{ animation:"fadeUp 0.3s ease" }}>
             <div style={{ fontSize:11, color:"rgba(255,255,255,0.28)", marginBottom:16 }}>
-              실제 당첨번호 · 매주 토요일 자동 업데이트 · 총 {HISTORY.length}회차 보유
+              실제 당첨번호 · 매주 토요일 자동 업데이트 · 총 {liveHistory.length}회차 보유
             </div>
             {histSlice.map(({ round, date, numbers: ns, bonus }) => (
               <div key={round} style={{ background:"rgba(0,0,0,0.5)", backdropFilter:"blur(16px)",
@@ -597,13 +635,13 @@ export default function App() {
                 </div>
               </div>
             ))}
-            {histPage * HIST_PER_PAGE < HISTORY.length && (
+            {histPage * HIST_PER_PAGE < liveHistory.length && (
               <button onClick={() => setHistPage(p => p + 1)} style={{
                 width:"100%", padding:"13px 0", borderRadius:14, border:"none", cursor:"pointer",
                 background:"rgba(255,255,255,0.06)", backdropFilter:"blur(8px)",
                 color:"rgba(255,255,255,0.45)", fontSize:13, fontFamily:"'Noto Sans KR',sans-serif",
                 marginTop:4,
-              }}>더 보기 ({HISTORY.length - histPage * HIST_PER_PAGE}개 남음)</button>
+              }}>더 보기 ({liveHistory.length - histPage * HIST_PER_PAGE}개 남음)</button>
             )}
           </div>
         )}
