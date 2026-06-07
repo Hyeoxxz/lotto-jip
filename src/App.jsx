@@ -148,9 +148,9 @@ function Ball({ n, size = 52, delay = 0, animate = false, dim = false }) {
 
 // ─────────────────────────────────────────────────────────────────────────────
 export default function App() {
-  const stats   = useMemo(() => buildStats(liveHistory), [liveHistory]);
   // ── 최신 회차 자동 추가 (CORS 프록시 경유 동행복권 API) ─────────────────────
   const [liveHistory, setLiveHistory] = useState(HISTORY);
+  const stats   = useMemo(() => buildStats(liveHistory), [liveHistory]);
   const latestFetchedRef = useRef(false);
 
   useEffect(() => {
