@@ -164,9 +164,22 @@ export default function App() {
         const target = encodeURIComponent(
           `https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`
         );
-        const res = await fetch(`https://api.allorigins.win/get?url=${target}`);
-        const json = await res.json();
-        const data = JSON.parse(json.contents);
+        // 여러 CORS 프록시 순서대로 시도
+        const proxies = [
+          `https://corsproxy.io/?${target}`,
+          `https://proxy.cors.sh/https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`,
+          `https://thingproxy.freeboard.io/fetch/https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`,
+        ];
+        let data = null;
+        for (const proxyUrl of proxies) {
+          try {
+            const res = await fetch(proxyUrl, { headers: { "x-requested-with": "XMLHttpRequest" } });
+            const text = await res.text();
+            data = JSON.parse(text);
+            if (data.returnValue === "success") break;
+          } catch(e) { continue; }
+        }
+        if (!data) throw new Error("all proxies failed");
         if (data.returnValue === "success") {
           const entry = {
             round: data.drwNo,
