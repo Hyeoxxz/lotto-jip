@@ -160,32 +160,16 @@ export default function App() {
     const lastRound = HISTORY[HISTORY.length - 1].round;
     const fetchNew = async (roundNo, acc) => {
       try {
-        // allorigins: CORS 프록시 (무료, GitHub Pages/Vercel에서 동작)
-        const target = encodeURIComponent(
-          `https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`
-        );
-        // 여러 CORS 프록시 순서대로 시도
-        const proxies = [
-          `https://corsproxy.io/?${target}`,
-          `https://proxy.cors.sh/https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`,
-          `https://thingproxy.freeboard.io/fetch/https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=${roundNo}`,
-        ];
-        let data = null;
-        for (const proxyUrl of proxies) {
-          try {
-            const res = await fetch(proxyUrl, { headers: { "x-requested-with": "XMLHttpRequest" } });
-            const text = await res.text();
-            data = JSON.parse(text);
-            if (data.returnValue === "success") break;
-          } catch(e) { continue; }
-        }
-        if (!data) throw new Error("all proxies failed");
-        if (data.returnValue === "success") {
+        // Vercel Serverless Function 경유 (CORS 문제 없음)
+        const res = await fetch(`/api/lotto?round=${roundNo}`);
+        if (!res.ok) return acc;
+        const data = await res.json();
+        if (data.round) {
           const entry = {
-            round: data.drwNo,
-            date: data.drwNoDate,
-            numbers: [data.drwtNo1, data.drwtNo2, data.drwtNo3, data.drwtNo4, data.drwtNo5, data.drwtNo6],
-            bonus: data.bnusNo,
+            round: data.round,
+            date: data.date,
+            numbers: data.numbers,
+            bonus: data.bonus,
           };
           return fetchNew(roundNo + 1, [...acc, entry]);
         }
