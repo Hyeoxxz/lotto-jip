@@ -1,10 +1,26 @@
 {
-  "updatedAt": "2026-06-10 08:50",
-  "date": "2026-06-10",
-  "autoSummary": "2026년 06월 10일 주요 경제 뉴스 10건. 호재 3 · 리스크 1 · 중립 6",
+  "updatedAt": "2026-06-11 08:55",
+  "date": "2026-06-11",
+  "autoSummary": "2026년 06월 11일 주요 경제 뉴스 10건. 호재 2 · 리스크 3 · 중립 5",
   "news": [
     {
-      "time": "08:50",
+      "time": "08:55",
+      "title": "[주식] 코스피·코스닥 나란히 하락 속 비보존제약 10%↑",
+      "source": "히트뉴스",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1aGJEajh0Y0o0RWZZUWRia2VLbW9xczRRZ1ZNNUxQSkV0QVhUTGZhS2ZHcDM1emMwYUs2c1JqSmtRcmRXUi1rUjJvLWJKakpRTlBXZXI2SGl4SWlYalNObGhwRzhUNGZ3TG84?oc=5"
+    },
+    {
+      "time": "08:55",
+      "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
+      "source": "매일경제 마켓",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZW1nOHNEMXNrSTREMVFTcWpvcXVUb1B3X1ZRMHVlaVE2dVVibnBIekVfOF9ESjhxcEpQcHR2Wm1Jd0Q5c21CVDdEYVZtckdsZWc?oc=5"
+    },
+    {
+      "time": "08:55",
       "title": "[퇴근길머니] 코스피·코스닥 멈춘 '블랙먼데이'…전쟁보다 '출렁'",
       "source": "연합뉴스",
       "tag": "시장",
@@ -12,31 +28,23 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heXY2LTBaazNMS05RQ2U1TzM0SzVRWlJyY3pqSnJBYi02emhoOUZqV0pBQndobW5MYVdtYmFEUjg4NHlONkEtbmgyUTlVbVE1QXdOc041cTExS3BCV3hGQ9IBYEFVX3lxTE1heXY2LTBaazNMS05RQ2U1TzM0SzVRWlJyY3pqSnJBYi02emhoOUZqV0pBQndobW5MYVdtYmFEUjg4NHlONkEtbmgyUTlVbVE1QXdOc041cTExS3BCV3hGQw?oc=5"
     },
     {
-      "time": "08:50",
-      "title": "코스피·코스닥 장초반 급반등… ‘30만 전자·200만 닉스’ 회복",
-      "source": "문화일보",
+      "time": "08:55",
+      "title": "코스피 코스닥 지수 급락과 급등 /6월달 왜이렇게 변동성이 큰 걸까?",
+      "source": "네이버 프리미엄콘텐츠",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJNWxTUFNGUV9ESTZSaEZyeFIyQmZvQlphXzRCamFGb3lDYkllZ1daR1lSamhEQWRxekVWNE9NZV80aU4weGpzbjJwLWJyWS1W?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnBpcmdIZ3JNamR0d1prWHVhYWJiQ3hmbmpBN2ZUZkpyMndfWm9BRVVnZVZtcDVMMlZ3RGxYSVMySUItUV9mYlhNajI2M3puSXVMRlhHZnpqd3R0VG9HWW1HM3RodjBnX09fV1lQdTltWDRLWThhY3paSFBNaUtTY3h3?oc=5"
     },
     {
-      "time": "08:50",
-      "title": "[마감시황] 하루 만에 분위기 반전…코스피 8100선 눈앞",
-      "source": "뉴스핌",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sSDZoc3R0TUlOSE5ScEVIc1BualZyLTRqQmdueF9aOFdnMkVCUE82cHZSSVZVbU5sTUs0bktOVTZPRF9zckVCNUxMNEtLdGR5cjlWNm5NdnNmaDM2?oc=5"
-    },
-    {
-      "time": "08:50",
-      "title": "코스피·코스닥, 오름세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
+      "time": "08:55",
+      "title": "일본은행, 연내 금리 두 차례 인상…연말 1.25% 전망",
+      "source": "한국경제",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IRXNoX0Z6cUpkalI3bnZwM1VhVGtpV3R0MWloX2l4UWR3NzVwaFNyN29RV05vWUpnUlZRcWdXdDlTdkZSeEpWTzZLX3pOa1RfME0xUXJ3ZC14S1lIRS1lZlkxdWw5QVByZjhB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bTM1T0U3R2dscnJWYmI4VDFxWHliTUh0c3hrejBSYjhZQlhSNjFPZTUzSUFtcnpzYVk3SktjUC02OGdhVHFTODktMUJMRmtoWVlHTUhqVVJSd9IBVEFVX3lxTE1jOHMzWGNwemh6NThELUZ3TUFhNExpUk9tM1hDUU0xM1VybGZPNDlkc1VlWGY0d1hLR09IQUltSDB3b0RaTThlVWo5bWdkMnlNeE5LdQ?oc=5"
     },
     {
-      "time": "08:50",
+      "time": "08:55",
       "title": "AI 반도체 호황이 불러온 경제성장, 물가·금리 상승 압력도 높인다",
       "source": "v.daum.net",
       "tag": "정책",
@@ -44,44 +52,36 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UaWZrT3hPaUdVYzBwWG40ZGlxTGx4VXVSdWRZSHZXUW5GVU80ZXZOSlM3aVlvMDIyVmdkcUE1ZUxzLTJ6LUNNR2J1N05iQTg?oc=5"
     },
     {
-      "time": "08:50",
-      "title": "[외신 에스프레소 영상] 일본 기준금리 1.0% 인상 유력…긴장하는 글로벌 시장",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rYlBXemtpU0htamtXby1WNENpTXR5cnh6WjNNWGp1ZnQyTGhlX0hOUkRoMTM0eVQ5Q0l2azN4YnpOcWNRb1lrZ0RjejIzRGdCRGNVVS14ZlF2dw?oc=5"
-    },
-    {
-      "time": "08:50",
-      "title": "7월 한은 빅스텝 공포까지…널뛰는 시장금리",
-      "source": "네이트",
+      "time": "08:55",
+      "title": "키움증권 \"1분기 경제지표 확장적 재정정책 지지 가능성 높여, 한은 기준금리 인상 명분 강화\"",
+      "source": "비즈니스포스트",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92R21ndTlhTEFvVjRiUUpmaEFEWmdvV0lrb3F2V2Y3R3hBSlpVdkNIbVpxaUNLbC0wTnBzbGN6akloSllHVlBweWFxcnVsVUxXMjFYVk9tV0JQQWZVbVA4S1BRNFlFY256N2c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0U1ZiTklhX3RfcXpsckFHX0tJUENIQW9ZMTBXc3k1Tm5ycWlveUNXNjBJcVZab3VDdm1PSXFaanlPY2Zoajk4YTFMYnFIZ09OaWJEeUJxQXBfWUVjRUwxajFUYVlqcFd4cjktbDhrNE5qU3M?oc=5"
     },
     {
-      "time": "08:50",
-      "title": "금리가 오히려 호재? 보험株의 ‘새옹지마’",
-      "source": "한국경제",
+      "time": "08:55",
+      "title": "'금리인상 우려' 확산…파랗게 질린 아시아 증시",
+      "source": "v.daum.net",
       "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vczR0djBXRDZsb3YtNkF1SHNCem9yQkVLMGdRX3dFZUpQaW1BUEt1RjZHRldIa2RxSWJIcmZUaHNkTlVPa3Q5SUFyTWxEdHg0WmRta1R5OEl0QdIBVEFVX3lxTE9CcldSaHVJb2hKdW52LUJtV2xKcjFzbTMzU0ZpX1daekhsQ2d5TnFTamNId2lEWGZ4SnJCdU85djByb3FBWWk2bE9nOWFQTHlfNXVtTw?oc=5"
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdWFLTnFmRl9oRi1pdHc5dVYyX2hxOWhUdHpjXzdmTHA4c3ZlSTBJRG52NFJLS251MVRTbF9oXzhJWVd3TlZMei1tSWhBeG8?oc=5"
     },
     {
-      "time": "08:50",
-      "title": "삼성전자·SK하이닉스, 호남·충청권에 반도체 신규 투자안 검토 - 조선비즈",
+      "time": "08:55",
+      "title": "호남·충청권에 삼성전자·SK하이닉스 반도체 신규투자안 검토",
+      "source": "연합뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2bVlRcDQ0UGl5cjFFTkZwWHh6S0ZqOXV4ZzhxQXFfV2VnM2ZzU1AwbnFaaThaVUt1WEFkX18zS1pJdWJMWnZVMC1xeHM0emhUdjNFMjNkb3JQZVHSAWBBVV95cUxOQ2JpSl9PQVdVNzlXUk1lSEV5c1dTWnZlRDY1bGhEVDBOamE0bGdySk83QWNhdTM2ZlNHMmkwTGQ5dWZ4dlV1alJmWDIwbXlveTRwck9KOXFyaTlDeElyM1I?oc=5"
+    },
+    {
+      "time": "08:55",
+      "title": "코스피 장중 7800선 붕괴…삼성전자·SK하이닉스 5% 하락 - 조선비즈",
       "source": "Chosunbiz",
       "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1hmeVQ3SWFmS3NQbWcwbVRPMmg1ajdCRE5lZG5qUjhZODEwWEV3VnZVblNRWm1wNWtvQS1GTkdjdHQ4YWRBVHg5Z2dCSjd0VndNNk9vYlNJdWUyU3FtcVBCQmFIS3Y3dzRKb3NGaTRaWE5Gd292ckpYOTRiaVg4Xy1B0gGWAUFVX3lxTFBOcUd4b2hGOG5FMTltTUNDaV9nQUFsQlphVE9nSXpzZ20xZ0J3Z29SeGdiR3hnTU42cnFOTkduRy1RdEdqOVhUTUZLYVduNWlRQ3VXU1RDNGRTYUdKZUVrRnJ6TDRwRmpNQjdoUHFnN3JNYzhIdXJjRW40OXNVRkJ4SVNaN095bENfR1BWRHBXbWhXS3MtZw?oc=5"
-    },
-    {
-      "time": "08:50",
-      "title": "CAPEX에 현금 쏟아붓는 빅테크들…삼성전자·SK하이닉스 방향타 어디로?",
-      "source": "인베스트조선",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWp0cEtHMHJzMkpIdmNXeExfNEUyTVJDa19DbnhKT2dhUFczcGNUX3FPOFFNWFRIdFE4aXl2QTlPaDY5ejVzVDc0SlluQ3NEc2FMOUtaOTg3TkVTdElXRHpMOEhyZ3pMNkgyRXNJMzYwVVhpTWVPalJ0bUpCRFRaZ3ByYw?oc=5"
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0JQQmZxRlc1SGRxdlJEM3dzdFJKMWVkR05PNzBnOGpjMlE0N0dqQ0U4dGhmeEhCZHNON2tKb05XRTNHWG1jU21lVDdBMVhLMTJTWVZqb3NPVHIwUHdxSXJ3aW9EU2ZTWjEyaW9rMlhVcjN3NE1sTXg2Y2ZuSGlVYU5oZG5rdTNL0gGcAUFVX3lxTE9ZWWNTbTQtWnk4VF90T19tTVNiczF5a09wemtha1lKTWVISmZjYm5VQ1M2RE5RenpnMzRoajVfRElabEd6cUNJR1pMYmM2TlFKbTRRekxkQjlRdk9hSDBvRXVYby1ZN3lyT0RTV1AxN2tkS2Y3dWtlWTF0UlQ4QmNqenRpNjV2a01XRXhCOVpNYU5pUkdJcE5XX05EYQ?oc=5"
     }
   ],
   "aiSummary": null
