@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-06-11 08:55",
-  "date": "2026-06-11",
-  "autoSummary": "2026년 06월 11일 주요 경제 뉴스 10건. 호재 2 · 리스크 3 · 중립 5",
+  "updatedAt": "2026-06-12 08:59",
+  "date": "2026-06-12",
+  "autoSummary": "2026년 06월 12일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
   "news": [
     {
-      "time": "08:55",
+      "time": "08:59",
+      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
+      "source": "연합뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94U9IBYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94Uw?oc=5"
+    },
+    {
+      "time": "08:59",
       "title": "[주식] 코스피·코스닥 나란히 하락 속 비보존제약 10%↑",
       "source": "히트뉴스",
       "tag": "시장",
@@ -12,76 +20,68 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1aGJEajh0Y0o0RWZZUWRia2VLbW9xczRRZ1ZNNUxQSkV0QVhUTGZhS2ZHcDM1emMwYUs2c1JqSmtRcmRXUi1rUjJvLWJKakpRTlBXZXI2SGl4SWlYalNObGhwRzhUNGZ3TG84?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
-      "source": "매일경제 마켓",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZW1nOHNEMXNrSTREMVFTcWpvcXVUb1B3X1ZRMHVlaVE2dVVibnBIekVfOF9ESjhxcEpQcHR2Wm1Jd0Q5c21CVDdEYVZtckdsZWc?oc=5"
-    },
-    {
-      "time": "08:55",
-      "title": "[퇴근길머니] 코스피·코스닥 멈춘 '블랙먼데이'…전쟁보다 '출렁'",
-      "source": "연합뉴스",
+      "time": "08:59",
+      "title": "[마감시황] 코스피, 롤러코스터 끝 강보합",
+      "source": "뉴스핌",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1heXY2LTBaazNMS05RQ2U1TzM0SzVRWlJyY3pqSnJBYi02emhoOUZqV0pBQndobW5MYVdtYmFEUjg4NHlONkEtbmgyUTlVbVE1QXdOc041cTExS3BCV3hGQ9IBYEFVX3lxTE1heXY2LTBaazNMS05RQ2U1TzM0SzVRWlJyY3pqSnJBYi02emhoOUZqV0pBQndobW5MYVdtYmFEUjg4NHlONkEtbmgyUTlVbVE1QXdOc041cTExS3BCV3hGQw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VdHA2ZG1BMGp0MGNQSGw4dHR4eTBVZERsRU1IeWZSeGhBX1B0enNUSFBvMkhmWm84akprZE5ubnF4Q3QzY0p6TjhQUVFxOGhDWjlsUUFyNzV4NjNm?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "코스피 코스닥 지수 급락과 급등 /6월달 왜이렇게 변동성이 큰 걸까?",
-      "source": "네이버 프리미엄콘텐츠",
+      "time": "08:59",
+      "title": "코스피, 롤러코스터 장세 끝에 강보합 마감…코스닥 4.7% 급등",
+      "source": "산경투데이",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnBpcmdIZ3JNamR0d1prWHVhYWJiQ3hmbmpBN2ZUZkpyMndfWm9BRVVnZVZtcDVMMlZ3RGxYSVMySUItUV9mYlhNajI2M3puSXVMRlhHZnpqd3R0VG9HWW1HM3RodjBnX09fV1lQdTltWDRLWThhY3paSFBNaUtTY3h3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZnJ0MlF6dnpVblpJdUZGR1NMdUJ5VWVoV21wbGViUlBQUmk2U0N4QzFNVlpSWUdOakhHWlFiY1VXNFNvWFhMUzgyUHdVSTJycnlmM0hiaUtCbWdUb2RmNkdNNTRLNWxxamlsbm16SGvSAXRBVV95cUxQbjRrR0pfYmVSWGo1SnRJdG9SSWN4SGdvNTQxTHVJNTlOOUdJb0lha2w5eDVKdE1qX2tJUUVDM1cxck5KZnZfMk5qRG5ndk44UjZ1Ry1LUGpPa3JsN2Nzak13UEpBNzFTemdFc0R1VWRNcVFlVA?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "일본은행, 연내 금리 두 차례 인상…연말 1.25% 전망",
+      "time": "08:59",
+      "title": "美 CPI 3년來 최고…연내 금리인상 힘실려",
       "source": "한국경제",
       "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bTM1T0U3R2dscnJWYmI4VDFxWHliTUh0c3hrejBSYjhZQlhSNjFPZTUzSUFtcnpzYVk3SktjUC02OGdhVHFTODktMUJMRmtoWVlHTUhqVVJSd9IBVEFVX3lxTE1jOHMzWGNwemh6NThELUZ3TUFhNExpUk9tM1hDUU0xM1VybGZPNDlkc1VlWGY0d1hLR09IQUltSDB3b0RaTThlVWo5bWdkMnlNeE5LdQ?oc=5"
-    },
-    {
-      "time": "08:55",
-      "title": "AI 반도체 호황이 불러온 경제성장, 물가·금리 상승 압력도 높인다",
-      "source": "v.daum.net",
-      "tag": "정책",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UaWZrT3hPaUdVYzBwWG40ZGlxTGx4VXVSdWRZSHZXUW5GVU80ZXZOSlM3aVlvMDIyVmdkcUE1ZUxzLTJ6LUNNR2J1N05iQTg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkZXFnSTRFUHB3VFg2ejYwcjVKa0tjdTc0WHlrSk8yUmxnMERCTnYzUnFzNWt2T1MyYjVxc3F5d1puOThCa2w5aE1UVTVyY2hHcFdXZkxVRjJjd9IBVEFVX3lxTFBpWUNlS3Z0RHN3cEpzNEVnSml1RVEzOVhqdUFXQ3ljVzBKSU9TRDZzQU91WGVlWm5kaTdCeVhLRFRlak5qbkdUOXhDS2tubUhvcXRPaw?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "키움증권 \"1분기 경제지표 확장적 재정정책 지지 가능성 높여, 한은 기준금리 인상 명분 강화\"",
-      "source": "비즈니스포스트",
+      "time": "08:59",
+      "title": "아내한테 안전하다 했는데…1년새 '-35%' 직장인 비명",
+      "source": "한국경제",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yS0RqVWVFb3pFLWxIU25FdnpHenhiV2xDeDR4T3NNQXN0OHYweFZXOG1oTmJ6enlwX2wwQ2pGTG9UaWN3SmhhNFlxMVlkbWp3MjRCSGtzaXJYUdIBVEFVX3lxTFBJRmZ5Y3lVQ3ppNDhKbDhuOUxsWkZSS21TLWs0OHFGcl8za0tfU1dHNndhRXVpSkpXV0ZrbDJrMEh1TVJyWllfdHRzVzR0Z0RnQ3ZuZw?oc=5"
+    },
+    {
+      "time": "08:59",
+      "title": "증시 흔드는 금리…고금리 환경서 잘 버틸 종목은? [분석+]",
+      "source": "한국경제",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0U1ZiTklhX3RfcXpsckFHX0tJUENIQW9ZMTBXc3k1Tm5ycWlveUNXNjBJcVZab3VDdm1PSXFaanlPY2Zoajk4YTFMYnFIZ09OaWJEeUJxQXBfWUVjRUwxajFUYVlqcFd4cjktbDhrNE5qU3M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NRUFOZ2VXSVhWMEJYX29uY1Q4N3NObEYyUkJwamVaZXBpMmlmQndiSEZ3VTFPbXlnT0JQaHdVTnE2M2M4ZzVoZHl0SzhLVWp1S21VTTQzZE9qQdIBVEFVX3lxTE1sbFctREpZdy13d3dYX0duS21CZU41OU1rNVZZRE9pOTJKNVlMaVB0VzNPVllnejNyNmkwci15OHdoaFlVM01ZanVlWUFNZkhrZV9NZQ?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "'금리인상 우려' 확산…파랗게 질린 아시아 증시",
-      "source": "v.daum.net",
+      "time": "08:59",
+      "title": "ECB, 긴축 신호탄…3년 만에 금리 올렸다",
+      "source": "한국경제",
       "tag": "정책",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdWFLTnFmRl9oRi1pdHc5dVYyX2hxOWhUdHpjXzdmTHA4c3ZlSTBJRG52NFJLS251MVRTbF9oXzhJWVd3TlZMei1tSWhBeG8?oc=5"
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LbXVNdmpLOVNsYzBWYUVwY0Y2anNBLXRNRlpScnhrMnhaSUM4X1FPVm1EZEstQ00tV3VwUnlmeHEyU285QjM2VEpGSHhNWU1xUnRyUDZsSmRzd9IBVEFVX3lxTE9zX2FTOUdibEMxN0NIZ1NIYXV4ZWNHLXdXTF9yUi1ZWkVHVDYxejNkeE43TFV4Qm5pWHJNQlRGeXdLSjRRNnNnZjdRTGo2T3hKcTc1eA?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "호남·충청권에 삼성전자·SK하이닉스 반도체 신규투자안 검토",
-      "source": "연합뉴스",
+      "time": "08:59",
+      "title": "호남 반도체공장說 확산에…삼성전자·SK하이닉스 내부 직원들 반응은",
+      "source": "뉴시스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2bVlRcDQ0UGl5cjFFTkZwWHh6S0ZqOXV4ZzhxQXFfV2VnM2ZzU1AwbnFaaThaVUt1WEFkX18zS1pJdWJMWnZVMC1xeHM0emhUdjNFMjNkb3JQZVHSAWBBVV95cUxOQ2JpSl9PQVdVNzlXUk1lSEV5c1dTWnZlRDY1bGhEVDBOamE0bGdySk83QWNhdTM2ZlNHMmkwTGQ5dWZ4dlV1alJmWDIwbXlveTRwck9KOXFyaTlDeElyM1I?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbmxGTFdsSzR4aUJ4ZkpBZlBuZHI5bFhwT1ZjczVhcFRfaHBGSVJKOEtpZm9WUWRNWkVHUjNadThvSS1hQlhiLXdSY0xJcDdnRGU5QkJhczB3OWpjdTV0VNIBeEFVX3lxTE9VQ0FiUmdTUlhoOTU0bGYwSXZ1b2pucUpNbW5kNXBpNFIwZjhmWndNRkRKWHJ5dHRlaVpWdHpKYzNveF8wYmJ0RnVZa2F0aENHd25JaVBJQzZoTENmYjlibWttbkduTGZ4c0JkMjdiRldQcjUtc25EVA?oc=5"
     },
     {
-      "time": "08:55",
-      "title": "코스피 장중 7800선 붕괴…삼성전자·SK하이닉스 5% 하락 - 조선비즈",
-      "source": "Chosunbiz",
+      "time": "08:59",
+      "title": "삼성전자, 올해 국내 브랜드 가치 1위…SK하이닉스 톱10 진입",
+      "source": "SBS 뉴스",
       "tag": "기업",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0JQQmZxRlc1SGRxdlJEM3dzdFJKMWVkR05PNzBnOGpjMlE0N0dqQ0U4dGhmeEhCZHNON2tKb05XRTNHWG1jU21lVDdBMVhLMTJTWVZqb3NPVHIwUHdxSXJ3aW9EU2ZTWjEyaW9rMlhVcjN3NE1sTXg2Y2ZuSGlVYU5oZG5rdTNL0gGcAUFVX3lxTE9ZWWNTbTQtWnk4VF90T19tTVNiczF5a09wemtha1lKTWVISmZjYm5VQ1M2RE5RenpnMzRoajVfRElabEd6cUNJR1pMYmM2TlFKbTRRekxkQjlRdk9hSDBvRXVYby1ZN3lyT0RTV1AxN2tkS2Y3dWtlWTF0UlQ4QmNqenRpNjV2a01XRXhCOVpNYU5pUkdJcE5XX05EYQ?oc=5"
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRzVxN244eTRzOFhFTUdraUxQbTVPend2OFMxMnR1ZnJNRGxFVXZqV2thQXFVdVpyMkVfdkR3d0l4dndyNEZPT0lFNkNJZUxtQ01JX3gyWnE5Mm9TS202ZkE1MkQwNWV3V0E?oc=5"
     }
   ],
   "aiSummary": null
