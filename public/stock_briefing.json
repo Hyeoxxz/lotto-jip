@@ -1,16 +1,8 @@
 {
-  "updatedAt": "2026-06-12 08:59",
-  "date": "2026-06-12",
-  "autoSummary": "2026년 06월 12일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
+  "updatedAt": "2026-06-13 08:59",
+  "date": "2026-06-13",
+  "autoSummary": "2026년 06월 13일 주요 경제 뉴스 10건. 호재 0 · 리스크 1 · 중립 9",
   "news": [
-    {
-      "time": "08:59",
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-      "source": "연합뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94U9IBYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94Uw?oc=5"
-    },
     {
       "time": "08:59",
       "title": "[주식] 코스피·코스닥 나란히 하락 속 비보존제약 10%↑",
@@ -21,27 +13,43 @@
     },
     {
       "time": "08:59",
-      "title": "[마감시황] 코스피, 롤러코스터 끝 강보합",
-      "source": "뉴스핌",
+      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
+      "source": "연합뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94U9IBYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94Uw?oc=5"
+    },
+    {
+      "time": "08:59",
+      "title": "코스피 8100선 회복...코스닥도 1000선 재탈환",
+      "source": "경인종합일보",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VdHA2ZG1BMGp0MGNQSGw4dHR4eTBVZERsRU1IeWZSeGhBX1B0enNUSFBvMkhmWm84akprZE5ubnF4Q3QzY0p6TjhQUVFxOGhDWjlsUUFyNzV4NjNm?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KODEtZkltNmJpcUdQQS1VWFJQYWwxS1QtalZ4d0lkUC1BNWEtYjBkaWx5ZjF3ejlJNWwtQjYzMk9HRTFJdlMydmJPWlJSNVM4OW5QcGtXUGZEUFc2dDN6VkJoZnJjVmhiN3ByWVhn0gFyQVVfeXFMTzFOazBsX1kwYmR4ZTh2RENsZXFuekxnbTVzM1dyZWJ4MzU0elRaODRHSklnM1k0dDl5c0lSajVHZzhwZXV2bGhpMG4yVU81QVoxTFdWWXhLNDBNREdjZktHNnFqU256U3NfU01XeEs0TDdn?oc=5"
     },
     {
       "time": "08:59",
-      "title": "코스피, 롤러코스터 장세 끝에 강보합 마감…코스닥 4.7% 급등",
-      "source": "산경투데이",
+      "title": "코스피·코스닥, 오름세로 장 마감",
+      "source": "한강타임즈",
       "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZnJ0MlF6dnpVblpJdUZGR1NMdUJ5VWVoV21wbGViUlBQUmk2U0N4QzFNVlpSWUdOakhHWlFiY1VXNFNvWFhMUzgyUHdVSTJycnlmM0hiaUtCbWdUb2RmNkdNNTRLNWxxamlsbm16SGvSAXRBVV95cUxQbjRrR0pfYmVSWGo1SnRJdG9SSWN4SGdvNTQxTHVJNTlOOUdJb0lha2w5eDVKdE1qX2tJUUVDM1cxck5KZnZfMk5qRG5ndk44UjZ1Ry1LUGpPa3JsN2Nzak13UEpBNzFTemdFc0R1VWRNcVFlVA?oc=5"
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yNW54YTN5c0dHWWlhM2MyTjhYUk8xbGc5MElVRnBVNFZYM2xHNWJONHpfeXRYa3J4NFdCeXNzSU1tdzQ1S1BGVURuU19tMDB2ajNpWG4tWU5KS1pQUG05N05yWUJpbDlrV2cw?oc=5"
     },
     {
       "time": "08:59",
-      "title": "美 CPI 3년來 최고…연내 금리인상 힘실려",
+      "title": "한은 총재 \"물가안정에 중점…늦지 않게 금리 인상\"",
       "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkZXFnSTRFUHB3VFg2ejYwcjVKa0tjdTc0WHlrSk8yUmxnMERCTnYzUnFzNWt2T1MyYjVxc3F5d1puOThCa2w5aE1UVTVyY2hHcFdXZkxVRjJjd9IBVEFVX3lxTFBpWUNlS3Z0RHN3cEpzNEVnSml1RVEzOVhqdUFXQ3ljVzBKSU9TRDZzQU91WGVlWm5kaTdCeVhLRFRlak5qbkdUOXhDS2tubUhvcXRPaw?oc=5"
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BdzZBMUE4TnV2X1VFU2xYcW03dXZEb1B4OEF5czZLSkhVTHlkTW1EbW1XVlB2X0NDUEFra0FVcHpsRjN0aGlDOXh2QkNLM2Exdmt3UEJqb293QdIBVEFVX3lxTE02ZG1lZ2Y3bnlQRURjV3FlWkt1RjRualdPeWM4a2dIYmllRkZuZjFJV1BPZEtyT2lNWXlXSmFrV21kaFVWQTBJMUNBVHVhb09uRVh6VQ?oc=5"
+    },
+    {
+      "time": "08:59",
+      "title": "세 번째 '금리 인상' 신호 보낸 신현송…\"늦지 않게 올려야\"",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PczlwWWFWRmNtTThNTnk2MXJDQW51WjUwOTh3R0dqRS1TSGMzcTBvQUhHNjFWaU9fM3gwc1JWT3pPM0VXRkVNSzNmLUVRV1c1XzN4QWl3bHJCd9IBVEFVX3lxTE16TG92SFZuVm5ldkZpZ1FNdm93cko4Q0NqTl9pWk9wZ25idW1Lc09CSEtCeW1XbEFhSGR1NEc3MGRFalhsSlVybXNYdV9iNEtqMTE3eg?oc=5"
     },
     {
       "time": "08:59",
@@ -61,27 +69,19 @@
     },
     {
       "time": "08:59",
-      "title": "ECB, 긴축 신호탄…3년 만에 금리 올렸다",
+      "title": "삼성·SK 반도체 지방 투자 검토…광주 첨단3지구 '주목'",
+      "source": "연합뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZU5yclFEeXhGUUdmM3ZHOW5iMWxxaWlBNGE4VFlfUUtTUEtkOTZhR25qYi1TNzBBbDQyVjlpbXE1REdOMnlRZEs4R2g4Tm82OHFnS1RqaW9VUlHSAWBBVV95cUxQWHFhbWxFSHBPMHEtNnlqemNhRWRVRk5LUEZGRFFsV0kyUFFHdjlrVXZwbzc5X3V3YTRwdXIyRmtheGZWQzhJaEdLaGZoNmJES1hwMFRqb3hMN0UxdFF5MDU?oc=5"
+    },
+    {
+      "time": "08:59",
+      "title": "\"삼성전자·SK하이닉스 다 팔아라\"… 상위 1%의 진짜 향방은?",
       "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LbXVNdmpLOVNsYzBWYUVwY0Y2anNBLXRNRlpScnhrMnhaSUM4X1FPVm1EZEstQ00tV3VwUnlmeHEyU285QjM2VEpGSHhNWU1xUnRyUDZsSmRzd9IBVEFVX3lxTE9zX2FTOUdibEMxN0NIZ1NIYXV4ZWNHLXdXTF9yUi1ZWkVHVDYxejNkeE43TFV4Qm5pWHJNQlRGeXdLSjRRNnNnZjdRTGo2T3hKcTc1eA?oc=5"
-    },
-    {
-      "time": "08:59",
-      "title": "호남 반도체공장說 확산에…삼성전자·SK하이닉스 내부 직원들 반응은",
-      "source": "뉴시스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbmxGTFdsSzR4aUJ4ZkpBZlBuZHI5bFhwT1ZjczVhcFRfaHBGSVJKOEtpZm9WUWRNWkVHUjNadThvSS1hQlhiLXdSY0xJcDdnRGU5QkJhczB3OWpjdTV0VNIBeEFVX3lxTE9VQ0FiUmdTUlhoOTU0bGYwSXZ1b2pucUpNbW5kNXBpNFIwZjhmWndNRkRKWHJ5dHRlaVpWdHpKYzNveF8wYmJ0RnVZa2F0aENHd25JaVBJQzZoTENmYjlibWttbkduTGZ4c0JkMjdiRldQcjUtc25EVA?oc=5"
-    },
-    {
-      "time": "08:59",
-      "title": "삼성전자, 올해 국내 브랜드 가치 1위…SK하이닉스 톱10 진입",
-      "source": "SBS 뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRzVxN244eTRzOFhFTUdraUxQbTVPend2OFMxMnR1ZnJNRGxFVXZqV2thQXFVdVpyMkVfdkR3d0l4dndyNEZPT0lFNkNJZUxtQ01JX3gyWnE5Mm9TS202ZkE1MkQwNWV3V0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYzJXLXBENm5mZWVyVUxkWDZCUlFyaUNMQ1NQMjIxZktaMGt2MFdGaExGMEpOdF9aQkdmNlpCZ2tRVkFOX1JuaEFtN0dnamdjZWZqWXdnQUxxQdIBVEFVX3lxTFBYZzAzUmo0cEFQc21jSUl2RVctWVZIamRsYVl0XzBTMUUyTmNQd3JOQ01IeUdHOGdUTkRsWE1oQXlPYXRnOVhSYlVDWmNtSnhiZUYxWg?oc=5"
     }
   ],
   "aiSummary": null
