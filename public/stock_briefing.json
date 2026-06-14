@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-13 23:39",
-  "date": "2026-06-13",
-  "autoSummary": "2026년 06월 13일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
+  "updatedAt": "2026-06-15 08:45",
+  "date": "2026-06-15",
+  "autoSummary": "2026년 06월 15일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
   "news": [
     {
-      "time": "23:39",
+      "time": "08:45",
       "title": "[주식] 코스피·코스닥 나란히 하락 속 비보존제약 10%↑",
       "source": "히트뉴스",
       "tag": "시장",
@@ -12,15 +12,23 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1aGJEajh0Y0o0RWZZUWRia2VLbW9xczRRZ1ZNNUxQSkV0QVhUTGZhS2ZHcDM1emMwYUs2c1JqSmtRcmRXUi1rUjJvLWJKakpRTlBXZXI2SGl4SWlYalNObGhwRzhUNGZ3TG84?oc=5"
     },
     {
-      "time": "23:39",
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
+      "time": "08:45",
+      "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94U9IBYEFVX3lxTE5uVnlONkg5U1ROanR1LW5STXZqajNxaXZaRE9SekhtLVBJbEctZDZ3NWVoM0FMMlBhVlE4aDZDeW10TERZMjhOTHV4VGMyRDVTaGxjRW9wb0Q2T1AwSG94Uw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LbzIzejN6TVJpR0hSdHRobVJ2SDZoVWlmOEFjaktFQTdHVG9zTDZHNHcxSWEtXy1BellBZk1YVkNBdGp2dTliei1sQnBiNEVVUlBoYUxCS2g1VmfSAWBBVV95cUxPajVpNHlVY3NBV1RBY1Z5N2lxSXdiYU81NTNrVE01aWp2ZlRMRDdTYm9yRy1SdThBeF9qdnA1dlRUdE5tdTFXUXZmNlcyc2VlWm5GeDRGYy1jMS00d19MU2c?oc=5"
     },
     {
-      "time": "23:39",
+      "time": "08:45",
+      "title": "[0612주요일정] 코스피200·코스닥150 정기변경 리밸런싱 등",
+      "source": "인포스탁데일리",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PZndQenNYNVFWQWdmZkNnSTFQamRsYWptcWY1bkE3RmJuVXV0QnBTUFZzVGFGd1VCZ2F2cnh4S0tsa1pwWjlQYm5HRkJNX09kVmZkMkNyTTFJaWhkNlhwVXhINWxwZGtZOTFZUjZLNTlUUUF4cGc?oc=5"
+    },
+    {
+      "time": "08:45",
       "title": "개인 순매수 1.2조원 유입에 코스피·코스닥 상승 전환",
       "source": "뉴스핌",
       "tag": "시장",
@@ -28,15 +36,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MMUhCSURJWFF5SGRZejd2NVphc1hoTzlNUFpnQ2RWdTVHTklXdlljcThXa0t5OTRRS25UZkE1WjJsREdtMXlzWl80VTRjTmViS1UxYktlRlNDX1Vu?oc=5"
     },
     {
-      "time": "23:39",
-      "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
-      "source": "매일경제 마켓",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sZW1nOHNEMXNrSTREMVFTcWpvcXVUb1B3X1ZRMHVlaVE2dVVibnBIekVfOF9ESjhxcEpQcHR2Wm1Jd0Q5c21CVDdEYVZtckdsZWc?oc=5"
-    },
-    {
-      "time": "23:39",
+      "time": "08:45",
       "title": "한은 총재 \"물가안정에 중점…늦지 않게 금리 인상\"",
       "source": "한국경제",
       "tag": "정책",
@@ -44,44 +44,44 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BdzZBMUE4TnV2X1VFU2xYcW03dXZEb1B4OEF5czZLSkhVTHlkTW1EbW1XVlB2X0NDUEFra0FVcHpsRjN0aGlDOXh2QkNLM2Exdmt3UEJqb293QdIBVEFVX3lxTE02ZG1lZ2Y3bnlQRURjV3FlWkt1RjRualdPeWM4a2dIYmllRkZuZjFJV1BPZEtyT2lNWXlXSmFrV21kaFVWQTBJMUNBVHVhb09uRVh6VQ?oc=5"
     },
     {
-      "time": "23:39",
-      "title": "\"금반지 지금 팔아야 하나\"…개미들 2000억 '패닉셀' [투자톡]",
-      "source": "한국경제",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncGNtUnBqSElPd3ZEQjlJd0w1MEl3TmZYYXNyRGYxQ3E1SGxwX0I1NENZWHZFLXBhdnhBMjZPS3lWcjZoM0Qzc29WUVl0N3oyRkJKbE1MT0MxUdIBVEFVX3lxTFBwOGRiSEQ2UUxKWkhrSXUtOVY5QTVaem9WMFVuTzVJeUkwTmIzdTVUVFJaOUNFN2hvN3R4TTI4LUh3bERFQnpMWlBQTl9MaUtRaHZNbA?oc=5"
-    },
-    {
-      "time": "23:39",
-      "title": "'금리 인상' 호재에 오르는 보험주…더 날아오른다는 현대해상",
+      "time": "08:45",
+      "title": "코스피 덮쳤던 '엔캐리 쇼크' 재현될까…日 금리 인상에 긴장한 증시[심성미의 중앙은행 워치]",
       "source": "한국경제",
       "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vNjNTMll6X2x2dW9uUXhHdEVkeWh5eW9rVXNySnNhTXNMaEdGYUF3dm9nNzY4MHNHaTNtS2dPTlpOR0RjTWRrc1FtQXJESndDVGtRR0lxX1NJUdIBVEFVX3lxTFAyTllFWFNIMncxd0cxaFF5OC11eGx0dGhfWTA5Uk9LLUVIZUZvTVF2Qi1xYXNBdTNIMHEtc05xX2JrYy1ROEFtNjNTODVkSGZDWXBEMQ?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "케빈 워시가 주재하는 첫 회의…과연 금리 인상을 시사할까",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96eUpfTTZveTM4amVZVEJ1Y3IxWFpvcDFJYUN2VXJjUHRZVEQ3UGdOZ0RJQVJkX181TlF4MTRFbVdpYkRJclpIQlZzeGs2cWhybnVVZHdNN0Rid9IBVEFVX3lxTFByOUlWaVQ1OXJTZlZQcnZLeWx1WXFSc3lSaXBjbE9ScW9VeFkxYkRkUmt5YTBZRUJIandqZDlWSU9KTjg5OTFsMDVsRjlleXRGQTJTcg?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "일본은행, 기준금리 0.25%P 인상할 듯",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcm0wZVFWcjVhV2k3MTNiNlJ0SWY1QW9ybkFxZE0zTVV1N1FIU19OazFtUGtOdzRsM1JXMEF0d0M3YjFwUm9TZ0paYUtpdVFxY3RrdEVBVHVWUdIBVEFVX3lxTE1wUGI5bW45M3ZzTzd5OHZGaHlxQWpZYzZRZGZITDMyelR6R0pydVFDdDlHZjF0REd1TEk2Sk1qSmhrdUdKenBGMUFkRmlsNE5LYkNlbQ?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "“아무리 출렁거려도 결국 갈 주식”…‘엄지척’ 리포트 쏟아지는 삼성전기",
+      "source": "매일경제",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GZE42enUxWTc1dEU5Xy1HaHRTQWNhSDF3LUF6aTlkd0hYQUdGdFJlZVJrWmk5c0ZNSURLUTB1dlQtaV9IWWVCRld5eF9ESUVic2c?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
+      "source": "비즈니스포스트",
+      "tag": "기업",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6M01zYUtJOGdaSUNLb3g4RWNfQlhKbnVqSkRPaGlTMGExS3VBQ1dfNE81OW5xcGY4Z3NHV3FjUFVnVUFDemlWeGJsVFBLNGlOOFpfQ2l4T2x4UdIBVEFVX3lxTE5xZ0FaUTNjY1J1ZE1LSUtvczNiQzN6ek1JQmppRXU0V0VseWU2aVJVUC1WX2xoMUdvUDFNczhuem1zTmlLMzl0NEFPZHJzQUk2ZlRZag?oc=5"
-    },
-    {
-      "time": "23:39",
-      "title": "신현송 \"늦지 않게 올려야\"…2주새 세 번이나 금리 인상 신호",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fb2F5NkZBTU1rakxnb1oxSHlsWkpzYWFFb3VMYzVZM2plUnJGcDZ6M1NhT19mRDRPMTRMNzVTTnptSVdyUmp6am03T3lLSWN0T2VocE5jYldjZ9IBVEFVX3lxTFBpY2ItczlHRzVHcUdIbkd1c043bUVoYXd4eUhtenBYM0NJd0dsd0pIUFFoaEFNVjV6QXRxUm5OalczcEt4NGpjbWswTGYtTldLVXhkQQ?oc=5"
-    },
-    {
-      "time": "23:39",
-      "title": "호남 반도체공장說 확산에…삼성전자·SK하이닉스 내부 직원들 반응은",
-      "source": "뉴시스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbmxGTFdsSzR4aUJ4ZkpBZlBuZHI5bFhwT1ZjczVhcFRfaHBGSVJKOEtpZm9WUWRNWkVHUjNadThvSS1hQlhiLXdSY0xJcDdnRGU5QkJhczB3OWpjdTV0VNIBeEFVX3lxTE9VQ0FiUmdTUlhoOTU0bGYwSXZ1b2pucUpNbW5kNXBpNFIwZjhmWndNRkRKWHJ5dHRlaVpWdHpKYzNveF8wYmJ0RnVZa2F0aENHd25JaVBJQzZoTENmYjlibWttbkduTGZ4c0JkMjdiRldQcjUtc25EVA?oc=5"
-    },
-    {
-      "time": "23:39",
-      "title": "삼성·SK 반도체 지방 투자 검토…광주 첨단3지구 '주목'",
-      "source": "연합뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZU5yclFEeXhGUUdmM3ZHOW5iMWxxaWlBNGE4VFlfUUtTUEtkOTZhR25qYi1TNzBBbDQyVjlpbXE1REdOMnlRZEs4R2g4Tm82OHFnS1RqaW9VUlHSAWBBVV95cUxQWHFhbWxFSHBPMHEtNnlqemNhRWRVRk5LUEZGRFFsV0kyUFFHdjlrVXZwbzc5X3V3YTRwdXIyRmtheGZWQzhJaEdLaGZoNmJES1hwMFRqb3hMN0UxdFF5MDU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5"
     }
   ],
   "aiSummary": null
