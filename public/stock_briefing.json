@@ -1,66 +1,42 @@
 {
-  "updatedAt": "2026-06-18 08:56",
-  "date": "2026-06-18",
-  "autoSummary": "2026년 06월 18일 주요 경제 뉴스 10건. 호재 4 · 리스크 0 · 중립 6",
+  "updatedAt": "2026-06-19 09:08",
+  "date": "2026-06-19",
+  "autoSummary": "2026년 06월 19일 주요 경제 뉴스 10건. 호재 3 · 리스크 0 · 중립 7",
   "news": [
     {
-      "time": "08:56",
-      "title": "코스피, 반도체 강세에 8,800선 회복…종가 기준 사상 최고",
+      "time": "09:08",
+      "title": "[D-BIZ 주식 동향] 6월 18일 코스피·코스닥, FOMC 충격 딛고 반등… 외국인·기관 매수세 주도",
+      "source": "데일리비즈온",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUGhYQ0Vnc0tRZWRTSWk0Y1MzVU95ajZwZFVhNjhTcGp3cHFSSTdzalZ4MjNUSFY0c1hVY2YxRmtiLWttUV84TTBBdVRxV2RuN2pWZE03eG5jcWN2ZFJRdjdyN0JZazZRanlPZg?oc=5"
+    },
+    {
+      "time": "09:08",
+      "title": "“기승전 반도체” 코스피 9000 축포 속, 코스닥 900선 회귀 [이런국장 저런주식]",
+      "source": "서울경제",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ub2ZxYWR2VHp5MFhkcncxdmw0QUNpeW9ZeFByai1UdXJXVHJZZ2pGZDBveFZsV0htVkRqaWFtTFJ1SFRYZnFqV3BhQlVwdG1HZGfSAVNBVV95cUxPLThjdF9zVGV4TEptUFdzWmJvby1ZalR6SFh5TFJMQTd4aEl0MnE1MFRacFRvNXR0VXZDdlhnZ3A3TG9SVV9pTmxIb1BEdjVzeXBnSQ?oc=5"
+    },
+    {
+      "time": "09:08",
+      "title": "코스피, 종전 기대에도 상승폭 축소…코스닥은 하락 전환",
       "source": "산경투데이",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MzFhNkIxekJaU1BTczRLTVpVLVE2RVZKMmdLWGRTMFJpQWxUTk1SWHFyR2VMbDlROEJMRFZtZ2xTb1BNTDNlOHJZOGt6VEx5MkFKdlVXc1JBY3hrSVNId2JFaThuMHYyQkMyM2xqannSAXRBVV95cUxQSWJLMnRVNTExNG5VMktVbF91QVB6WDVtOGZnQ1ZiM0dNUVVhcTA2ejAyWGwwUWI4LS01Y2FfTEV1bU5oWmJpekt2eEtDX29CNjF5bW9UdlZmV3lrRHJPUmt1VG8tX3RSNThweGEzZWhNVTJNcQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbjN5LWtjOXdXUk41UVc3UmZoWUlrTGpQSkE2cF9vLVpvQTdFR3pwbDV6UmpzTlR3VUNBTGJTTnp5NHg4dnJQcUZvQ0wxUExuVnZ4TUN6NmZPQ0NBa0NJaHdkVkh4UVVXTTR6Q0ZtOWfSAXRBVV95cUxOZUNCN09ISnZPVXFnRTJOV0o5QzRZTVRjSjZlUWxOMERBckhtQkViRGpCVFNxSmVWNUxuSWdFb3ROdXRnaUtNaXM2RGk2ZVZINjF2S0FWaUVTZFFZNDBTRUNRbEluVkEydEhuVWhZLWZYckpYTQ?oc=5"
     },
     {
-      "time": "08:56",
-      "title": "코스피·코스닥, 오름세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sOFBKUVpFM2dKLVBfbmJ2UHZ2TGVXLWgxZkFpcVFEUXNEX0hjQ0ZESHNUaU1BSlNINEM5cEZkUVBURUp4ZG1tcUM1Rkc0SS1MYUhFbzBSNGxkbGR3czNvckpJeHlLc1hGMzlz?oc=5"
-    },
-    {
-      "time": "08:56",
-      "title": "코스피, 9000선 눈앞...SK하이닉스 250만원 돌파 신고가",
-      "source": "프리진경제",
-      "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZ0EtdDlId3drUjF6UzZ4MFhpYWFkUDhYQURKbE15aUNRZGtaZ1hTRV9OUTFNRHRoMVRQekRiby1ZUDRhdFpHTVRDSGFneTNxTk91R2NVYmdhQUhfbzBHUmFpV0V6blp2U25xZQ?oc=5"
-    },
-    {
-      "time": "08:56",
-      "title": "미 이란 종전 합의 훈풍에 코스피 코스닥 동반 상승 마감",
-      "source": "진일보",
+      "time": "09:08",
+      "title": "[주식] 코스피 9000 돌파...코스닥은 1000 턱걸이에 바이오株 칼바람",
+      "source": "히트뉴스",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGV3hKa3JNN0tXcE1ESnFpYlpBRTI5dkJMRDlxeENMTGtvZlY3eGZZOGJ5TEdSekhQTzJJSzlNUV9pOVFnbHJkMTdiNW8yUmRlRHVvN21hbXVfSXJNZll2RVVqaUJGMmpwY0NkMEg4dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRGgtRU41Ukc4YmdNMmJqQmVyVXNLXzVoS29WanM0UTM1dUFucExtcVIzY290MU9iQWxJUEpOMm5CaDQ1d083OENuQ2htNlZJbUZqMm1ZSmhLS1ZGd0Jid1NfS0JXeklvWHI0?oc=5"
     },
     {
-      "time": "08:56",
-      "title": "금리 인상 예고, 매파적 충격…'새 의장의 저주' 시작? [김현석의 월스트리트나우]",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RUEzQ3RJNEFhLXBsVmhJWXJQQzVqSlZFRjVRT1NsYlcwWGhxVFBnVVVGUzY4QThmaTl3by1RZGE5WGhoMmx4M3FIenhEbTY1S2NUWlZFZ3dJUdIBVEFVX3lxTFBxOUpvd3I3d2VDeUtFNFdPcEgxUkdDUS1HS0FyUHg4S010MmUwOEVMNmdfWWlEQ01yZXlDTlFENG9Za2N3b0FzdU9PNFZLQ3B4cU1FVQ?oc=5"
-    },
-    {
-      "time": "08:56",
-      "title": "[데스크칼럼] 일본 금리 인상, 한국 경제에 던진 세 가지 경고",
-      "source": "네이트",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83M0xRMG5XSGtVVXUtZFlnZy1BUHYwNTgwWTcyME9wUVFpQnZJUXpqMC1ZODhYTWNOZEczdEQwRWdHZGstUU5janJYZHhJanh1NUFv?oc=5"
-    },
-    {
-      "time": "08:56",
-      "title": "“금리가 오르면 주가는 내린다?”… 오랜 공식이 깨진다 [금리인상의 시간]",
-      "source": "v.daum.net",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSNEJxejY3eTJ0TkxvclZWTENBOGJiMUtnTkNETEkyYkJiWnZnclBJVUlCTGtzd0tmUkQyb011Wno5dXVQMGNYRmxmZlZwYzg?oc=5"
-    },
-    {
-      "time": "08:56",
+      "time": "09:08",
       "title": "Fed, 기준금리 3.5~3.75% 만장일치 동결…\"인플레 여전히 높다\" [Fed 워치]",
       "source": "한국경제",
       "tag": "글로벌",
@@ -68,20 +44,44 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPQUQwVnVXRkhrbUF1eDl3TlZqbFN3cDQ1QXRYNl9CVUxUcDBULUtYTTNCWFlOYjdQekFXRW1KZm1nRGV5NzE2V2FSaHBuRmctVHQtSnVTZjdZd9IBVEFVX3lxTE5UWkNkc3BPVG1LOXNwQVFKZXg0MGVrRGtBQm56ejM1bENBWFBSOWMwSXRKek9taXZfQjFxZ1Z0N0pPLUNZTmhyOVdFMGJha1VPTFIxMw?oc=5"
     },
     {
-      "time": "08:56",
-      "title": "개별주식선물, 사상 첫 지수선물 추월…삼성전자·SK하이닉스에 78% 쏠림 - 조선비즈",
-      "source": "Chosunbiz",
-      "tag": "기업",
+      "time": "09:08",
+      "title": "[데스크칼럼] 일본 금리 인상, 한국 경제에 던진 세 가지 경고",
+      "source": "네이트",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1IyUWZRa1RsOTR6ZHVCa21sakxDZ2hGXzR6VFp5aERQUkt5Sl9wNmV2Vnl5NGNLejZHWlYtdmh3YkVkWnN1ZXdrSTRUYnJabFN0bWlMdzFZWEpiMmRjYWEySWZkN3NNeTFTZ0lxaFRCRGxkOTJ6M3NlU1kteGJna1BMamNDR0J00gGcAUFVX3lxTE02anBGOUtMQl9lbThvMlNWaTVTY1R5TkNWSGJrUUNidjlucVhTUU5jd1ZoNFhYS3hKY01ULXM2eTJVdmpzajUzcVBfUEhuSkJtMncxcVBOV1FiYVlMSUJ0RDNNNV9jYkYzTUE5YTZiR3lwWl9iMTNQeXUxaC1rUVBGZHRvWWxObUpib004aTljOEZ0eWNFWmUycjVwTg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83M0xRMG5XSGtVVXUtZFlnZy1BUHYwNTgwWTcyME9wUVFpQnZJUXpqMC1ZODhYTWNOZEczdEQwRWdHZGstUU5janJYZHhJanh1NUFv?oc=5"
     },
     {
-      "time": "08:56",
-      "title": "[증시키워드] 삼성전자·SK하이닉스 강세 속 삼성전기·NAVER 재조명",
-      "source": "이투데이",
+      "time": "09:08",
+      "title": "금리 내리라 뽑았는데…Fed는 인상 쪽으로 기운다",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZYlpGMmQyRUtvSUZpMGhIR3pmQzR6WllaV052VzRYZHhhbllmX0pmaFV6NklBUnNRRWJlODZDSnZUcGZsX3Q2WU5memxJTGdsNC1SZzdHYWFaZ9IBVEFVX3lxTE9xZC1xWGJEY3lyQ29kSW9rQjl2TGRKbEJfX0ZzWEd5OXo4a1o0ZVlfMFJYV1d3RUJ3NmJlOUQySjZWcExoaVVFTjhwbkZ0NGVMYy1UUQ?oc=5"
+    },
+    {
+      "time": "09:08",
+      "title": "\"환율 또 치솟나\"…美 Fed, 금리인상 신호탄[심성미의 중앙은행 워치]",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVWxJT25BMTJPSnNDdjAxRVF6OGpmNVE2SFVOM3AyQmo5SElBelRZQ3h5OHAtTV9BMUxmZTRQZHRnWDJpZ2RLUzlvTVZ1UnNaNC1VckxrUXZsd9IBVEFVX3lxTE1BTmZoeWpoSlY5dXpTZ081LUo3Y28yQmpaTDB6VlJQS2p6N24xMVphbHFCSmhVZUZ5VEdrVC1CR05ueTVuM19yM0FUaTBmdFBIWnM5OQ?oc=5"
+    },
+    {
+      "time": "09:08",
+      "title": "블룸버그 “삼성전자·SK하이닉스는 이제 기업가치와 상관없어져”",
+      "source": "문화일보",
       "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TeDFVeV9pLWp6aUJXbUVDTDVDWWtqQ25HVVlaTVpyVjhnc0dtc19IREUweGFMcVVfNlRBcWdveDlsRDhvNTFyaFlPeTQ3djlkZjQzYw?oc=5"
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSGMyR2FpcUpDMEZ0aHVQMnpmNVQwN21hQm9naWU0eFo5cWJtVWNoOFVvQ09OY2htNEdMS1RtUHpIcVk3T2xlOERTX3o5bWky?oc=5"
+    },
+    {
+      "time": "09:08",
+      "title": "\"삼성전자 SK하이닉스는 '밈 주식'\" 외신 논평, 메모리반도체 사이클 변동성 이유로 들어",
+      "source": "비즈니스포스트",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjFBakF6ODh5akRWX1R3Z1NLS0RvMXpOejNRWTB3VWtSb2tBYTY3azFsTUhCNDhXQ2RfWTZFRUtrSy1rNnFYOGxfMWgtc1Nmbkl4d1VqUmRWUlR6bkYxbHRpLXVzbjk2VnZocnpGWUo4bTg?oc=5"
     }
   ],
   "aiSummary": null
