@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-20 08:35",
+  "updatedAt": "2026-06-20 23:45",
   "date": "2026-06-20",
-  "autoSummary": "2026년 06월 20일 주요 경제 뉴스 10건. 호재 4 · 리스크 1 · 중립 5",
+  "autoSummary": "2026년 06월 20일 주요 경제 뉴스 10건. 호재 1 · 리스크 0 · 중립 9",
   "news": [
     {
-      "time": "08:35",
-      "title": "코스피·코스닥, 내림세로 장 마감",
-      "source": "한강타임즈",
+      "time": "23:45",
+      "title": "9300선 뚫고 미끄러진 코스피…“삼전닉스 ‘밈 주식’ 됐다” 경고",
+      "source": "v.daum.net",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZVm1lVlpKZTZlaXNqMVpCbDZlV3kydF9NRDRocGJWZko1R1R3ZUczUXhqOEh3dURsdEFoYVdwZklqVEczU0FibkJZelEzQjg5a2RkNW5CU3RKdzdCLXNHc3JQR2p6eVBuVWV3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRFJWRW9BdEx3XzBzdmJDd3ZJMnNGOTZsMzllZXVkN0J6QlVMbTREbl9Mcnh2bXNtakY1Mm1zb0RjUUlibW5xUFFtVjYzdVE?oc=5"
     },
     {
-      "time": "08:35",
+      "time": "23:45",
       "title": "1000원만 넘기면 끝?…상폐 강화 앞두고 코스피·코스닥 284곳 ‘위험권’",
       "source": "녹색경제신문",
       "tag": "시장",
@@ -20,15 +20,7 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50c3JfV3BYR0JJLVgyQTYwQlNSeFZ1MzhiVmgzREVHWEJlYkhxTXRuVmNzd1ZMd3cwODZiQlB5X29KT2Q0b3FMWmswRjY5ZlBDR1BiY1NIb01INGhNM3dJaDI1Yy1wNk9F?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "[주도 섹터] 외국인·기관 동반 매도... 코스피 9,000선 사수와 코스닥 1,000선 붕괴 (2026.06.19)",
-      "source": "네이버 프리미엄콘텐츠",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2pCU0VPdktIRzJiRWpuNXJjRnZSaGtON1lEQmxINWRNQkdNdlhtbTU0ekRnZTVDWUs1Ym1LT01LQ3BkV1lRX3JRQ3VrQjJMUHpMMFJ6ZkY0SEZyMXd0ZkJVVmV4TzJxYlNDc2R1ejhnb1lTNXhjOFVxZE92cEcxbUdLQ1U4MzJQcmc?oc=5"
-    },
-    {
-      "time": "08:35",
+      "time": "23:45",
       "title": "[D-BIZ 주식 동향] 6월 18일 코스피·코스닥, FOMC 충격 딛고 반등… 외국인·기관 매수세 주도",
       "source": "데일리비즈온",
       "tag": "시장",
@@ -36,7 +28,31 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUGhYQ0Vnc0tRZWRTSWk0Y1MzVU95ajZwZFVhNjhTcGp3cHFSSTdzalZ4MjNUSFY0c1hVY2YxRmtiLWttUV84TTBBdVRxV2RuN2pWZE03eG5jcWN2ZFJRdjdyN0JZazZRanlPZg?oc=5"
     },
     {
-      "time": "08:35",
+      "time": "23:45",
+      "title": "코스피·코스닥, 내림세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZVm1lVlpKZTZlaXNqMVpCbDZlV3kydF9NRDRocGJWZko1R1R3ZUczUXhqOEh3dURsdEFoYVdwZklqVEczU0FibkJZelEzQjg5a2RkNW5CU3RKdzdCLXNHc3JQR2p6eVBuVWV3?oc=5"
+    },
+    {
+      "time": "23:45",
+      "title": "\"月 50만원씩 3년 부으면 손에 쥐는 돈이…\" 2030 오픈런 예고",
+      "source": "한국경제",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tdU5YbUV4ZXhrOWduOWhoQWlyWHJjc2pGaXQtYmtfZjVSTVZqbUJmZlpBTHNpeVF3Qmg1d2tiSk5WVjY3TU1VUjd5cXlqUUhyWW9wc0MxT2VzQdIBVEFVX3lxTFAtZXk0bld5YXpwazNGdWZNaHBzazVNMUM0VWhoTVcya2ZQejBBQmFUZkxBZEc4Q25QSGM1eDVnN3NTMDZMY3dVcEROUmNhZktuU1RNcA?oc=5"
+    },
+    {
+      "time": "23:45",
+      "title": "금리에 갇힌 한국 경제 '온탕 냉탕' 오가는 시장",
+      "source": "MSN",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPeUNkU01FQ0thVy1JYjBzOHZOcWtaZjgzSTduel9oaTh6VEVpdnBENU1KZGhCRXJfaHdTaUZDVzdGRHVUUUprazhaQnRJdVFvM1RjVHE0WFdCYndJdkhTQkhwUkdSVUlSZDhaZ2NHZ002M2J4cUVSWDUtSjZuOG9wRVpRLTRRR0lCazJMdVZvckZuTTRrRTZnNENFZ3pkQ1A0ZjJVYVlfcHpQOGZ0N1N0cjB2SWNqVVF0c1B6LWZ1Nk91a195ZGE0NGt2d0RhNFVqQmkyQVRwRDlyY1UzNGp0bDhvYWZnbDU3cEVlSnlNV0J0VmV6QlczMTBXVHZGYmJOZTNmc1h6dW1sQml6aHJmZndzeGNfSjJrT3VZM3B5NGRlbUQ3OEdqbWl0X292Qk9tR3lvcjNweXBfOXd6cG42Nk5Wa3F0Tll6Wnlxak9n?oc=5"
+    },
+    {
+      "time": "23:45",
       "title": "\"환율 또 치솟나\"…美 Fed, 금리인상 신호탄[심성미의 중앙은행 워치]",
       "source": "한국경제",
       "tag": "글로벌",
@@ -44,44 +60,28 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVWxJT25BMTJPSnNDdjAxRVF6OGpmNVE2SFVOM3AyQmo5SElBelRZQ3h5OHAtTV9BMUxmZTRQZHRnWDJpZ2RLUzlvTVZ1UnNaNC1VckxrUXZsd9IBVEFVX3lxTE1BTmZoeWpoSlY5dXpTZ081LUo3Y28yQmpaTDB6VlJQS2p6N24xMVphbHFCSmhVZUZ5VEdrVC1CR05ueTVuM19yM0FUaTBmdFBIWnM5OQ?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "日, 기준금리 1.0%로 인상...31년만에 최고",
-      "source": "v.daum.net",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdDJTSzFvQm9valF0bF9pOVRpTGFsNUR3Uk1nWTlHaWVBdGxsTkFWOVIxODJmc3lKWW1Cd0RwSkRGS0dydTZuV3ZlSVppTXM?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "日 금리 인상, '엔 캐리 청산' 우려 넘어설 韓 경제 기회는",
-      "source": "오피니언뉴스",
-      "tag": "정책",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9COVNyLTJEeFAtV1lxeTFJZlpuWlZoaXpqam1WSGI3dXluMS1rUS13SUxOYThmeEl0cnNxbGNVbTBRRnY5bTJjUWlZWTAwN0t5d0N1V3dZaGJxWTBYZWk4dVY4X3psOW9HckpOUlNwMjYyQQ?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "美 Fed, 기준금리 연 3.5~3.75%로 동결[Fed워치]",
+      "time": "23:45",
+      "title": "Fed, 기준금리 3.5~3.75% 만장일치 동결…\"인플레 여전히 높다\" [Fed 워치]",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50NHktajFjcHJfY0U1cFA5U2xEVGcybUJjX0x4UFN6ZHFDdVJIb2E0ZGhmT0tPRm9SbEdTQVlNamFwWXNMMkFXLTJBX0M0cmFHazdWY9IBVEFVX3lxTE50NHktajFjcHJfY0U1cFA5U2xEVGcybUJjX0x4UFN6ZHFDdVJIb2E0ZGhmT0tPRm9SbEdTQVlNamFwWXNMMkFXLTJBX0M0cmFHazdWYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPQUQwVnVXRkhrbUF1eDl3TlZqbFN3cDQ1QXRYNl9CVUxUcDBULUtYTTNCWFlOYjdQekFXRW1KZm1nRGV5NzE2V2FSaHBuRmctVHQtSnVTZjdZd9IBVEFVX3lxTE5UWkNkc3BPVG1LOXNwQVFKZXg0MGVrRGtBQm56ejM1bENBWFBSOWMwSXRKek9taXZfQjFxZ1Z0N0pPLUNZTmhyOVdFMGJha1VPTFIxMw?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "SK하이닉스, 시총 2000조원 첫 돌파…삼성전자와 나란히 신고가",
+      "time": "23:45",
+      "title": "블룸버그 “삼성전자·SK하이닉스는 이제 기업가치와 상관없어져”",
+      "source": "문화일보",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSGMyR2FpcUpDMEZ0aHVQMnpmNVQwN21hQm9naWU0eFo5cWJtVWNoOFVvQ09OY2htNEdMS1RtUHpIcVk3T2xlOERTX3o5bWky?oc=5"
+    },
+    {
+      "time": "23:45",
+      "title": "삼성전자와 SK하이닉스가 밈주식이라고? [시장 엿보기]",
       "source": "v.daum.net",
       "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kOXpzVWJ1NXZGaFBZb19JZm1POVZxbkhWVGp0OW4yN1lEa01CcjNPeFk0dGphd0NsYlM4SWRtdmwtTW5TRFE?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "[속보] 삼성전자 · SK하이닉스, 美 반도체 강세에 프리장서 3~4%대 상승세",
-      "source": "뉴데일리",
-      "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaNWNwcGFtOUs1dkc3V1MyYzlYMmxVTjN6Z1BDcnNlbmxOcExMYjVIM3NybG9keVJ4WU9BVWRlTWpKVkFkUVJ2YUpZR0pRUTdPNDZwOFo1NjlwdzF4VWxhRzE2Sk15RUtSNkI1X1BKNlprZkFqLWhXRVNyQdIBgAFBVV95cUxQdHg1aHRPcUY3andLVHNhX2hDMDNhNFp4c2g2NkwtSFpmSVJlbU5nblJOT1BZbkdFdlN2QnpyclA3TjRHMk1VdkdkNjNURWp5QnVrX1puZ013WndFT29uYVhwUEw5c3NmaTNkakwzeEtVUlpzM3hBbnJ3R3owbndEOA?oc=5"
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fTEx3dzJLUEFseURzVklHQlNvRUN6Y29lRXlYd05LQkxYeTB1WEEyQnZUbWJMWjg5dXJ5Sk5fZTZYeFJKbi04eHpGN1MwSDQ?oc=5"
     }
   ],
   "aiSummary": null
