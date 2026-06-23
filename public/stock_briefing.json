@@ -1,50 +1,58 @@
 {
-  "updatedAt": "2026-06-23 08:49",
-  "date": "2026-06-23",
-  "autoSummary": "2026년 06월 23일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
+  "updatedAt": "2026-06-24 08:34",
+  "date": "2026-06-24",
+  "autoSummary": "2026년 06월 24일 주요 경제 뉴스 10건. 호재 0 · 리스크 2 · 중립 8",
   "news": [
     {
-      "time": "08:49",
-      "title": "코스피·코스닥, 오름세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YT3RyQ3pwT3lDUjh3cHJkWHZkeUE3T19vbzZvSTBzd2hRYTVfQ05qUnlFTWQxRGhTbmtJX3dTbVFaeS1jZzltc0pZUF9MMEdEc3YtN2Rka3lxVGpVWV9HQ0p2aktEd0YyTXhZ?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "9300선 뚫고 미끄러진 코스피…“삼전닉스 ‘밈 주식’ 됐다” 경고",
-      "source": "v.daum.net",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRFJWRW9BdEx3XzBzdmJDd3ZJMnNGOTZsMzllZXVkN0J6QlVMbTREbl9Mcnh2bXNtakY1Mm1zb0RjUUlibW5xUFFtVjYzdVE?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "[코스피·코스닥 전 거래일(19일) 주요공시]",
+      "time": "08:34",
+      "title": "[코스피·코스닥 전 거래일(23일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWG56YzI2ZXlhYXZTT0JRTDMxWnc2Z1hxZUdDbmpRMEo0eENfejUtSlBVRWRwVm04OEl5aDBKYkRBakFSU1FXbmIxM0RDa0VSekJTTi1OMTVkelHSAWBBVV95cUxQekpQVGk2amozeGp2REhLYlZIc2pkMXJaUXlpYW1ONmpBWG8wVlJIcnJFcW42M3c5RThwQXhMcmpCWTVqdEF2aG5MQ0V2WnI4RFdtblhUSjBJa2I1SW1YX2I?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kMHNVdTZ2a1UwMzhrSW16YVNDcFJYSkdnMllrVXBnNUFwYmxKcVB5MkxZYjB2b21HSHhDWVRTRUlyTkJ0elQtNnkzRTBCVG91WTBLTXhvTHRaaGPSAWBBVV95cUxPSDFtQ2ZlSHpsY2xKbmt1YlI3UDlfQ24wWjVVa0RGZm5XN3huUkhIZEpwb3A4Z1ZnZnlVQ05uMTdncXVuaVdvVjRwbkZNOFdYMEJLampLakR0OU5nVk1jbFA?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "\"8조 주식 휴지조각 될 판\"…벼랑 끝 몰린 개미들 '공포'",
-      "source": "한국경제",
+      "time": "08:34",
+      "title": "[주식] 코스피·코스닥 폭락 속 바이오주 '희비'…아미코젠 17%↑",
+      "source": "히트뉴스",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzb0hrLWRFV1VXRUtWcXVSaTNoblYxaHc3RXg2WVFyYmZkb2JsQUR3Rmw0TFVTbG5rTFhZZ1RnWFhHSVNiNk9KMldtczJvaGVmRlhReFJINTA2UdIBVEFVX3lxTFBpRHlPNVR1QV92eG1lRFFDT2VoeG9hbXlMbWxUNzFNOGpfVUE2VlMxR1k3RHRJalNiY1UyaHJ0MTBteUtrLU5KN0xTTW4yYTBVQW5WNg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOcGZXMVplSVBDZFpjOWtkWEwwV2lrT1Q4bFlkX0NNZ0NEZlVsa1J6Ym9hQzBoeTFieFVHaXZUOVhhdzVNUmxwUFVXY2Y0UjFKSzRfZ2tJcEtHSjhqSG9xTDFrcjRiSkhjS2Jr?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "실적은 좋은데 불안한 美증시…금리·AI 주시",
+      "time": "08:34",
+      "title": "코스피 4%·코스닥 5%대 장중 급락…\"매크로 악재 아닌 반도체 차익실현 탓\"",
+      "source": "연합인포맥스",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQkg2cXB1aU9tOUh5YXpzenVzeUZkc09kbzZxODltcGh4cEYyRFFId1d6UFB3azJKT2dfQ0RBT1dXTlZaSHN1Vms3SDhRVDdaODVuX3Zad3drNW9iVmhuZktBbVlMU0NwSnZ3WHdueko?oc=5"
+    },
+    {
+      "time": "08:34",
+      "title": "코스피·코스닥 5%대 급락…동반 매도 사이드카",
+      "source": "한겨레",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52U2FBcC1URC1zSXg2SjBUcDI2Q2M5dWVIQ2RBbF9UakZteFp2SWIzRGFld0thQTVhV2QyRlExdDdSQ3FhLThlSzVtVHZMZFFZQVlmejRVdzFialc3Y19fZE52WE9yYXM?oc=5"
+    },
+    {
+      "time": "08:34",
+      "title": "연내 2회 금리 인상 전망...채권시장 투자 포인트는",
       "source": "한국경제",
-      "tag": "글로벌",
+      "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1May1TU1FRQ2dxUXJxM3Vjd0FZZjhZRkJROXllWkRUdklic1JDdU9aUnBESmNpNThGTmhNMzlFTjlmSEhnUW43M2gzU2VBZGp6c1BjY0VwaUxmZ9IBVEFVX3lxTFA3dVFiVFJBRThqVXNFODBGQTRPLWdidDBia05Cc3FVMDVBcG84XzlUZkdmcUZXMG1DcVViYVp4YTJuS1lib1RoN1IyS0FjRXlSLTVVeA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLOW92MmlZOUhzbkZzbFlfd29MblpRNzVZT2ZscHhZN3h5SUcyRDIxNVJsRHVKZTFDNk1TQllaQVJzalE4SWt0VGw5NXJlUDAxOFd5NXZqLS1HUdIBVEFVX3lxTE5GSmR4UXBFVVB0eDdHUE1fcmp0a09YdnVIcjdTeUV3WHA3TG5jNkFPT0oxYVpTanBNdk5UQ1lYOG5aUmFia0hxeUtmcS01NGxVV1d5Ug?oc=5"
     },
     {
-      "time": "08:49",
+      "time": "08:34",
+      "title": "[치솟는 국채금리] 전 구간 4% 시대 오나 …물가·AI發 고금리 뉴노멀 임박",
+      "source": "아주경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RnBjTVFhRGhndTYwX2ZNWmpfLW5lUDdieGh2MEU4cDBqRzR5M3NiSXoxeEdXVnNSS0t1bXg3QXJYNXBMTUdtamxBVDVhMHB2VnR6cEtkaFNsQdIBWEFVX3lxTE9LOTk0bEVsMWJBRVozTGtjMlRqNmRNcXM3Z3pDRWJiT05jblp5VDllbUZ3c1NQRnNhR29ILVQ2RnR1a1NncWtMcVlyMjBoS1RCeWFnOENvVEw?oc=5"
+    },
+    {
+      "time": "08:34",
       "title": "올해 하반기 금리인상 시대에 들어간다…글로벌 증시, 본격 조정국면 닥치나 [국제경제읽기 한상춘]",
       "source": "v.daum.net",
       "tag": "정책",
@@ -52,36 +60,28 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xX2ZFUV9lUjF0cjhWUXlybFM4Ql90LVRVRWg1YV9FaDRybThTamZFdmZrNzZqSjg3aXQzZ1JZZWpoQnFONFE?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "스페이스X 대탈출? 16%↓…유가 하락해도 금리 상승 [김현석의 월스트리트나우]",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdThKUTRFOVhxWmkteXppQzcxM3lyUjlROFJOajBGdkR2QW11SWxsR3pqbGh2NjhBQ3BoZVZZWnI3X3dUSjk2NFUxTkNYel95MXpRSm13WkhJUdIBVEFVX3lxTE1kamMyZ3dpZmZpRHRRdFFaZncwWmotVGRpU2hUZ3hUb1RqeU1UV0NtUFFCeFZYR0VTVDNQalRxMUVwYnBMUVZQQUVJOUpGNWNkdTFkTg?oc=5"
-    },
-    {
-      "time": "08:49",
-      "title": "반도체 수출 비중 41% 돌파, 코스피 9000 첫 돌파… 환율·금리가 함께 움직인다",
-      "source": "코리아비즈니스리뷰",
+      "time": "08:34",
+      "title": "환율·물가·부채: 사면초가 한국 경제의 생존법",
+      "source": "서울경제",
       "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDJVWEhlNU1sUVl5dGtGbXQxTU1aQjVNQ3hRN1RZbklBWEN5bHA5UlZkSjNVOThyTW0tTmU1YUtaWm1wcWp1YWNEX2ZDSHJlNXlBc3hYUi1IcDBmd2d4UklqQVVFMVZaRE16cjhjNFBFelZaVlFadmVIeHF3d1kxZHl4TC1CRW4waGhoUHpWOFBPMGxjNlFoam5MVDhPM0Q0d09sVEp2X3RjcGJRUkZJSlg2UzVoLVNIVW1N?oc=5"
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtaGtFV3FLZW1saUJBUnF4UVM5N3FsMTFiWjNJcE9OZnpUd2xKemJURnlPU2lrTmNoSFF6ZEdfdTQ3STVob0h1SXFCbw?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "[속보] SK하이닉스, 삼성전자 제치고 코스피 시총 1위 등극",
-      "source": "중앙일보",
+      "time": "08:34",
+      "title": "\"삼성전자·SK하이닉스 매도는 뼈저린 실수, 독점 가치 절대적\"…파브라이가 말하는 가치투자",
+      "source": "뉴시스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zd2hGc1Q3aE1oTGZJTU93dEJyM3hEeVN6LXgwaWJaNHZOc2paVFBnam9lZVRRcng1SVpHR2hTbFFJVk9scUo4MkhObDkxdXFPdTlXS1lB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10TjNOUUpUcVNONUZacUpkYXdVb3FvYWp2blJmODFTVTFoZE1UejJOMG1BQXhRSjRmVGtFZ2I0OHJWMnk3bDlzNE96dGJvSWJUWmdGTjRFeENZZVViRFlGNtIBeEFVX3lxTE5rSnJpZi1XU05ZY1lnYV9IX2NWOGN4akFXcnpJZHJlX3o4Snp4MTZwaElZMWVickNMZGJObG9DeHRkR2tTaEEwS0cxODZvU0pybWZCVVZsT09aOGhsMzV3bzVlNHc1bHViMWNEejlkeDV0YmtxSzBGUQ?oc=5"
     },
     {
-      "time": "08:49",
-      "title": "분기마다 2배 뛰는 삼성전자·SK하이닉스 실적 전망… 2분기 영업이익 ‘예측 불가’ - 조선비즈",
-      "source": "Chosunbiz",
-      "tag": "기업",
+      "time": "08:34",
+      "title": "[단독] 삼전닉스, 호남에 200조 이상씩 투자…반도체 전공정 팹도 짓는다",
+      "source": "한겨레",
+      "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXR5Zmk2ZXJ5QW95aDR1WkRsR2tfc3hJd2kyUEttSHJncFZKZHNqeDZhNkVzSVVfNXZ3c0hXSVdsYllPMFF1MkZFX1lIZDdnSkc4elRnZUUxX0c4dDhITUY3NUJTQnJLY2g5dDFlOXY5R1FOaUYxQkd2Q196LU5DSlV30gGWAUFVX3lxTFBqaGhQOUdCa3l0aVVLYXl4RE9CWG54TTk2QXJpOGxHSXpJVGFiOFJJcHduY1ZNNkxJWXNoeW9YS1JOelJoTDdGOXNNeWRldEplOXZpZHNXWEl3aDZSS2hyb24xX2Y0bTlWVlRmSHgzVktjUmN5MnoxTGp3QVhLc3BwU08xSzZDXzlNb2I4cW9yRW9GUEZZQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RURodEs3YWtEM0VGV0cxZl9PZzBfSVMxVmpWeXVRZDBUbEFKdFZJQ05wVVdzZmpBeVVFOXhXWHhjZ0JMREtPdXNmV3FIMlg3QlY5enlleVJ5N005LTFSeHVMSkZUVHpZc0E?oc=5"
     }
   ],
   "aiSummary": null
