@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-27 08:42",
+  "updatedAt": "2026-06-27 23:16",
   "date": "2026-06-27",
-  "autoSummary": "2026년 06월 27일 주요 경제 뉴스 10건. 호재 1 · 리스크 1 · 중립 8",
+  "autoSummary": "2026년 06월 27일 주요 경제 뉴스 10건. 호재 0 · 리스크 2 · 중립 8",
   "news": [
     {
-      "time": "08:42",
-      "title": "[주식] 850선까지 내려온 코스닥, 제약바이오 오른 곳은…3곳뿐이라고?",
+      "time": "23:16",
+      "title": "[주식] 코스피·코스닥 폭락 속 바이오주 '희비'…아미코젠 17%↑",
       "source": "히트뉴스",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZWHBRT1pCUFQ2XzdNLTRkUGk1bDNQLTBVMERZSW5pX2VwU3NRbWlJQzFtdUp1T204VmtqNnNZcm5rd2VHZ0x6SFZxT1I0MkpBa3RNTHNHZUw4T2NHSEJJNUdLTERyUXVZR2xJ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOcGZXMVplSVBDZFpjOWtkWEwwV2lrT1Q4bFlkX0NNZ0NEZlVsa1J6Ym9hQzBoeTFieFVHaXZUOVhhdzVNUmxwUFVXY2Y0UjFKSzRfZ2tJcEtHSjhqSG9xTDFrcjRiSkhjS2Jr?oc=5"
     },
     {
-      "time": "08:42",
+      "time": "23:16",
       "title": "[코스피·코스닥 전 거래일(25일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -20,15 +20,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQU9PcVhNUmc2LU9sSFh2U2VpelN4UXpBRUtxam1GU2FYLVVOc3JYQklHbnQyTk0tSjZMSFBkdkVzNnlLNmZjQlVYdTNxTXh1RXoyWG5YakhxWGvSAWBBVV95cUxNRFBRejJWSTk5MDZRQU5ZVU1ROU9UZnV6SDBkVFdqMHFNY0s3TnZQWTRTN0tLMURhalc1TTAzdVoxdjFmVjRWYzVIcW83MEU4SFhzU0h1ZjU4NWU1Sm1uVmg?oc=5"
     },
     {
-      "time": "08:42",
-      "title": "코스피, '천당과 지옥' 공포의 변동성장세...8,411선 마감",
-      "source": "프리진경제",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RTnAtZlh5Vm1JR0JLbjdXaEJkVFlTN0lyZ0ZSdmhhMms2aXFtMEp4NjdRQjVBSkMxM1ZiYlFNRGhXQTZXSnlHTGtnUl9TUEw3WUNIQXZlSVJuUC1qOE0tUmxYRTJlUFZ1WGMxYg?oc=5"
-    },
-    {
-      "time": "08:42",
+      "time": "23:16",
       "title": "코스피·코스닥 5%대 급락…동반 매도 사이드카",
       "source": "한겨레",
       "tag": "시장",
@@ -36,7 +28,15 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52U2FBcC1URC1zSXg2SjBUcDI2Q2M5dWVIQ2RBbF9UakZteFp2SWIzRGFld0thQTVhV2QyRlExdDdSQ3FhLThlSzVtVHZMZFFZQVlmejRVdzFialc3Y19fZE52WE9yYXM?oc=5"
     },
     {
-      "time": "08:42",
+      "time": "23:16",
+      "title": "코스피·코스닥 동반 급락…양대 시장 매도 사이드카 발동",
+      "source": "산경투데이",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wcTNYNGlmY1kwbGg1WUxHRlR3TzFaOG1nZFRQVk8xT1JOakxzRGR5RE1uNU1oZ29LV0xkUHVWaFcwSC1VUzJnR0ZfbzhOTGQzdTVfc1FGYkNEaGY3VDJJUWpJanRXcjZENzJlUW1sc2nSAXRBVV95cUxPNlRjN0JWRGc2SFVodzlheVdFVXV0bmhHeUIyR0FteDA5Zk5LYUs1di1jcXFpTEV0Umh5TU0xZWt6REdWMlpwdE5vd3doRTdNVVdQX1VycEZxZDdWRnB2Wm9MUjF3ZlJfVXZmVjNBRDZBT0N4Tg?oc=5"
+    },
+    {
+      "time": "23:16",
       "title": "스페이스X 공모가 아래로 간다(83%) Fed 금리 안 올려(54%) [김현석의 월스트리트나우]",
       "source": "한국경제",
       "tag": "글로벌",
@@ -44,7 +44,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vNzI3WlREY2RTMkNCdFdRQkVudlFQdm9oY0lXejREd1Fjc0F4bThQU2RaV1phSVA3bnhmTTNyUEFTcVZMM3RhdXJZcjdJdWdsTFE2ZXlZZll2d9IBVEFVX3lxTE1xY2RLblg4QzlEMjF1aFNhZ0ZFbHdia3ZYUVNBaXd4NGQ5a2ZoN0llR0cyUk9FZnJWYVI5VWNXZXRvQ1d5V0lTLUt3LWpfbFl5MS1mXw?oc=5"
     },
     {
-      "time": "08:42",
+      "time": "23:16",
       "title": "[전운의 경제 인사이트] 금리 4% 시대, 한국 경제는 준비돼 있는가",
       "source": "v.daum.net",
       "tag": "정책",
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yYmZCQ2NkckZsQk9sME5aZ29RdGdPQ0FaanpxaWlqYVJDeHRqNXNnRHR0RFdWN01BNkFhQkNQMk5Tejc2b3BSWVNRQQ?oc=5"
     },
     {
-      "time": "08:42",
+      "time": "23:16",
       "title": "금리 딜레마 빠진 ‘진퇴양난’ 한은",
       "source": "공공뉴스",
       "tag": "정책",
@@ -60,7 +60,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WY0pSWkpHQjZ5WWdGZ3RjRjFjS01tMFZWU2Z5aC1PQW5NTVRVTDBlOWY2RC04QnY1WTcxN0t1RnhjaWo0YUREbnVHTXhZZlJ6UWNSRGlIOTZIZmIyN0w3dUVRZC0ySTRTdlHSAW5BVV95cUxOeE9uX3J3Y0djZmJsOXVVczVJMkFGZGxTalBRMjVBcml3TGxHVmQyTTNobnR4a1pzeGFkcmMza3N2SVRsZXNSdzJCZmpVSmVjWm9PZFg3LU5uU0ZOSTdBX0xEWnluTmJoQ092UXF0dw?oc=5"
     },
     {
-      "time": "08:42",
+      "time": "23:16",
       "title": "환율 1540원, 한국 경제 비상등",
       "source": "thecommoditiesnews.com",
       "tag": "글로벌",
@@ -68,20 +68,20 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ta2FWelI2SXY5elJ5dmNSdjF4OVE0RUxxYW0ybzd4Ym1vU0RLRDEyQUdkS016dTVFbklnbmxXM1ZjV3p1ZElndTNMdTFOLUlnXzVwSkxaTUR6bW1sWkJuNVF2TmY0cVBwYW1pV1BmY2I0YjFzTEFR?oc=5"
     },
     {
-      "time": "08:42",
-      "title": "삼성전자·SK하이닉스 호남 지역 반도체 공장 투자 대폭 확대, 민관 합동회의는 언제일까? 🏭💰",
-      "source": "뉴닉",
-      "tag": "기업",
+      "time": "23:16",
+      "title": "[단독] 삼전닉스, 호남에 200조 이상씩 투자…반도체 전공정 팹도 짓는다",
+      "source": "한겨레",
+      "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHSGxpRW9yTHo4V3kzeVd3enRjR3JPYk5BZVdKTF9FZXVXUExCVTZnYndGQjhYd21sREZSTmFfN2laQ3Jhd0NTUDA5eTJGd1BfZkFn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RURodEs3YWtEM0VGV0cxZl9PZzBfSVMxVmpWeXVRZDBUbEFKdFZJQ05wVVdzZmpBeVVFOXhXWHhjZ0JMREtPdXNmV3FIMlg3QlY5enlleVJ5N005LTFSeHVMSkZUVHpZc0E?oc=5"
     },
     {
-      "time": "08:42",
-      "title": "술렁이는 광주…삼성전자·SK하이닉스 반도체 클러스터 발표 임박",
-      "source": "v.daum.net",
+      "time": "23:16",
+      "title": "주요 외신 “삼성전자·SK하이닉스, 글로벌 반도체주 핵심 변수됐다”",
+      "source": "매일경제",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HR2FBT3NvSURXUzhHNl9iNk4wUDJmQmdxSy1RMFpaMndFSEQ5dFlENkdueXFtYkpTdzlWQ1FBWkdLZTUtTDk3RklXZkZmQkE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRN1ZvaFVGbFdYdmFzOXFrdFhQdUpsMTVocF9xdEJOQ3VIeV95Z3E0TFIydmdmVWdrenlTZDB6NXd1MWhrUmFuUUJCUUJhU1oxZGc?oc=5"
     }
   ],
   "aiSummary": null
