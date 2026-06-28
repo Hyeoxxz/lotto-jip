@@ -1,18 +1,10 @@
 {
-  "updatedAt": "2026-06-27 23:16",
-  "date": "2026-06-27",
-  "autoSummary": "2026년 06월 27일 주요 경제 뉴스 10건. 호재 0 · 리스크 2 · 중립 8",
+  "updatedAt": "2026-06-29 08:37",
+  "date": "2026-06-29",
+  "autoSummary": "2026년 06월 29일 주요 경제 뉴스 10건. 호재 1 · 리스크 2 · 중립 7",
   "news": [
     {
-      "time": "23:16",
-      "title": "[주식] 코스피·코스닥 폭락 속 바이오주 '희비'…아미코젠 17%↑",
-      "source": "히트뉴스",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOcGZXMVplSVBDZFpjOWtkWEwwV2lrT1Q4bFlkX0NNZ0NEZlVsa1J6Ym9hQzBoeTFieFVHaXZUOVhhdzVNUmxwUFVXY2Y0UjFKSzRfZ2tJcEtHSjhqSG9xTDFrcjRiSkhjS2Jr?oc=5"
-    },
-    {
-      "time": "23:16",
+      "time": "08:37",
       "title": "[코스피·코스닥 전 거래일(25일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -20,7 +12,23 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQU9PcVhNUmc2LU9sSFh2U2VpelN4UXpBRUtxam1GU2FYLVVOc3JYQklHbnQyTk0tSjZMSFBkdkVzNnlLNmZjQlVYdTNxTXh1RXoyWG5YakhxWGvSAWBBVV95cUxNRFBRejJWSTk5MDZRQU5ZVU1ROU9UZnV6SDBkVFdqMHFNY0s3TnZQWTRTN0tLMURhalc1TTAzdVoxdjFmVjRWYzVIcW83MEU4SFhzU0h1ZjU4NWU1Sm1uVmg?oc=5"
     },
     {
-      "time": "23:16",
+      "time": "08:37",
+      "title": "[주식] 코스피·코스닥 폭락 속 바이오주 '희비'…아미코젠 17%↑",
+      "source": "히트뉴스",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOcGZXMVplSVBDZFpjOWtkWEwwV2lrT1Q4bFlkX0NNZ0NEZlVsa1J6Ym9hQzBoeTFieFVHaXZUOVhhdzVNUmxwUFVXY2Y0UjFKSzRfZ2tJcEtHSjhqSG9xTDFrcjRiSkhjS2Jr?oc=5"
+    },
+    {
+      "time": "08:37",
+      "title": "코스피·코스닥 전 거래일(26일) 주요공시는?...KB증권, 1조원 주주배정 유상증자 결정",
+      "source": "핀포인트뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xRGNmMlF0UE54bWZEMG9DU1h4ZTZYeXNZaVN3dU1kQWFXb1RIZVNDaU44R2ZXRU1LUjNpc1libWl2NFYzaTF2MTE2RXN6UVBmbWxCY2drTVY5Tk9HTmk2WHBMdzNWLTc3TklmeGFjZ0U3WEnSAXdBVV95cUxNQmNNMURaeWhaWXdfanltT05fS1FyWk9LM0pKQThYbkp5NXREcFNRLWhSSWZXbWVQLU9Kd3NQZVByM20yLWZmZWpzWXc4U1JPQk0tLXpGNUoxTkFVaDZMc2hxNHUydUptU1VRYUx0Y0VEajl1eDcwOA?oc=5"
+    },
+    {
+      "time": "08:37",
       "title": "코스피·코스닥 5%대 급락…동반 매도 사이드카",
       "source": "한겨레",
       "tag": "시장",
@@ -28,55 +36,47 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52U2FBcC1URC1zSXg2SjBUcDI2Q2M5dWVIQ2RBbF9UakZteFp2SWIzRGFld0thQTVhV2QyRlExdDdSQ3FhLThlSzVtVHZMZFFZQVlmejRVdzFialc3Y19fZE52WE9yYXM?oc=5"
     },
     {
-      "time": "23:16",
-      "title": "코스피·코스닥 동반 급락…양대 시장 매도 사이드카 발동",
-      "source": "산경투데이",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wcTNYNGlmY1kwbGg1WUxHRlR3TzFaOG1nZFRQVk8xT1JOakxzRGR5RE1uNU1oZ29LV0xkUHVWaFcwSC1VUzJnR0ZfbzhOTGQzdTVfc1FGYkNEaGY3VDJJUWpJanRXcjZENzJlUW1sc2nSAXRBVV95cUxPNlRjN0JWRGc2SFVodzlheVdFVXV0bmhHeUIyR0FteDA5Zk5LYUs1di1jcXFpTEV0Umh5TU0xZWt6REdWMlpwdE5vd3doRTdNVVdQX1VycEZxZDdWRnB2Wm9MUjF3ZlJfVXZmVjNBRDZBT0N4Tg?oc=5"
-    },
-    {
-      "time": "23:16",
-      "title": "스페이스X 공모가 아래로 간다(83%) Fed 금리 안 올려(54%) [김현석의 월스트리트나우]",
+      "time": "08:37",
+      "title": "환율·채권, 더 세진 금리인상 신호…채권금리 '들썩'",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vNzI3WlREY2RTMkNCdFdRQkVudlFQdm9oY0lXejREd1Fjc0F4bThQU2RaV1phSVA3bnhmTTNyUEFTcVZMM3RhdXJZcjdJdWdsTFE2ZXlZZll2d9IBVEFVX3lxTE1xY2RLblg4QzlEMjF1aFNhZ0ZFbHdia3ZYUVNBaXd4NGQ5a2ZoN0llR0cyUk9FZnJWYVI5VWNXZXRvQ1d5V0lTLUt3LWpfbFl5MS1mXw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kM0pTaGppRHRyQ1pRWXVYYWlUZzdPdnhyUnlHMHh4N2VPY2xRLW9xb1ZxcEQ1OGE2elBUNE9IY2w1ZEFfdHVZVHRRSWIwV2djWllJeHYyNUZtd9IBVEFVX3lxTFBERHZOMnJIQkpMcXVaOXc1NjAySWd6aXJMQVh6bzNueGo4cmRWUUJsTzY0bUlaS2pkUmhUdGMtV1kxdk9OQ3pLNFNrQ2p6cDl3WUVyTg?oc=5"
     },
     {
-      "time": "23:16",
-      "title": "[전운의 경제 인사이트] 금리 4% 시대, 한국 경제는 준비돼 있는가",
+      "time": "08:37",
+      "title": "'빚투' 신용대출 늘자…5월 가계대출 금리 다시 상승",
       "source": "v.daum.net",
       "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yYmZCQ2NkckZsQk9sME5aZ29RdGdPQ0FaanpxaWlqYVJDeHRqNXNnRHR0RFdWN01BNkFhQkNQMk5Tejc2b3BSWVNRQQ?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TVldyZnN5aTlTZi1waFpXS3dLWlhjMlJMZXVQS21fanF5d1lMSDdicTlmb1J6QTB0ak4xeERhOWRHNktWS1RaS0RUVjU5ZVk?oc=5"
     },
     {
-      "time": "23:16",
-      "title": "금리 딜레마 빠진 ‘진퇴양난’ 한은",
-      "source": "공공뉴스",
+      "time": "08:37",
+      "title": "AI주 급락에도 투자심리 유지…시장 시선은 금리와 순환매로",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ajdTNGdJSFZEdHRneWZETjBEejRjSzZZdGJ1WVBvcHlQV1cxWUQwS1dnLUJsRFJ0ZDQtLVE2eEdHWndKODFzZjUwZXhsUDVad3lFemRTWG1fZ9IBVEFVX3lxTFBkblYxWkZPeTB6Vm54YWtyVjBLZjhFU2dyVGxVcTk1VW9oVUEwLUpKd08yZ1VNQklGdWtBN0ZrLWp0dmFPbEpSS1hZVzlPQUJGRnhIeA?oc=5"
+    },
+    {
+      "time": "08:37",
+      "title": "[전운의 경제 인사이트] 금리 4% 시대, 한국 경제는 준비돼 있는가",
+      "source": "아주경제",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WY0pSWkpHQjZ5WWdGZ3RjRjFjS01tMFZWU2Z5aC1PQW5NTVRVTDBlOWY2RC04QnY1WTcxN0t1RnhjaWo0YUREbnVHTXhZZlJ6UWNSRGlIOTZIZmIyN0w3dUVRZC0ySTRTdlHSAW5BVV95cUxOeE9uX3J3Y0djZmJsOXVVczVJMkFGZGxTalBRMjVBcml3TGxHVmQyTTNobnR4a1pzeGFkcmMza3N2SVRsZXNSdzJCZmpVSmVjWm9PZFg3LU5uU0ZOSTdBX0xEWnluTmJoQ092UXF0dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xZzk1SmJxSVpQb2RTNnBwRGM0Wi1OWWlLR3RGT01sbU51RnB4Z0xZaVQxeldFZ29DRHZmcUdCVWk5WWxSdTV2SUJqWFl6clZEWkVCYXcwSHhLQdIBWEFVX3lxTE9IckROYTJEakFpWEwxRVdzMm93aXpzTFhiSEZMaGJHN0xVQUVKN2h1bHFRRTMzN2U4MEItWnhTVExwNU9ocDJXX3RuQ2JlSTMySGJISkRGNDU?oc=5"
     },
     {
-      "time": "23:16",
-      "title": "환율 1540원, 한국 경제 비상등",
-      "source": "thecommoditiesnews.com",
-      "tag": "글로벌",
+      "time": "08:37",
+      "title": "삼성전자·하이닉스 '50배 레버리지' 상품, 한국인은 투자 못해",
+      "source": "이데일리",
+      "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ta2FWelI2SXY5elJ5dmNSdjF4OVE0RUxxYW0ybzd4Ym1vU0RLRDEyQUdkS016dTVFbklnbmxXM1ZjV3p1ZElndTNMdTFOLUlnXzVwSkxaTUR6bW1sWkJuNVF2TmY0cVBwYW1pV1BmY2I0YjFzTEFR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk8zZ0N0TFd5LWdwSzVyQ3VuT3FUaGNzczdhczltMGo5bm9qcTFscXVlZmdyNmszZHR5VWgyVFREc0lQZjRnNlZwMTQ0ZjZiZ2hqRzdZOG1kbk15ZDhuWEpmU0FZRldiRk9rZTRxbFFDbFFDUFRvUEV1Q0NkR3JGaQ?oc=5"
     },
     {
-      "time": "23:16",
-      "title": "[단독] 삼전닉스, 호남에 200조 이상씩 투자…반도체 전공정 팹도 짓는다",
-      "source": "한겨레",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RURodEs3YWtEM0VGV0cxZl9PZzBfSVMxVmpWeXVRZDBUbEFKdFZJQ05wVVdzZmpBeVVFOXhXWHhjZ0JMREtPdXNmV3FIMlg3QlY5enlleVJ5N005LTFSeHVMSkZUVHpZc0E?oc=5"
-    },
-    {
-      "time": "23:16",
+      "time": "08:37",
       "title": "주요 외신 “삼성전자·SK하이닉스, 글로벌 반도체주 핵심 변수됐다”",
       "source": "매일경제",
       "tag": "기업",
