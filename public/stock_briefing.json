@@ -1,26 +1,10 @@
 {
-  "updatedAt": "2026-07-03 08:35",
-  "date": "2026-07-03",
-  "autoSummary": "2026년 07월 03일 주요 경제 뉴스 10건. 호재 1 · 리스크 4 · 중립 5",
+  "updatedAt": "2026-07-04 08:33",
+  "date": "2026-07-04",
+  "autoSummary": "2026년 07월 04일 주요 경제 뉴스 10건. 호재 2 · 리스크 3 · 중립 5",
   "news": [
     {
-      "time": "08:35",
-      "title": "[주식] 코스피 8000선 붕괴...코스닥도 동반 하락",
-      "source": "히트뉴스",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnOUJMUWwtTG5xRm1xdTVaZUU4MExMREQ4dzFISXRmdGt0ZzZuS1ItZ1BrY1hpeXFOMDZNTm5RS3hQeEMxa3hnZUMwSnFfYlhQYURIckVpcmlJUTZPMmloSVlzU0x6TEJCc3Zv?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "코스피·코스닥 동반 사이드카…국내증시 급락에 시장 불안 확대",
-      "source": "산경투데이",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZmVZZV84WUVqZ3hlaVA3czFOUjMyNnZfUnFaUGJYOWswdzNoQ1hiMDk1X19RZG5uZFE0LWlPTk9mWXJNZ2d2TmJqd1RuT0NESlRLNmZ6MUg5T3Z1UjJ6SFRTaWpJMS1ELUt5cVFEUFLSAXRBVV95cUxONFdlcUlvZUVxWUlFMnphZGM2aVk4bmVfNE9sWTcxazRiTGZNZFpxOTZqVDZQemJGS2o1Z1o1MHc0U1hLaUlPTWlhejlnMXlIRDZiY2dVNnp4bWNsT1FWS0RBRnVhRF9LeHdnRWkxWEM3WmQ3eQ?oc=5"
-    },
-    {
-      "time": "08:35",
+      "time": "08:33",
       "title": "코스피, 외국인 '팔자'에 2% 내려 8,300대…코스닥은 상승(종합)",
       "source": "연합뉴스",
       "tag": "시장",
@@ -28,60 +12,76 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRFlFNm5uZlVOSHlSMS1uaTAzMVNnM3EwOXV0cXBlMkV4N1VMQjZKYUR0OWNpSVlTd2c0RC0wRXhUWXRlQnlINEw0YmpaVkpBSHpyYXlZUzFyRUHSAWBBVV95cUxPbndYWldkbkQ3dDBzdFF4dEM2elY2REpCcGNzVkdGZjVZT0laaWNCbElfV29pX0E5MlRzRUxtTkp0MHVmS1JuWEVBekh4Y21jekFMa1haX2U2aG84S1FncUs?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "코스피·코스닥, 내림세로 장 마감",
+      "time": "08:33",
+      "title": "코스피·코스닥, 오름세로 장 마감",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VTGhPTk5IUHcxR1FGWVpZOVk2amsxYjR4bDExZGdQbnJzZUlqV2JOcXQxYW9ZbkNEOGpWQ0oyMm5aZzhacjdmTTY1UDQzMzUyZ3JocTYyNWs3VV9EVVl3bnFlOGJaZGhsYlF3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RT2pfOHg0X1o3djFJMUZESmsxYktKRnJpMHVqeVJEMklvRUxYTWdqTHFiY2tydTFHSnRwdXZXcGF5SFhNZS1VS2lNNTMydlMwRVdjRGdiOHlvQzk2b0VjQ1Y5WTdlbkN1WDhR?oc=5"
     },
     {
-      "time": "08:35",
+      "time": "08:33",
+      "title": "[주식] 코스피 8000선 붕괴...코스닥도 동반 하락",
+      "source": "히트뉴스",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnOUJMUWwtTG5xRm1xdTVaZUU4MExMREQ4dzFISXRmdGt0ZzZuS1ItZ1BrY1hpeXFOMDZNTm5RS3hQeEMxa3hnZUMwSnFfYlhQYURIckVpcmlJUTZPMmloSVlzU0x6TEJCc3Zv?oc=5"
+    },
+    {
+      "time": "08:33",
+      "title": "코스피·코스닥 동반 사이드카…국내증시 급락에 시장 불안 확대",
+      "source": "산경투데이",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZmVZZV84WUVqZ3hlaVA3czFOUjMyNnZfUnFaUGJYOWswdzNoQ1hiMDk1X19RZG5uZFE0LWlPTk9mWXJNZ2d2TmJqd1RuT0NESlRLNmZ6MUg5T3Z1UjJ6SFRTaWpJMS1ELUt5cVFEUFLSAXRBVV95cUxONFdlcUlvZUVxWUlFMnphZGM2aVk4bmVfNE9sWTcxazRiTGZNZFpxOTZqVDZQemJGS2o1Z1o1MHc0U1hLaUlPTWlhejlnMXlIRDZiY2dVNnp4bWNsT1FWS0RBRnVhRF9LeHdnRWkxWEM3WmQ3eQ?oc=5"
+    },
+    {
+      "time": "08:33",
       "title": "[논단]AI 낙관론과 한국 경제의 금리 딜레마",
       "source": "v.daum.net",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLLU9vVERnOHVJWTFyX3J1UUJ1YWp4dGtZZEtycFFUNFBZUUR4ZHVqcjd6OVpjb24xX1RKVmQ1blUwN19BQUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LM3hMWUU2cFB3UkxyLUp0bU1uazZoNVpEdmtMdXlPeFRIYjJGVUFXMlY0Vy0ySXhPaVhwZTNtTmltQU1DdVkzRk9McmQwOVFwNE9mMw?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "유로존 인플레 둔화…ECB, 금리인상 속도 조절할 듯",
+      "time": "08:33",
+      "title": "금값 계속 하락…미국 금리 인상 우려에 4000달러 붕괴",
       "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13cTNwdXU5cUFtaWhNUVdYd2NWWUMyV1Q0ci00ZzlPS0hFeFRqUEpXc0x4ZWFPa2FwZ2N6dTRmb1FrUW56aUdvbDdWUnhDWkZjeV9TTVJycGR0UdIBVEFVX3lxTFBBRWJzdC1TZFB1aE1KazdFZ0VCOHdHbHJVaVZxVVpsYVlpekE1cDZoYnBYVFJWNk5peXRMdVZTYnM1ejhmYUZ2T3BpTlA5ajVjZFY0bA?oc=5"
+    },
+    {
+      "time": "08:33",
+      "title": "[유가 100달러] 물가·환율·금리 '3高'…한국경제 'S 불안' 고개",
+      "source": "연합뉴스",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaTRZTFdDWUkwd0FtT0FIWUtGNDg0LU9NQWZHdWFPWklNbTUxOWJ2VjFkZkd2anBZcmtDemxvRWlmZTZEU0RrV3JROUFsSmZmT0ZGWnlWTjYyWUnSAWBBVV95cUxOU0tfSzVvMGpVcC10aTVieXhXQXFCREhmZDVwVk9VNDBrUlZsR0ZuQUNwaDA3Y2Qza29CamFzQVBTcVdNWGk1RkozdF9QNzJycGd3MFlVNUtFQWNkOHp4bWs?oc=5"
+    },
+    {
+      "time": "08:33",
+      "title": "유가 하락에도 금리 상승 [글로벌 머니플로우]",
+      "source": "한국경제TV",
       "tag": "정책",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xRlRmZWk4ZF9UdlBHc0ZxalNySnhqZlFKdV9QNEhlZTNLbXZ3dk5SMmpBeUNDWFcyWXlNZ2RQSm5iN3U3VUxwb3JaNWoxX2h1SEF4cVdiYXRWUdIBVEFVX3lxTFBaT3hIeTBrY0hxOW9wRjBPWjZJejVjU0toT1M2Y0xLOHZXNlF2eW00cFNGS0hwSWF0WGZlc0RUbzVHZkRiVnJFY2U5RWhabUg4V21FVQ?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TczdkT2JlYWhjdklMVXE0VkZLanBjYkdNM2tLcGI3YTJFaVV4c3V1YUZITkNEbXlIZTgxNXFnV2R3QU5GU0hpS1B4THQyWkYzdVZiQWhvUmRaWm5aN01HVjM1ZGxtVmE3Zl9CQVBLX0hLWmM?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "“하반기 한국경제, ‘5대 내적 리스크’ 극복해야”",
-      "source": "중소기업투데이",
-      "tag": "경제",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1cWFsUDI1dmN6WS0tZnZJQmx5Qnl0WF9LUnA1b28tY0tpdUlPQU5tQ0lBeXRtMjlmaTg3bWdMSE1IZ1JRbE9hdGtrRk5TLU5weVpwcWJtZmpWVVNHSzhCdF9sN1BPbTBn0gFsQVVfeXFMTkVUTExkWnlpVUJpWG5yWTEzdHo0WkpyQWZMYXhGdlJ3NlNDay1FUFhmeDBUTF9PcS1SdWhoa2dONFRFVlBqU1MtMlpsQ1J5MXpqWDdDTHBUNVo2YndmX1lZWm1LQV9FSVdTaF84?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "카카오뱅크, 예·적금 금리 최대 0.2%p 인상",
-      "source": "네이트",
+      "time": "08:33",
+      "title": "무디스 \"삼성전자·SK하이닉스 대규모 투자, 장기 경쟁력 크게 강화\"",
+      "source": "연합인포맥스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzMjJyZ2t3cE83akgzekhsQ2trVmlSLU5Dd1RidFRpNGxhQmVqbmdGemtXbFZLMXpCVklFRVU3UDNJSE5XMXhKQXJqaU5LRzM1MmYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVWExGZjRzSHRpWWtOUFRlQUh6cW9CU285NW9iaWZNOEZ6M1h0MWl6eWNZZkRWSm5Gb2g0TnRSWEJ6OEkxOFpoUUVhbXRzN0Q3SmhWMU1BckVNZGVPbGNIaXM5RVBOOVlGbEN5aUtwVGc?oc=5"
     },
     {
-      "time": "08:35",
+      "time": "08:33",
       "title": "국민연금 리밸런싱 첫날…삼성전자 덜고 SK하이닉스 담았다",
       "source": "ebn.co.kr",
       "tag": "기업",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pcWRvcTM1Q05rRDEyN0JSTV84d3BYTEhZYWJsV3FVTmNIZGdVcUR2NHNpUzNyUFV0bTZJR0NXb1NQU2tHTTJLNzZGS2lYdXQ0TnJZS0FUa0VnZjNGcmlSaWRNOEpVb3Fp?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "삼성전자·SK하이닉스, 2분기 실적 150조 ‘정조준’…“최대실적 또 경신하나”",
-      "source": "글로벌이코노믹",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGJocklIS2FHWlctVjYwSW12YlQ1OG1CNXNBOHQ1TW9xeHdBaHNrUEo2bklaNGVEQk1EUDdsd1dPWlY1UnoxMnVOV3JlbWpaSjVzNTFIb0Y0YjNVWjhaUVA2OFR6WjduaHBCUEhueVdUQzJsT1NPMEpna2pBbFhVeGxQMk4yUQ?oc=5"
     }
   ],
   "aiSummary": null
