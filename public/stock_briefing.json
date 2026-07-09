@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-07-09 08:35",
-  "date": "2026-07-09",
-  "autoSummary": "2026년 07월 09일 주요 경제 뉴스 10건. 호재 1 · 리스크 3 · 중립 6",
+  "updatedAt": "2026-07-10 08:45",
+  "date": "2026-07-10",
+  "autoSummary": "2026년 07월 10일 주요 경제 뉴스 10건. 호재 1 · 리스크 3 · 중립 6",
   "news": [
     {
-      "time": "08:35",
+      "time": "08:45",
+      "title": "옵션만기일 파도 넘은 코스피·코스닥 상승마감",
+      "source": "프리진경제",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcDNhR1A2TFpJUlBuU2FQak0wNm5FMmRUOS14T2YxbkNfZl9vc0xuQ2w1UUo5SGxOR0tsUkFUR0JMQWhZT0dqcEg4VUlYRnNneUJHWlV4VWQzdmotb0tieGVSd3otSll3RmFwSQ?oc=5"
+    },
+    {
+      "time": "08:45",
       "title": "코스피 이어 코스닥도 매도 사이드카 발동",
       "source": "조선일보",
       "tag": "시장",
@@ -12,7 +20,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUN4QmdhYjgzVlBoRklZcGxDOHk5UmR3Q1QxN245OVhXQlpjMUxOMl9OS1hhMktyUzlaRlFfSC1kNlQ4WllSRmtQaTFkTUNjQ1E4NDdRZ0lJVlphSWtzM1VjS21iNnJYblZ1dktnMmhqTmdmaXFNdTY2dDg4Q3ZjbHFNenllZElqUFM4?oc=5"
     },
     {
-      "time": "08:35",
+      "time": "08:45",
+      "title": "[0708마감체크] 반도체주 연일 급락… 코스피·코스닥 5%대 동반 하락",
+      "source": "인포스탁데일리",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42SHBqeF9mQTE2THB4bERzeklhNU9iQzZWZ3g3eWRqYUg5Qno1YXZVeVlzQmFiQUk3aU9mVnVTOHd4dGUyVGVvSXR1WG4zMHZTNlhFWDRMT2FaMmE0QnAtZl9Mbmhha0QxLU1ic1N0Qnl5ZUJXcGc?oc=5"
+    },
+    {
+      "time": "08:45",
       "title": "[속보] 코스피·코스닥 급락에 매도 사이드카 발동",
       "source": "v.daum.net",
       "tag": "시장",
@@ -20,55 +36,39 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVGpOVHFIcTl6cFdna2k2aHlqOHhRaGtXWjFNMEN4RWp6Y1J0Qm5SZ0ZibDVlMWlXVnhnQ0FFMkRST0dvODlhVGpmTjkyREk?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "코스피·코스닥, 내림세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mMGdaSDFoa2lQSVh3ZDB1RGV3N3R2Y05nbjJhN0liLWFFcjBwVWZ2clZ5TGpfc1V1S1RXeFk1SzdVVEJwWGpITVEtY1F4NkE1ZDNQN3RfYkpXSWdvdGR2WjBGclZsdmJoYV84?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "코스피, 급락 출발 뒤 롤러코스터 장세…코스닥 800선 붕괴",
-      "source": "산경투데이",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCUGxYUlAxay1QN1Q5VDhqX2ZMSV80OUtsbm5jZXRYOGVmVExUMTNidnNlWXQxcDB4YVJnd00zRlI5cGxsX250aDdOUU5WNXF6ajlSNG9pVG94MjE4NjdVa0ZnS2ZzQndtdmZ6bGRVTVTSAXRBVV95cUxNZWR6R1VZb3lJTFUzUVlUSHJjUk1SN3YwZjFncWZkMDhub1R2UVFZVEVyczFVaG03ZnZxMlRCa2N3Z0kwbkY1ZEdfODBfNjI0SmxIM3RlMi13ZHRseXVTcUJzLWt2T2lDLW1INlhDQm9veFFSNw?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "FOMC 의사록서 금리 인상론…AI 투자도 물가 변수",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOXIwWXF2SmRTcnRFYWpQWFdfdGg2UUFlb21CbmVQd3piS0NsTXZMbzNPTkl6TjQwQlhaWFBHQ0VOSW1RQ2VkREZsYVhkeTA1cFdzeXdKaDVpUdIBVEFVX3lxTFAyZWMtaTUwWVN2YUZYRGM2enNEbGdqZk95OFlVdzI2VTJrTGVleW9XTGJZZ0RIbGZ0cHN4M05TS01uVW1jZG5hclJ0SndONkJrU25pWQ?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "日 국채금리 30년 만에 최고…재정 우려에 차입비용 급등",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZjhCSnZYTmFzeXRPU2RiSVFlLTVaR2g1eWI5XzhIWU1kYkJCcDlaa1JLSTJRVllOekFGTGxOOXNfNmRzS0FVSUFKZzlBZVB0ZEZ1R3BUc1d0d9IBVEFVX3lxTE9hdDM1RXIwdVVOS09wdzQ2M3QzWm5HYWZ5YVdEUHRLMXRSZHBtcTYtU2UzNWJwd29ISHhCbFNhYzc5Y3dMaEczQ0dIU1NjMWlrd3prZA?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "인플레 압력 가중과 올바른 금리정책[포럼]",
-      "source": "문화일보",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IcWRhMnZzY2FTSVIzQnozc1pHeHFxNFZ2MFFUQ01MYnMtMHNMakhfNEh5NDlnMGVNWllyWkk3UmJrczBSMUlkYTdEM2VWdkZx?oc=5"
-    },
-    {
-      "time": "08:35",
-      "title": "[논단]AI 낙관론과 한국 경제의 금리 딜레마",
+      "time": "08:45",
+      "title": "[아주경제 오늘의 뉴스종합] 한은 총재 \"적절한 시기 금리인상 필요\" 外",
       "source": "v.daum.net",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tYWZrbUVrbnRUVTAwMjJHSTczSG1xRlJyWWVmY1VMS3JnUHF6MjFaUEpVcnM1STlHT2FnUnFSTGQzTmpsNjN3NzlJeW5QNzA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xSWpsY28tZHowVmZYVVNvT1RZUjc3MWtNWUJsQ2ROUmtIUG1WY1Y0eFdQLTJSa3FzNUJsRlFTLXNweC1kMDR6aEhIRXNobUU?oc=5"
     },
     {
-      "time": "08:35",
+      "time": "08:45",
+      "title": "\"AI 투자도 인플레 요인\"…Fed, 금리인상 가능성",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZDA1THllTU1LNklKRnhjb01QMFFEYVhqYUpaaTZHa3hMTzRKNm9pRDE5LUFiakNmMGtkSVJBZlVVa0hnR0R6RGxYQ3FGS2Z2Tl9xNlhVRy1pd9IBVEFVX3lxTE9rbTFISVgxNDJ0VjdDcEk4RWgyc1A1M1k0ekM1U2NjWXQweG1IcHNoQjR4WFVuVHNwcmhSUHNsVGdCQThwOEVUSkR2QTNZa0FhVGVoWQ?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "한은 총재 \"적절한 시기에 기준금리 인상 필요 판단\"",
+      "source": "연합뉴스",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1meU9PLUtSeFJ0eGdxTk90Ry1PZHZUYzNXUzMzem03b3FGMEp6R1YwSHh4c0ExdnVKUkZSYjJ6QjhWQS1tYVR1c3RrQy1qckVBZXdjOFBsaFppVHPSAWBBVV95cUxQN0NkRjQ1SU1KRThsb01vdkp5VDlrYnBPNXlsN2xBOVB5WHFOVU9WNm1UdWVKdlBiME0tMkZiNWx6OFV3QV9ESEd6YVNKSF91R2JYZmJ4S2tweVByY0Q0TE4?oc=5"
+    },
+    {
+      "time": "08:45",
+      "title": "[프리뷰] 금리 인상은 '언제'의 문제…7월 금통위 앞둔 한국은행의 선택은?",
+      "source": "CEONEWS",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wYzhidF9tMEZRcnBkU0xKdE51Tzg0eks4LVlFOVRXYi0xYktNc1IzTUZOa2pITnpfWkNOREtGeG5YTWdRNXJ0Vl9aYzBsa0RGYU1LZ2N1RHI1X2ZCb0hn?oc=5"
+    },
+    {
+      "time": "08:45",
       "title": "‘국민 주식’ 삼전·닉스, 이제 끝물?···증권가 목표가 하향에 매도 권고까지",
       "source": "경향신문",
       "tag": "시장",
@@ -76,12 +76,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BdnVzZm5ydVB4T0VsX0x5alBLLW81MGFickI2ejZ5XzRlR19iSjVrTzlZRmViYk1UWnhGajk3M05NRUlkNElQR2JhQkQyd0FVWm9RV281R3k4UdIBX0FVX3lxTE9hMnBVcG11NndBbXhKeWNGelVUM2tFR0l0Y3gwbFBSVEM2QjJ5RTFfOFVRWks1TGxfWW1XNUpibHZiSjBmcVBJVkhHbE9QSWxpMFJaRGdWRkgwUXdabFg0?oc=5"
     },
     {
-      "time": "08:35",
-      "title": "초고수, 삼성전자 '줍줍'…SK하이닉스는 차익실현 [주식 초고수는 지금]",
-      "source": "네이트",
+      "time": "08:45",
+      "title": "초고수, 삼성전자 ‘줍줍’…SK하이닉스는 차익실현 [주식 초고수는 지금]",
+      "source": "서울경제신문",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SaDZ5Tml0NEt0SVEzcnZMaEtySnVTS0NZa3NMSHVURWpHNE9qcWhTcDNQQWZIOFktY3dYenl6OGxqWU1uTThieFpibjRlaV9VQ3lB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vLXFtZmdZNTNHa1ZWZGRuY3M5S1N5ZWhvemQtclA3V1YzUnFpMDlnVzk5dEZOQkFvYXZ4Ylhvay1jWF9sSXlaSW8yUWZEdTBNOUHSAVNBVV95cUxPUmxRUTdLT09Sd2pBM0FQaUhGei12eUxHeWgxb2R4ajFfc3ZBUUtIVy1VeEpiR0FsTEhKaEFJdEEyc3NWaEJURDRLRzFzeGZLanFoQQ?oc=5"
     }
   ],
   "aiSummary": null
