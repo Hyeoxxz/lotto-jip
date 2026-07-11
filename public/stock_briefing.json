@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-07-11 08:27",
+  "updatedAt": "2026-07-11 23:04",
   "date": "2026-07-11",
-  "autoSummary": "2026년 07월 11일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
+  "autoSummary": "2026년 07월 11일 주요 경제 뉴스 10건. 호재 6 · 리스크 2 · 중립 2",
   "news": [
     {
-      "time": "08:27",
+      "time": "23:04",
+      "title": "[0708마감체크] 반도체주 연일 급락… 코스피·코스닥 5%대 동반 하락",
+      "source": "인포스탁데일리",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42SHBqeF9mQTE2THB4bERzeklhNU9iQzZWZ3g3eWRqYUg5Qno1YXZVeVlzQmFiQUk3aU9mVnVTOHd4dGUyVGVvSXR1WG4zMHZTNlhFWDRMT2FaMmE0QnAtZl9Mbmhha0QxLU1ic1N0Qnl5ZUJXcGc?oc=5"
+    },
+    {
+      "time": "23:04",
       "title": "기관 매수에 증시 급반등…코스피·코스닥 동반 ‘매수 사이드카’",
       "source": "산경투데이",
       "tag": "시장",
@@ -12,76 +20,68 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNGxQcnRCS3VEVkZHUnlIcEVtbVVZaDlhS2hpSXZCVWVHSWxUSmYyUTJvS3NnQmRHREYwUDFabXhsY25XN0VwYU5aSjJlQ1FmZ1h2bkF1Y2J5akhJdGt4ejY0VS1TbmtQZG9GczhUdDHSAXRBVV95cUxQb1hFTi1jdk5Ra2M1M3lxaGl3Z3lvSU5HOFVlUFp4Y2NjZkNGdGo2bHlnYlgyMGZ2OGtPTzlwZlI3QzVKRXhYRERsZ3A1MzJ6b2JnNjdmV1JDS1RUU0pJRFRFOEtRaEZ1RTJESTF2TVhaaS1FNw?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "매수 사이드카 코스피·코스닥, 상승 마감…기관 홀로 '사자' [시황]",
-      "source": "데일리안",
+      "time": "23:04",
+      "title": "[속보] 코스피·코스닥 급락에 매도 사이드카 발동",
+      "source": "v.daum.net",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVGpOVHFIcTl6cFdna2k2aHlqOHhRaGtXWjFNMEN4RWp6Y1J0Qm5SZ0ZibDVlMWlXVnhnQ0FFMkRST0dvODlhVGpmTjkyREk?oc=5"
+    },
+    {
+      "time": "23:04",
+      "title": "옵션만기일 파도 넘은 코스피·코스닥 상승마감",
+      "source": "프리진경제",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOG8xYUFPVy1YT0xEQUpmSGswdFdNaXFkX2JCZjVPWGtPRHhsMXBta0ZteUZrRmVLN0daMDd5eG1EOGljNHl6Y21DYUp3YlFBYkNtajZOMnJzcnpEdFFuRWNMXzdBQ1hfN3dCYndZNmZFVmFXcHN5bVdIYXBjSWZRc2ZSSXpwR2piUDBrc3hmVlFVa1pnZGY0LXZVRnpneFRRWnA5U0o0MjQtTUFHRllJYXEyd2owdjB6dmNkQk5FdU4zQmxTQ0pZcGV0M0lsbU1Sa1ZxeGstakJTbVNCeDdZSGRIRm1WTHE1bUNTb296V0c0QWp2bnN5UGNYc2V5eEwzYUQwcHpiSThDMWtETUtXZmJST2FlWEl6SHhRcVhvVzFuVHPSAaYCQVVfeXFMTWRYaXlGMDFmWUcyTzYyMExSczBJcHVxRzB2dS1laW5PcUIzVV9jcldBRENNSlVZdHNKTEhYZGR4bHk3dzVxNTFnZmZPUVJfa1ZqWGd5WGNseDE3enNfbWIyVzNwajRWRE5Sc2hRMzRuOFBMNzlSMWl3ZTZ2dUxFbUlQMXlFUkdubzFXNC1CbzFmYmY1OTNJc0x0X1VNRjROM2ZOVUhORmdVS2tpNWpNMVlHcHZ2cGMxZXNQYW16ZExsSktmTGViQ3dmLXZQVXQyRlFEaTNRVk9rTmZzejNnVEVJb3kxTmFYYURtNU1FWkp4TVRtc1NhQmRLRDRzTkdjQTFTbVJRLWdxWUpiaVZ4TENXUUlCelVvYjhYdFIyRERRcUdRNS1R?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcDNhR1A2TFpJUlBuU2FQak0wNm5FMmRUOS14T2YxbkNfZl9vc0xuQ2w1UUo5SGxOR0tsUkFUR0JMQWhZT0dqcEg4VUlYRnNneUJHWlV4VWQzdmotb0tieGVSd3otSll3RmFwSQ?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "코스피·코스닥, 오름세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpNEc0dUQ2TEgyTkFfOUZUQmt4ZUNFWnVUYTlycnpfTEJJXzFQNDVISzYzMjRWemtoWXY3TGZlWFQ2b085bGVMY0xYRHBlanNLeC1ZZmVFRTIySGNma2I3ZER3RlltaWtfUVBB?oc=5"
+      "time": "23:04",
+      "title": "다음주 한은 기준금리 결정… 경제성장전략도 발표",
+      "source": "천지일보",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tX0VzWFl1ZGhObFBhaW96X1VTNW9aTmphMkhFcGR2Mjk3V0xkOGx4Y3dPenRKaU1wUy0yWnFMOENvN0MtTmRYM3hFZXBHQWV6aGs3aGdfbGRJMnJ1OTN4VW1CVWJOc2c2VWc?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "코스피·코스닥, 동반 매수 사이드카 발동",
-      "source": "스페셜경제",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nNzduVEJVaGZrWHFRUkJtSTNTcEZYN3FTUE9NUWMteVBUNjRXRGtjRTBjdGtMd2hCQ1NtZlFoVjE3cEZ2aEs1Tkp5bjlEZXF0WC1BUmdPbjJzZkFlYXBwdXFnTzR0R2kwaUhvOA?oc=5"
-    },
-    {
-      "time": "08:27",
-      "title": "금통위 일주일 앞두고...신현송 \"기준금리 인상 필요\"",
+      "time": "23:04",
+      "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개",
       "source": "v.daum.net",
       "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcnZuWU8tZllJWDBJQ0UyTzZsWHlBVkJ2QlZBMGpqVi1hT0RWdlVHNmdwSk5iSXF2emk5UjZpQ2NvUWxWZzZCVFpPbVJnVkE?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04YXh5U0hwQzhZS2tXeGYxTWx0U0s4YTVXSU82emlsblRFMDhydzVYYTd1N1M3ZmhnVnVxVkFyNEQ0T0FzbHc?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "한국은행 \"반도체發 경기 호조에 금리 인상 검토\"...내년 3.5% 전망도 나와",
-      "source": "반론보도닷컴",
+      "time": "23:04",
+      "title": "다음주 한은 기준금리 인상 유력·하반기 경제성장 전략 발표",
+      "source": "ebn.co.kr",
       "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aSkRUdzdXVDhIODQtVzJLYWZUUFQxazZqNGZiM2c2c0pxNm5aTTNfN3VFbFpkVUZwYi1wYjZ0enpaNGJ0M1p0ekM1M2dEUVRvSVZGZ2Z2d0JlbERCNlpVM3Q5V210S2piLVhiUk1HTG7SAXBBVV95cUxNWkpEVHc3V1Q4SDg0LVcyS2FmVFBUMWs2ajRmYjNnNnNKcTZuWk0zXzd1RWxaZFVGcGItcGI2dHp6WjRidDNadHpDNTNnRFFUb0lWRmdmdndCZWxEQjZaVTN0OVdtdEtqYi1YYlJNR0xu?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiVmFKamJhdVpGaW9HdGROZ3lrWFhsaVJ5TTdjUVRkeGtvaWc3MzBpbGdTdW1mR0tMNVgtRlUxTkZZalE1ZHlwVW1uMml0UmZOdWdVdmp5LXphbnQ5M0lCc2pCQ3RCTjVK?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "한은 총재 \"적절한 시기에 기준금리 인상 필요 판단\"",
-      "source": "연합뉴스",
+      "time": "23:04",
+      "title": "[다음주 경제] 정부 성장률 상향 전망…한은, 3년 6개월 만에 금리 인상 유력",
+      "source": "산경투데이",
       "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1meU9PLUtSeFJ0eGdxTk90Ry1PZHZUYzNXUzMzem03b3FGMEp6R1YwSHh4c0ExdnVKUkZSYjJ6QjhWQS1tYVR1c3RrQy1qckVBZXdjOFBsaFppVHPSAWBBVV95cUxQN0NkRjQ1SU1KRThsb01vdkp5VDlrYnBPNXlsN2xBOVB5WHFOVU9WNm1UdWVKdlBiME0tMkZiNWx6OFV3QV9ESEd6YVNKSF91R2JYZmJ4S2tweVByY0Q0TE4?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nVWxhT1J4RWFJTk1wX2lWaXd6Wkdsd2pHSl9oV1ctOFRxai1ib2FOcU1pOHRBQ1kyeUlEcHI3NHFoajIwYi05YXFFZmZraU15bl9NRW9acmdwdzlneVRCM1I2WjU3bERjWEY3SHhXM0LSAXRBVV95cUxNZzNBMVRQbmVOMW0yMFMzOE44ckFidmIzMEhBaW5yN2YtUkJIR1VMZUk3Wkt5dUVDRDlTV19wZUtWSFV1VUhzaWNxMTlyWFB3OGtBbFpvUXdoTG11emQ4R1JGNnpfN1JnYUNDYnJYQ1o0cjRGXw?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "\"AI 투자도 인플레 요인\"…Fed, 금리인상 가능성",
-      "source": "한국경제",
+      "time": "23:04",
+      "title": "“미국에 공장 지어라”…삼성전자·SK하이닉스 겨냥한 美상무장관",
+      "source": "중앙일보",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZDA1THllTU1LNklKRnhjb01QMFFEYVhqYUpaaTZHa3hMTzRKNm9pRDE5LUFiakNmMGtkSVJBZlVVa0hnR0R6RGxYQ3FGS2Z2Tl9xNlhVRy1pd9IBVEFVX3lxTE9rbTFISVgxNDJ0VjdDcEk4RWgyc1A1M1k0ekM1U2NjWXQweG1IcHNoQjR4WFVuVHNwcmhSUHNsVGdCQThwOEVUSkR2QTNZa0FhVGVoWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zTzZpY0s2cl9ZY05nLWdWM2g4MzFRNkhKOC1LanRNTHV1aGRvbFM1cDRQWjVoOGJsUFd6S0NkM3Mza2dtZlVCVV9mWEQ3aEsyTDgxaV9n?oc=5"
     },
     {
-      "time": "08:27",
-      "title": "美 상무장관 \"삼성·SK하이닉스 美 본토 투자 확대해야\" 공식 촉구",
-      "source": "Chosunbiz",
+      "time": "23:04",
+      "title": "미 상무장관, \"삼성·하이닉스 美 내 반도체 팹 확대해라\"",
+      "source": "조선일보",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3k5ejFUaTlpOW1TLTBDRm9rb04zZjl5RjVHWXFjS2p5QjRCOEpMaGYxX2RDbFR4Sm1zS1ItdERDbnIzS3FkbWVfNkE1VUhrWFlseUcwb09iOVJvRHlHY0VCclRFcXpTQTNzZG1XY0h0LXFVLTVKT21LdDZfbmZYOWFNU3dsclFvMWRNLWNVVGUwX1ZVY0VjZ0UzRUNhQQ?oc=5"
-    },
-    {
-      "time": "08:27",
-      "title": "마이크론 투자 확대가 삼성전자 SK하이닉스에 부담 키운다, 경쟁 심화에 미국 정부도 압박",
-      "source": "비즈니스포스트",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GaDgyVXZhQTU5NmNUeC1HT1JDWkp3Z1Z6QU1PV2gxdVRZQnVZNF8wQ3VMWm9VQ3JUZmdqZVcxSFpWckxZNTFwbXdPajFNRDBSRXBldmRNQnVVZXRXX3B3SlhXbHlPZnk0RHk5UDV6SFJRZEU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmR4X19xY2taTEs5ay11c0dxa2tTUHRzd3NtMG5hQlZQTWJIQXRGc09CWngybVduZVJVRWNOdDlhb1V3bWVFbkYxcUFKZ3lCWm5LSjF6dWJ3N2gtSjhsaTZqcko2SzM5Zk00WFZIVnZwR3hZV2ZfMEVrbVRVMV9IMUNHQQ?oc=5"
     }
   ],
   "aiSummary": null
