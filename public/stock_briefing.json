@@ -1,10 +1,26 @@
 {
-  "updatedAt": "2026-07-15 08:23",
-  "date": "2026-07-15",
-  "autoSummary": "2026년 07월 15일 주요 경제 뉴스 10건. 호재 6 · 리스크 0 · 중립 4",
+  "updatedAt": "2026-07-16 08:27",
+  "date": "2026-07-16",
+  "autoSummary": "2026년 07월 16일 주요 경제 뉴스 10건. 호재 4 · 리스크 0 · 중립 6",
   "news": [
     {
-      "time": "08:23",
+      "time": "08:27",
+      "title": "코스피·코스닥, 오름세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvTU16Z2tBS1p0djBxVWZ4QW5hbldkUmVMY3VxUGRDalZkXzA2NjMtb2lxYWxZWEtNNlprbThXZzFJWk9vZ1dhVXZTZzYySWJfMVh6d1luYlBVXzd2X2NDWi1QQnpUUndTdm5v?oc=5"
+    },
+    {
+      "time": "08:27",
+      "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
+      "source": "강원일보",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5"
+    },
+    {
+      "time": "08:27",
       "title": "코스피, 장중 5% 급락 딛고 반등…6,850선서 상승 마감",
       "source": "산경투데이",
       "tag": "시장",
@@ -12,15 +28,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81S3pDWFBNT3hUUF93eExXNEZ6bWd3aTF1WVRFNC1DSnlzaVdGc1N6aVJiNGF5SkMtRE1DU2ZUZjkwUGlRNEdzeUhaOGd5LUlnUVdmanNBNTFDS3NKTm1mSDA1MUsxQ3V5ZHFXQmwtOWjSAXRBVV95cUxOLXd0bXhyNnVjYlNYU3ZuaEdFdFVNdkRaNG05cnNFSGlTNXRhcTIyUWpoRjNvemRxM1QybGtLa1dZNVNXdXpVOEQ4MDVqTUdMOWpTcjJnRmd3ZWRkZ1dVTTI4YjdKYXBUTXlKTUFJZzBlckFBRw?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "코스피·코스닥, 내림세로 장 출발",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sU1pnN3ZCNWpIZjk5WjFXdlVjNU9UTV9hWFJfc0dJNEdNN2pZV0xCV29ldk5vZUhDQ0VNaXA5WVFScjBlSGRZbGJMUWc4YjFPT29oUDRVUDZVOFA3SDZRRFl0SVVOV013U1Jn?oc=5"
-    },
-    {
-      "time": "08:23",
+      "time": "08:27",
       "title": "[개장시황] 코스피 7500선 안착 시도…개인·외국인 '사자'",
       "source": "뉴스핌",
       "tag": "시장",
@@ -28,60 +36,52 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbUNCeWpwMnZFN3NmMEVCbkNCMVRKaHoyZzc4Y0J0X08tYVRUcHRkOEFyZzNLTmxDQ0pRaVBEZllsdFkyanY1YjBMMzVxVU1tdWRwTVkyR3RNbU1H?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "코스피 상승은 했지만 무너진 7000포인트…코스닥은 25년 7월 수준으로",
-      "source": "프리진경제",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4dzg3dkxEQ3Z6WnJFRTBKTEZldHlIR1NqNGp0RDR4R283YXNXSC1mQWpkN01Yazk4VjA0V0ZhczRFY0RqWjhrbE16Y09JczB1Uk5hdXU0aDNYWU9PR0VxU1RTSWJrX3ZtYkM0Xw?oc=5"
+      "time": "08:27",
+      "title": "한국은행, 오늘 금통위 열어 기준금리 결정...인상 가능성 높아",
+      "source": "BBS불교방송",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02azE2SnBJWDRQczFBVE5EZGNId2dkaEFfRmVVS21RVHI1RU1EMTdjeGdyMEdsdVpsNXlkM0hOc2VsZmlQMnJhN2hGc1NibXg2bGJoc05weFBkN0N3N1BHWldQdVRlekdiYXpj?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "금리가 오르면 부동산 시장에 벌어지는 일 | 흥청망청",
+      "time": "08:27",
+      "title": "[김광석의 경제 읽어주는 남자] 금리보다 강력한 AI, 경제의 물길을 틀다",
+      "source": "아주경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5UXRXUjMzSFJKXzZWUlRPT2Q4eTFCVkF2R1lIamYxRlhYQTdITEw3cUxnbHR2WkFaR3BrWkxkeDhQQnJrbFFvTDNrOXlhTjRJalNaanhOUjLSAVhBVV95cUxQOVF0V1IzM0hSSl82VlJUT09kOHkxQlZBdkdZSGpmMUZYWEE3SExMN3FMZ2x0dlpBWkdwa1pMZHg4UEJya2xRb0wzazl5YU40SWpTWmp4TlIy?oc=5"
+    },
+    {
+      "time": "08:27",
+      "title": "코스피 7%대 급등…금리·하이닉스·미장 3박자 맞았다",
       "source": "한국경제",
       "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82ZFdDeVBsa19oWUR4RTVRN21Ja0hsVHpzQXBMbFA2V2xKVjlxWXBiZm9ETUxJb0RDV2I0OVNxby04Z2xjdU1qOHZmVE1LbXpJd3VPVNIBVEFVX3lxTE82ZFdDeVBsa19oWUR4RTVRN21Ja0hsVHpzQXBMbFA2V2xKVjlxWXBiZm9ETUxJb0RDV2I0OVNxby04Z2xjdU1qOHZmVE1LbXpJd3VPVA?oc=5"
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dlgxT3U2MkVPYzJGVmlTYURqY0NCcFk3dXBLZU1fRVMzTjk4bGhTbWYtbFY5TDVGSzhkd0hkTGEtRFFwQVhvWnV1ZHVOalFLaVAyS3hmNnhpUQ?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "[글로벌 경제지표] 美 '어닝 시즌' 본격 개막…한국은행 기준금리 인상 가능성",
+      "time": "08:27",
+      "title": "한국은행 금리 인상 전야…예금자는 웃고 ‘영끌족’은 운다",
       "source": "v.daum.net",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pRGVLa2dCRVgwUlJvUF8xTUdKalFtUXJLN0tpZmdraGFIcVR6Zlk1V0dvN2dJWkRWNHUycm40ZkdRYjNlUnc?oc=5"
+    },
+    {
+      "time": "08:27",
+      "title": "삼성전자, SK하이닉스 주가 상승",
+      "source": "뉴스1",
+      "tag": "기업",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85NWkwLVl4dmVncEZyN1dVTUtuY3QyWGMtSi10NUl5dTRGX2VJSnQyVjAyMjZrR2xYcmwybVFHQnpUNVdPelptY3R6OA?oc=5"
+    },
+    {
+      "time": "08:27",
+      "title": "\"삼성전자, 미국 증시 상장 재검토 착수...SK하이닉스 성공에 자극\"",
+      "source": "AI타임스",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ybWFGQlNpZG54UkVxY2stcV8wQ2lTN0xmSjRmTXR1WGs2b0J6QWRHbnhKZGQ5Y2g4ZUluTHgzdVpla2wzVmFpNk9adVZtUHM?oc=5"
-    },
-    {
-      "time": "08:23",
-      "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개",
-      "source": "연합뉴스",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53a3NpOXhQWUlObEVCT2RPdXlRMi1GSG55MENYbjZRTUpITHdnM1BfNGZiSkJhT0F6akVFTXRhQmphN2ZFdGs5Ykh0OHowbFY1UHd4eTlGcnc4YWvSAWBBVV95cUxNVEFhTXlqdmt0ejhOWDlBektkbTFzTWs1d2pSYnlFR2tfdDBtakVaVVprTGFCaXNJNXpfWHlpUjdrRUNZbVhZaVgydXRfM1l3Z21hbTgzQXYtY1QtVDUwN2Q?oc=5"
-    },
-    {
-      "time": "08:23",
-      "title": "다음주 한은 기준금리 결정… 경제성장전략도 발표",
-      "source": "천지일보",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tX0VzWFl1ZGhObFBhaW96X1VTNW9aTmphMkhFcGR2Mjk3V0xkOGx4Y3dPenRKaU1wUy0yWnFMOENvN0MtTmRYM3hFZXBHQWV6aGs3aGdfbGRJMnJ1OTN4VW1CVWJOc2c2VWc?oc=5"
-    },
-    {
-      "time": "08:23",
-      "title": "코스피 0.73% 오른 6856 마감...삼성전자·SK하이닉스 3%대 반등",
-      "source": "조선일보",
-      "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlRtSjY1WW50OXlwa1E1dTBtTzk3U01Xdks4UWRTLWVYNmZ3LTlFTjlNMzN6MFNNNWNicThCRElzU2RndnQ5Y0h1WnFZZFFRb0ZwNU5yUjFXdkJERXB3X3VhM0lhMGhzT09DS05iRlR0c1RjSkhFRW9uQmRnNFdvOQ?oc=5"
-    },
-    {
-      "time": "08:23",
-      "title": "[증시키워드] SK하이닉스, 월가 긍정 평가에 ADR 급등…삼성전자 반등·알테오젠 급락",
-      "source": "이투데이",
-      "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzcHhaU2cxcVFLN3VMOG1VQXNOaE02Sk9pR1R2Vks2enJfSm5xVkZJUU9mZllJWWljTlR3WkJ0U3Nxa19ZUVhJUGpidENvZHJTd3BSUw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faE4tU01LYjFOTmVmeklPaHFQODJlTTU3RjlkaVJhVHJyRV8zVXAxWEI3RnNMUTI0WVAwejVRRi1XT0VyWmFaVld6bHM2RExHeXUzbFotLUNzTUwwX2g0MlU4cnVVRnoyWkE?oc=5"
     }
   ],
   "aiSummary": null
