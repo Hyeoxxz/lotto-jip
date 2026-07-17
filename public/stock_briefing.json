@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-17 08:23",
-  "date": "2026-07-17",
-  "autoSummary": "2026년 07월 17일 주요 경제 뉴스 10건. 호재 1 · 리스크 1 · 중립 8",
+  "updatedAt": "2026-07-18 08:22",
+  "date": "2026-07-18",
+  "autoSummary": "2026년 07월 18일 주요 경제 뉴스 10건. 호재 2 · 리스크 3 · 중립 5",
   "news": [
     {
-      "time": "08:23",
-      "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+      "time": "08:22",
+      "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
       "source": "연합뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xNWg5a2ZxMk81NGFxbDBpbTRHVXdNUmtVZjRVVXBqWkpZQUxDZHdDYmFQMUFKYW9XdWtFSWR4TmZMRDFwTFhkU1hsaTJ4NUdsWGFMNktUb3RjRGfSAWBBVV95cUxOZnJuNXBNQVd0ZmJlMFZtemtaYjdMb3VqUjNXdEk2YVkyQ1JncHM0ZVlsUEpoLThWWFBRVlBaakVfTUhkc3AyQlF5VmRrRTMya0ZQRWdEelNnb3cwV3pVVGo?oc=5"
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
     },
     {
-      "time": "08:23",
+      "time": "08:22",
       "title": "코스피·코스닥 동반 급락…양 시장 매도 사이드카 발동",
       "source": "산경투데이",
       "tag": "시장",
@@ -20,15 +20,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jOGRtck9rbzgtSmdIV09sTWJXQUZWTF9kTzYzcVNORXI4RTFORVJfSGIwNTBNUW5nN2t0bEpleXpNMWdsT1ZicU9GTGN6cjJ2QVVaRGRjREtaZ2lIbmZOQmEwTWxvY1RQcFV4ZVJZWm3SAXRBVV95cUxNWXdUZFg5ZmVkZUYtVGs3anh5UTJXNGxXbkdOd0pCLXM3RzVPSjRGbjhZcFF4T1g4XzJwczZEekVueDdYVFN6OUpuWGpGT2xkYi0tTjBNLTJXcy1fUXVYLVg5cTdMZXlkZFdJOXpkNHl3Tm5mWQ?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "코스피·코스닥, 내림세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41VXlTMGZMZ3lWUTZzMF9OVVZtX0Q4R2NrMS0zU2dxQk4yRnpmM0VVbUZmVklsTXlVUmRpMDMxQVhYUC1IUXhEQ21wN2JJRlp4WklnOU5qczVWeWw3UUt6OEc5eW5KY2pMTUxF?oc=5"
-    },
-    {
-      "time": "08:23",
+      "time": "08:22",
       "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
       "source": "강원일보",
       "tag": "시장",
@@ -36,7 +28,15 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5"
     },
     {
-      "time": "08:23",
+      "time": "08:22",
+      "title": "코스피·코스닥, 내림세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41VXlTMGZMZ3lWUTZzMF9OVVZtX0Q4R2NrMS0zU2dxQk4yRnpmM0VVbUZmVklsTXlVUmRpMDMxQVhYUC1IUXhEQ21wN2JJRlp4WklnOU5qczVWeWw3UUt6OEc5eW5KY2pMTUxF?oc=5"
+    },
+    {
+      "time": "08:22",
       "title": "[속보] 한은, 기준금리 0.25%p 인상…3년 6개월만에 긴축 전환",
       "source": "한국경제",
       "tag": "정책",
@@ -44,44 +44,44 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TclBFanFJWnBZZXkxX2FXdDdCeVN6ZGlCdzNzTkZBb3R3UDdQcTc0RkxzeVNwckVySHdqMzhHTmFLQUp0b1RrbGlScFhjQ1BwWnhpTkFmcEszUQ?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "기준금리 年 2.5% → 2.75%…\"인상 기조 지속\"",
-      "source": "네이트",
+      "time": "08:22",
+      "title": "\"금리 8월 또 오른다\"…한은 긴축에 영끌족 '이자 폭탄' 걱정",
+      "source": "블루밍비트",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TNjVUbzd0NW1CQ3doSDRLZ2VVVy0xZi1yenNWZ2FSU1pLX1h2YW9JZ0VSejRsODNDQVN2djZJS3NudjhFX3l6NmJWemYtY2c3QXNudzZHQWxFdW1KbFN3em9oVTcwR1NZbHc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfanVvWjVRU3BMWHJuQ0dUZUxwdmpLQVNrTmdGZ2NEYzRMRG1Pc0R6UUx0dmdVUWhyMmZMUkM2c191VnY2WXgybUt5Q2ttU1Z2?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "Fed 금리 인상 멀어지자…한은 '백투백' 인상론도 후퇴하나 [심성미의 중앙은행 워치]",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ic0JHUDZLWlFjSlZEWVBhazBDTmtRaDNEdDY4dzB6WnkxNGpOTER3U2IzZFpiYkxldVY5WkJPelBQd2hmU1ZBMHNzWERwN1RjQmFGeWtMZ1NxUQ?oc=5"
+      "time": "08:22",
+      "title": "“전쟁나면 오른다더니, 고점 찍고 주르륵”…金값 반등도 쉽지 않다는데 [원자재로 살아남기]",
+      "source": "v.daum.net",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZUWRDa0J1bUtYb0VtZlVxQkk0ZE52MVhRLTBNWkk4emZGMnVaQzV6bnJHQUNxdmJ5ZGF5QkRqelhQMDRkcThsSkZxTkVUOGc?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "[속보] 금통위 \"향후 통화정책 금리인상 기조 이어나갈 필요\"",
-      "source": "한국경제",
+      "time": "08:22",
+      "title": "한국은행의 금리인상... 왜 비겁하고 비정한가",
+      "source": "최보식의언론",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HMXdXYTV2cE9iUjYyU2loVmptLU1NeXMwbkdMZ2lNOWlrb0ktSms3cGYwQVR6N0lnWVBsaGlpODc2S2drMGlmdExKbGJXakRwRjR5Nl9QMnhpUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZGpFYUR2R1dDVDVpdEJuV01VZzVOSEplSkk1UGlhV1l3V01NU0ZMQWM2eENKNUtHVV9ZS2F6MzR6OWlLUXBRQlV1bjU1NmRhcDB3UHhQLTNXQWc0UUVSLWgtVDLSAWhBVV95cUxQZXNDSUs5TzhseFU2MWJib24zeEYxOFhrREtqYjVRbGJVWUFSMVBUTDg2b3A3SjNKbldZM1JudVZjdEJhWExBZTdsRWY3VDVPbDVEWXdnWU45SzY0MEF4WXpZenRLOGltMA?oc=5"
     },
     {
-      "time": "08:23",
-      "title": "블룸버그 \"中 창신메모리 상장, 삼성전자·SK하이닉스 타격 받을 수 있어\" By The Guru",
-      "source": "Investing.com 한국어",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13QWdUMDUteE9LVURjZjJxVU1CMXl6XzFrcG5YODdqZExseHlOQk45NWVtNzdiWDA1LV8yUlVSeFZiRVhtTXhkSXBnSUZVd29xQ3VGT1RTU2c5NC1VclRHdjdhWmVMamEwZW1PYnNPM1M?oc=5"
-    },
-    {
-      "time": "08:23",
-      "title": "SK하이닉스 흥행에도…삼성전자, 23년째 ADR 선 긋는 이유",
-      "source": "IT조선",
+      "time": "08:22",
+      "title": "정부 '삼성전자 SK하이닉스 단일종목 레버리지 ETF' 규제 강화, 예탁금 현금 3천만 원 의무화",
+      "source": "비즈니스포스트",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrY2tBYWZfbFFrTEQteV8wUUJYMTdzLTJma3BFRTBHazlNRzBxX0ZxUTJoZzQyeGo4NXlvQ0piSVo0V2RYaGpFeEh4WFY3OWd5SVJJTDA5dkY3T3hhdWZoZ0xzOUk1RDRrcV9tenVqRnrSAXRBVV95cUxNUEJnNjN5RE00amR0T0xkVVRtTUFFeFFSWEJQNG5MRWRDMVBaV3VsVEtRcmplWXdXbnZmQUN6LTN1YXh4Snprb2pGcFVIMVRjQkhNSC1NUkpQWDRPRHFUc0lmR3dvbk41UVVKNV81VTZTa05JOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4VGNmbWJCSjlFdWNNNzJIclBHbFE0aXlXNzB6b0kxeWduSEdiT2pGTEpra2FVRXZKVzRJX3RuU3pRQllLY1VRbFJ6c1dnM2dCWTA0TWhHNmFFVldVanBXcGQ3c3ZvNzBRT295OWhBdE8yWFk?oc=5"
+    },
+    {
+      "time": "08:22",
+      "title": "삼성전자·SK하이닉스 급락...증시를 덮친 진짜 이유 [이슈톺]",
+      "source": "YTN",
+      "tag": "기업",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIa3g4bnJtMUMtalRYeDJYTDdPYTNkOTdSOXczVDhwa1FRY2RRT0lZT29SRHRLZ1hGeGdEVldFWW5CQ1hBSlliR2xGOHdSRW5MdFVTSDhzSWk0U0xJamc?oc=5"
     }
   ],
   "aiSummary": null
