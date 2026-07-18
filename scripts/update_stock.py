@@ -7,6 +7,13 @@ GitHub Actions가 매일 오전 7:30(KST) 자동 실행
 import requests, json, re, os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+HISTORY_PATH = "public/stock_history.json"
+HISTORY_MAX = 500          # 누적 보관 최대 건수
+RELATED_MIN_SCORE = 0.25   # 이 이상 유사할 때만 "관련 기사"로 인정
+RELATED_TOP_K = 2          # 기사당 붙일 관련 과거 기사 개수
 
 KST = timezone(timedelta(hours=9))
 TODAY = datetime.now(KST).strftime("%Y년 %m월 %d일")
@@ -113,7 +120,78 @@ def fetch_google_news():
     print(f"  총 {len(result)}건 수집 완료")
     return result
 
+# ── RAG: 과거 기사 누적 + 유사 기사 검색 ──────────────────────────────────
+def load_history():
+    if os.path.exists(HISTORY_PATH):
+        with open(HISTORY_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+def save_history(history):
+    os.makedirs("public", exist_ok=True)
+    # 최근 HISTORY_MAX건만 유지 (파일이 무한히 커지지 않도록)
+    trimmed = history[-HISTORY_MAX:]
+    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(trimmed, f, ensure_ascii=False, indent=2)
+
+def attach_related_news(today_items, history):
+    """오늘 기사 제목들을 과거 기사 제목들과 TF-IDF 코사인 유사도로 비교해
+    각 오늘 기사에 가장 관련 있는 과거 기사를 붙인다."""
+    if not history:
+        for item in today_items:
+            item["relatedNews"] = []
+        return today_items
+
+    past_titles = [h["title"] for h in history]
+    today_titles = [item["title"] for item in today_items]
+
+    # 형태소 분석기 없이도 한국어 뉴스 제목은 명사구 반복이 많아
+    # 글자 단위 n-gram TF-IDF가 단어 단위보다 안정적으로 유사도를 잡아준다
+    vectorizer = TfidfVectorizer(analyzer="char_wb", ngram_range=(2, 4))
+    corpus = past_titles + today_titles
+    tfidf = vectorizer.fit_transform(corpus)
+
+    past_vecs = tfidf[:len(past_titles)]
+    today_vecs = tfidf[len(past_titles):]
+
+    sims = cosine_similarity(today_vecs, past_vecs)  # (오늘건수, 과거건수)
+
+    for i, item in enumerate(today_items):
+        scored = sorted(
+            ((sims[i][j], j) for j in range(len(history))),
+            key=lambda x: x[0],
+            reverse=True,
+        )
+        related = []
+        for score, j in scored[:RELATED_TOP_K]:
+            if score < RELATED_MIN_SCORE:
+                break
+            h = history[j]
+            related.append({
+                "title": h["title"],
+                "date": h.get("date", ""),
+                "link": h.get("link", ""),
+                "score": round(float(score), 3),
+            })
+        item["relatedNews"] = related
+
+    return today_items
+
 # ── JSON 저장 ─────────────────────────────────────────────────────────────
+def build_trend_note(news_items):
+    """관련 과거 기사가 붙은 항목들을 모아 '며칠째 이어지는 이슈' 문장을 생성.
+    단순 집계(autoSummary)와 달리, 검색된 과거 맥락을 실제로 활용하는 부분."""
+    recurring = [n for n in news_items if n.get("relatedNews")]
+    if not recurring:
+        return None
+
+    # 가장 유사도 높은 항목을 대표 이슈로 선정
+    top = max(recurring, key=lambda n: n["relatedNews"][0]["score"])
+    related_dates = sorted({r["date"] for r in top["relatedNews"] if r.get("date")})
+    span = f"{related_dates[0]}부터" if related_dates else "최근"
+
+    return f"'{top['title']}' 이슈가 {span} 이어지고 있습니다 (관련 과거 기사 {len(top['relatedNews'])}건 확인)."
+
 def save_briefing(news_items):
     os.makedirs("public", exist_ok=True)
 
@@ -126,10 +204,13 @@ def save_briefing(news_items):
         f"호재 {counts['호재']} · 리스크 {counts['리스크']} · 중립 {counts['중립']}"
     )
 
+    trend_note = build_trend_note(news_items)
+
     output = {
         "updatedAt": UPDATED_AT,
         "date": TODAY_SHORT,
         "autoSummary": auto_summary,
+        "trendNote": trend_note,
         "news": news_items,
         "aiSummary": None,
     }
@@ -144,6 +225,21 @@ if __name__ == "__main__":
     print(f"\n=== 주식 뉴스 수집 ({TODAY}) ===")
     print("뉴스 수집 중 (구글 뉴스 RSS)...")
     news = fetch_google_news()
+
+    print("과거 기사 불러오는 중...")
+    history = load_history()
+    print(f"  누적 기사 {len(history)}건")
+
+    print("관련 과거 기사 검색 중 (TF-IDF 코사인 유사도)...")
+    news = attach_related_news(news, history)
+    related_count = sum(1 for n in news if n["relatedNews"])
+    print(f"  {related_count}/{len(news)}건에 관련 기사 연결")
+
     print("JSON 저장 중...")
     save_briefing(news)
+
+    for item in news:
+        item["date"] = TODAY_SHORT
+    save_history(history + news)
+
     print("=== 완료 ===\n")
