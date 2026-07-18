@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests scikit-learn
 
       - name: Run lotto update (토요일만)
         if: github.event.schedule == '30 12 * * 6' || github.event_name == 'workflow_dispatch'
@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add src/App.jsx public/stock_briefing.json
+          git add src/App.jsx public/stock_briefing.json public/stock_history.json
           git diff --cached --quiet || git commit -m "Auto update $(date +'%Y-%m-%d %H:%M')"
           git push
