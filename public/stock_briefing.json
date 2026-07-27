@@ -1,11 +1,33 @@
 {
-  "updatedAt": "2026-07-27 08:28",
-  "date": "2026-07-27",
-  "autoSummary": "2026년 07월 27일 주요 경제 뉴스 10건. 호재 4 · 리스크 1 · 중립 5",
-  "trendNote": "'[마감시황] AI 투자 우려·유가 급등에 코스피·코스닥 '동반 약세'' 이슈가 2026-07-25부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-07-28 08:33",
+  "date": "2026-07-28",
+  "autoSummary": "2026년 07월 28일 주요 경제 뉴스 10건. 호재 4 · 리스크 1 · 중립 5",
+  "trendNote": "'코스피·코스닥, 오름세로 장 마감' 이슈가 2026-07-22부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "08:28",
+      "time": "08:33",
+      "title": "코스피·코스닥, 오름세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pbl9oSTFHUWJUWG9wNzlKREdLMXRYazhsNzNyVm0zRjdSXzVrbHdTOHdtbC1SaUxyanBlRXYtcWpfbjBiSUZaVFlCRzQ4VkZwMUwwX3lxMEE0MWtxcFU5UEdtMnc4Z0tJdmM4?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥, 오름세로 장 마감",
+          "date": "2026-07-22",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qT3pwc3NlM2MwZENoaHBTQ3BleElDa2RuMUhpVUFvNlppVTlWLXlLY1hpTmRsZ1R4TmpCYmJvdk9QMkpfbVdMeV9sVDI0bXdBZ2VKWFR3STBLSERWMW0xbWk2ZEszc0Y3bFhJ?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥, 오름세로 장 마감",
+          "date": "2026-07-24",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb0JqMlN5YzU1TXNEcTBlc2FfakIzaTF1aHYwZzZJN0ZIdGM3QVBERjZQQnBtRFNNYTVXaElpRE83WGZzekM3Z2VFdFlUa2lIUzdleDNIVk00TUZuRmR4OGlTTElKcGdQc1VB?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "08:33",
       "title": "[마감시황] AI 투자 우려·유가 급등에 코스피·코스닥 '동반 약세'",
       "source": "뉴스핌",
       "tag": "시장",
@@ -27,7 +49,7 @@
       ]
     },
     {
-      "time": "08:28",
+      "time": "08:33",
       "title": "[코스피·코스닥 전 거래일(23일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -49,51 +71,16 @@
       ]
     },
     {
-      "time": "08:28",
-      "title": "코스피, 2% 가까이 내리며 7000선 아래로…코스닥도 하락",
-      "source": "진일보",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSdzI1aWk1eVFfY3U1R282emxFMTBMMk0ta29MMXJxUHJ6RmlUYWxEaW40cVpiUUZEMzBlR3lhWXFHVHBHNUZPMWFfM3BkOWF1ZERyS3JnajQ3VVo0bW9WSlFiNjhETTBqczZuUTVWOA?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피, 2% 가까이 내리며 7000선 아래로…코스닥도 하락",
-          "date": "2026-07-25",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSdzI1aWk1eVFfY3U1R282emxFMTBMMk0ta29MMXJxUHJ6RmlUYWxEaW40cVpiUUZEMzBlR3lhWXFHVHBHNUZPMWFfM3BkOWF1ZERyS3JnajQ3VVo0bW9WSlFiNjhETTBqczZuUTVWOA?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피, 2% 가까이 내리며 7000선 아래로…코스닥도 하락",
-          "date": "2026-07-25",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSdzI1aWk1eVFfY3U1R282emxFMTBMMk0ta29MMXJxUHJ6RmlUYWxEaW40cVpiUUZEMzBlR3lhWXFHVHBHNUZPMWFfM3BkOWF1ZERyS3JnajQ3VVo0bW9WSlFiNjhETTBqczZuUTVWOA?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "08:28",
-      "title": "코스피·코스닥, 내림세로 장 출발",
-      "source": "한강타임즈",
+      "time": "08:33",
+      "title": "코스피 6755.75 마감…대형주 오를 때 홀로 떨어진 '이곳'은?",
+      "source": "위키트리",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ0tBRVNxd2tkZExfZ2l4aG5sOHBvQXpMRHNfSV9YazBwa09DejVSVUkzdDg0M2Y3ZGRmQjZsZG15UHlvVkZZTUNvTGtUeUZhMlYxN0N4QWxlWWFxVDZTRnhVclMwVEtMLThv?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-07-20",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBud2tRQlFGWGl4dWp5LWw3VjJCX2RQTlcxQTFla01SZ1NqbUFLQ2JyN21CaTM5QUVScmhhVkxJR3IxTThKcEhOM3NoNFg4aGpUNmpnc1N2c1NMU3VqejF4TF82SG1qTGV1X3pJ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-07-21",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zR0ZBUWcyNjJ1TTBORWxQaVRZc040dEFDN096YVFoRVBJMUFqcG1KeTNyZWJScXJwZmVkTzZCZTNwLXRkREFWR0x0MzduTTQxampnRFFpYkRVRFBMS2I1VGlnbHBYdzFRV1pv?oc=5",
-          "score": 0.787
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TSmN5eDRyX0F4eWxsU0xmcTY4d3U2Q19SblFlMDVTOWdnaWxGX1NEb1pmYkVROF9yaXNXOHdxVVc1R0I5Z1IySW5WTkk1QWJMUHFvNzBR?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "08:28",
+      "time": "08:33",
       "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
       "source": "연합뉴스",
       "tag": "정책",
@@ -101,21 +88,21 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
       "relatedNews": [
         {
-          "title": "한국 경제 성장세에…힘 받는 기준금리 '연속 인상'",
-          "date": "2026-07-24",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXWGQ2dnl3azlNZ29sa0I2eGc5ajZUWmdCcUpaUXNSaW5WLVprdnNBd3ducVQteXJFWnprOWFQSjllOHBYSkRYV3BpNnBGaFJpakhUckNHM255a3PSAWBBVV95cUxNOVp1UHBzMUlkZ1ZxUl9YVVkzb2lfZUxHZXkyeUZ0QlhkSEdoekRraTVOX3lOM01WMVVBbTlmQXRydmVQWjM2Nl9XUUoxMFk5NkhjMmxpdHBfV3NqT2JRcFI?oc=5",
-          "score": 0.326
+          "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
+          "date": "2026-07-27",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
+          "score": 1.0
         },
         {
           "title": "한국 경제 성장세에…힘 받는 기준금리 '연속 인상'",
-          "date": "2026-07-25",
+          "date": "2026-07-24",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXWGQ2dnl3azlNZ29sa0I2eGc5ajZUWmdCcUpaUXNSaW5WLVprdnNBd3ducVQteXJFWnprOWFQSjllOHBYSkRYV3BpNnBGaFJpakhUckNHM255a3PSAWBBVV95cUxNOVp1UHBzMUlkZ1ZxUl9YVVkzb2lfZUxHZXkyeUZ0QlhkSEdoekRraTVOX3lOM01WMVVBbTlmQXRydmVQWjM2Nl9XUUoxMFk5NkhjMmxpdHBfV3NqT2JRcFI?oc=5",
-          "score": 0.326
+          "score": 0.33
         }
       ]
     },
     {
-      "time": "08:28",
+      "time": "08:33",
       "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
       "source": "중앙일보",
       "tag": "정책",
@@ -129,47 +116,47 @@
           "score": 1.0
         },
         {
-          "title": "2분기 한국경제 0.6% ‘깜짝 성장’…한은 추가 금리 인상 힘 받는다",
-          "date": "2026-07-23",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UMkt6eXgwa2dnM3RfaDJ0akZobnFRcXdHZDNsbXJqVU9ocGtfUVk3WWJ1R2hzd3VYVTYwMWsyTWdBSzBUUE9PUGRMaTU1WGhkTUt3Ym9LMzhZaDdwLTJYUVlIWFJwcnfSAWxBVV95cUxOaVoxQ3l6bWxyWkh3VHcySl9Ia0tuOHRwM2lfSDdBUk9Obno3M3FLSEpybkRob0RIVTl1YmFJVFpKOGNkMzE1SWZmNFNqV04xa2djd1FfcWo4SU5veHN0Z0ZZdEYwZmFOcEsxbEo?oc=5",
-          "score": 0.366
+          "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
+          "date": "2026-07-27",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBWmJ5RXJvV1pnbEZEZTZ5WENFV1RwR3NscVVWLW5KTE9hSmwtOTZGODQ2V2t0THpuV3hsc19KbW9mbVJ4WE84U1JvXzV6bV9nVFh5ZUJB?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "08:28",
-      "title": "케빈 워시의 두 번째 FOMC…기준금리 올릴까 [한상춘의 국제경제 읽기]",
+      "time": "08:33",
+      "title": "美 10년물 금리 연 5% 넘으면 주가 폭락?…근거 따져보니",
       "source": "한국경제",
-      "tag": "정책",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic0ZsVDNVdmFCNnNCcV8wc2JUd2psWnVPRUp3U3VodVFuWXFfYkMwMDE3cGpOWldsNHhrajczZFAzMEYyeE1ZYVc3QS1NQUo1NGRJQTZsaG9idw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMDJuQklJMk1UNjlLdnpTV1cxS2dVMTQ0ZW41bllVV3BZZjYwV0NjUExnS2xuemZXUlNlSl9TenM5WTlTeDFCdUp1Y0tEQ19lWlZSeFlVVVlNQQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "08:28",
-      "title": "한은, 8월 또 금리 인상하나…'깜짝 성장'에 갈리는 전망",
-      "source": "네이트",
+      "time": "08:33",
+      "title": "한국은행 8월 기준금리 또 올리나…깜짝 성장에 '추가 인상' 가능성 커졌다",
+      "source": "뉴스인",
       "tag": "정책",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JV3pteFl0NEwtVldQNlFiYkQwb3pFaXJmNFJkT0NBNVl6cWRFYWNaT296LU15MXN5Zi1DaU55aEFMbXVrSVBaMV9wSkhuYk1jZ1Fr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRVB2alBGaTZVTTA0SUdnbElUQktTcWktTDlhZnRCd3B5NnpDa1ZQYVc3V1dzLTRwc3AtRTV6TmZHTURERzlhMEgyS2l4ZVF4WVNjb0lMVXE3ZnlMQmE0TDdCczRCcU9PWHNF?oc=5",
       "relatedNews": []
     },
     {
-      "time": "08:28",
-      "title": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은",
-      "source": "연합인포맥스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4VUJCWm9GY1pKUnRJUDRpeDNYSXUxdWs3YjRPQWIxcDlfZV9nZ0h5WVFzVjVuLU9TZ3haSWZRVlRDNTBjOFhkTUJ5T1U4VUVTUHk1aTdoZnlWcFJWZUxvRWdnbHAtV05qemMtUHhVU1jSAXRBVV95cUxOdHpfRlhDQklRNzVPNlF0NWxfVXV0WEZHNVVPTno3RlgzZkJIT3AyNGl0aUtweHFfNkJmNDdnRlFqYnY0V0dvX0gtTW93Zkh6VWpSR2FVNHZKSWxLNl9zV0dkX2dzeDlVdTRjUFFOWWlIaGxiOQ?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "08:28",
-      "title": "“60만전자·420만닉스 시대 온다”… 전문가들이 꼽은 역대급 매수 기회 ‘이것’",
-      "source": "매일경제",
+      "time": "08:33",
+      "title": "＇삼전닉스 더 담을까, 던질까＇…＇64조＇ 깜짝 전망, 개미 ＇시선집중＇",
+      "source": "한국경제TV",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96blE0QXRqanBBRHotMGtmb01CV25YTllhSDY2TlVVcXY4c3RFV2NFSWt4MUNUXzFRZ3pGNXBGYkxxX0VpU0NNZ080b1QxWmpfZ1RINQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVSGNTV2lWS0V5Yi00MXFuaGpnUnhUamZ5N2dISEdySEZFcHJCVzF5NkNLd3diMDBydVYtZVJFU04zbkpmNFNYUVl4Qk1NOExDczJCbGkwTFJ2U1dCdFBGaFlZZWp1OVdoeHFNakk1M0hQdGRaMjVV?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "08:33",
+      "title": "삼전·닉스, 7∼8%대 급락…외국인·기관 모두 던졌다(종합)",
+      "source": "연합뉴스",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wb0JIRW10dUdaaERoVDN0M3Z4Q3RRQTVRV0otTW1LdkRLNDQzMGFvV1hKdWJ6OUxSOHpWY2Q4OEY0VkJSU21BZHVkT0NTckZXQlRkTmJEWFQzZEHSAWBBVV95cUxQMjhwc05xSjhNUU4zV3hma3pZREpEWS1jZWtSZE11Vk9vb2ZzQktaRnBmZUVGQnlRclh1RUNXdTVnTmgwd1NxV1hpNS0xMk1kZ0x0QjFlNXZHS1Mya0lJblg?oc=5",
       "relatedNews": []
     }
   ],
