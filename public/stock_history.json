@@ -1890,5 +1890,126 @@
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CamctbkF2WTIyak9YeXducDJ2VEVoTy1uR29zYU1HSFlwNXpvQnZ6VXJMeWkwdE9EZjZJR2luX1V0UmJsRWYzTE03VEVPUzZVY29FSndTWC1wVWROcl9MR1JjMm1BNXhD?oc=5",
     "relatedNews": [],
     "date": "2026-07-29"
+  },
+  {
+    "time": "08:29",
+    "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우]",
+    "source": "YTN",
+    "tag": "기업",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY1RUWk9aUmpEVHpaSVlKVG8zbjZZTGg3alRrWVNXN0V4bVNGQXo0SG1lX2pKOWo3ZGVueHcyd2JjM3plUE5vaDlvMGxESmwybXVHcV9YVEZzb2FOWlE?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "“290만원 주식, 120만원대에도 못 사”…코스피·코스닥 동반 서킷브레이커",
+    "source": "v.daum.net",
+    "tag": "시장",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxT1Q2NllNQ3o4d0lVbldRUl9JTUVrdzloQm9uZlRicktqZmt4YVU1TG55VUI4RXY0eFBfbFc5akpDdlRFdldtQktZdks2alE?oc=5",
+    "relatedNews": [
+      {
+        "title": "매도 사이드카 이어 서킷브레이커…코스피·코스닥 동반 '폭락'",
+        "date": "2026-07-29",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVGlYZ3RaZ1Vzem0xT1Z3c0lwZmQySF9zYTlFYVBBZkJRQkEzaWI2eWI2QkxidUV2YWlkS1FOWnRsWUo4V3dnOWFaeGdrV3JVN0tkZHhIWmdmZw?oc=5",
+        "score": 0.312
+      }
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "끝없는 폭락장에 '패닉셀링'…코스피·코스닥 10% 넘게 급락",
+    "source": "한국경제",
+    "tag": "시장",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlSnpSRFlfUFdndE9zMWUzbG5DOGhtN1Bjbjl5UFVsVjdfLXN1NExFY21vMnlBMTViR3c2M0JYaS1QZHBldUNmQzFpNHo4cGFLZlhUYU5HeW9uZw?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "코스피·코스닥 이틀째 동반 서킷브레이커…국내 증시 ‘패닉 장세’",
+    "source": "산경투데이",
+    "tag": "시장",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0waC1aOHN4MHRMdnV3Vi1SLV9sTGlvZGpJYjJuMTVuTWVSOUlaSVJZc3p6WkI2dTBVazluQTBZZEE3TkkySDdMTm5uWTRORVJrNVJBTWZ2bnBZRHQ4Wm9Sc1BXOVFfRjVhRE5wckYwSlHSAXRBVV95cUxPS055bTY3V0JnZlhydWtnYkRpcHJMZ2NJcFF1Q3I1eFVmNFlkbXJ4MzNrSDBLVTRhYkpZV3dqSjdKdzIxbERrS204czNYNTZfN0pFOGFrQmtwMFJYSFRHOElTRVZYZzA5N3pxTUgwaUtBd3ZwXw?oc=5",
+    "relatedNews": [
+      {
+        "title": "매도 사이드카 이어 서킷브레이커…코스피·코스닥 동반 '폭락'",
+        "date": "2026-07-29",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVGlYZ3RaZ1Vzem0xT1Z3c0lwZmQySF9zYTlFYVBBZkJRQkEzaWI2eWI2QkxidUV2YWlkS1FOWnRsWUo4V3dnOWFaeGdrV3JVN0tkZHhIWmdmZw?oc=5",
+        "score": 0.393
+      }
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "국민은행, 31일부터 가계대출 금리 일제히 인상",
+    "source": "한국경제",
+    "tag": "정책",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50OHAtS2VZblo1bXBEMlpIakJiZElWVlBZbnJ2UVFEclgySFRfUFVWZHlscXFiZDZrZ0NQNlN4M0xnaTFYd3dUakxlcnpIcUFMTzJkZ09ScEJRZw?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "[속보] Fed, 美 기준금리 연 3.5~3.75%로 동결 [Fed 워치]",
+    "source": "한국경제",
+    "tag": "글로벌",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidXpRMlZSVGdweVpZazYzVlF6RjZ0TjJyLTlpdFJXeGQ1ZHpEcmV5QzZiaGVmczZSWmpJLUtDWkt1ZlVlYWdVSDR5c1ZhdGRSSWpZVGJjb1Jtdw?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "신현송 총재 \"물가와 경기 개선 흐름 등 고려해 금리 인상시기 결정\"",
+    "source": "한국경제",
+    "tag": "정책",
+    "impact": "호재",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05VE1ta0M4a2ZsbHJEZjlSR3FYTlNVUHZMcEhmUDR4ZjRwUkxkNjl0VWs3ZVFEc2ZXSGQybmdzTFBLQVYyd04wYlNpV0p3WmxJS3lRSHVta0gydw?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "금리 인상기, 진짜 리스크는 '반도체 바깥'에 있다",
+    "source": "한국경제",
+    "tag": "정책",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWdGS096ZFQ5RS0wVkU4V1o4QThSVXR2OWRDcnQzV2RfWEtMSFhZNzJLS1pQWlJscjBPdUJodlhDOTVMR0IxWFp5TXJGWlBrVXU5bUtRY2ZGUQ?oc=5",
+    "relatedNews": [
+      {
+        "title": "금리 인상기, 진짜 리스크는 '반도체 바깥'에 있다",
+        "date": "2026-07-29",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWdGS096ZFQ5RS0wVkU4V1o4QThSVXR2OWRDcnQzV2RfWEtMSFhZNzJLS1pQWlJscjBPdUJodlhDOTVMR0IxWFp5TXJGWlBrVXU5bUtRY2ZGUQ?oc=5",
+        "score": 1.0
+      }
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "SK하이닉스 –22.85%, 삼성전자 –17.91%…주가, 이틀 만에 빠졌다",
+    "source": "한겨레",
+    "tag": "기업",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10TlUtdUJMcEtkOWNOQ1BnQW4zUXhUS2NuU3QyZ2NkQnZ3Y2lFek5xN3h6bkwyVDY5UWYyRnBMc1RwbXBYLUZ4TXZoRHlaZi00N2dKa1hvMm9iR1dZVFZ2a3V5Ui0yYUk2amNNR0pEVjByQQ?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
+  },
+  {
+    "time": "08:29",
+    "title": "코스피 8% 급락 '서킷브레이커' 발동‥삼성전자 9%↓·SK하이닉스 11%↓",
+    "source": "MBC 뉴스",
+    "tag": "기업",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnVFR0U2E3VTBOUHlLNmFsMllQQW0tZDhDSFp6MEhVOXd1ZDJQNnRhMzBPRzh6cXl0eVp1cDZFekFnOEJ4SFJWbjBaWXV4aldsTmVEcGlTWXg5cV9zRDN0SFByVXRfSFBxQkc5TVFRSDJQVXFa0gF0QVVfeXFMTjdEQXcwZXNwMm9lZ3lMSF9TclVRZG5zcWRFenNYclJRdmJwekpMQWtXOXgxYkhYYllTd19hUDBLWmcxWVo3TUVFVEU3RkczTkV4SDRtWXpXWWZ0UkZha2g4SkFlYzJwampFZF9MTXZuX1ZTQUw?oc=5",
+    "relatedNews": [],
+    "date": "2026-07-30"
   }
 ]
