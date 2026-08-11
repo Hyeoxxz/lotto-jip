@@ -1,11 +1,33 @@
 {
-  "updatedAt": "2026-08-11 08:05",
-  "date": "2026-08-11",
-  "autoSummary": "2026년 08월 11일 주요 경제 뉴스 10건. 호재 7 · 리스크 1 · 중립 2",
-  "trendNote": "'흔들린 코스피, 코스닥은 800선 돌파' 이슈가 2026-08-08부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-08-12 08:11",
+  "date": "2026-08-12",
+  "autoSummary": "2026년 08월 12일 주요 경제 뉴스 10건. 호재 3 · 리스크 1 · 중립 6",
+  "trendNote": "'코스피·코스닥, 오름세로 장 마감' 이슈가 2026-07-22부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "08:05",
+      "time": "08:11",
+      "title": "코스피·코스닥, 오름세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qbXhqYVB3ZE90NV84VUktbUFnVDFldmwtZTdVZjRzZVVvc09IeWxqWElGcXFxQUQzQXV3U3R6TFBwMTVkOUVWcTM0NERwREdXYnVnRjM4SDVIWVk1SEtRNW0zWGpUV2xRelJj?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥, 오름세로 장 마감",
+          "date": "2026-07-22",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qT3pwc3NlM2MwZENoaHBTQ3BleElDa2RuMUhpVUFvNlppVTlWLXlLY1hpTmRsZ1R4TmpCYmJvdk9QMkpfbVdMeV9sVDI0bXdBZ2VKWFR3STBLSERWMW0xbWk2ZEszc0Y3bFhJ?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥, 오름세로 장 마감",
+          "date": "2026-07-24",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb0JqMlN5YzU1TXNEcTBlc2FfakIzaTF1aHYwZzZJN0ZIdGM3QVBERjZQQnBtRFNNYTVXaElpRE83WGZzekM3Z2VFdFlUa2lIUzdleDNIVk00TUZuRmR4OGlTTElKcGdQc1VB?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "08:11",
       "title": "코스닥 장중 6%대 급등…매수 사이드카 발동, 코스피는 상승폭 축소",
       "source": "산경투데이",
       "tag": "시장",
@@ -13,21 +35,21 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vRVJJVV9uSkh6enNhTS1aaW4xU0g2MGxLZEhGTzNzYWN6dG5ablVkdnFISE5feDZaandibHBuVEFCRE42eUIwZTlyUVNxM1gyUW5maXI4eE5MWFVRMDlFY21pSTZRVjBrc1pReUNoVVfSAXRBVV95cUxPSVpiMnNYNzAtMU9lYXVkekJnT3FMY2lGYkY1RE1CRndOV3dQS2w2Z2llNXlBT0pDR0doQ0g5VjFlZVZkaUJXNFhUeU9IbmtaVE5CcG5SendHSnh1Z2l4R1RkVEJaVGVBb1hISFBBTGxkcWc1TA?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
-          "date": "2026-07-18",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5",
-          "score": 0.418
+          "title": "코스닥 장중 6%대 급등…매수 사이드카 발동, 코스피는 상승폭 축소",
+          "date": "2026-08-11",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vRVJJVV9uSkh6enNhTS1aaW4xU0g2MGxLZEhGTzNzYWN6dG5ablVkdnFISE5feDZaandibHBuVEFCRE42eUIwZTlyUVNxM1gyUW5maXI4eE5MWFVRMDlFY21pSTZRVjBrc1pReUNoVVfSAXRBVV95cUxPSVpiMnNYNzAtMU9lYXVkekJnT3FMY2lGYkY1RE1CRndOV3dQS2w2Z2llNXlBT0pDR0doQ0g5VjFlZVZkaUJXNFhUeU9IbmtaVE5CcG5SendHSnh1Z2l4R1RkVEJaVGVBb1hISFBBTGxkcWc1TA?oc=5",
+          "score": 1.0
         },
         {
           "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
           "date": "2026-07-18",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5",
-          "score": 0.418
+          "score": 0.427
         }
       ]
     },
     {
-      "time": "08:05",
+      "time": "08:11",
       "title": "흔들린 코스피, 코스닥은 800선 돌파",
       "source": "KB Think",
       "tag": "시장",
@@ -49,107 +71,52 @@
       ]
     },
     {
-      "time": "08:05",
-      "title": "코스닥 6%대 급등 '매수 사이드카' 발동",
-      "source": "세이프머니",
+      "time": "08:11",
+      "title": "[주식 시황]코스피, ‘삼전닉스’ 약세에 0.9% 하락…코스닥은 1.6% 상승",
+      "source": "남도일보",
       "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RWkIyTEw3cXd4V1VXTkN0alJ0QlRDdHFlbExHOEk1TFlZLTdHNXhhbDloQ3dEeWttcnBybU9EVmxGbHFuVDJKcG1PZ0s1dkdzUlJ6RDE4Y0huRkRwY0o3bndUNG9nVWtsYXR4NHJB?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
-          "date": "2026-07-18",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5",
-          "score": 0.488
-        },
-        {
-          "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
-          "date": "2026-07-18",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5",
-          "score": 0.488
-        }
-      ]
-    },
-    {
-      "time": "08:05",
-      "title": "코스피는 소폭 반등 6290선...코스닥, 사이드카 발동하며 7% '급등'",
-      "source": "프리진경제",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VbnFsQVMtaVFyeEN5WVpidGhGYWJLcFplbGhBMXhZV0RzNjRlR2FFNnFWTWFLLWRNb1c2MmdFcjVGUVF3WmozcUVPQ21tdWRVMXJtQ0JFUTlBclB5am5VaFF4N2xhQ0ZyX1BnSw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BdU5IWUR2anFXVDlyREZlSWNNUkdmaEJOdWVIaEx6cU0xMkF3Q1BSY2FKMlN0RVgwa0lyejViWEZELUpka19Tc1NvUHNxUVVpUGJMeGJXNzFKdU1qdU9VQ0I0ZXZObVpVTk5IZ9IBcEFVX3lxTE5KOW1keUZyQXFZWVpmeVJjQzU5c21MT08xeGZlUF9pOHd1bm5qSktWWTIzc0d1ZnZGRmxva3ptZ3l0dzdOelIyNEFhcEc1RkUxQ0xZUnVEZlp1M09vN09HMEtVUE5LVDlrWHp0bzRFMnk?oc=5",
       "relatedNews": []
     },
     {
-      "time": "08:05",
-      "title": "뉴욕증시, 국제 유가·국채금리 오르자 하락",
+      "time": "08:11",
+      "title": "'반도체주' 뜻밖의 악재…한국 개미들 '초긴장' 하는 이유",
       "source": "한국경제",
-      "tag": "정책",
+      "tag": "시장",
       "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTHlheFpSQ3ZoQnpZNDMyTWpjVTRadGx6THJvVzVJUVF3YU9lNHBkZFFoWlpXeXZieXQ2cTJUc3hYU3hKUGtvVXQ4VU9UUUtWYlNFeENVNXlydw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xSmtIdV9iY3hVZldicXdiQ3NnUHhlUGtWS0VzMEJCSG12ejRJQ1NyZEVsZVdOM2R2WFpyMDBIREhpcnptOHlsZUwtdS1rOHhvTWhMLXRZLVM2Zw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "08:05",
-      "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
-      "source": "yna.co.kr",
+      "time": "08:11",
+      "title": "한은 \"기준금리 추가 인상 가능성 커\"⋯한 차례로 안 끝난다",
+      "source": "포커스온경제",
       "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
-      "relatedNews": [
-        {
-          "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
-          "date": "2026-07-27",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
-          "date": "2026-07-28",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
-          "score": 1.0
-        }
-      ]
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmcEFwYzVpM0xaQkdKS3JzOXpDUXd5M0czVGJFRjhxUDN1VFhkMDY4MHJjSG02M1BYWTVONUptYlQ5M2hWRnpkVlBBZk5obnNXWnR3YnJBNzc4Mnlpa2c?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "08:05",
-      "title": "'美고용 악화'가 오히려 호재?…뉴욕증시, '금리인상 기대론' 후퇴에 3대지수↑",
-      "source": "v.daum.net",
+      "time": "08:11",
+      "title": "한은 부총재 ＂물가 오름세 지속…금리 추가 인상 가능성 커＂",
+      "source": "한국경제TV",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jYUxUN0NONGl6ZURyLV9seXhrclZuR044WjFyNXl5M1htdVdrLUxpZHdILTd2aEFFcURMZHJ2cDZnN0JwOXFjaGxQOExWdlVvcTloX3RUQ0pHVmZ1cEhzY0J0ZTdmZ05rYmx0RWdzeXJDODJFLUQ3MkFFZDg?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "08:11",
+      "title": "바닥 찍은 금값, 美금리인상 가능성 줄자 '꿈틀'",
+      "source": "네이트",
       "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pTk9FV0p0QzRKNjRvcFd6Mzg1bFgzdkswaFpGRmpEVlBXbE9qTzZyeUFxMTNaNDBTVFFGa1E0cnBVUXlSY0E?oc=5",
-      "relatedNews": [
-        {
-          "title": "'美고용 악화'가 오히려 호재?…뉴욕증시, '금리인상 기대론' 후퇴에 3대지수↑",
-          "date": "2026-08-08",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pTk9FV0p0QzRKNjRvcFd6Mzg1bFgzdkswaFpGRmpEVlBXbE9qTzZyeUFxMTNaNDBTVFFGa1E0cnBVUXlSY0E?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "'美고용 악화'가 오히려 호재?…뉴욕증시, '금리인상 기대론' 후퇴에 3대지수↑",
-          "date": "2026-08-10",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pTk9FV0p0QzRKNjRvcFd6Mzg1bFgzdkswaFpGRmpEVlBXbE9qTzZyeUFxMTNaNDBTVFFGa1E0cnBVUXlSY0E?oc=5",
-          "score": 1.0
-        }
-      ]
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTzFaTlRlcmU1NU51dG1raDZnVWtBN3l5RERHclk2cmxWQy1ENHdIV1NCWFo0MUtPQTYzdkY4My1Tc0tDa1lfcGNvQmJYSjZtS0lyaDB3TS0wSEh1bC1XWW0xYno0NmJNaVE?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "08:05",
-      "title": "반도체 넘어 내수로…한국 경제 올해 3%대 성장 청신호",
-      "source": "mstoday.co.kr",
-      "tag": "경제",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWkN2VWhyRlF3YmlCSGQ2YU5kN2xWcWlXUTJqQnQ1amR6TS1qTjUyX3BIS09rcWxIRHJjRmpKNW91UDhjcDNWN0p2UThOcjh2QW5BTkZPQUVhYmxjSk1nZXRRR1U5UTBENFd3aA?oc=5",
-      "relatedNews": [
-        {
-          "title": "반도체 넘어 내수로…한국 경제 올해 3%대 성장 청신호",
-          "date": "2026-08-07",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWkN2VWhyRlF3YmlCSGQ2YU5kN2xWcWlXUTJqQnQ1amR6TS1qTjUyX3BIS09rcWxIRHJjRmpKNW91UDhjcDNWN0p2UThOcjh2QW5BTkZPQUVhYmxjSk1nZXRRR1U5UTBENFd3aA?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "08:05",
+      "time": "08:11",
       "title": "삼성전자·SK하이닉스, 엇갈린 주가 흐름 이유는…주주환원 '온도차'",
       "source": "더팩트",
       "tag": "기업",
@@ -157,26 +124,26 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40V3N1ZHd0eklMMkhGc0hQTDh6TU40Zll0SW14QjAtWkNLV0YwN1JSbks5bDZSNkJORVZJeDhnOVpfZk8yTE9kYkZBR1FLUmU1WnlUOE1YLXhQUdIBVEFVX3lxTFBuV1k5Z3Jqc25BY2FaeF9TMWhTM2h2MEVaYThzVjYzZE16NDVtMXFRYlV5b2VYTnRUUHF3ckdNMFVrQzNQS2dlRmZiWXVKQ0xIdmR1cQ?oc=5",
       "relatedNews": [
         {
+          "title": "삼성전자·SK하이닉스, 엇갈린 주가 흐름 이유는…주주환원 '온도차'",
+          "date": "2026-08-11",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40V3N1ZHd0eklMMkhGc0hQTDh6TU40Zll0SW14QjAtWkNLV0YwN1JSbks5bDZSNkJORVZJeDhnOVpfZk8yTE9kYkZBR1FLUmU1WnlUOE1YLXhQUdIBVEFVX3lxTFBuV1k5Z3Jqc25BY2FaeF9TMWhTM2h2MEVaYThzVjYzZE16NDVtMXFRYlV5b2VYTnRUUHF3ckdNMFVrQzNQS2dlRmZiWXVKQ0xIdmR1cQ?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "삼성전자·SK하이닉스 \"주주환원 확대 방안 검토\"",
           "date": "2026-08-08",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JME1ZSzlzOG9fUl9ydGdScTRnYlY2QVFOOUtGQlhqb0JkcWlOMzh2RFFIb2IyV3h3ajlwU0lEenRaWXlwNlBtX0Qxd0thTEdzV2dGdXpqLVR5Zw?oc=5",
-          "score": 0.301
-        },
-        {
-          "title": "\"삼성전자·SK하이닉스, 재무건전성 유지 속 주주환원 확대 검토\"",
-          "date": "2026-08-06",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VTUF1WVZGMEJzX2RwVE91eXl4OGhjcU8tb1dqeHJheVZ2UG9qLU0xM01iU2owMWZRbDdKNW1RZWJzRXcxZ1ZUM1ZDOGZVMTlLRlRYcjBEV2hsczl1al9HM2lpTm5wSDhJNHBOLVJBSzMtVGZv0gF0QVVfeXFMUF9BNUJmWG1kWVhybGxzSGNmenFjUEJfUnlDLThFZFdweGZKWEotNHV3cThsR3NwNndPVWw1SG94ZnFoM0Z3dzlFX3ROc0ZoTktjaVYtX21CWkk5RVFIZFoxclBTSk5fejJHNmFENmNxb2NyZUM?oc=5",
-          "score": 0.286
+          "score": 0.307
         }
       ]
     },
     {
-      "time": "08:05",
-      "title": "KB \"삼전 주주환원 10배 예상\"… 6000피 횡보장 벗어날까",
-      "source": "조선일보",
-      "tag": "시장",
+      "time": "08:11",
+      "title": "\"값싸게 물 대줬더니…\" 추미애, 삼성·SK하이닉스에 \"폐수 줄여라\"",
+      "source": "주간조선",
+      "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb214U1l4em1iVTJlYUc5QzRJSGRsZ1NYMFgzRmhXTGxqSEltOFRjNVdkMkV1SXFKd21fbHNnMEhRZzhPYVpCcE1LM2xBaGdybzNkQU9wTXQ0Z2hkYUJuN0QtcGRfOTd2LTRnQ3o4ZDhjX3VmenVuNDk5ejJWTnB3ZA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hX081VWhZcXpORUNYN2pwYWxHbnFFOVZVdnBTZVJiT3czSGZMTHYyaWRKZE9Kd0x5c05kM2lVZWY2UmFmR0x5dDVTSDJZYjNDUGFBT2hCVzM5bU1hcC03WGZETVNQZnR6bFE?oc=5",
       "relatedNews": []
     }
   ],
