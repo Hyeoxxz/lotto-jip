@@ -1,33 +1,11 @@
 {
-  "updatedAt": "2026-08-17 07:45",
-  "date": "2026-08-17",
-  "autoSummary": "2026년 08월 17일 주요 경제 뉴스 10건. 호재 3 · 리스크 0 · 중립 7",
-  "trendNote": "'[코스피·코스닥 전 거래일(13일) 주요공시]' 이슈가 2026-07-25부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-08-18 07:49",
+  "date": "2026-08-18",
+  "autoSummary": "2026년 08월 18일 주요 경제 뉴스 10건. 호재 1 · 리스크 1 · 중립 8",
+  "trendNote": "'[코스피·코스닥 전 거래일(13일) 주요공시]' 이슈가 2026-08-15부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "07:45",
-      "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런주식]",
-      "source": "서울경제",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVm1sWUVuTFZKWlpkTThQdXhnTXdTd3hhaTBXZzhrQmlNdWVWNzhqYzYyOUFFcnFjZ0dQdllGS0ZEV1g5a01odV82ZW9ZR05jamc?oc=5",
-      "relatedNews": [
-        {
-          "title": "삼전·닉스는 빠지지만… 온기 확산하는 코스피·코스닥 [이런국장 저런주식]",
-          "date": "2026-08-05",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLb2hsRUtrdC1TMUN6Q1Z0OUZ0bS1kUnNGUV9Rd3ZLR2xGeGF3WV8xMmlTMXV1MlZvZmxuaUdENUpPN1F6OGNfY1NfMWl1TVNFNWfSAVNBVV95cUxNU0VQeEthSFE0Yk85ZHY5Q2xkMU9fRGx6WU5XWTRNbzVnMHdPUmowb2dCcHk5dWs0dUJrVEhVNWI0MGNoTmlGa2d3Q1BrNlFwdl9zRQ?oc=5",
-          "score": 0.32
-        },
-        {
-          "title": "삼전·닉스는 빠지지만… 온기 확산하는 코스피·코스닥 [이런국장 저런주식]",
-          "date": "2026-08-06",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLb2hsRUtrdC1TMUN6Q1Z0OUZ0bS1kUnNGUV9Rd3ZLR2xGeGF3WV8xMmlTMXV1MlZvZmxuaUdENUpPN1F6OGNfY1NfMWl1TVNFNWfSAVNBVV95cUxNU0VQeEthSFE0Yk85ZHY5Q2xkMU9fRGx6WU5XWTRNbzVnMHdPUmowb2dCcHk5dWs0dUJrVEhVNWI0MGNoTmlGa2d3Q1BrNlFwdl9zRQ?oc=5",
-          "score": 0.32
-        }
-      ]
-    },
-    {
-      "time": "07:45",
+      "time": "07:49",
       "title": "[코스피·코스닥 전 거래일(13일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -41,37 +19,46 @@
           "score": 1.0
         },
         {
-          "title": "[코스피·코스닥 전 거래일(23일) 주요공시]",
-          "date": "2026-07-25",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTklqTllicUJJejFWTE8wQjJqc2tnb1VKTFV0R1pfNER3U2NIeDdKcWZEQUxqdkdmV29rUUt6M2hHZHdyeW9wemRFN2l5NzlxckFfX0dJSEtYSWfSAWBBVV95cUxQbVBtaHJsa2Vmb2RnUDNneU5FczRuT1VrSVd3bHdtSTdlVWloaWpaOGdoaFZxUUVNb3hGZkh6dVN6U2Z4RGtldEVSbVFDZmJRcGRDU1pYdUhrOF9WXzRwcHQ?oc=5",
-          "score": 0.769
+          "title": "[코스피·코스닥 전 거래일(13일) 주요공시]",
+          "date": "2026-08-17",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUkh5SmdpZnlBcXM1c3RubVhhaGpKMXlLdkQ0bWJQVXdlQWRHdkZWdHB3aEk4WC1Db0VoQ1E2TnN2c0NiWlk2TlVZcGpUbExUYzJ1SXl2OFpieXfSAWBBVV95cUxPcWRMZUktNVFsTjVfVHdNOEswUlozcGM1Ry1wbzdTbnNCRUhrYWlLSFg3bEhyZkdTck95YXg2c1lyQ2N2SGJCVVpndkNhelI0MFhNZHNYTUJiVmZ5anFYcVc?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "07:45",
-      "title": "코스피 장중 7천 돌파 후 상승폭 축소…코스닥은 하락 전환",
-      "source": "산경투데이",
+      "time": "07:49",
+      "title": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?…재개 일정은 언제",
+      "source": "CBC뉴스",
       "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdXloOVdDRFlGNmpfeE82UG9wSkNQU2ctZnQwNV9tMmUxa09kR0s4YlV0azdhSDFiX0VUZ2dZVmJPQlBsR3hEbVlRbVdlc3Jxb3BfRlNBSV80S3NzY3J6ZTZsXzhJSW1hTVFiQVZVY2nSAXRBVV95cUxQaTZOaE5UQl93ZFZFV0h0ZjZpSFROOWR2Um5zLXNkRF81ZUZ6cHBrbTFpc1FrX1NQb01rbnBFVENfTlZTbnVDcUlqYlc3QjYteG5RSW45Y3RWZUNsaEk0bUJGY1VfNHJFZExkT25OQzA4UWVOeA?oc=5",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43UGx2Q0MtdGlLR1BsTmlNeEVOVXhibk1Hd1M5Ynhxby1jejdYbU9vUC1UaWZVLTQ5S3NlZDRtQTBjNVZVbFRvUjN3Qmd1ZjU0SDd0YnJzWHY5QktkQlhiX1I4enBvQS0w?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "07:49",
+      "title": "[이슈 체크] 내 종목이 관리종목? 코스피·코스닥 36개사 관리종목 현황 분석",
+      "source": "네이버 프리미엄콘텐츠",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEtEcnB3YnJFWkhWWXFjMEVRdnVNV0NCTkRUdWdYZFBPR2NlZ1M1X2xvZWc5bnRSRlFaSmFNSG9zMG1wYVdERHp4MmpYMmdpdHhUMl9QUDR0R0FnMVBQNUxINk5tU3NFQlJDazllNzNTZXF0eUZ1TWxLWkk4VTYyd3ZuajlkS084RkE?oc=5",
       "relatedNews": [
         {
-          "title": "코스피 장중 7천 돌파 후 상승폭 축소…코스닥은 하락 전환",
-          "date": "2026-08-15",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdXloOVdDRFlGNmpfeE82UG9wSkNQU2ctZnQwNV9tMmUxa09kR0s4YlV0azdhSDFiX0VUZ2dZVmJPQlBsR3hEbVlRbVdlc3Jxb3BfRlNBSV80S3NzY3J6ZTZsXzhJSW1hTVFiQVZVY2nSAXRBVV95cUxQaTZOaE5UQl93ZFZFV0h0ZjZpSFROOWR2Um5zLXNkRF81ZUZ6cHBrbTFpc1FrX1NQb01rbnBFVENfTlZTbnVDcUlqYlc3QjYteG5RSW45Y3RWZUNsaEk0bUJGY1VfNHJFZExkT25OQzA4UWVOeA?oc=5",
+          "title": "[이슈 체크] 내 종목이 관리종목? 코스피·코스닥 36개사 관리종목 현황 분석",
+          "date": "2026-08-13",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEtEcnB3YnJFWkhWWXFjMEVRdnVNV0NCTkRUdWdYZFBPR2NlZ1M1X2xvZWc5bnRSRlFaSmFNSG9zMG1wYVdERHp4MmpYMmdpdHhUMl9QUDR0R0FnMVBQNUxINk5tU3NFQlJDazllNzNTZXF0eUZ1TWxLWkk4VTYyd3ZuajlkS084RkE?oc=5",
           "score": 1.0
         },
         {
-          "title": "코스피 장중 7천 돌파 후 상승폭 축소…코스닥은 하락 전환",
-          "date": "2026-08-15",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdXloOVdDRFlGNmpfeE82UG9wSkNQU2ctZnQwNV9tMmUxa09kR0s4YlV0azdhSDFiX0VUZ2dZVmJPQlBsR3hEbVlRbVdlc3Jxb3BfRlNBSV80S3NzY3J6ZTZsXzhJSW1hTVFiQVZVY2nSAXRBVV95cUxQaTZOaE5UQl93ZFZFV0h0ZjZpSFROOWR2Um5zLXNkRF81ZUZ6cHBrbTFpc1FrX1NQb01rbnBFVENfTlZTbnVDcUlqYlc3QjYteG5RSW45Y3RWZUNsaEk0bUJGY1VfNHJFZExkT25OQzA4UWVOeA?oc=5",
+          "title": "[이슈 체크] 내 종목이 관리종목? 코스피·코스닥 36개사 관리종목 현황 분석",
+          "date": "2026-08-14",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEtEcnB3YnJFWkhWWXFjMEVRdnVNV0NCTkRUdWdYZFBPR2NlZ1M1X2xvZWc5bnRSRlFaSmFNSG9zMG1wYVdERHp4MmpYMmdpdHhUMl9QUDR0R0FnMVBQNUxINk5tU3NFQlJDazllNzNTZXF0eUZ1TWxLWkk4VTYyd3ZuajlkS084RkE?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "07:45",
+      "time": "07:49",
       "title": "코스피·코스닥 36개 관리종목 지정…90거래일 '상폐' 갈림길",
       "source": "노컷뉴스",
       "tag": "시장",
@@ -93,16 +80,25 @@
       ]
     },
     {
-      "time": "07:45",
-      "title": "주식 시장의 계절을 읽으려면 실질금리를 보라 ﻿[김정남의 주식투자 프레임]",
+      "time": "07:49",
+      "title": "美 경제학자 80% \"올해 내 금리인상 없을 것\"",
       "source": "한국경제",
-      "tag": "정책",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MDR4eW9fTFkyZ2w5Z0hqR2xRZ1pWUVNpQlJZbHhLVnRocjlXSnE2MlpYcG9oekgyd0c5eFVoek5FRWR0NnAySEcxRVpsdnFvZWxoS2hSSlRaZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VY1ZGcjl3c3VpRXF2WmdTRUxCb1lPWF9laDJ1UGJRYTNXX3BWNkc0UXBGY2otSlpxRHFCb2tpSlFsVmVCWFdkeGJBb0hFMVBuSGRURmc3QXhCdw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "07:45",
+      "time": "07:49",
+      "title": "[데일리 경제 분석] (8월 17일) 빚은 2000조원 넘고 월급 일자리는 줄었다…회복 뒤에서 커지는 ‘금리·고용’ 부담",
+      "source": "미디어피아",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ydEhHLU9tdzRIdnNJUFcxbUdVR3hXbWs5VFlHOUlvWnpkS1JOdElCQklQWENvT2F0TnFLcURJRjk2YVcxYndqUGg2eWRlYUVJOTRHWFIwdk9DbjViOGZESG5ITUhyTkhReHFQRw?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "07:49",
       "title": "[이승헌의 통화&시장] 8월 금리보다 중요한 것",
       "source": "KB Think",
       "tag": "정책",
@@ -124,7 +120,7 @@
       ]
     },
     {
-      "time": "07:45",
+      "time": "07:49",
       "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
       "source": "중앙일보",
       "tag": "정책",
@@ -146,43 +142,21 @@
       ]
     },
     {
-      "time": "07:45",
-      "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
-      "source": "연합뉴스",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
-      "relatedNews": [
-        {
-          "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
-          "date": "2026-07-27",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "한국 경제 3%대 성장 눈 앞에…기준금리 연속 인상 힘 받나",
-          "date": "2026-07-28",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR0xfZURENFc3NWh2Qk5KNzNiVlZzUU4ycUxWMWtDTlIwX0xXOURfbW1ZZ1FSMHhxVkViaE0wOS16LWo1aGtIVlQ4Zi1SQUdka2cwMTBaNWpjR2_SAWBBVV95cUxORTZpZnJvZ1ZNUmk0OERVbUJYc21IbUEtbTRaeXhuaHlrdUVTQXdUOHRSU2hRMTlnVFcwek9tZnk4ay1nZDZBQjdYR2ducm5iSzN0RV9IMDBkbFhMcGJEWFA?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "07:45",
-      "title": "삼성·SK하이닉스 주주환원 ‘300조설’…배당·자사주에 얼마 풀까",
-      "source": "straightnews.co.kr",
-      "tag": "기업",
+      "time": "07:49",
+      "title": "고점론 퍼지는데…\"삼전닉스 저평가\" 보고서 등장에 '들썩' [종목+]",
+      "source": "한국경제",
+      "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44NnZ0TXJFcVhZMEUzbHhIcjc3bEtxTEZYNmFfdHc3djZRZGtkNXd4cEJaR1pTbWFqS2RqWDU1SjNpQ0hfWjJWQ0tuX0IwOUhrRHBuSk5Yb0w5dVlBT0YxdWM3aGthZFVKZ1RpMGVDcmFSRnPSAXdBVV95cUxNWFVZZkplNzQxcVBtdnF6WHpVRU1xcFVaR1dBNzZPeW5qWFBWdnRQNkNLZndORTVfSlJGN2toc2hETGRBZDlLWkZlNTVfaTl4MTRvN1hUSENBbEpUdnZxaDMtRHhsbXJNSkxPYURXd1RoSXgyaWJwYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Zb1owMXJxZnhxeU5PQ0Zod3l2cEp1MnNnRkZCd0FHbENtLWo5a1NCZ0UzdnA1Y3ZIR25kSnNUSW4zbUFtNjRFMXZ4VEFjZDFOV1BaTzZrc3JYdw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "07:45",
-      "title": "“여보, 삼전닉스 아직 안팔았지?”…‘300조’ 관측에 반도체 개미 ‘들썩’",
-      "source": "서울경제",
+      "time": "07:49",
+      "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
+      "source": "연합인포맥스",
       "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nR2xPVWNiek5SZWx0M3ZTLWNueWowbDBGLU9IcExOUnpuSF81Sk1Qb3FSX0NrUXlXYlVtOGI1bVlsdEtZY0xId1ZtOEtkRTBDVHc?oc=5",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUGJiM3VYbHRDc0N0ZGxURnE4OF9WSUJ0aU5LR0pDYTloNEVacFFpeVpUN1RGVlBHLWRROEdveGU4T2Q1cEZNb2xFN2tOOWgxbFB3dDBtZkZVRE5ySVlhTFJkeThlN2tTR0QxTzQ4Z0k?oc=5",
       "relatedNews": []
     }
   ],
