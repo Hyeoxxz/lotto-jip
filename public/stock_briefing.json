@@ -1,71 +1,77 @@
 {
-  "updatedAt": "2026-08-20 07:50",
-  "date": "2026-08-20",
-  "autoSummary": "2026년 08월 20일 주요 경제 뉴스 10건. 호재 0 · 리스크 2 · 중립 8",
-  "trendNote": "'코스피·코스닥, 내림세로 장 마감' 이슈가 2026-07-21부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-08-21 07:54",
+  "date": "2026-08-21",
+  "autoSummary": "2026년 08월 21일 주요 경제 뉴스 10건. 호재 1 · 리스크 2 · 중립 7",
+  "trendNote": "'코스피·코스닥, 오름세로 장 마감' 이슈가 2026-07-22부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "07:50",
-      "title": "[마감시황] 코스피, 외인·기관 매도에 5.80% 급락…6471선 마감",
-      "source": "뉴스핌",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jd0hPaHZnRkNlMFg0VkQzcGhQRUswS25hMVRHQ3luQUo5Rm1BbkNibkpfem5sSno4N1hRNTJjQzNRMFNaQzRReUxVNEFPWUZmZjVhdXpGdzBzSVFZ?oc=5",
-      "relatedNews": [
-        {
-          "title": "[마감시황] 외국인·기관 '사자'에 코스피 7000선 탈환…코스닥도 5%↑",
-          "date": "2026-07-24",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUThtQThqazFtdUJyZDdsN3VOTTIzcnpMTVBmTWlWckhJUkZ3UUFQZTR2b25YNEdUdjdnVEd2NThRYjVIV2RDX0N0T09QQm5hcE9SSU9NQlN6LTdD?oc=5",
-          "score": 0.3
-        }
-      ]
-    },
-    {
-      "time": "07:50",
-      "title": "코스피·코스닥, 내림세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nejhxZTJuTEhjWXpVcEdfZUI2S0MxeFFpc0lOSTFkanFwUGc4NmlHN1QydG42blAyR3BIazZRWXlhdVlxcFRnWlRIM0Zkb3gyTGJ1TW1EdVdaNThKVUdqMzNqSnd4ZGVCZGtj?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-07-21",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zR0ZBUWcyNjJ1TTBORWxQaVRZc040dEFDN096YVFoRVBJMUFqcG1KeTNyZWJScXJwZmVkTzZCZTNwLXRkREFWR0x0MzduTTQxampnRFFpYkRVRFBMS2I1VGlnbHBYdzFRV1pv?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-07-29",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pQklRSlExbkRITlV0Y2V5aTBCZ1J3aHlDcFQ4V01RcXRzNFpmVjk2ZE5pbFBrN3BqRG9NSm5xaHA1V3p5cDUtc1dLTUZ1dldRMzVXbFpURmFrOHp4NWhFSlJicERxcGNWaFJz?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "07:50",
-      "title": "[코스피·코스닥 전 거래일(13일) 주요공시]",
-      "source": "yna.co.kr",
+      "time": "07:54",
+      "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
+      "source": "연합뉴스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUkh5SmdpZnlBcXM1c3RubVhhaGpKMXlLdkQ0bWJQVXdlQWRHdkZWdHB3aEk4WC1Db0VoQ1E2TnN2c0NiWlk2TlVZcGpUbExUYzJ1SXl2OFpieXfSAWBBVV95cUxPcWRMZUktNVFsTjVfVHdNOEswUlozcGM1Ry1wbzdTbnNCRUhrYWlLSFg3bEhyZkdTck95YXg2c1lyQ2N2SGJCVVpndkNhelI0MFhNZHNYTUJiVmZ5anFYcVc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
       "relatedNews": [
         {
           "title": "[코스피·코스닥 전 거래일(13일) 주요공시]",
           "date": "2026-08-15",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUkh5SmdpZnlBcXM1c3RubVhhaGpKMXlLdkQ0bWJQVXdlQWRHdkZWdHB3aEk4WC1Db0VoQ1E2TnN2c0NiWlk2TlVZcGpUbExUYzJ1SXl2OFpieXfSAWBBVV95cUxPcWRMZUktNVFsTjVfVHdNOEswUlozcGM1Ry1wbzdTbnNCRUhrYWlLSFg3bEhyZkdTck95YXg2c1lyQ2N2SGJCVVpndkNhelI0MFhNZHNYTUJiVmZ5anFYcVc?oc=5",
-          "score": 1.0
+          "score": 0.733
         },
         {
           "title": "[코스피·코스닥 전 거래일(13일) 주요공시]",
           "date": "2026-08-17",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUkh5SmdpZnlBcXM1c3RubVhhaGpKMXlLdkQ0bWJQVXdlQWRHdkZWdHB3aEk4WC1Db0VoQ1E2TnN2c0NiWlk2TlVZcGpUbExUYzJ1SXl2OFpieXfSAWBBVV95cUxPcWRMZUktNVFsTjVfVHdNOEswUlozcGM1Ry1wbzdTbnNCRUhrYWlLSFg3bEhyZkdTck95YXg2c1lyQ2N2SGJCVVpndkNhelI0MFhNZHNYTUJiVmZ5anFYcVc?oc=5",
+          "score": 0.733
+        }
+      ]
+    },
+    {
+      "time": "07:54",
+      "title": "코스피·코스닥, 오름세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZdUoyOEMzTE5MYnMxWGxqS2MyUjU2U05CREE3WW9VQTV0THBwZ0Z4RUhnbldMSmJwcGRmZmVjM0htRVB4QXBVUlFYSG9JNzdQWFJBQjhhN3JMRG1kR1pIbWttazl1LXBjeDdV?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥, 오름세로 장 마감",
+          "date": "2026-07-22",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qT3pwc3NlM2MwZENoaHBTQ3BleElDa2RuMUhpVUFvNlppVTlWLXlLY1hpTmRsZ1R4TmpCYmJvdk9QMkpfbVdMeV9sVDI0bXdBZ2VKWFR3STBLSERWMW0xbWk2ZEszc0Y3bFhJ?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥, 오름세로 장 마감",
+          "date": "2026-07-24",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb0JqMlN5YzU1TXNEcTBlc2FfakIzaTF1aHYwZzZJN0ZIdGM3QVBERjZQQnBtRFNNYTVXaElpRE83WGZzekM3Z2VFdFlUa2lIUzdleDNIVk00TUZuRmR4OGlTTElKcGdQc1VB?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "07:50",
+      "time": "07:54",
+      "title": "[개장시황] 코스피 6%대 하락에 사이드카 발동…코스닥도 3%대 '털썩'",
+      "source": "뉴스핌",
+      "tag": "시장",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NendjNkFDREFLekpfTFJsandETE5Jc3JGYS1MMllReXlEWU9hLXdjeHVfY0pVTkkxalhMTGs0TkdYWllCWDdpTERKemVNTXZlQUp2VlNvX0QwTnhC?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
+          "date": "2026-07-18",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5",
+          "score": 0.277
+        },
+        {
+          "title": "코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
+          "date": "2026-07-18",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RUxZV1dSLVFoYm8zYXdmaFlDZGRhV3V5Nk5CdGs1Z2x2RGZmUGpHWTAteWt3UE5oYThjLXNuMUFfR0p2TmtlVmN6SWFWbGNxdUNTNkY0S1E?oc=5",
+          "score": 0.277
+        }
+      ]
+    },
+    {
+      "time": "07:54",
       "title": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?…재개 일정은 언제",
       "source": "CBC뉴스",
       "tag": "시장",
@@ -87,64 +93,71 @@
       ]
     },
     {
-      "time": "07:50",
-      "title": "'7월 폭락장' 공포에 떨던 개미들…뜻밖의 전망 나왔다",
-      "source": "hankyung.com",
-      "tag": "시장",
+      "time": "07:54",
+      "title": "\"금리 내려라\"…트럼프, 백악관 암호화폐 행사서 Fed 압박",
+      "source": "한국경제",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRElCU000TDFYTzhjWk03QWs2am0wZi11ampNNHVTZklwNl9qU3ZtX2s0bUpzYXVMMXI2dEVrRGRIUDlnVGtxbmJPZFN6eVJoUkhiZmhkLVF0QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Umh4LU1GQUNJQTFrTDh1eklFM1k0UnpTNmFfWm41ZTBSZ3dpQWZZMkpfMWotZFVMSVpsYlBjbmg0WlZaM1plMGhISnozSWl4MU5CUWVkT1BPQQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "07:50",
-      "title": "국채금리 뛰자 소비 둔화…실물경제 압박 커진다",
-      "source": "hankyung.com",
+      "time": "07:54",
+      "title": "국채금리發 ‘트리플 약세’ 재연되나…\"7월 같은 폭락장 없다\"",
+      "source": "한국경제",
       "tag": "정책",
       "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3M1RLS3dKckF1clQ2WXlNM0NsN0dja0JMQ2x3SDJGcGsxUlkydWRZdk51TzhZZW1pQUdyMWZJYXFzU3UtUW4teVZqYmFOQnZfMGVqcVBxRjlFQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmMVJLcGFPQlNHVUZ3bEo0eXNBQ2pSWTBQOGlVdG5YdHU0SlNLMnBIVWVsNXFFT1NtVGd1MlpaUkZ5c2pMRTVPMGNWMGFZcUc0ek5RT08ySG5SUQ?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "07:54",
+      "title": "장기채 금리의 습격…칠천피 문턱에서 무너졌다",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CQXZ4T1QwRlRYSGZhNG5VQ21CenVBdUJ2VERVQ2Mtd1Z2UzJtTUg4NkE0YmV1UUg5NXI3LWtNNUdMVlV6SmFHS1o3Tk5iT0tMVmdDWnNCWWpJdw?oc=5",
       "relatedNews": [
         {
-          "title": "국채금리 뛰자 소비 둔화…실물경제 압박 커진다",
-          "date": "2026-08-19",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3M1RLS3dKckF1clQ2WXlNM0NsN0dja0JMQ2x3SDJGcGsxUlkydWRZdk51TzhZZW1pQUdyMWZJYXFzU3UtUW4teVZqYmFOQnZfMGVqcVBxRjlFQQ?oc=5",
+          "title": "장기채 금리의 습격…칠천피 문턱에서 무너졌다",
+          "date": "2026-08-20",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CQXZ4T1QwRlRYSGZhNG5VQ21CenVBdUJ2VERVQ2Mtd1Z2UzJtTUg4NkE0YmV1UUg5NXI3LWtNNUdMVlV6SmFHS1o3Tk5iT0tMVmdDWnNCWWpJdw?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "07:50",
-      "title": "장기채 금리의 습격…칠천피 문턱에서 무너졌다",
-      "source": "hankyung.com",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CQXZ4T1QwRlRYSGZhNG5VQ21CenVBdUJ2VERVQ2Mtd1Z2UzJtTUg4NkE0YmV1UUg5NXI3LWtNNUdMVlV6SmFHS1o3Tk5iT0tMVmdDWnNCWWpJdw?oc=5",
-      "relatedNews": []
+      "time": "07:54",
+      "title": "美 국채금리 진정에 상승 마감…모더나 177% 폭등 [뉴욕증시 브리핑]",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bnl3S3BiQ3llTjVrWmN2THRORVN1TkpLUVdZRHdTaFpjdDA5end0T3I5YndyVHBPVFItQ0YtM3BJVWhQZW9laDRHWFdKNDJiaWhDWlZQd2Zzdw?oc=5",
+      "relatedNews": [
+        {
+          "title": "美 국채 금리 급등 여파로 일제 하락…나스닥 1.3%↓ [뉴욕증시 브리핑]",
+          "date": "2026-08-19",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNkpCY3NNV2x4cFZaWmNhRHowNFI5SS1TaV9wYzdnbURMRlMyOFFGQ3d4QWt3MXJobDhncFlxSzc1aVF6S09IYmFiX0hSekw2OUhNcl9kR3AyZw?oc=5",
+          "score": 0.36
+        }
+      ]
     },
     {
-      "time": "07:50",
-      "title": "조달금리 연 4% 육박…증권 발행어음 속도조절",
-      "source": "hankyung.com",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dy1SUU1fTDhkYktMNWdhTFY4U1hULTJGQmhzSHo1UzloMWI4dlpqT2d5azBQQW1PQ3pNamRuWGtYMzVBT2d6bkRsMjVhZGJkYTBuOVFLakJ5dw?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "07:50",
-      "title": "삼성전자·SK하이닉스 빼도 76%↑…상반기 상장사 실적 '껑충'",
-      "source": "v.daum.net",
+      "time": "07:54",
+      "title": "\"현금 곳간 푼다\" 삼성은 '배당'·SK는 '소각'…주주환원 방식 다른 이유 - 머니투데이",
+      "source": "머니투데이",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKd3c5MnNyMEhHX09ScUxNN0lNaEpxZHRac3doUjdHaEI1ZWlfdE9penBRQzFRLXpxcXRyX2RXd3dWSHZkNmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92bVdlZWkxdkVxOTFJWXJoVzlFS29HT091X2dqWUhRYTVHRXZZMkptVHhqSzMzWnloUE9ZTnpkcGI5dDd5MXIwQ3dnRkJpb20ydmNZM08yeEM3b0Y1TlpFWS1PVkJoa1lfTUNUZ9IBckFVX3lxTE0tZlRxSzBRZEN5OEJma2JWaUdFRE90THRlVVRfU204a0c0eEFjVFdyY3dKXzN3Qy1VZ1RxNXF0MVdHM3M4SmZpVy12SXBGdDA2UVFidGRhOTJOdU5BcW9TeGFnQVZqMGZTeGpfM2h5MC1Hdw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "07:50",
-      "title": "코스피 상반기 영업익 63%, 삼성전자·SK하이닉스서 나왔다 By 알파경제 alphabiz",
-      "source": "Investing.com 한국어",
+      "time": "07:54",
+      "title": "삼성전자·SK하이닉스 실적은 ‘역대급’인데… 소부장은 ‘K자 양극화’ - 조선비즈",
+      "source": "Chosunbiz",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5za1BRZnNGOUVwaUpQaldyZDYxdFdwd1hvZElKN25sYVFycDlqU0hNa2U0WWlYN3FOTS1QLXpTYUw1SjAxaS1UZUZGR3FMSlp1Z0VwWGVZUUVfUHc2eVJYemVfUndrdlBOSVpJanhpakk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk1XelIwZndaSTZ6WVJqSDhRcUdJOXRrZnV1QkVkQjUxWFZIWDZ5SEhROThLOTRiYlVYZjF5aFFlU0lvYnJnTUxFRjhCd0tyZnR1X1dLQXg3T0xDa1ZleElPazlpMGU2UEVwRnFwTHdaQ1FrcjBlWU5rUnJ6cExaS1lR0gGWAUFVX3lxTE5wVWh3S1dvQXNfWU1WVW9tZlJld2ltbjBmekc4YXJpRVZLanRaNTVDVGltbjVqcXZnME5lU3VyYUs0UHhna0QtanFBVk1mbTF0S0xtUFVKRkdmUkJhYnk4QmtCeEFaZ3VFNlhSZjNxQml1ZTR2S2kzSVY2NjhYS0JQUy0tS2Vxbjl0SHNEamRXRVY5VEgxdw?oc=5",
       "relatedNews": []
     }
   ],
