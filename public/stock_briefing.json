@@ -1,13 +1,53 @@
 {
-  "updatedAt": "2026-09-06 00:34",
-  "date": "2026-09-06",
-  "autoSummary": "2026년 09월 06일 주요 경제 뉴스 10건. 호재 5 · 리스크 0 · 중립 5",
+  "updatedAt": "2026-09-07 09:10",
+  "date": "2026-09-07",
+  "autoSummary": "2026년 09월 07일 주요 경제 뉴스 10건. 호재 1 · 리스크 1 · 중립 8",
   "trendNote": "'[코스피·코스닥 붐업이 남긴 것] ②코스피 급등, 누가 벌었나' 이슈가 2026-09-03부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "00:34",
+      "time": "09:10",
+      "title": "[AI MY 증시전망] 美 고용발 금리 부담 재부각…코스피·코스닥 방향성 탐색",
+      "source": "뉴스핌",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UdTJQRDNzZm9TX09oZzhEdDdlZ1E0V2x5Qkg0OHFUYjdoY2U4MXVkYnozT20zelUwM3lmc05kS1FZZUc0cmhRUU00ZUM4ck5YOFRXcmwwdktqWlBo?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:10",
+      "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
+      "source": "yna.co.kr",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvTnFXSDFDYi1LUHJjekdfRk00MVpoX19LNWJGZTQxdHRMSnpmTTlaUUNWYTVQUWJNVjdhOXhCSVBoaTUyOWJHUFdVNGZCNUxvSnppdHdabFBtWWvSAWBBVV95cUxNX1Zsd1FLUEpQR2U1dHpwdnI2bzl3NUZvMzJzNU1Qel9hX0NKYnR2YWRlS0xVdFFsUl9pa3pqZkFBTFdGTk1odTM3OGxCa0NTTFBZZVN2RGZMYXZzUG53a1Q?oc=5",
+      "relatedNews": [
+        {
+          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
+          "date": "2026-08-21",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
+          "score": 0.654
+        },
+        {
+          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
+          "date": "2026-08-22",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
+          "score": 0.654
+        }
+      ]
+    },
+    {
+      "time": "09:10",
+      "title": "'애프터마켓' 일주일 앞으로…대형주 넘어 코스닥까지 '밤 8시 실시간 거래' 문턱 넓어진다",
+      "source": "전자신문",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zT2k5eXpNbXVqUkVDdWI4Nm1uRkh1NkRNTF80ejd6NGt3ZEN0U1NqYWxjTlM1OFFva3JiVFNHQlc0d1VqT3NrU1FyTkwxdw?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:10",
       "title": "[코스피·코스닥 붐업이 남긴 것] ②코스피 급등, 누가 벌었나",
-      "source": "straightnews.co.kr",
+      "source": "스트레이트뉴스",
       "tag": "시장",
       "impact": "호재",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpaHhPa05va0hnZndxZ1pHakxfNEoza3AxUjE2eGd0QUpmdFZlRlRHQzBxQnMtc09ZamVFbUdpX3JFZWp0cjBpUUpZNjhRcm9zQWlFSklJV204RmdIZmEwT3NWY1M4bXBOS2dtc0RWWXpUa03SAXdBVV95cUxQMnM5ZzBMRmk1WFViWVpPNnlDN0xiclhTa1p3M0I5bW8wUTdnbllOck5TX3VWdWhPOE52TGdWMDhkM040X1pmX040YjBsbE03aWEwcXQzOXc3c3UxWGhUd2VEMnlTS09XcGV4cmR1c1o4WlRxb1JCOA?oc=5",
@@ -27,170 +67,78 @@
       ]
     },
     {
-      "time": "00:34",
-      "title": "코스피·코스닥, 오름세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
+      "time": "09:10",
+      "title": "\"경기 호황 땐 금리 낮춰야\"…경제학과 싸우는 트럼프",
+      "source": "한국경제",
+      "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ycnV5blVMVnZManF3amNlLXpSUlZqODdkQmJ6NFRjT3Zfbk53SFpNdTZ6NDRTN0tmR1dhODFJMzBEX1dmWktpUDJiQWgzWURjS0ZsVkVYa0tRY3ZSUm4tOFZyb3ppMHloekxj?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥, 오름세로 장 마감",
-          "date": "2026-07-22",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qT3pwc3NlM2MwZENoaHBTQ3BleElDa2RuMUhpVUFvNlppVTlWLXlLY1hpTmRsZ1R4TmpCYmJvdk9QMkpfbVdMeV9sVDI0bXdBZ2VKWFR3STBLSERWMW0xbWk2ZEszc0Y3bFhJ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피·코스닥, 오름세로 장 마감",
-          "date": "2026-07-24",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb0JqMlN5YzU1TXNEcTBlc2FfakIzaTF1aHYwZzZJN0ZIdGM3QVBERjZQQnBtRFNNYTVXaElpRE83WGZzekM3Z2VFdFlUa2lIUzdleDNIVk00TUZuRmR4OGlTTElKcGdQc1VB?oc=5",
-          "score": 1.0
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03QTY3SkF0aXB4Q2FGQ0Q4emJ2ZDB5NXV4aV9lZTI1OVRFOUhyell1cDRfMmtJWGFVc2htWU9Hd05ILWlFUmdKSHRkVlA4azg3YTVEUzVkbUZfQQ?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "00:34",
-      "title": "코스피·코스닥 상폐 시총기준 상향 6개월 유예… 코넥스 이전 길도 연다",
-      "source": "인포스탁데일리",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jak5fcjZDSVZOb3VFTjZMWXZXdE9jcnlvSVc1bkVreXd5ZFJiNmFiekdma0plSzllRmttSEdZVUtwSHRKUmNTYjMwMmhIeHdUcTI5Q0Z0dDZfV0pwUGRWc0JwaWtxVUVsMHpBQ0RORFJOX2gyaVE?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥 상폐 시총기준 상향 6개월 유예… 코넥스 이전 길도 연다",
-          "date": "2026-09-05",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jak5fcjZDSVZOb3VFTjZMWXZXdE9jcnlvSVc1bkVreXd5ZFJiNmFiekdma0plSzllRmttSEdZVUtwSHRKUmNTYjMwMmhIeHdUcTI5Q0Z0dDZfV0pwUGRWc0JwaWtxVUVsMHpBQ0RORFJOX2gyaVE?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "00:34",
-      "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-      "source": "연합뉴스",
-      "tag": "기업",
+      "time": "09:10",
+      "title": "[밤 사이 해외 뉴스 영상] 금리 인상 공포 속 LVMH '반토막'…소비 심리 급랭",
+      "source": "한국경제",
+      "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
-      "relatedNews": [
-        {
-          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-          "date": "2026-08-21",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-          "date": "2026-08-22",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
-          "score": 1.0
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZX1hDSjZ6NG5tajdKYllWemJJdkxYRkUxX2IwUTVxMjd6a1lieXRZUHY3RklhMkF6TWtaMDMxcGRRQlBRZWVmQ25saFhsNV8ta2I0NHBfUDdodw?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "00:34",
+      "time": "09:10",
       "title": "누가 미국 금리와 전세계 유동성을 움직일까?",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MkhDTFhaZ2R5UGx4OXVaVHJvSVZYNlV6N3NCZmhWMEhQdmo5Uzk4bVhqQTZrR08yV21SbXNZdlh6R3VLeWNLdHhXNXBLQ1hpdDdMY05pX28xQQ?oc=5",
+      "relatedNews": [
+        {
+          "title": "누가 미국 금리와 전세계 유동성을 움직일까?",
+          "date": "2026-09-06",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MkhDTFhaZ2R5UGx4OXVaVHJvSVZYNlV6N3NCZmhWMEhQdmo5Uzk4bVhqQTZrR08yV21SbXNZdlh6R3VLeWNLdHhXNXBLQ1hpdDdMY05pX28xQQ?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "09:10",
+      "title": "고용 호조에 9월 美금리 인상 가능성 58%…3대지수 하락 [뉴욕증시 브리핑]",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPQ1gxVjlwRG05XzJSX0tLeWtoSDhwcDN6bkVaZ1lRYW1ENXpNMVgtRjRhR214cm1SOWs5NmR4X01aQjJOTU1nRkVkcWF4Y0pjUkJXeGlYVVJXdw?oc=5",
+      "relatedNews": [
+        {
+          "title": "유가·금리 하락에 3대지수 상승 마감…반도체주 강세 [뉴욕증시 브리핑]",
+          "date": "2026-08-27",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZ3NrcGZyQnFoQ1hQM18yZk00TDZ0emVnNGgzY0o5TzBDRHl6RWdEcVBNTm1fRFZ3Rm5xSGJVVG1TdUh6bjk0THZIc09uTjNLcW1RQUxSSV9Vdw?oc=5",
+          "score": 0.398
+        },
+        {
+          "title": "美 국채 금리 급등 여파로 일제 하락…나스닥 1.3%↓ [뉴욕증시 브리핑]",
+          "date": "2026-08-19",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNkpCY3NNV2x4cFZaWmNhRHowNFI5SS1TaV9wYzdnbURMRlMyOFFGQ3d4QWt3MXJobDhncFlxSzc1aVF6S09IYmFiX0hSekw2OUhNcl9kR3AyZw?oc=5",
+          "score": 0.286
+        }
+      ]
+    },
+    {
+      "time": "09:10",
+      "title": "HBM 이어 낸드도 AI 특수…삼성·SK하이닉스, 시장 절반 차지 - 머니투데이",
+      "source": "mt.co.kr",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b0l5dVhZeEJpQUVjNEduUEJuSnlOSzVnc0JSaExaQk9CTGxxSDNsZUZKVDQwTWtxbjI3UXdqdGRmTlF4eFJ0MTlnSWxzM1V2YklRamRLUXlzUThFcW5JcVZvQlhpNmJZYjYxa9IBckFVX3lxTFBSS2JwQzBvNi04ZmtRZThLOEZyaVBub2xDWTVGNDZBMldObEN2cWMtRHhCQU8wUWljUFhjNlo2ZkhUWnRSMTZPbGx0Ukd5bDI5MHZxckRZTlNnNkh1TDRtUjEtS2dBUEtTYkhDallWUnR0UQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "00:34",
-      "title": "[사설]심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
-      "source": "경향신문",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bng3OVpERzExT0I3SGpLend3MzdaSFJyaFdZUlRLelFlWHVYTGNRTF9aMmNMLUhkZ3ZESkhkV0dsTFNFN2J1bDhPeVAwWVIwamVhSWpVNXdQZ9IBX0FVX3lxTE8tcUhLa3hvN1VlSVZYUUJ3eHdySlVVRlc0bF80ajdTVjYxSWVYNklnTHpkSEZoeThhTWhfLUZzZEY5RlEzT25nRlN5cWZiZGJ5MmxKSGo5WXVpMUY4dHdJ?oc=5",
-      "relatedNews": [
-        {
-          "title": "[사설]심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
-          "date": "2026-09-04",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bng3OVpERzExT0I3SGpLend3MzdaSFJyaFdZUlRLelFlWHVYTGNRTF9aMmNMLUhkZ3ZESkhkV0dsTFNFN2J1bDhPeVAwWVIwamVhSWpVNXdQZ9IBX0FVX3lxTE8tcUhLa3hvN1VlSVZYUUJ3eHdySlVVRlc0bF80ajdTVjYxSWVYNklnTHpkSEZoeThhTWhfLUZzZEY5RlEzT25nRlN5cWZiZGJ5MmxKSGo5WXVpMUY4dHdJ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[사설]심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
-          "date": "2026-09-05",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bng3OVpERzExT0I3SGpLend3MzdaSFJyaFdZUlRLelFlWHVYTGNRTF9aMmNMLUhkZ3ZESkhkV0dsTFNFN2J1bDhPeVAwWVIwamVhSWpVNXdQZ9IBX0FVX3lxTE8tcUhLa3hvN1VlSVZYUUJ3eHdySlVVRlc0bF80ajdTVjYxSWVYNklnTHpkSEZoeThhTWhfLUZzZEY5RlEzT25nRlN5cWZiZGJ5MmxKSGo5WXVpMUY4dHdJ?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "00:34",
-      "title": "트럼프 \"금리 안 낮추면 무역 중단\"…막무가내 발언 왜 나왔나 [Fed 워치]",
-      "source": "한국경제",
-      "tag": "글로벌",
+      "time": "09:10",
+      "title": "삼성전자·SK하이닉스, 낸드 호황에도 1·2위 수성…YMTC는 추격 나서",
+      "source": "녹색경제신문",
+      "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SEQ4YjNWZjFOaVlwX1U0UmtvQTljSmh5eWRJV2QtVUotYTAzdWx0YzhnOFY3NjlqZlE3OC04TmZMZk1SZmVMSjFLQzBuUy05OHdzRUxnZ1NRUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBReTc0SmtIY1BENnZlWHc2eV9iYy1SLUp1QVREekl5bTdZajFuT1ZuS1hHT0gyM1Y3QkVIRHZ4eU9Dd3l1d2xRU0QzcTR3Vl9OeU5LVjI5c3pCd3AxVDUtTERDTEMtTTlo?oc=5",
       "relatedNews": []
-    },
-    {
-      "time": "00:34",
-      "title": "8월 美 고용 '깜짝 증가' 이달 금리인상 가능성 커져",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EYlpUTTVwbV9QWHBqMy1JaU1nVUNabi1rbFBXeFhlajBwT2RYS01CN1dpRjBMRzl1MlB6bm40ZmE0R3ZidU1fbHBPSlVTLXphWVBYbUJPQVM2QQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "연준 '매파적 동결'...한은 8월 금리인상 가능성 커지나",
-          "date": "2026-08-01",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vbjdjU3AxQUF0bG90cVVqUzJjU1FaakVqY0xSeFRLdmxwMVpTTXFidTBSX0dpWDYyRUU0bS0yMEl3OXRUaEE?oc=5",
-          "score": 0.258
-        },
-        {
-          "title": "연준 '매파적 동결'...한은 8월 금리인상 가능성 커지나",
-          "date": "2026-08-01",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vbjdjU3AxQUF0bG90cVVqUzJjU1FaakVqY0xSeFRLdmxwMVpTTXFidTBSX0dpWDYyRUU0bS0yMEl3OXRUaEE?oc=5",
-          "score": 0.258
-        }
-      ]
-    },
-    {
-      "time": "00:34",
-      "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
-      "source": "경기일보",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81d1kwMXBCcnlHUVFPa2JXRFlKWFpCZnRUYjZVQ29wSWdCdC1HTnU1dFdKMFJTaE1sYkd0Sms5VE8yZm5Xd09fOTJmQTdVbWZ1VVdYZ095RVdqSWM?oc=5",
-      "relatedNews": [
-        {
-          "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
-          "date": "2026-09-05",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81d1kwMXBCcnlHUVFPa2JXRFlKWFpCZnRUYjZVQ29wSWdCdC1HTnU1dFdKMFJTaE1sYkd0Sms5VE8yZm5Xd09fOTJmQTdVbWZ1VVdYZ095RVdqSWM?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "\"삼성전자 67만원·SK하이닉스 470만원\"…노무라, 메모리 수요 강세 평가",
-          "date": "2026-09-05",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WU3lmelQxVE5YUEoxSXRDRnBSN09KM25VQkdMZUtZSUI1Rm1qeFJKMXdhRnlwVWs1SkVIRzM0TUhQb25DUmVrQ2h5a2FIWFlkRTFPUng5blFrdw?oc=5",
-          "score": 0.323
-        }
-      ]
-    },
-    {
-      "time": "00:34",
-      "title": "\"삼성전자 67만원·SK하이닉스 470만원\"…노무라, 메모리 수요 강세 평가",
-      "source": "파이낸셜뉴스",
-      "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WU3lmelQxVE5YUEoxSXRDRnBSN09KM25VQkdMZUtZSUI1Rm1qeFJKMXdhRnlwVWs1SkVIRzM0TUhQb25DUmVrQ2h5a2FIWFlkRTFPUng5blFrdw?oc=5",
-      "relatedNews": [
-        {
-          "title": "\"삼성전자 67만원·SK하이닉스 470만원\"…노무라, 메모리 수요 강세 평가",
-          "date": "2026-09-05",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WU3lmelQxVE5YUEoxSXRDRnBSN09KM25VQkdMZUtZSUI1Rm1qeFJKMXdhRnlwVWs1SkVIRzM0TUhQb25DUmVrQ2h5a2FIWFlkRTFPUng5blFrdw?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
-          "date": "2026-09-05",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81d1kwMXBCcnlHUVFPa2JXRFlKWFpCZnRUYjZVQ29wSWdCdC1HTnU1dFdKMFJTaE1sYkd0Sms5VE8yZm5Xd09fOTJmQTdVbWZ1VVdYZ095RVdqSWM?oc=5",
-          "score": 0.323
-        }
-      ]
     }
   ],
   "aiSummary": null
