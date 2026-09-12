@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-11 09:20",
-  "date": "2026-09-11",
-  "autoSummary": "2026년 09월 11일 주요 경제 뉴스 8건. 호재 2 · 리스크 0 · 중립 6",
-  "trendNote": "'“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래' 이슈가 2026-09-09부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-09-12 09:27",
+  "date": "2026-09-12",
+  "autoSummary": "2026년 09월 12일 주요 경제 뉴스 10건. 호재 1 · 리스크 0 · 중립 9",
+  "trendNote": "'“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래' 이슈가 2026-09-10부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "09:20",
+      "time": "09:27",
       "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
       "source": "주간조선",
       "tag": "시장",
@@ -19,15 +19,15 @@
           "score": 1.0
         },
         {
-          "title": "오는 14일부터 저녁 8시까지 주식 실시간 거래…코스피·코스닥 전 종목 확대",
-          "date": "2026-09-09",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fVFV6ajZ1OXZLMHNkVG5YY1lQU1hDUHJ5WHhJb25IOVc3ZGdRWnR1Um55TldKVUptRmtXcEdlOERfeFNTbXhvYVN2d1pCMkJpOFkyTmtMaVpMUUtFWXJDWTNIcXh0c0M5bmhr?oc=5",
-          "score": 0.391
+          "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
+          "date": "2026-09-11",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "09:20",
+      "time": "09:27",
       "title": "14일부터 저녁 8시까지 '코스피·코스닥' 주식 매매...ETF·ETN 제외",
       "source": "KBC광주방송",
       "tag": "시장",
@@ -41,37 +41,37 @@
           "score": 1.0
         },
         {
-          "title": "오는 14일부터 저녁 8시까지 주식 실시간 거래…코스피·코스닥 전 종목 확대",
-          "date": "2026-09-09",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fVFV6ajZ1OXZLMHNkVG5YY1lQU1hDUHJ5WHhJb25IOVc3ZGdRWnR1Um55TldKVUptRmtXcEdlOERfeFNTbXhvYVN2d1pCMkJpOFkyTmtMaVpMUUtFWXJDWTNIcXh0c0M5bmhr?oc=5",
-          "score": 0.415
+          "title": "14일부터 저녁 8시까지 '코스피·코스닥' 주식 매매...ETF·ETN 제외",
+          "date": "2026-09-11",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaEM0bVJKajZqM3N2cS0wclo0V1NMTEtYZmswTmJ5cUhFR2cxcmlhTUVfRk1HQWtfcXNMZUdjVXBESDBxUVpoVTd2LTN5UmFyb0lLb01aOGFiY05qbTJGQQ?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "09:20",
-      "title": "코스피·코스닥, 오는 14일부터 오후 8시까지 실시간 거래 개시",
-      "source": "뉴스21 통신",
+      "time": "09:27",
+      "title": "코스피·코스닥, 내림세로 장 마감",
+      "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85T1hCYUhQSWU5aUhwUXBBaFAxbVNXTUY5QzFfQ3FDSFVvMzh3TWRWZUpQYXdGWm9HUGRRNXNBcFdfYWQzOE5hM2lTUWJTWDJOZWV2RnFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRjlCZGVUU2JVX2hDc0lidHRfSW82UzI2R0lnVjZ6MzJRTVRqSWFiYmhjZnZsc1loQ1hLR0QxN1JSMEZ4RXpNNTlYR3RxQnpkajNZWVNUSU1zTzZDRWF4NVhlQWhPNE9tOHhV?oc=5",
       "relatedNews": [
         {
-          "title": "오는 14일부터 저녁 8시까지 주식 실시간 거래…코스피·코스닥 전 종목 확대",
-          "date": "2026-09-09",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fVFV6ajZ1OXZLMHNkVG5YY1lQU1hDUHJ5WHhJb25IOVc3ZGdRWnR1Um55TldKVUptRmtXcEdlOERfeFNTbXhvYVN2d1pCMkJpOFkyTmtMaVpMUUtFWXJDWTNIcXh0c0M5bmhr?oc=5",
-          "score": 0.628
+          "title": "코스피·코스닥, 내림세로 장 마감",
+          "date": "2026-07-29",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pQklRSlExbkRITlV0Y2V5aTBCZ1J3aHlDcFQ4V01RcXRzNFpmVjk2ZE5pbFBrN3BqRG9NSm5xaHA1V3p5cDUtc1dLTUZ1dldRMzVXbFpURmFrOHp4NWhFSlJicERxcGNWaFJz?oc=5",
+          "score": 1.0
         },
         {
-          "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
-          "date": "2026-09-10",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
-          "score": 0.416
+          "title": "코스피·코스닥, 내림세로 장 마감",
+          "date": "2026-08-08",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tOGVEX254SUY4Rk5MelRpekpCVTZMNUFoM2p0Tll0bGVwV0gxeWtwNnBvM1g0RnowOFlIamszdVdENS0yZ0ZTcTdxNEpHNHd0bmowc25uc05saDljOE52TmFhaUZOQnliQlVB?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "09:20",
+      "time": "09:27",
       "title": "[개장시황] 코스피, 7060선 강보합…코스닥은 1% ↓",
       "source": "뉴스핌",
       "tag": "시장",
@@ -79,67 +79,92 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YSVRoN1RBUW41eUNhY2UwR200a2hPdi1SM0RxVzVfSWZCZERkRExLdmVwRGFMNmZvMzNfZ29LLVlZWjlJaC1tNEFWb05uVnFBMjctT3UyM2hRWGRh?oc=5",
       "relatedNews": [
         {
+          "title": "[개장시황] 코스피, 7060선 강보합…코스닥은 1% ↓",
+          "date": "2026-09-11",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YSVRoN1RBUW41eUNhY2UwR200a2hPdi1SM0RxVzVfSWZCZERkRExLdmVwRGFMNmZvMzNfZ29LLVlZWjlJaC1tNEFWb05uVnFBMjctT3UyM2hRWGRh?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "[개장시황] 코스피, 외국인 6000억원 매수에 7000선 회복",
           "date": "2026-08-19",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EUVNzalVTY0hDZW42UmIzMEtXdlhRZ21kSi1KVkk4N1ZRZUlSQjgwVk5mb3R2VU5RWkFXR1JVVHBEWmxya3pXV0dWSlZQX3hjckJSRkNya2VMMXp4?oc=5",
-          "score": 0.308
-        },
-        {
-          "title": "[개장시황] 코스피, 외국인·기관 순매수에 3%대 상승",
-          "date": "2026-09-08",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SdnJQMXhKUFBtNG9lOUxzaDRTdkhoUHhrX1RidFU0QXMwQ0h6anhva3hQc0N5TDZzNjh5M19KUkd2dzZyUE5aOHl0N1QxN0FRZzVzR3pQOVM2b1Ey?oc=5",
-          "score": 0.284
+          "score": 0.312
         }
       ]
     },
     {
-      "time": "09:20",
-      "title": "유가·美 국채금리 급등에 일제 하락…반도체주 급락 [뉴욕증시 브리핑]",
+      "time": "09:27",
+      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 ‘자금조달 경고등’ [김주완의 글로벌머니 X파일]",
       "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRnhJbWttaUFWWHJxUkVISWQxTkhGZEdjVWRtMTdSbFJUTWVmdW11N1R2TWdsWUlCblB5dG9maWFjMnNXT0FRTXhQSzNxMmpuZmxEUVpBQk9TUQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "유가 급등·美 국채금리 상승에 사흘째 하락 마감 [뉴욕증시 브리핑]",
-          "date": "2026-09-10",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZ1pId2tWNFRmTVRtX2F5Q2U0NlN4RV9rd3cySGJJOGFud1RzT3JPQnFHZldTYUMtc1oyazlpV2pRQkJRTjB0Wnc5TlZ5TjdKcGpkUUxJd1lBZw?oc=5",
-          "score": 0.509
-        },
-        {
-          "title": "유가·금리 하락에 3대지수 상승 마감…반도체주 강세 [뉴욕증시 브리핑]",
-          "date": "2026-08-27",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZ3NrcGZyQnFoQ1hQM18yZk00TDZ0emVnNGgzY0o5TzBDRHl6RWdEcVBNTm1fRFZ3Rm5xSGJVVG1TdUh6bjk0THZIc09uTjNLcW1RQUxSSV9Vdw?oc=5",
-          "score": 0.496
-        }
-      ]
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pSTgtWlNzVkFuRWU0UnRKb2wxcGpGOUp5akJkV2VJWDhEUlFjY2FsNldmeFN6YTREajBhZm5RcEEtN3NQQW9XOXpuU2JzUzVEekZSdVk0VGUxZw?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "09:20",
+      "time": "09:27",
+      "title": "[The View]글로벌 국채 금리 급등과 한국 경제의 경고음",
+      "source": "아시아경제",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFTkNZdDNUM0VIYmVLTDdoc1VBZ2hGUkMxMl9ub05PMjlQVE1sN19RRVNMNHhlZTZab2pPLWRmS3RHeVREeUIzVmtBOGV1VEZfdjEwN1JGU1JmOGFHLUlTZHdR?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:27",
       "title": "100달러 다시 뚫은 국제유가…한국경제 ‘고유가 경보’",
       "source": "이투데이",
       "tag": "글로벌",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xUnJyRzlfamVPOEVUT1pUVWZRazlQU01Rc2hKYkctUEpCcTBsTnpjQXhTNmQ3NmxQQ2U1M01CVFNaS0pVcmdYSHJvU0dINWU4SzFVeQ?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "100달러 다시 뚫은 국제유가…한국경제 ‘고유가 경보’",
+          "date": "2026-09-11",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xUnJyRzlfamVPOEVUT1pUVWZRazlQU01Rc2hKYkctUEpCcTBsTnpjQXhTNmQ3NmxQQ2U1M01CVFNaS0pVcmdYSHJvU0dINWU4SzFVeQ?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:20",
-      "title": "Fed가 금리 올린다면 뉴욕 증시에서 벌어질 일 [김현석의 퀵 브리프]",
+      "time": "09:27",
+      "title": "美 근원 CPI 예상 웃돌아…금리인상 확률 90% 육박",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cU80NXEwWWF4c1FoTWxuWFNvYWlkY21PZXUza09oQ3AxUmxHbVpGUE5QUFNhRWc4Um1mZGxOelJYU0Voa0dGNmV3QWR4UDI4ZERJdDhHNGNMZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIZ2pkRHlGQkM1T0RUTkFBYlgxVGVoc2RsWEhvZkgtSUc5di1sRTdadHdXelEzRGJjSkYzM0pSeW5DV0VfTXRhbXgxQjJTTk9qOU16OWxGRUM5QQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "09:20",
-      "title": "'금리·환율·실적' 삼박자에 사상 최고가…은행주 나홀로 랠리",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOVW8zX3FHVGZBYnM5SVcxMWJLblJPVjVJRTlQTG9lcU0tMl9QUlNDRnVGLUlSbTdDSm5jSDJRWm1LMG80NEJqOVZTN1pvcHZQeWRfNklFZ3ptdw?oc=5",
+      "time": "09:27",
+      "title": "티에스이, 삼성전자·SK하이닉스 HBM4·4E 프로브카드 공급 가속 페달",
+      "source": "시사저널e",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RdlVYMXZWQVBXeEg4aFdNd1V0U0FvQWVlNXNQZGFtN1p3VTRRWTdkZlVMdmQzSTcxYTJUdG53S084b0kyTldVc1FaTUpYNEtSMjZ1Z0lBWkJPVWI4OWl0SmNXNm5IYUhJNGxuNXFjTkdXUdIBdkFVX3lxTFA4RTlfOGc3SHg3aDlvQnA3YW5ORDRiUlhReHdSVndDclBoRUVVdkdsaW56RHowdk1KVjN1cG5fakZuSGVjdG4tOEdBelRwWWNfZnZfZE8yTFMzTUlYci0yMG5KRG5PRHhHc0x3Wnl2SGc1WnhpaGc?oc=5",
       "relatedNews": []
+    },
+    {
+      "time": "09:27",
+      "title": "삼성전자·SK하이닉스 1.4조 ETF 매물에도…\"대형주 영향 제한적\"",
+      "source": "뉴스핌",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hb0ZNekxhcE01YU1fSUkzRjYyLVBOczZzZFpNWmhSbWhfamlsR3dUVmN0ZkpVWkwyVGItVWdEbjdGVVFydVR5V29oWVdzSWtNY0dFZG5VTk1rRG5W?oc=5",
+      "relatedNews": [
+        {
+          "title": "삼성전자·SK하이닉스 1.4조 ETF 매물에도…\"대형주 영향 제한적\"",
+          "date": "2026-09-10",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hb0ZNekxhcE01YU1fSUkzRjYyLVBOczZzZFpNWmhSbWhfamlsR3dUVmN0ZkpVWkwyVGItVWdEbjdGVVFydVR5V29oWVdzSWtNY0dFZG5VTk1rRG5W?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "삼성전자·SK하이닉스 1.4조 매물 예고…마이크론 3%↑에도 유가 100달러",
+          "date": "2026-09-10",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VRUo5UFJybE9VVDNFYmI3eVd0UDRvSU1pTkYwRU42TUtMb1JianFpR0FJQk5GcmNzblM5Uk1IaFREME50VEFoVEFrT3BaM1lIUE9scVBjN2JNN2xycXNsSk1QM2JkWjRt?oc=5",
+          "score": 0.287
+        }
+      ]
     }
   ],
   "aiSummary": null
