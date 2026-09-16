@@ -1,13 +1,35 @@
 {
-  "updatedAt": "2026-09-15 09:46",
-  "date": "2026-09-15",
-  "autoSummary": "2026년 09월 15일 주요 경제 뉴스 10건. 호재 0 · 리스크 1 · 중립 9",
-  "trendNote": "'“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래' 이슈가 2026-09-10부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-09-16 09:38",
+  "date": "2026-09-16",
+  "autoSummary": "2026년 09월 16일 주요 경제 뉴스 10건. 호재 1 · 리스크 1 · 중립 8",
+  "trendNote": "'코스피·코스닥, 내림세로 장 출발' 이슈가 2026-07-27부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "09:46",
+      "time": "09:38",
+      "title": "코스피·코스닥, 내림세로 장 출발",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmREpLSy1ZWXB4eXd1SmdEa2ZKMVBlNmZHSUE3alVfV1FVa0I1bmF3RzRhdmNKb2NpQll1cVBLOWhuMldCQnBFd2x5X1lYdkgzZHFQUFl6eXB1TmhlM2ZGOUJQQW53ZktneVkw?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥, 내림세로 장 출발",
+          "date": "2026-07-27",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ0tBRVNxd2tkZExfZ2l4aG5sOHBvQXpMRHNfSV9YazBwa09DejVSVUkzdDg0M2Y3ZGRmQjZsZG15UHlvVkZZTUNvTGtUeUZhMlYxN0N4QWxlWWFxVDZTRnhVclMwVEtMLThv?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥, 내림세로 장 출발",
+          "date": "2026-08-28",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSmFZRmNuLXB4ZmRLUzR5akN4V25lX2ZWYlhMRHBMM184T2JRbkFkZXUwdVZZV1NpM0NKYlh1Z1pxNWlMeFVra1MyaWNDOXJpbjdYQTYwWW54YlpZcExoY1Q2QUI4MmJHMDZr?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "09:38",
       "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
-      "source": "주간조선",
+      "source": "weekly.chosun.com",
       "tag": "시장",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
@@ -27,96 +49,110 @@
       ]
     },
     {
-      "time": "09:46",
-      "title": "코스피·코스닥, 내림세로 장 출발",
-      "source": "한강타임즈",
+      "time": "09:38",
+      "title": "코스피 6611.53 출발…하락 출발 개장하자마자 꺾인 지수",
+      "source": "위키트리",
       "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1R244bnkxYVU0Q1M0WEdBektzV2NyZ0twektqV2JCTnJyTXRuTmFDS2x1VnlPa055V21LMXZ1UTY5ZURLMXR4RzFsMGZSU2xkbElId1V5bjZVUmNLdjNFb1FzWlUzTnRtZFZz?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-07-27",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ0tBRVNxd2tkZExfZ2l4aG5sOHBvQXpMRHNfSV9YazBwa09DejVSVUkzdDg0M2Y3ZGRmQjZsZG15UHlvVkZZTUNvTGtUeUZhMlYxN0N4QWxlWWFxVDZTRnhVclMwVEtMLThv?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-08-28",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSmFZRmNuLXB4ZmRLUzR5akN4V25lX2ZWYlhMRHBMM184T2JRbkFkZXUwdVZZV1NpM0NKYlh1Z1pxNWlMeFVra1MyaWNDOXJpbjdYQTYwWW54YlpZcExoY1Q2QUI4MmJHMDZr?oc=5",
-          "score": 1.0
-        }
-      ]
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYnpEZERlUzNKNm94aFQwNVlMN3h1bG5PTXR6YzQ0RWl2cUx5eHF4UFFyYTJBMXlTNEdKSy13cGZOYk1kMzl6anF3ZnlDdjlZU0pIek5n?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "09:46",
+      "time": "09:38",
       "title": "9월14일 주식 시황 코스피 코스닥 거래대금 회전율 상위 10",
       "source": "네이버 프리미엄콘텐츠",
       "tag": "시장",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSmlQclYwS1FFMXRwMnNDeUV4cWtEcGpGeHI1MXl5YVJCSFdIYl9VQUpzcW9JVHJWR2J1eHJUTk52bUVzNWkxaGd3elpqcW1WMEhTbEdob0RBeXhZcXF6MXNaY3h5bC1ZSWpiR3JpdkNFSVVrMVJFYlYwMDZ5UmJVU0hhaVFUZnBMRUVtdA?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:46",
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-      "source": "연합뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTWpyWHktaUZ3dEJZMm54SkFFcndWZlhFMEJ6QmcxRjhZTENNV3lRSFk3bno2NWdxaDlOUHlyM1NVRWhzMHQ1ZU1Yd3BnTWlTSGVQTWVqYmM1LWvSAWBBVV95cUxQQXJ5UE4zVk9JTURpTmVxMDlKZVZYdGpmODBmRmNLeFNtaGNRcXFHdFJkbmo5SzEtSGV0aHkxWXdPakxsQmMxWmZzX2pNdDRGNXBHMjJvVVNzQWhFMloxQjk?oc=5",
       "relatedNews": [
         {
-          "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-          "date": "2026-09-14",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbDgxUE10cEJWbXM1WEc2U2dPdllEVU9TdXJUQXZ3czYtMjM4TWQ4UTFEZkRRZms5amM1dGluT292enlSeWE1SlV6OEtiWS1rRFE?oc=5",
+          "title": "9월14일 주식 시황 코스피 코스닥 거래대금 회전율 상위 10",
+          "date": "2026-09-15",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSmlQclYwS1FFMXRwMnNDeUV4cWtEcGpGeHI1MXl5YVJCSFdIYl9VQUpzcW9JVHJWR2J1eHJUTk52bUVzNWkxaGd3elpqcW1WMEhTbEdob0RBeXhZcXF6MXNaY3h5bC1ZSWpiR3JpdkNFSVVrMVJFYlYwMDZ5UmJVU0hhaVFUZnBMRUVtdA?oc=5",
           "score": 1.0
-        },
-        {
-          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-          "date": "2026-08-21",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
-          "score": 0.708
         }
       ]
     },
     {
-      "time": "09:46",
-      "title": "코스피 짓누른 '금리 5% 악몽'…17일 새벽 운명 갈린다",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kcHFxS0Ywak81YklwQ2RraFd2N0RieGZhQUtwM3B0OVpDUHEzODdWYlFRVEdiN3hlM0hNNmN5amFOdkZnRkFZTHk1cWpKUXoxU0N4VjA4alUzZw?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:46",
+      "time": "09:38",
       "title": "美 연준 3년 만에 금리 인상 초읽기…한국 경제 파장은",
-      "source": "데일리안",
+      "source": "dailian.co.kr",
       "tag": "글로벌",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa3JMV1RmanhuY3BBS3Y5dzhCblJ5WFdxeUVFYnZNTkw1bzVHUzB4ellQSW82RXFsSzNKMS1zaEd1SDZ4MlhNamVKUTNIVUpYazVLS0RKam9KTE4tTFI1anZJZnMwMlR0WjFpMG5HcWNUWmg2aU0zLWtmWHA2cnZLWFBVTktVc2YzVzJfSHdkbVZGdTFROWhTZ3g4U090ZnZEbHlDYjUtMHdGQXhRdkw3UFdOY0ZPaWFlV18xSzlXUmJWRGJFSy1IQmdsb3BqUlJPbkFiX0JWa0h0Y2tJcFh0U3hmS1h5Y2NyT3NjamlnNnZXVFY1YUhyWm5jLXBUT0NlWHZN?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "美 연준 3년 만에 금리 인상 초읽기…한국 경제 파장은",
+          "date": "2026-09-15",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa3JMV1RmanhuY3BBS3Y5dzhCblJ5WFdxeUVFYnZNTkw1bzVHUzB4ellQSW82RXFsSzNKMS1zaEd1SDZ4MlhNamVKUTNIVUpYazVLS0RKam9KTE4tTFI1anZJZnMwMlR0WjFpMG5HcWNUWmg2aU0zLWtmWHA2cnZLWFBVTktVc2YzVzJfSHdkbVZGdTFROWhTZ3g4U090ZnZEbHlDYjUtMHdGQXhRdkw3UFdOY0ZPaWFlV18xSzlXUmJWRGJFSy1IQmdsb3BqUlJPbkFiX0JWa0h0Y2tJcFh0U3hmS1h5Y2NyT3NjamlnNnZXVFY1YUhyWm5jLXBUT0NlWHZN?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:46",
-      "title": "유가·물가·금리 ‘3고 충격’에 글로벌 긴축 본격화…어두워진 한국 경제 시계",
-      "source": "v.daum.net",
+      "time": "09:38",
+      "title": "금리 인상 한번 끝 or 연속 인상?…커지는 10% 조정론 [김현석의 월스트리트나우]",
+      "source": "한국경제",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwUm1Ub3VnNnVNdG1DWXVkckdWa0ZtSF9ZMW1BRDlnYU9iT0p2U3BZbHktcnJ5anZMQ2pHb3A5SjBhRVlhbWFrOHp4LV9pT00?oc=5",
-      "relatedNews": []
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySzJvVXNkYXBkanhhdjU5VU5rRFV3QjVRa0twT1pqaHp3bWdZWHk4Tm16c0NabHI5bE10NG01NjdSMkVVMW9VWDg5cnVDMWNBRTZRaVZkMjZxUQ?oc=5",
+      "relatedNews": [
+        {
+          "title": "베센트 '위협'에도 하루 만에 금리 반등 [김현석의 월스트리트나우]",
+          "date": "2026-08-22",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40NF9keHlGZG5peHZsVW5iaThmY2wyakFBckgyM1E2YUpLVGRleEc1N3d4eTFXUGdjaTZwTkxMQ3lrMUQwbXNRejlqN1NaVE1sZENLX3BnaDJndw?oc=5",
+          "score": 0.367
+        },
+        {
+          "title": "베센트 '위협'에도 하루 만에 금리 반등 [김현석의 월스트리트나우]",
+          "date": "2026-08-22",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40NF9keHlGZG5peHZsVW5iaThmY2wyakFBckgyM1E2YUpLVGRleEc1N3d4eTFXUGdjaTZwTkxMQ3lrMUQwbXNRejlqN1NaVE1sZENLX3BnaDJndw?oc=5",
+          "score": 0.367
+        }
+      ]
     },
     {
-      "time": "09:46",
-      "title": "\"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다",
+      "time": "09:38",
+      "title": "연준의 금리인상, 쉽게 생각하면 안된다",
       "source": "한국경제",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53enkwVzFtOVh0RnJLN2ROOEFHanlmdzVvbzRmSWhvR3NOSG5kUEI0RzBtblZoZkYwYWhmZ01HWEtCM1JObTl3YzFkRDBhNVFaY010cldJaVdwZw?oc=5",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OLWRMa0tmLThLZnFoS3c0b3FLQTBRMEIwTnFnVmwtX1lialloaU5XRlJYRHlxc2VCRWMyc0VxajFhcFJ0ZVBWQXZYWG5JX3NlTUJkTHM0bnI0Zw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "09:46",
+      "time": "09:38",
+      "title": "[밤 사이 해외 뉴스 영상] \"19년 만에 최악\"…미 국채 금리 5% 뚫자 '패닉'",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sZ3lfREFvRll4bFctVE5fT2J5RjNIdVJnQldDODZaa1IxQnJMV0ZPU281a3oxLXI5LU5XWnphbUJXNEpUd0wxSDdzSlc0WUJpRlRoUzNWNml6UQ?oc=5",
+      "relatedNews": [
+        {
+          "title": "[밤 사이 해외 뉴스 영상] 금리 인상 공포 속 LVMH '반토막'…소비 심리 급랭",
+          "date": "2026-09-07",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZX1hDSjZ6NG5tajdKYllWemJJdkxYRkUxX2IwUTVxMjd6a1lieXRZUHY3RklhMkF6TWtaMDMxcGRRQlBRZWVmQ25saFhsNV8ta2I0NHBfUDdodw?oc=5",
+          "score": 0.327
+        },
+        {
+          "title": "[밤 사이 해외 뉴스 영상] 금리 인상 공포 속 LVMH '반토막'…소비 심리 급랭",
+          "date": "2026-09-08",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZX1hDSjZ6NG5tajdKYllWemJJdkxYRkUxX2IwUTVxMjd6a1lieXRZUHY3RklhMkF6TWtaMDMxcGRRQlBRZWVmQ25saFhsNV8ta2I0NHBfUDdodw?oc=5",
+          "score": 0.327
+        }
+      ]
+    },
+    {
+      "time": "09:38",
+      "title": "삼성전자 3분기 영업익 전망치, 석달 새 12조 넘게 상향",
+      "source": "chosun.com",
+      "tag": "기업",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnJ3QUZNdW9RNkNZRmQzVXRDbl8tU3p0UFRFRUFNYWZpZkltNkxvazRvQzVlVnYxSXZReFlmQnFRQVZVdjl3MVgwR2FWTEpsMFZVVi1MU3NzcG9aWXM5Rnkwb3BENFl5bjNLNk9wX2hUY3dySnVOclpRRGYwOE0wNVVZZUViV2g3SlN3?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:38",
       "title": "삼성전자·SK하이닉스, 한전 `25조 전기료 선납` 제안 거절",
       "source": "국제신문",
       "tag": "기업",
@@ -124,27 +160,18 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVNkbW91SVlVS3dRY3BSUlloNnVXWTRzR0wzQnBHVGhGdVRtUzBPbENGbENkMzhYRGlIS05SNGpBc1MtR2VyTkkxMVFCVW4xYnBvS0FidElrOWgwTnN2eE1ZaFZvQlQ4XzdZblo2QktPY3dra01iTzdaMUJfTmg5NDZMRnNRR0RZNFNwcGF3?oc=5",
       "relatedNews": [
         {
+          "title": "삼성전자·SK하이닉스, 한전 `25조 전기료 선납` 제안 거절",
+          "date": "2026-09-15",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVNkbW91SVlVS3dRY3BSUlloNnVXWTRzR0wzQnBHVGhGdVRtUzBPbENGbENkMzhYRGlIS05SNGpBc1MtR2VyTkkxMVFCVW4xYnBvS0FidElrOWgwTnN2eE1ZaFZvQlQ4XzdZblo2QktPY3dra01iTzdaMUJfTmg5NDZMRnNRR0RZNFNwcGF3?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "\"전기료 25조 미리 내달라\"…삼성전자·SK하이닉스, 한전 제안 거절",
           "date": "2026-09-14",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcWJTY2VfV2RhUkE2bTJfSmFKR1FDQW5EWi0wRnJGcVV0NWg0bkhYYmd4OUxtUG1nY0wxVGlReFl1NjNoc3ZZYUZGMGpZT2l2c3hYVnMyNW1vdw?oc=5",
-          "score": 0.575
-        },
-        {
-          "title": "한전, 삼성전자·SK하이닉스에 5년치 전기료 25조 선납 제안",
-          "date": "2026-09-04",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WLVJWb1JONG1OYmt0V2JNa2VVNDVobHhqR1BTU0pCUGIyaGgwSFp4SVlPVXRscUpwRnBSdnZqUFBVb1NiTi1UMWtBdEZmSmtYSHlLOFA5MEZNVTA?oc=5",
-          "score": 0.54
+          "score": 0.574
         }
       ]
-    },
-    {
-      "time": "09:46",
-      "title": "[단독-메가특구법 노동특례?] 삼성전자·SK하이닉스, 기간제·파견 확대 ‘관심 없다’",
-      "source": "매일노동뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkdW9PcFUyZ0xmZVZVVVNaY3ZsOVMtNjRBX3NrU0ladWIwNDNLODFMQURybnRDWW5uS2MzREVMa1ctNk1BVmlQaWVDMGpMTGhMeEYzWEV4bDZ0LWlSNGRpTFZLNk1UOXlzLWtrSjBQaFg?oc=5",
-      "relatedNews": []
     }
   ],
   "aiSummary": null
