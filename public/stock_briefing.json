@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-22 09:59",
-  "date": "2026-09-22",
-  "autoSummary": "2026년 09월 22일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
+  "updatedAt": "2026-09-23 09:49",
+  "date": "2026-09-23",
+  "autoSummary": "2026년 09월 23일 주요 경제 뉴스 10건. 호재 3 · 리스크 0 · 중립 7",
   "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-08-07부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "09:59",
+      "time": "09:49",
       "title": "코스피·코스닥, 오름세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nM1AzdkJGX3VrQzFZTU12eEQzdXJmRFZIR1B2M2ZVb3o5R2FZRmRuaXhrZnpzUkJJNFRqNThHaFRoN3hrTEcwRV93QmpoMTFUUm9zZlRiTnFXMGVxa214NE9zQVc0eUdSUFhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01YXVIM3BpYTRPZGVVWW5wOTFWaUNVZlJGVmpJczBhOU81VldBdk5mQXEwQzdaMk4yY3I3eHBoVl9NYzdGWG5COWJkOGVfZkVhWWFVVmJfb1RiQ0c0ZHRzTG5PMGdZMDBRUHB3?oc=5",
       "relatedNews": [
         {
           "title": "코스피·코스닥, 오름세로 장 출발",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "time": "09:59",
+      "time": "09:49",
       "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
       "source": "주간조선",
       "tag": "시장",
@@ -49,95 +49,122 @@
       ]
     },
     {
-      "time": "09:59",
-      "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-      "source": "연합뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YcHVRa1dMX1BTMjhuMVhuTkJMb2g4MXo1cGg4dzZ5cXdYQkFxVGcyYndJbnU0ZzMycDNQWFFLdURwSlYyajFTZ05mdm4yZHFDb29JdzNBV0lEeVHSAWBBVV95cUxQNlFNMXNrTkhaSlhUZHlMb2lZZE5RX3lNQnZqTFZpdy1vVnpidzZ3YUNfQmtuZ1pFXzktZVV0OWR4eVVYYzkwX2kzWUdLdERqRUhtYXQ5bzF0WURfVDgxUWE?oc=5",
-      "relatedNews": [
-        {
-          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-          "date": "2026-08-21",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-          "date": "2026-08-22",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbXRuWDZCTXoydFpjT3A1NG1Tb2F4NVFQZ0dGeUVaWGtST0dpVTV3Z1dRQ05DSVBVYU5lMlJycFhJM3lfQnU0REhwMVhCSkZsWXRiYUFuVVpJdGfSAWBBVV95cUxNdWVuNmF4MGlEcnN4OWlDaGRMUi1OQmJ1UHBkXzdSa0xPdjl0MTM4a1M2TlRGc0hlYUw2M2NIS2lXeWJQTEttTVRreE4yTXBjRGRJdUFOQURaalQ2MG9OUUI?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "09:59",
-      "title": "美 기술주 훈풍에 코스피·코스닥 동반 상승마감",
-      "source": "프리진경제",
-      "tag": "글로벌",
+      "time": "09:49",
+      "title": "코스피 7017.91 상승 마감…하이닉스는 하락했는데 상승한 '이곳'",
+      "source": "위키트리",
+      "tag": "시장",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dmw3dnJpNVI3ZGg1NHNmaF96TEhWSEdwZUd4M1R6c2xfb3dkVFZNOFBYbXQxMFUxNlNlS0YtaFVUZDFCZ3ZNR2lYeHJ1eWlBWUFLaUx0VWU1NnoyaElCVUdCSXRuR2lUckRwZQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "美 기술주 훈풍에 코스피·코스닥 동반 상승마감",
-          "date": "2026-09-19",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dmw3dnJpNVI3ZGg1NHNmaF96TEhWSEdwZUd4M1R6c2xfb3dkVFZNOFBYbXQxMFUxNlNlS0YtaFVUZDFCZ3ZNR2lYeHJ1eWlBWUFLaUx0VWU1NnoyaElCVUdCSXRuR2lUckRwZQ?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "09:59",
-      "title": "국민·우리은행, 예금금리 최고 연 3.5%로",
-      "source": "hankyung.com",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VR2txY3Y2OUxZSndlSG1YcnNiTlNyMk5LMmhIT2xqWEx2cXlfNnhfV0VVUkR1TEVwRktJZTFfLS0wZXhKY00xTkFYazlIaVVZUVJsbFVHR0lidw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wVzdSaG4xTkFVZ0M4UWc4VnIxYU1rV1hNeS1nWDVkQmwySGR2aXcyejh5LXlhN2NFdzJXZjVJZ0ZCUW43NG1hZUdJNktVRHpFS3hFYVJR?oc=5",
       "relatedNews": []
     },
     {
-      "time": "09:59",
+      "time": "09:49",
+      "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+      "source": "연합뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MlEyZXRaMXlkV2FRZ0lyNkphaTRST1Zram1VR2NJVDRyUW5RUnZLcVlGeHdiNmJnNkdSLXhYRF90eVUtU3hTalVvbkF4NUN0WG95TXJ0RktjLW_SAWBBVV95cUxQRWNuaTJoWFg1N2lHYndCTGxKS3Izd1p4N3FhanBiS05qSWtNT1VKd2daVUpORlZPSDBnMWpFbTlubUQ0SHZpZlBrNG1hTmdxU25RRlZkeWt1VkhNU1drVGo?oc=5",
+      "relatedNews": [
+        {
+          "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+          "date": "2026-09-17",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MlEyZXRaMXlkV2FRZ0lyNkphaTRST1Zram1VR2NJVDRyUW5RUnZLcVlGeHdiNmJnNkdSLXhYRF90eVUtU3hTalVvbkF4NUN0WG95TXJ0RktjLW_SAWBBVV95cUxQRWNuaTJoWFg1N2lHYndCTGxKS3Izd1p4N3FhanBiS05qSWtNT1VKd2daVUpORlZPSDBnMWpFbTlubUQ0SHZpZlBrNG1hTmdxU25RRlZkeWt1VkhNU1drVGo?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+          "date": "2026-09-18",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MlEyZXRaMXlkV2FRZ0lyNkphaTRST1Zram1VR2NJVDRyUW5RUnZLcVlGeHdiNmJnNkdSLXhYRF90eVUtU3hTalVvbkF4NUN0WG95TXJ0RktjLW_SAWBBVV95cUxQRWNuaTJoWFg1N2lHYndCTGxKS3Izd1p4N3FhanBiS05qSWtNT1VKd2daVUpORlZPSDBnMWpFbTlubUQ0SHZpZlBrNG1hTmdxU25RRlZkeWt1VkhNU1drVGo?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "09:49",
+      "title": "국민·우리은행, 예금금리 최고 연 3.5%로",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VR2txY3Y2OUxZSndlSG1YcnNiTlNyMk5LMmhIT2xqWEx2cXlfNnhfV0VVUkR1TEVwRktJZTFfLS0wZXhKY00xTkFYazlIaVVZUVJsbFVHR0lidw?oc=5",
+      "relatedNews": [
+        {
+          "title": "국민·우리은행, 예금금리 최고 연 3.5%로",
+          "date": "2026-09-22",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VR2txY3Y2OUxZSndlSG1YcnNiTlNyMk5LMmhIT2xqWEx2cXlfNnhfV0VVUkR1TEVwRktJZTFfLS0wZXhKY00xTkFYazlIaVVZUVJsbFVHR0lidw?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "09:49",
       "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론]",
       "source": "문화일보",
       "tag": "경제",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVdwM055TjNJM2FtUXNIYmxraUpwTmw2NHZZWC1KblUzUVdWWkdNQ0hPcWpWWWFYUXdhaTFJWjVTYTM4LWs1ZG5WcnV5Vm9Q?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론]",
+          "date": "2026-09-22",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVdwM055TjNJM2FtUXNIYmxraUpwTmw2NHZZWC1KblUzUVdWWkdNQ0hPcWpWWWFYUXdhaTFJWjVTYTM4LWs1ZG5WcnV5Vm9Q?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:59",
-      "title": "[심층분석] 미국 금리 인상 사이클, 한국 경제에 드리운 구조적 그림자",
-      "source": "데일리연합",
+      "time": "09:49",
+      "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박",
+      "source": "kbmaeil.com",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DenFuQ04xd2xnT29rby1hc3dXTjRnTEs1WXk4WlBRN3IyWVhLa1Zlcmp5VkVYQlZjYlh2SGFmbzhQOFhYYktqZU9GcEpNY0p0MWVTZjc2dFYxSk0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "09:59",
-      "title": "[경제분석] 미국보다 더 빨리 뛴 한국 국채금리…돈의 가격이 다시 비싸지고 있다",
-      "source": "토큰포스트",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jb2pSSGp0SDRwMFV5LWZtNUQxUGppcl9DcW5FQ3RieWxCREc5a0tyS3k0cEFTd2ljSFpSX2JBWHpXLVRTa1JnelQ0MEkxQTZSdjZYeW55Z0k?oc=5",
-      "relatedNews": []
+      "time": "09:49",
+      "title": "[사설]심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
+      "source": "경향신문",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bng3OVpERzExT0I3SGpLend3MzdaSFJyaFdZUlRLelFlWHVYTGNRTF9aMmNMLUhkZ3ZESkhkV0dsTFNFN2J1bDhPeVAwWVIwamVhSWpVNXdQZ9IBX0FVX3lxTE8tcUhLa3hvN1VlSVZYUUJ3eHdySlVVRlc0bF80ajdTVjYxSWVYNklnTHpkSEZoeThhTWhfLUZzZEY5RlEzT25nRlN5cWZiZGJ5MmxKSGo5WXVpMUY4dHdJ?oc=5",
+      "relatedNews": [
+        {
+          "title": "[사설]심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
+          "date": "2026-09-04",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bng3OVpERzExT0I3SGpLend3MzdaSFJyaFdZUlRLelFlWHVYTGNRTF9aMmNMLUhkZ3ZESkhkV0dsTFNFN2J1bDhPeVAwWVIwamVhSWpVNXdQZ9IBX0FVX3lxTE8tcUhLa3hvN1VlSVZYUUJ3eHdySlVVRlc0bF80ajdTVjYxSWVYNklnTHpkSEZoeThhTWhfLUZzZEY5RlEzT25nRlN5cWZiZGJ5MmxKSGo5WXVpMUY4dHdJ?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "[사설]심상치 않은 글로벌 국채금리 급등세, 한국 경제 방어망 점검해야",
+          "date": "2026-09-05",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bng3OVpERzExT0I3SGpLend3MzdaSFJyaFdZUlRLelFlWHVYTGNRTF9aMmNMLUhkZ3ZESkhkV0dsTFNFN2J1bDhPeVAwWVIwamVhSWpVNXdQZ9IBX0FVX3lxTE8tcUhLa3hvN1VlSVZYUUJ3eHdySlVVRlc0bF80ajdTVjYxSWVYNklnTHpkSEZoeThhTWhfLUZzZEY5RlEzT25nRlN5cWZiZGJ5MmxKSGo5WXVpMUY4dHdJ?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:59",
-      "title": "삼성전자·SK하이닉스, D램 생산량 HBM에 묶인 사이 中 범용 D램 시장 침투 가속 - 조선비즈",
-      "source": "Chosunbiz",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDRqZm51SUtvNm1DajFVSnJyOGY3MXRsNzI3UVNZdk9mYnJNLUJ6cnhQdTNvckwxclZlMjcwaFowNU5qR3RWQkRZcVV1cW1QVnkwa0tCUTZVekJJVE5lTUhIVDJOOUZtQ01NMW5rVEdVOGpXVkRxQ0JkSHBIWWJXaV930gGWAUFVX3lxTE56UURXeEg2RV9kbi1UNU5QNWxCRU8xQU1rNUJJMFQ5SkhxV2VyLWI0dVU1LU9ERTlsSFZPRzdGRmE2MnkwTzNwMEVMVGpzNHUyUTZNcTZmUUNOME51aFdRUHhmWGZfWWpXZWEyaTVfXzMyOGJpOUlSZ2J2SkJ6MVZuQlNSSjhNOWtESlBJdXZCT0c4OW1Fdw?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:59",
-      "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 ’PS6’ D램 공급 정조준 By The Guru",
-      "source": "Investing.com 한국어",
+      "time": "09:49",
+      "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 'PS6' D램 공급 정조준",
+      "source": "더구루",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KcWRxdEVCLU9haXZjdXVybm5MVzZDZkJGclJ2UTR1MjBEZkYwel82VVdvdHM5SnlXY1ZHclFjLTJjbmFCY3VKRFdpdVVyUnVqX085Rm1PMy1tVU1XVVVpU245YlNDb1BqTkxlN3V5SGg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWxla3pXUkZDYVFBWkhaNGJmZlNVQ281NUR3NzJzQUlkbUh6LVFLNlg3NGVBVXAzSVV1RFUycWZSZXVyWTVoejhNY2hsSWFiRkw4bTJYYmJwd3AwZVd4dU9rSQ?oc=5",
+      "relatedNews": [
+        {
+          "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 ’PS6’ D램 공급 정조준 By The Guru",
+          "date": "2026-09-22",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KcWRxdEVCLU9haXZjdXVybm5MVzZDZkJGclJ2UTR1MjBEZkYwel82VVdvdHM5SnlXY1ZHclFjLTJjbmFCY3VKRFdpdVVyUnVqX085Rm1PMy1tVU1XVVVpU245YlNDb1BqTkxlN3V5SGg?oc=5",
+          "score": 0.752
+        }
+      ]
+    },
+    {
+      "time": "09:49",
+      "title": "[AI 슈퍼사이클 나비효과]上 삼성의 맹추격…HBM 왕좌 바뀌나",
+      "source": "v.daum.net",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3M2p0SzdHdi1lWjNrMDBlbGgwcjhkbWNiQWRpcTkxc3psUEw3ZUVWWmVCOWZ0NVd0UDVpRy1wcTNsODUxSWdHNnpVUE5ZdjQ?oc=5",
       "relatedNews": []
     }
   ],
