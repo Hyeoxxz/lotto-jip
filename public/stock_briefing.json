@@ -1,42 +1,33 @@
 {
-  "updatedAt": "2026-09-24 09:42",
-  "date": "2026-09-24",
-  "autoSummary": "2026년 09월 24일 주요 경제 뉴스 10건. 호재 3 · 리스크 0 · 중립 7",
-  "trendNote": "'코스피·코스닥, 오름세로 장 마감' 이슈가 2026-08-12부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-09-25 09:39",
+  "date": "2026-09-25",
+  "autoSummary": "2026년 09월 25일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
+  "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-08-07부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "09:42",
-      "title": "코스피·코스닥, 오름세로 장 마감",
-      "source": "한강타임즈",
+      "time": "09:39",
+      "title": "코스피·코스닥, 오름세로 장 출발",
+      "source": "hg-times.com",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OeUdlR0JHWkhZc3VTOHViX2VKNHhYdHdZTHJkWHFfeWs5X2stejROXzRKRG1lZE42VEVfU2VkMVRMTlVzZUNUdU9JUkNGSk1CTlp3WEZPV09tUVZ5RDFtMzRHRk5VMDRzei0w?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01YXVIM3BpYTRPZGVVWW5wOTFWaUNVZlJGVmpJczBhOU81VldBdk5mQXEwQzdaMk4yY3I3eHBoVl9NYzdGWG5COWJkOGVfZkVhWWFVVmJfb1RiQ0c0ZHRzTG5PMGdZMDBRUHB3?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥, 오름세로 장 마감",
-          "date": "2026-08-12",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qbXhqYVB3ZE90NV84VUktbUFnVDFldmwtZTdVZjRzZVVvc09IeWxqWElGcXFxQUQzQXV3U3R6TFBwMTVkOUVWcTM0NERwREdXYnVnRjM4SDVIWVk1SEtRNW0zWGpUV2xRelJj?oc=5",
+          "title": "코스피·코스닥, 오름세로 장 출발",
+          "date": "2026-08-07",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LNENlemdqcUhiZ0t2emJUM0xJbnlCeF9HeUdQeGU3MW1DcnFTZXRKejhpalZjWmpla3JXalkxSHpoVE1fc2NpZE9lblhCUEtHUTA4MnVzWTdHaGxaNHpuWUplZGw0UFE2TXQ0?oc=5",
           "score": 1.0
         },
         {
-          "title": "코스피·코스닥, 오름세로 장 마감",
-          "date": "2026-08-13",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MT21GbGhYRzNkdDRFZVdUbFByRi1jSlZhTi02dWQ5aFRtSGNiTmgtekoxMjk0OV90UkpwWnZWVTRTTk84Mzh0OU1XNDdaa21NcEFuT18wYzUxbTFYYUk5WmR4OFNlby04bmww?oc=5",
+          "title": "코스피·코스닥, 오름세로 장 출발",
+          "date": "2026-08-27",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrZnZlTElwbDU5TW1HalZVbEIxaU42c01WYmxoLUVvLUZjYl8wbHhrQU5OZGV2MmZ3TTBPU0dqLU9xWGFBeWZxUk1lVWZMcWdmN1h1VWJwalgtUnIzQy1MY2ZxeExFcW5iWmRN?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "09:42",
-      "title": "코스피 7080.92 마감…5.03% 급등하며 최고 수익률 낸 '이곳'",
-      "source": "위키트리",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05WTFOX1lLQklSX3pHczliMW5BNHpSVk5FczFWdjFUcUNJby1vNnNNWUQ4TEt4SW80VFlXcEkwTkZCd0RmWWNBYWUtUTFzX1VVZ0luTzdn?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:42",
+      "time": "09:39",
       "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
       "source": "주간조선",
       "tag": "시장",
@@ -58,51 +49,82 @@
       ]
     },
     {
-      "time": "09:42",
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
+      "time": "09:39",
+      "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTWpyWHktaUZ3dEJZMm54SkFFcndWZlhFMEJ6QmcxRjhZTENNV3lRSFk3bno2NWdxaDlOUHlyM1NVRWhzMHQ1ZU1Yd3BnTWlTSGVQTWVqYmM1LWvSAWBBVV95cUxQQXJ5UE4zVk9JTURpTmVxMDlKZVZYdGpmODBmRmNLeFNtaGNRcXFHdFJkbmo5SzEtSGV0aHkxWXdPakxsQmMxWmZzX2pNdDRGNXBHMjJvVVNzQWhFMloxQjk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MlEyZXRaMXlkV2FRZ0lyNkphaTRST1Zram1VR2NJVDRyUW5RUnZLcVlGeHdiNmJnNkdSLXhYRF90eVUtU3hTalVvbkF4NUN0WG95TXJ0RktjLW_SAWBBVV95cUxQRWNuaTJoWFg1N2lHYndCTGxKS3Izd1p4N3FhanBiS05qSWtNT1VKd2daVUpORlZPSDBnMWpFbTlubUQ0SHZpZlBrNG1hTmdxU25RRlZkeWt1VkhNU1drVGo?oc=5",
       "relatedNews": [
         {
-          "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-          "date": "2026-09-14",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbDgxUE10cEJWbXM1WEc2U2dPdllEVU9TdXJUQXZ3czYtMjM4TWQ4UTFEZkRRZms5amM1dGluT292enlSeWE1SlV6OEtiWS1rRFE?oc=5",
+          "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+          "date": "2026-09-17",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MlEyZXRaMXlkV2FRZ0lyNkphaTRST1Zram1VR2NJVDRyUW5RUnZLcVlGeHdiNmJnNkdSLXhYRF90eVUtU3hTalVvbkF4NUN0WG95TXJ0RktjLW_SAWBBVV95cUxQRWNuaTJoWFg1N2lHYndCTGxKS3Izd1p4N3FhanBiS05qSWtNT1VKd2daVUpORlZPSDBnMWpFbTlubUQ0SHZpZlBrNG1hTmdxU25RRlZkeWt1VkhNU1drVGo?oc=5",
           "score": 1.0
         },
         {
-          "title": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-          "date": "2026-09-15",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTWpyWHktaUZ3dEJZMm54SkFFcndWZlhFMEJ6QmcxRjhZTENNV3lRSFk3bno2NWdxaDlOUHlyM1NVRWhzMHQ1ZU1Yd3BnTWlTSGVQTWVqYmM1LWvSAWBBVV95cUxQQXJ5UE4zVk9JTURpTmVxMDlKZVZYdGpmODBmRmNLeFNtaGNRcXFHdFJkbmo5SzEtSGV0aHkxWXdPakxsQmMxWmZzX2pNdDRGNXBHMjJvVVNzQWhFMloxQjk?oc=5",
+          "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
+          "date": "2026-09-18",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MlEyZXRaMXlkV2FRZ0lyNkphaTRST1Zram1VR2NJVDRyUW5RUnZLcVlGeHdiNmJnNkdSLXhYRF90eVUtU3hTalVvbkF4NUN0WG95TXJ0RktjLW_SAWBBVV95cUxQRWNuaTJoWFg1N2lHYndCTGxKS3Izd1p4N3FhanBiS05qSWtNT1VKd2daVUpORlZPSDBnMWpFbTlubUQ0SHZpZlBrNG1hTmdxU25RRlZkeWt1VkhNU1drVGo?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "09:42",
-      "title": "10년물 5.1% 돌파…금리 주시하는 트럼프 [김현석의 월스트리트나우]",
+      "time": "09:39",
+      "title": "[코스피·코스닥 붐업이 남긴 것] ④지수는 올랐는데…투자자 ‘국장’ 지킬까",
+      "source": "스트레이트뉴스",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45Q29UTldLZElBRk9YdC1RWEpZYXZzRE5oZWFaS2pJUVhzLU9YSXpvSjdURGlKNjNyWGdWekNGdGdLakFwcExiOEUyemlqNngyLWVqclVnSHk5VVEwTzR3WmRicl95YkhQMEdrRHZsdFFsd2PSAXdBVV95cUxQbWZNU3pPZXVYWlQzeFpKdlJyNXhZOW9JX3dMNTItVm1hWXVVa1FCLWhtWjlQU3dxSUhUZTlQTzVKOUp3dFhlVDNXRWI3T3JyMHRQZTFGQ056a194WVNDaWdGY0JSMTBYRDFRSmdyVC1jbEZIdXZ4Yw?oc=5",
+      "relatedNews": [
+        {
+          "title": "[코스피·코스닥 붐업이 남긴 것] ④지수는 올랐는데…투자자 ‘국장’ 지킬까",
+          "date": "2026-09-08",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45Q29UTldLZElBRk9YdC1RWEpZYXZzRE5oZWFaS2pJUVhzLU9YSXpvSjdURGlKNjNyWGdWekNGdGdLakFwcExiOEUyemlqNngyLWVqclVnSHk5VVEwTzR3WmRicl95YkhQMEdrRHZsdFFsd2PSAXdBVV95cUxQbWZNU3pPZXVYWlQzeFpKdlJyNXhZOW9JX3dMNTItVm1hWXVVa1FCLWhtWjlQU3dxSUhUZTlQTzVKOUp3dFhlVDNXRWI3T3JyMHRQZTFGQ056a194WVNDaWdGY0JSMTBYRDFRSmdyVC1jbEZIdXZ4Yw?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "[코스피·코스닥 붐업이 남긴 것] ④지수는 올랐는데…투자자 ‘국장’ 지킬까",
+          "date": "2026-09-09",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45Q29UTldLZElBRk9YdC1RWEpZYXZzRE5oZWFaS2pJUVhzLU9YSXpvSjdURGlKNjNyWGdWekNGdGdLakFwcExiOEUyemlqNngyLWVqclVnSHk5VVEwTzR3WmRicl95YkhQMEdrRHZsdFFsd2PSAXdBVV95cUxQbWZNU3pPZXVYWlQzeFpKdlJyNXhZOW9JX3dMNTItVm1hWXVVa1FCLWhtWjlQU3dxSUhUZTlQTzVKOUp3dFhlVDNXRWI3T3JyMHRQZTFGQ056a194WVNDaWdGY0JSMTBYRDFRSmdyVC1jbEZIdXZ4Yw?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "09:39",
+      "title": "10년물 5.2% 돌파…美 증시 덮친 '고금리 장기화' [뉴욕증시 브리핑]",
       "source": "한국경제",
-      "tag": "정책",
+      "tag": "글로벌",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MaElRa0hFcnh6RTRyQWhfNlAyX051QU9DeG5xaVBHV3BMNGF2SW8wazFTalh5T1l5c21ocHpfSTdGQjJ6SFNyUXVNeW1ZbEx1Z0NRalNqbXl0UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xREpxRVNPT1dhSlBxcVFSVDB5LUpzMS1WMC1NU2RES0VRZHdib3p4VUphY1VuNi12UEhrclBxcUdsbmoxUUxmdTRmUVhhUXM3eUxONXlDWkVMZw?oc=5",
       "relatedNews": [
         {
-          "title": "베센트 '위협'에도 하루 만에 금리 반등 [김현석의 월스트리트나우]",
-          "date": "2026-08-22",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40NF9keHlGZG5peHZsVW5iaThmY2wyakFBckgyM1E2YUpLVGRleEc1N3d4eTFXUGdjaTZwTkxMQ3lrMUQwbXNRejlqN1NaVE1sZENLX3BnaDJndw?oc=5",
-          "score": 0.392
+          "title": "유가 급등·美 국채금리 상승에 사흘째 하락 마감 [뉴욕증시 브리핑]",
+          "date": "2026-09-10",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZ1pId2tWNFRmTVRtX2F5Q2U0NlN4RV9rd3cySGJJOGFud1RzT3JPQnFHZldTYUMtc1oyazlpV2pRQkJRTjB0Wnc5TlZ5TjdKcGpkUUxJd1lBZw?oc=5",
+          "score": 0.283
         },
         {
-          "title": "베센트 '위협'에도 하루 만에 금리 반등 [김현석의 월스트리트나우]",
-          "date": "2026-08-22",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40NF9keHlGZG5peHZsVW5iaThmY2wyakFBckgyM1E2YUpLVGRleEc1N3d4eTFXUGdjaTZwTkxMQ3lrMUQwbXNRejlqN1NaVE1sZENLX3BnaDJndw?oc=5",
-          "score": 0.392
+          "title": "유가·美 국채금리 급등에 일제 하락…반도체주 급락 [뉴욕증시 브리핑]",
+          "date": "2026-09-11",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRnhJbWttaUFWWHJxUkVISWQxTkhGZEdjVWRtMTdSbFJUTWVmdW11N1R2TWdsWUlCblB5dG9maWFjMnNXT0FRTXhQSzNxMmpuZmxEUVpBQk9TUQ?oc=5",
+          "score": 0.276
         }
       ]
     },
     {
-      "time": "09:42",
+      "time": "09:39",
+      "title": "[데스크칼럼] 미국이 금리를 올리자, 한국 경제의 약한 고리가 보인다.",
+      "source": "hdnews.co.kr",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PcnI2aUlGZXVmd2I5VGI0R1BqaXhFWm91Ym5sU3NGRFJiX2htUlZqUDcxbEFvek9mTC04UXhJdkRyZUU5QzgxbXVhWlNCeUJpYks0YS05LXdxcVFjTXhIeTZKamJPWmRSeTZZ?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:39",
       "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론]",
       "source": "문화일보",
       "tag": "경제",
@@ -124,60 +146,38 @@
       ]
     },
     {
-      "time": "09:42",
+      "time": "09:39",
       "title": "부동산 전문가 10인 ＇한목소리＇…＂금리가 공급 잡는다＂",
-      "source": "wowtv.co.kr",
+      "source": "한국경제TV",
       "tag": "정책",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTVY5ei11d05uVWFGUFdTQ3RSemNaVHd0Q1lPekp2dTNxVXRiVm5xbzJLR01zdzhMVG0yMFB4UEpRdU5fOThXTVNWcHpWQ1VneV9WNk5MOTUyQkhoTHlfTWk2YXltN0Q3bG9sMnd1SmJRc2c?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "부동산 전문가 10인 ＇한목소리＇…＂금리가 공급 잡는다＂",
+          "date": "2026-09-24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTVY5ei11d05uVWFGUFdTQ3RSemNaVHd0Q1lPekp2dTNxVXRiVm5xbzJLR01zdzhMVG0yMFB4UEpRdU5fOThXTVNWcHpWQ1VneV9WNk5MOTUyQkhoTHlfTWk2YXltN0Q3bG9sMnd1SmJRc2c?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:42",
-      "title": "[데일리 경제 분석] (9월 23일) 코스피 7080·성장률 3.7%로 높아진 눈높이…반도체 호황 뒤 ‘금리의 벽’도 높아졌다",
-      "source": "미디어피아",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WngyNzRHMU5QY2xrYUx2VThsbzlOVEY5UUdCNWs5blpUN1hCVFIzekxGVU9Cb0pkbXl6WjVsSmdTSUZVV2JlYjhrZ0xrTjBZTTk4ejlYYXlnNmdLaXdxQXE5cktudG5ndmRVWlR3?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:42",
-      "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 'PS6' D램 공급 정조준",
-      "source": "더구루",
+      "time": "09:39",
+      "title": "“삼성전자 딜 하나만 따면 일년 농사 끝난다”... ADR 발행설·분할설 들끓는 까닭 - 조선비즈",
+      "source": "Chosunbiz",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWxla3pXUkZDYVFBWkhaNGJmZlNVQ281NUR3NzJzQUlkbUh6LVFLNlg3NGVBVXAzSVV1RFUycWZSZXVyWTVoejhNY2hsSWFiRkw4bTJYYmJwd3AwZVd4dU9rSQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 'PS6' D램 공급 정조준",
-          "date": "2026-09-23",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWxla3pXUkZDYVFBWkhaNGJmZlNVQ281NUR3NzJzQUlkbUh6LVFLNlg3NGVBVXAzSVV1RFUycWZSZXVyWTVoejhNY2hsSWFiRkw4bTJYYmJwd3AwZVd4dU9rSQ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 ’PS6’ D램 공급 정조준 By The Guru",
-          "date": "2026-09-22",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KcWRxdEVCLU9haXZjdXVybm5MVzZDZkJGclJ2UTR1MjBEZkYwel82VVdvdHM5SnlXY1ZHclFjLTJjbmFCY3VKRFdpdVVyUnVqX085Rm1PMy1tVU1XVVVpU245YlNDb1BqTkxlN3V5SGg?oc=5",
-          "score": 0.744
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVZjaTg3bmZIY1JBN0RJNDRDeFVGN09iaWdyUGFWVWZHWGJjTHFfTEl5ZlUxelc1NFlyMTVrb09NTWpEWkRJZ2pNZEVCS1dCeXdNaTJSbzVpX2lZTzdqY1ZTcVV0RERoLUJRZkliRndpVVRGbzJwMVJuUmFxOWdLaEkwbVJ6eFnSAZsBQVVfeXFMUHl3VkdNcHhlWk9UYmRQOE9fYnNGOU1HQ1g2V1VYSWk5bWhOemN0SUN3bGR4dExGdHNXbnEzRHBpR2VudjFtSl9iZEZLbER6OE56QTBDcDlhZV9tT2RQUHJFTks2d2dEclJlTmktSl9DTGtlVk9UT3ItN1hDUG1uTTNzal9Fbm56cnVoMkV4d29zUVc4RUZENEJwUFk?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "09:42",
-      "title": "삼성전자·SK하이닉스, D램 생산량 HBM에 묶인 사이 中 범용 D램 시장 침투 가속 - 조선비즈",
-      "source": "Chosunbiz",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDRqZm51SUtvNm1DajFVSnJyOGY3MXRsNzI3UVNZdk9mYnJNLUJ6cnhQdTNvckwxclZlMjcwaFowNU5qR3RWQkRZcVV1cW1QVnkwa0tCUTZVekJJVE5lTUhIVDJOOUZtQ01NMW5rVEdVOGpXVkRxQ0JkSHBIWWJXaV930gGWAUFVX3lxTE56UURXeEg2RV9kbi1UNU5QNWxCRU8xQU1rNUJJMFQ5SkhxV2VyLWI0dVU1LU9ERTlsSFZPRzdGRmE2MnkwTzNwMEVMVGpzNHUyUTZNcTZmUUNOME51aFdRUHhmWGZfWWpXZWEyaTVfXzMyOGJpOUlSZ2J2SkJ6MVZuQlNSSjhNOWtESlBJdXZCT0c4OW1Fdw?oc=5",
-      "relatedNews": [
-        {
-          "title": "삼성전자·SK하이닉스, D램 생산량 HBM에 묶인 사이 中 범용 D램 시장 침투 가속 - 조선비즈",
-          "date": "2026-09-22",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDRqZm51SUtvNm1DajFVSnJyOGY3MXRsNzI3UVNZdk9mYnJNLUJ6cnhQdTNvckwxclZlMjcwaFowNU5qR3RWQkRZcVV1cW1QVnkwa0tCUTZVekJJVE5lTUhIVDJOOUZtQ01NMW5rVEdVOGpXVkRxQ0JkSHBIWWJXaV930gGWAUFVX3lxTE56UURXeEg2RV9kbi1UNU5QNWxCRU8xQU1rNUJJMFQ5SkhxV2VyLWI0dVU1LU9ERTlsSFZPRzdGRmE2MnkwTzNwMEVMVGpzNHUyUTZNcTZmUUNOME51aFdRUHhmWGZfWWpXZWEyaTVfXzMyOGJpOUlSZ2J2SkJ6MVZuQlNSSjhNOWtESlBJdXZCT0c4OW1Fdw?oc=5",
-          "score": 1.0
-        }
-      ]
+      "time": "09:39",
+      "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
+      "source": "v.daum.net",
+      "tag": "기업",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6TENHZGtlQlFUOXNjZk8taERwSUZrVkhURFlqOEpvQm1oYkx2MGlTd0ozUnJoT2h6ZG82eUJ2NGpfUUVPeU83ZHItRTdPanM?oc=5",
+      "relatedNews": []
     }
   ],
   "aiSummary": null
