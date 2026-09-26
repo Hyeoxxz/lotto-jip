@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-25 09:39",
-  "date": "2026-09-25",
-  "autoSummary": "2026년 09월 25일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
+  "updatedAt": "2026-09-26 09:45",
+  "date": "2026-09-26",
+  "autoSummary": "2026년 09월 26일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
   "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-08-07부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "09:39",
+      "time": "09:45",
       "title": "코스피·코스닥, 오름세로 장 출발",
-      "source": "hg-times.com",
+      "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01YXVIM3BpYTRPZGVVWW5wOTFWaUNVZlJGVmpJczBhOU81VldBdk5mQXEwQzdaMk4yY3I3eHBoVl9NYzdGWG5COWJkOGVfZkVhWWFVVmJfb1RiQ0c0ZHRzTG5PMGdZMDBRUHB3?oc=5",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "time": "09:39",
+      "time": "09:45",
       "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
       "source": "주간조선",
       "tag": "시장",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "time": "09:39",
+      "time": "09:45",
       "title": "[코스피·코스닥 전 거래일(16일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "time": "09:39",
+      "time": "09:45",
       "title": "[코스피·코스닥 붐업이 남긴 것] ④지수는 올랐는데…투자자 ‘국장’ 지킬까",
       "source": "스트레이트뉴스",
       "tag": "시장",
@@ -93,91 +93,92 @@
       ]
     },
     {
-      "time": "09:39",
-      "title": "10년물 5.2% 돌파…美 증시 덮친 '고금리 장기화' [뉴욕증시 브리핑]",
+      "time": "09:45",
+      "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
+      "source": "매일경제 마켓",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HTTYtQWM3bHVPSWxGc3dJaDRqX3RGdnJvNUNOV2ZSWmlJaFN6Y1VtTDlVSkxKR2ZmRmhUeENkRl9ZUnE4NHJuclBjbUJwYWQtTUE?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:45",
+      "title": "10년물 금리 2007년 이후 최고…美증시는 버텼다 [뉴욕증시 브리핑]",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xREpxRVNPT1dhSlBxcVFSVDB5LUpzMS1WMC1NU2RES0VRZHdib3p4VUphY1VuNi12UEhrclBxcUdsbmoxUUxmdTRmUVhhUXM3eUxONXlDWkVMZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va1ZkOFJwUHppZ1lEZllBdXozZmZCeXNweFo4UjFWejRES1pqUGZKOGRvcTVYVGFwUU9fMmQ5c19ORHdvdkZlSGN1YU1pQ2tPdmtwaDdfZHZ2Zw?oc=5",
       "relatedNews": [
+        {
+          "title": "10년물 5.2% 돌파…美 증시 덮친 '고금리 장기화' [뉴욕증시 브리핑]",
+          "date": "2026-09-25",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xREpxRVNPT1dhSlBxcVFSVDB5LUpzMS1WMC1NU2RES0VRZHdib3p4VUphY1VuNi12UEhrclBxcUdsbmoxUUxmdTRmUVhhUXM3eUxONXlDWkVMZw?oc=5",
+          "score": 0.355
+        },
         {
           "title": "유가 급등·美 국채금리 상승에 사흘째 하락 마감 [뉴욕증시 브리핑]",
           "date": "2026-09-10",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZ1pId2tWNFRmTVRtX2F5Q2U0NlN4RV9rd3cySGJJOGFud1RzT3JPQnFHZldTYUMtc1oyazlpV2pRQkJRTjB0Wnc5TlZ5TjdKcGpkUUxJd1lBZw?oc=5",
-          "score": 0.283
-        },
-        {
-          "title": "유가·美 국채금리 급등에 일제 하락…반도체주 급락 [뉴욕증시 브리핑]",
-          "date": "2026-09-11",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRnhJbWttaUFWWHJxUkVISWQxTkhGZEdjVWRtMTdSbFJUTWVmdW11N1R2TWdsWUlCblB5dG9maWFjMnNXT0FRTXhQSzNxMmpuZmxEUVpBQk9TUQ?oc=5",
-          "score": 0.276
+          "score": 0.259
         }
       ]
     },
     {
-      "time": "09:39",
+      "time": "09:45",
+      "title": "[주간 미국 금리와 서민경제] 미국 국채금리 5.2% 충격…한국 증시·부동산·가계대출까지 흔든다",
+      "source": "전국시민의소리",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:45",
       "title": "[데스크칼럼] 미국이 금리를 올리자, 한국 경제의 약한 고리가 보인다.",
       "source": "hdnews.co.kr",
       "tag": "글로벌",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PcnI2aUlGZXVmd2I5VGI0R1BqaXhFWm91Ym5sU3NGRFJiX2htUlZqUDcxbEFvek9mTC04UXhJdkRyZUU5QzgxbXVhWlNCeUJpYks0YS05LXdxcVFjTXhIeTZKamJPWmRSeTZZ?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:39",
-      "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론]",
-      "source": "문화일보",
-      "tag": "경제",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVdwM055TjNJM2FtUXNIYmxraUpwTmw2NHZZWC1KblUzUVdWWkdNQ0hPcWpWWWFYUXdhaTFJWjVTYTM4LWs1ZG5WcnV5Vm9Q?oc=5",
       "relatedNews": [
         {
-          "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론]",
-          "date": "2026-09-22",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVdwM055TjNJM2FtUXNIYmxraUpwTmw2NHZZWC1KblUzUVdWWkdNQ0hPcWpWWWFYUXdhaTFJWjVTYTM4LWs1ZG5WcnV5Vm9Q?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "한국 경제, 위험 지역 접어들고 있다[이철호의 시론]",
-          "date": "2026-09-23",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JUVdwM055TjNJM2FtUXNIYmxraUpwTmw2NHZZWC1KblUzUVdWWkdNQ0hPcWpWWWFYUXdhaTFJWjVTYTM4LWs1ZG5WcnV5Vm9Q?oc=5",
+          "title": "[데스크칼럼] 미국이 금리를 올리자, 한국 경제의 약한 고리가 보인다.",
+          "date": "2026-09-25",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PcnI2aUlGZXVmd2I5VGI0R1BqaXhFWm91Ym5sU3NGRFJiX2htUlZqUDcxbEFvek9mTC04UXhJdkRyZUU5QzgxbXVhWlNCeUJpYks0YS05LXdxcVFjTXhIeTZKamJPWmRSeTZZ?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "09:39",
-      "title": "부동산 전문가 10인 ＇한목소리＇…＂금리가 공급 잡는다＂",
-      "source": "한국경제TV",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTVY5ei11d05uVWFGUFdTQ3RSemNaVHd0Q1lPekp2dTNxVXRiVm5xbzJLR01zdzhMVG0yMFB4UEpRdU5fOThXTVNWcHpWQ1VneV9WNk5MOTUyQkhoTHlfTWk2YXltN0Q3bG9sMnd1SmJRc2c?oc=5",
-      "relatedNews": [
-        {
-          "title": "부동산 전문가 10인 ＇한목소리＇…＂금리가 공급 잡는다＂",
-          "date": "2026-09-24",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTVY5ei11d05uVWFGUFdTQ3RSemNaVHd0Q1lPekp2dTNxVXRiVm5xbzJLR01zdzhMVG0yMFB4UEpRdU5fOThXTVNWcHpWQ1VneV9WNk5MOTUyQkhoTHlfTWk2YXltN0Q3bG9sMnd1SmJRc2c?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "09:39",
+      "time": "09:45",
       "title": "“삼성전자 딜 하나만 따면 일년 농사 끝난다”... ADR 발행설·분할설 들끓는 까닭 - 조선비즈",
       "source": "Chosunbiz",
       "tag": "기업",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVZjaTg3bmZIY1JBN0RJNDRDeFVGN09iaWdyUGFWVWZHWGJjTHFfTEl5ZlUxelc1NFlyMTVrb09NTWpEWkRJZ2pNZEVCS1dCeXdNaTJSbzVpX2lZTzdqY1ZTcVV0RERoLUJRZkliRndpVVRGbzJwMVJuUmFxOWdLaEkwbVJ6eFnSAZsBQVVfeXFMUHl3VkdNcHhlWk9UYmRQOE9fYnNGOU1HQ1g2V1VYSWk5bWhOemN0SUN3bGR4dExGdHNXbnEzRHBpR2VudjFtSl9iZEZLbER6OE56QTBDcDlhZV9tT2RQUHJFTks2d2dEclJlTmktSl9DTGtlVk9UT3ItN1hDUG1uTTNzal9Fbm56cnVoMkV4d29zUVc4RUZENEJwUFk?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "“삼성전자 딜 하나만 따면 일년 농사 끝난다”... ADR 발행설·분할설 들끓는 까닭 - 조선비즈",
+          "date": "2026-09-25",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVZjaTg3bmZIY1JBN0RJNDRDeFVGN09iaWdyUGFWVWZHWGJjTHFfTEl5ZlUxelc1NFlyMTVrb09NTWpEWkRJZ2pNZEVCS1dCeXdNaTJSbzVpX2lZTzdqY1ZTcVV0RERoLUJRZkliRndpVVRGbzJwMVJuUmFxOWdLaEkwbVJ6eFnSAZsBQVVfeXFMUHl3VkdNcHhlWk9UYmRQOE9fYnNGOU1HQ1g2V1VYSWk5bWhOemN0SUN3bGR4dExGdHNXbnEzRHBpR2VudjFtSl9iZEZLbER6OE56QTBDcDlhZV9tT2RQUHJFTks2d2dEclJlTmktSl9DTGtlVk9UT3ItN1hDUG1uTTNzal9Fbm56cnVoMkV4d29zUVc4RUZENEJwUFk?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:39",
+      "time": "09:45",
       "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
       "source": "v.daum.net",
       "tag": "기업",
       "impact": "호재",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6TENHZGtlQlFUOXNjZk8taERwSUZrVkhURFlqOEpvQm1oYkx2MGlTd0ozUnJoT2h6ZG82eUJ2NGpfUUVPeU83ZHItRTdPanM?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
+          "date": "2026-09-25",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6TENHZGtlQlFUOXNjZk8taERwSUZrVkhURFlqOEpvQm1oYkx2MGlTd0ozUnJoT2h6ZG82eUJ2NGpfUUVPeU83ZHItRTdPanM?oc=5",
+          "score": 1.0
+        }
+      ]
     }
   ],
   "aiSummary": null
