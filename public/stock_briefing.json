@@ -1,33 +1,64 @@
 {
-  "updatedAt": "2026-10-06 11:23",
-  "date": "2026-10-06",
-  "autoSummary": "2026년 10월 06일 주요 경제 뉴스 10건. 호재 2 · 리스크 0 · 중립 8",
-  "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-08-27부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-10-07 10:42",
+  "date": "2026-10-07",
+  "autoSummary": "2026년 10월 07일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
+  "trendNote": "'코스피·코스닥, 내림세로 장 출발' 이슈가 2026-08-28부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "11:23",
-      "title": "코스피·코스닥, 오름세로 장 출발",
+      "time": "10:42",
+      "title": "코스피·코스닥, 내림세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zRmowNTFQTkFRLWFFRmNWanlIektNQk0xWnZHbEJxX29FQjRrMGI0M3Rsb24zMnRpbEFSeUZZVnRwTG56dUpQUDZxcDVKNVBBY0FoNUpkN3FDSk92QnVteDM3ZEhCWTVkdktF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96REJPMzQ0YWVyY0dtWnNYRVhoSmdNVjdwb1pJQTlIUHBZUGRSdS02ZkxCbi1jbXVvdk5zT2FtNlpDTnJZMkFsb1JIMXNZc3kzTnJPWVUxaTZOQTAyTWhXMndBODcyX1ZjWlZJ?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥, 오름세로 장 출발",
-          "date": "2026-08-27",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrZnZlTElwbDU5TW1HalZVbEIxaU42c01WYmxoLUVvLUZjYl8wbHhrQU5OZGV2MmZ3TTBPU0dqLU9xWGFBeWZxUk1lVWZMcWdmN1h1VWJwalgtUnIzQy1MY2ZxeExFcW5iWmRN?oc=5",
+          "title": "코스피·코스닥, 내림세로 장 출발",
+          "date": "2026-08-28",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSmFZRmNuLXB4ZmRLUzR5akN4V25lX2ZWYlhMRHBMM184T2JRbkFkZXUwdVZZV1NpM0NKYlh1Z1pxNWlMeFVra1MyaWNDOXJpbjdYQTYwWW54YlpZcExoY1Q2QUI4MmJHMDZr?oc=5",
           "score": 1.0
         },
         {
-          "title": "코스피·코스닥, 오름세로 장 출발",
-          "date": "2026-09-08",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NjVFaHgzeFlwT3dkWlBTNlZjSzBqRDlmODlzWlhqVVp3Q1RVLWw1bjRkMHdEMG04QWtiLS11MDVHcEJiMGpTbXZBd2E1NUlWclcyNkRPMnJWRl9HSDgtYlBOX281dmZENk5B?oc=5",
+          "title": "코스피·코스닥, 내림세로 장 출발",
+          "date": "2026-08-29",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSmFZRmNuLXB4ZmRLUzR5akN4V25lX2ZWYlhMRHBMM184T2JRbkFkZXUwdVZZV1NpM0NKYlh1Z1pxNWlMeFVra1MyaWNDOXJpbjdYQTYwWW54YlpZcExoY1Q2QUI4MmJHMDZr?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "11:23",
+      "time": "10:42",
+      "title": "외국인 매도에 밀려 7,000 무너진 코스피···코스닥은 900 돌파",
+      "source": "대구MBC",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42T21FVTVZdzlFOFk5M3RId2hDRlhSZjI0WG1rZmNqcWNvYUpuWjktdFQyZnV1aEZ3NFEzM0s2T3dJVUVGR2VaSGViUHM?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:42",
+      "title": "[박정식의 국내 주식시황] 코스닥 박스 권역 탈출로 반도체 소부장, 2차전지, 제약바이오 시세 긍정적",
+      "source": "뉴스퀘스트",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yeDRTMExRLVR1ZkplSmlpSmhxdl9WSFN1M0stSU14LWM0UlRQMVFxeTZiOXZwLXMwSVhOS0M5TFV5M2VRNEF4MUNpQ1NlX192SFF5dHJmU2ZEaHBKTkFpLVJFLXBabDdNd01CZ0c5dw?oc=5",
+      "relatedNews": [
+        {
+          "title": "[박정식의 국내 주식시황] 코스피는 아직 박스권, 코스닥은 박스권 돌파.. 반도체 소부장 상승 랠리 본격화",
+          "date": "2026-10-02",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGY3BfQ1JYcEowY3JUM0NjLVFBZlpzYU52WjdmMGswbDFCd2daRGVQblYyd2dpN2lETnQ2N0FKVGFaaVFGSVZvV29tbmtOdWpTTnpvbm83MGhnaktLcW9PNXV1Y0twb1RNR3lFcXVJdw?oc=5",
+          "score": 0.364
+        },
+        {
+          "title": "[박정식의 국내 주식시황] 인공지능(AI) 실적 기대감에 반도체 소부장 중심의 상승 기조 유지 될 여력",
+          "date": "2026-10-06",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hREJOSHlnVGFfa2Q4amRYcHAxWGJ2OVRKZ0w4TFpVWm03V2pfNVp4Wm9LU3BKLVc4Um5UTHh5ejk4M1lKdnZQRVRad2FQMFJ3UFJHcGNlMHd0RWxsM3NZNzlyYnlZSnZPdGNjSWpEUQ?oc=5",
+          "score": 0.309
+        }
+      ]
+    },
+    {
+      "time": "10:42",
       "title": "[마감시황] 코스피, 기관 순매수에 7000선 회복…코스닥은 숨 고르기",
       "source": "뉴스핌",
       "tag": "시장",
@@ -49,107 +80,59 @@
       ]
     },
     {
-      "time": "11:23",
-      "title": "[코스피·코스닥 전 거래일(30일) 주요공시]",
-      "source": "연합뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tT3NmMWRoRVJFenh6aWRkcW9xUWVxNTUwTE9zMnpjUWJENXdJbC1hNGNKQ2l6VlphUVRjR0t6V1hQZ08wa01Xdm5GbXczSjJXYWVCOVBVOTJiT3fSAWBBVV95cUxQbEdIWFpFZE0xcG9wb0NyX0djelNuRDQ0WXFTSXRzRk9URE5ZaHF5VlJfUGpqcnAwZllEcTAwM0k3eXVrWlFIYWRXRE1qWlFyZkdSRk95Sm9JYkNZSXhycTc?oc=5",
-      "relatedNews": [
-        {
-          "title": "[코스피·코스닥 전 거래일(30일) 주요공시]",
-          "date": "2026-10-01",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tT3NmMWRoRVJFenh6aWRkcW9xUWVxNTUwTE9zMnpjUWJENXdJbC1hNGNKQ2l6VlphUVRjR0t6V1hQZ08wa01Xdm5GbXczSjJXYWVCOVBVOTJiT3fSAWBBVV95cUxQbEdIWFpFZE0xcG9wb0NyX0djelNuRDQ0WXFTSXRzRk9URE5ZaHF5VlJfUGpqcnAwZllEcTAwM0k3eXVrWlFIYWRXRE1qWlFyZkdSRk95Sm9JYkNZSXhycTc?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[코스피·코스닥 전 거래일(30일) 주요공시]",
-          "date": "2026-10-02",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tT3NmMWRoRVJFenh6aWRkcW9xUWVxNTUwTE9zMnpjUWJENXdJbC1hNGNKQ2l6VlphUVRjR0t6V1hQZ08wa01Xdm5GbXczSjJXYWVCOVBVOTJiT3fSAWBBVV95cUxQbEdIWFpFZE0xcG9wb0NyX0djelNuRDQ0WXFTSXRzRk9URE5ZaHF5VlJfUGpqcnAwZllEcTAwM0k3eXVrWlFIYWRXRE1qWlFyZkdSRk95Sm9JYkNZSXhycTc?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "11:23",
-      "title": "[박정식의 국내 주식시황] 인공지능(AI) 실적 기대감에 반도체 소부장 중심의 상승 기조 유지 될 여력",
-      "source": "뉴스퀘스트",
-      "tag": "기업",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hREJOSHlnVGFfa2Q4amRYcHAxWGJ2OVRKZ0w4TFpVWm03V2pfNVp4Wm9LU3BKLVc4Um5UTHh5ejk4M1lKdnZQRVRad2FQMFJ3UFJHcGNlMHd0RWxsM3NZNzlyYnlZSnZPdGNjSWpEUQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "[박정식의 국내 주식시황] 코스피는 아직 박스권, 코스닥은 박스권 돌파.. 반도체 소부장 상승 랠리 본격화",
-          "date": "2026-10-02",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGY3BfQ1JYcEowY3JUM0NjLVFBZlpzYU52WjdmMGswbDFCd2daRGVQblYyd2dpN2lETnQ2N0FKVGFaaVFGSVZvV29tbmtOdWpTTnpvbm83MGhnaktLcW9PNXV1Y0twb1RNR3lFcXVJdw?oc=5",
-          "score": 0.348
-        }
-      ]
-    },
-    {
-      "time": "11:23",
-      "title": "美국채금리 급등에도 상승 마감…나스닥 사상 최고치 [뉴욕증시 브리핑]",
+      "time": "10:42",
+      "title": "“SVB 사태 재현?”…금리 오르자 美 은행 주가 9% 급락",
       "source": "한국경제",
       "tag": "글로벌",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNWJmNW94YzEtTzIxMEV3cXNSNGVSeS1yc2JlcnlfZ1gtcW9QUmlJZ0FpcTd2RVZlZHNwakttT0hTVjRLSmx6WkhGakN3a2VpZEVfOVBROWIwQQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "美 국채금리 진정에 상승 마감…모더나 177% 폭등 [뉴욕증시 브리핑]",
-          "date": "2026-08-21",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bnl3S3BiQ3llTjVrWmN2THRORVN1TkpLUVdZRHdTaFpjdDA5end0T3I5YndyVHBPVFItQ0YtM3BJVWhQZW9laDRHWFdKNDJiaWhDWlZQd2Zzdw?oc=5",
-          "score": 0.38
-        },
-        {
-          "title": "유가 급등·美 국채금리 상승에 사흘째 하락 마감 [뉴욕증시 브리핑]",
-          "date": "2026-09-10",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZ1pId2tWNFRmTVRtX2F5Q2U0NlN4RV9rd3cySGJJOGFud1RzT3JPQnFHZldTYUMtc1oyazlpV2pRQkJRTjB0Wnc5TlZ5TjdKcGpkUUxJd1lBZw?oc=5",
-          "score": 0.379
-        }
-      ]
-    },
-    {
-      "time": "11:23",
-      "title": "＂美 국채금리가 오르는 것은 경제 호황 때문＂-[굿모닝 글로벌 이슈]",
-      "source": "한국경제TV",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iaTN2NmNRZ3hWQXcwTjU0b1RqbXh0N0ZLYmttS1dTTHF2ZENkTUV1WTdwV0ZfaTBfRi1mbHhxNm16U1B6N3BWcjM4U3BCUGl0ZGJrbWI2QlMyVUktX093bXpGLUxYZFZDZG1oM2xUQjk5b0ZQTGFJ?oc=5",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JWC12cUdJcTZsc0pYOWFQaldBalEzSDA1RkZ3bXNwMmg0TUdpOUxmUnJJcXozbndFNUVjdXEzTVhZMUhOTFBzUXVvWUJWLWd2M0xCWlpSUVpqUQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "11:23",
-      "title": "[심층분석] 美국채 금리發 글로벌 금융 불안 확산, 한국 경제는 안전한가",
-      "source": "데일리연합",
+      "time": "10:42",
+      "title": "한국 경제 일본화, 저성장을 가르는 조건",
+      "source": "코리아비즈니스리뷰",
+      "tag": "글로벌",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1JQTkd4RDJ6eWx6Y1dYZ1lHcm13ekxFbTdad0xLWXJoUnJvVW0wVVhFVkhSQ3NxWWxRenRuekM0RVctSlVQQUNOUUdZXzRTWGxNTkhSdnR2MVk2d3k3dm0zQUVjWk5xVC0yNFVIVUdVZmJFMEFjX0YwbWJxZkZWWXNZczEtMUNhR0twNWlZaXdfQ1FyeXBnbQ?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:42",
+      "title": "[이슈PICK+] 글로벌 주요국 국채금리 고공행진···국내 경제 영향에 시장 ‘촉각’",
+      "source": "투데이코리아",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVzgxdE1DSUdXS1EwR1FDMGxJVVlfUFJBOTNKd0xzYVdsOFJWU3NnWUt5MFJKMU81LVZieVZPeWFpd2NtMTgyQ2dzUTEwSk9ZUk9mbUxBVWp3UFZ1Qi1xVnF5bzBZQldLTUxlTjNNY2U?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:42",
+      "title": "[오늘의 미국금리와 서민경제] 미국 증시 신고가에도 고금리 부담…한국 가계, 주거비·생활비 압박 지속",
+      "source": "전국시민의소리",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iTUF0VXNDQlR4UFp4TVA2MlZLSHB4eXNXTERoYURHNFkxQ0tVVGlVMWZOZmlhRXhGQnE5aDBMbGhOSEhpdnZ1MkVoS0pObUFVbGtZQ2d2eVdYdDBrM0pMRg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaDdfTld5eFBzYUlkdjNJSGdZbThLU2syenJkeDdlbmVqWHdTTzF2NkZ5OFBGTDBqUTloQlI0Q2hpaFJISkR5YVc2bGVPMGMyUkJyYVY0cmJ6cWRvYWQ0M1dra1dUY3ZZTHcyTkxn?oc=5",
       "relatedNews": [
         {
-          "title": "[심층분석] 美국채 금리發 글로벌 금융 불안 확산, 한국 경제는 안전한가",
-          "date": "2026-10-05",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iTUF0VXNDQlR4UFp4TVA2MlZLSHB4eXNXTERoYURHNFkxQ0tVVGlVMWZOZmlhRXhGQnE5aDBMbGhOSEhpdnZ1MkVoS0pObUFVbGtZQ2d2eVdYdDBrM0pMRg?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[심층분석] 미국 금리 인상 사이클, 한국 경제에 드리운 구조적 그림자",
-          "date": "2026-09-22",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DenFuQ04xd2xnT29rby1hc3dXTjRnTEs1WXk4WlBRN3IyWVhLa1Zlcmp5VkVYQlZjYlh2SGFmbzhQOFhYYktqZU9GcEpNY0p0MWVTZjc2dFYxSk0?oc=5",
-          "score": 0.26
+          "title": "[주간 미국 금리와 서민경제] 미국 국채금리 5.2% 충격…한국 증시·부동산·가계대출까지 흔든다",
+          "date": "2026-09-26",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ0lMNFFXZUZlT1lPd3RhVThYaXlTdGR5dWNMTE9yS2V0TDU5ZWRUUUR5bFJXbkVLUUpMQWRFMlJfTV9MdHdaU21JczlqRlRNanVWYWFKT3p5aXVBRFhKc050TDVvRWlmVVhRQg?oc=5",
+          "score": 0.289
         }
       ]
     },
     {
-      "time": "11:23",
-      "title": "\"AI반도체주 아직도 싸다?\"…그래도 불안하면 이 종목[박신영의 개장전 요것만]",
-      "source": "한국경제",
-      "tag": "시장",
+      "time": "10:42",
+      "title": "3Q 실적 앞둔 삼성전자, 프리마켓서 약보합…SK하이닉스 1%↓",
+      "source": "Daum",
+      "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfeDlRS3V1N2ZSdU9oYld1R3FuX1lsaGt4YTdoblYwMWlBQldxSk5jYjVmLWtOdUcwbVhXUjJlejVoc1lJamhuakJjN01PZEd5dlVPenFlUlNtQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4MDZzR0tuWEZ1dFltMTNOTGl0dEJRYTgtTlFMVXlVejQycXg5QmhabklVQmFZV3EtTzZIdXBlMmNIYzh5Ti1TS0psMHdaTjA?oc=5",
       "relatedNews": []
     },
     {
-      "time": "11:23",
+      "time": "10:42",
       "title": "외국인, 한달 사이 코스피 20조 ‘팔자’… 삼성전자·SK하이닉스 순매도 1위 - 조선비즈",
       "source": "Chosunbiz",
       "tag": "기업",
@@ -157,27 +140,18 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkE2TmZIUXk1NkxPZUczNlhhUjZfbjFrOFpGVzZzUkRxeWFNOUVlQTRpemRVNDFEV2tpaUVuc0JiS0NaZDRtMXNKTWMxXzkwOUd2YVNtdlUwQkFnaVBaTVFqS1o4NkM3YVE3czl6aDFld0ttalZJYWx2SkdHY2FHclo5ZlZhcmg20gGcAUFVX3lxTE1fRDEzN0FCZy1XN2RkRmdLSl8tWkZVZGx3ckpFZk8zRzVmVC1lS1g4dk56eEl0N2Z0ZUtFTVZMaEZKWVRabWZnUzVDajZucVJWOU42VmZqb2FkQW1TanVwUVNlRmp2WXdudEFGUFNXMnZvTWhrOUFuLTlFTTBjR3dkZHB4U0RGV3lJRXVTMTFlVlEzWmxGd1hXNmRPRw?oc=5",
       "relatedNews": [
         {
+          "title": "외국인, 한달 사이 코스피 20조 ‘팔자’… 삼성전자·SK하이닉스 순매도 1위 - 조선비즈",
+          "date": "2026-10-06",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkE2TmZIUXk1NkxPZUczNlhhUjZfbjFrOFpGVzZzUkRxeWFNOUVlQTRpemRVNDFEV2tpaUVuc0JiS0NaZDRtMXNKTWMxXzkwOUd2YVNtdlUwQkFnaVBaTVFqS1o4NkM3YVE3czl6aDFld0ttalZJYWx2SkdHY2FHclo5ZlZhcmg20gGcAUFVX3lxTE1fRDEzN0FCZy1XN2RkRmdLSl8tWkZVZGx3ckpFZk8zRzVmVC1lS1g4dk56eEl0N2Z0ZUtFTVZMaEZKWVRabWZnUzVDajZucVJWOU42VmZqb2FkQW1TanVwUVNlRmp2WXdudEFGUFNXMnZvTWhrOUFuLTlFTTBjR3dkZHB4U0RGV3lJRXVTMTFlVlEzWmxGd1hXNmRPRw?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "개미도 등 돌린 반도체주… 5개월 만에 삼성·하이닉스 ‘팔자’ 전환 - 조선비즈",
           "date": "2026-09-14",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXFMU2dPRFMybjIxOE1YX3hMNm5aOGFkV1lzTEhWSy1uZVFHWjVYVUJ0aWhlS01aQjdIUWw4Y0pXdWVVRXpXZGtmd2ZEU2dhX21SclFDWDQ4Mnc2aTlwTVBiTFJtNFBUSFdVMzRlVkgyWnVfLV9FRUVhX05sUkR6bHNoYlJtLWJu0gGcAUFVX3lxTE1Qd1hEVzkzbV9ncGM1TXhDR1JZeUhFZG83Ri1ydjZjOWM1OFRWeGRIdTd2M1hOcWZkdF84S2dvWU5CeWdIcHNfNDRpQUg4UmYzV1IyZ0laUUxnQU9lOFR0V3FNREs1aUVBLUNHZTdnQlBRanlqeEVScjZYd0Z3TDJFNWFHUXJZd2sxTkk2MEM4c0hqODhPLTdsYkgwdw?oc=5",
-          "score": 0.289
-        },
-        {
-          "title": "삼성전자·SK하이닉스, D램 생산량 HBM에 묶인 사이 中 범용 D램 시장 침투 가속 - 조선비즈",
-          "date": "2026-09-22",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDRqZm51SUtvNm1DajFVSnJyOGY3MXRsNzI3UVNZdk9mYnJNLUJ6cnhQdTNvckwxclZlMjcwaFowNU5qR3RWQkRZcVV1cW1QVnkwa0tCUTZVekJJVE5lTUhIVDJOOUZtQ01NMW5rVEdVOGpXVkRxQ0JkSHBIWWJXaV930gGWAUFVX3lxTE56UURXeEg2RV9kbi1UNU5QNWxCRU8xQU1rNUJJMFQ5SkhxV2VyLWI0dVU1LU9ERTlsSFZPRzdGRmE2MnkwTzNwMEVMVGpzNHUyUTZNcTZmUUNOME51aFdRUHhmWGZfWWpXZWEyaTVfXzMyOGJpOUlSZ2J2SkJ6MVZuQlNSSjhNOWtESlBJdXZCT0c4OW1Fdw?oc=5",
-          "score": 0.253
+          "score": 0.285
         }
       ]
-    },
-    {
-      "time": "11:23",
-      "title": "\"삼성전자·SK하이닉스 다음은?\"…테마주가 아닌 진짜 차기 주도주를 잡아라",
-      "source": "뉴시스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TQlFHYUN5ZDFNZXdPRUN6aHNwbWg0TEV2aE5pdmZZVWI2VHQtM0VoV0lCR0ZFRVNjRzZ5QkdKOTNKeUZyaS1nYXBYRmpaOUtoNzV3UXdkNXBoblBqNkpya9IBeEFVX3lxTFBGNGlreUpWNW5mTXlrbmdjamdtSGJXbE4xS21qR0dKd0VaRFpjYkozSXVPU0NJZWJocXJvR1FHNFlnZ0tjU3ZoLXZjNlZZM1Nhc0dfc05DTzVyRG9DUS1LdjlvWXNRLVNSZVF1Z1djOHE2MXl6VEJqTQ?oc=5",
-      "relatedNews": []
     }
   ],
   "aiSummary": null
