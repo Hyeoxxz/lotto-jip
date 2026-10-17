@@ -1,38 +1,43 @@
 {
-  "updatedAt": "2026-10-16 09:32",
-  "date": "2026-10-16",
-  "autoSummary": "2026년 10월 16일 주요 경제 뉴스 10건. 호재 1 · 리스크 4 · 중립 5",
-  "trendNote": "'노벨 경제학상 수상자 우드포드가 한국 경제에 던지는 경고등' 이슈가 2026-10-15부터 이어지고 있습니다 (관련 과거 기사 1건 확인).",
+  "updatedAt": "2026-10-17 09:40",
+  "date": "2026-10-17",
+  "autoSummary": "2026년 10월 17일 주요 경제 뉴스 10건. 호재 1 · 리스크 3 · 중립 6",
+  "trendNote": "'[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가' 이슈가 2026-10-16부터 이어지고 있습니다 (관련 과거 기사 1건 확인).",
   "news": [
     {
-      "time": "09:32",
-      "title": "코스피·코스닥 7%대 동반 폭락‥AI 수익성 우려",
-      "source": "MBC 뉴스",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUGczZHpvZ2NSVThTbWtuTzh5bmtsY25oWmIybzRqcVBYTXpnYW1YcVpUT1RyUkJWeFl4MjJMdU9qSXIzUnBvbHlkQ3hKcUZYVHdaT2FEeDAxQVpjRXNWU1YzM3liLTdBZ2Nia2hZY0ZMX1RwZ0R5T0R30gF6QVVfeXFMTWdKS3ZyQ21DdE5KUXVFMWNsbFdPQzJGV29jRTlWS3VqdTF0YkZLMmc0WEVraC1yOUJsS3hTSlgzQmE0QXJzVmx6R08tNU1TRzJ6R0g4Nk5wWksya1YxcTR1SGhtUXc5bVdUMHlSYS0xN1NramxldXFBa0E?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:32",
+      "time": "09:40",
       "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
       "source": "히트뉴스",
       "tag": "시장",
       "impact": "리스크",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
+          "date": "2026-10-16",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "09:32",
-      "title": "코스피·코스닥 동반 서킷브레이커…미국발 충격에 ‘검은 목요일’",
-      "source": "KBS 뉴스",
-      "tag": "글로벌",
+      "time": "09:40",
+      "title": "코스피·코스닥 8% 폭락…양대 증시 서킷브레이커 발동",
+      "source": "주간조선",
+      "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZ1hJX0oyd0JodDd2SXAwaVdtSGFJT3B5bU1malpXa2xhRnBsRmVRdFRoN1VoY2hnYlR2LWNhcFpvVWIwMWZUOElIVndsTms1bFF0LVY5dkt5cEk?oc=5",
-      "relatedNews": []
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcXFmLVg2bDRZbnZXNGZEZGt1WGJQMElNUFJWa2ZIU1MyY0dmZ212WHpIaXpjcVkxdGcyTElDTy1DTnJBcWFzbk9pMTlWWnpKNGsycmVVeHk2dC1jRmNtZ2xuUUNlQnpxM2fSAW5BVV95cUxOWC1iZnFvZl9FakdsRkFwMFliMnYtMXVLR1VISVNkT2hUSHVrTS1rR2dQaDBYeHVPanNlWjRxRjJMX1poTU9hb0N2QkJTQ1R2VVkwRlU1NTlSeklTTGJGTkZrLTEyb2VSR1lFQnFvUQ?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥 동반 서킷브레이커…미국발 충격에 ‘검은 목요일’",
+          "date": "2026-10-16",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZ1hJX0oyd0JodDd2SXAwaVdtSGFJT3B5bU1malpXa2xhRnBsRmVRdFRoN1VoY2hnYlR2LWNhcFpvVWIwMWZUOElIVndsTms1bFF0LVY5dkt5cEk?oc=5",
+          "score": 0.317
+        }
+      ]
     },
     {
-      "time": "09:32",
+      "time": "09:40",
       "title": "코스피·코스닥 동반 -7%대 급락",
       "source": "KB Think",
       "tag": "시장",
@@ -40,106 +45,95 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
       "relatedNews": [
         {
-          "title": "반도체 주식 약세 여파… 코스피·코스닥 동반 급락",
-          "date": "2026-08-26",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZHNLZ2dDWHpfY1ZYNmVNZTJJcEdDNmp1WlJ3cWVxbE9DS1pmVVpRU1k3LVVXOGZ5c0o4cVFRRl84NVNYTElhbTEtaHl6ZTZ6RGVkdWpnRDU2MXRxNEhxbWZXUHZyOHpM?oc=5",
-          "score": 0.394
+          "title": "코스피·코스닥 동반 -7%대 급락",
+          "date": "2026-10-16",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
+          "score": 1.0
         },
         {
           "title": "반도체 주식 약세 여파… 코스피·코스닥 동반 급락",
           "date": "2026-08-27",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZHNLZ2dDWHpfY1ZYNmVNZTJJcEdDNmp1WlJ3cWVxbE9DS1pmVVpRU1k3LVVXOGZ5c0o4cVFRRl84NVNYTElhbTEtaHl6ZTZ6RGVkdWpnRDU2MXRxNEhxbWZXUHZyOHpM?oc=5",
-          "score": 0.394
+          "score": 0.395
         }
       ]
     },
     {
-      "time": "09:32",
-      "title": "시장금리 상승에…보험주 눈높이 낮추는 증권사들",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTmllYTNNV3p0Vk1VOEw2UE9qMW5BVEpVTFl0RWcweVpFTUp2OUljRmZCZmhZcDRYTC1iMTA0Y0dzWkZ1N0RkUWtkZVlwdW42Z1p0V2hqRE41Zw?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "09:32",
-      "title": "미국 중간선거와 한국 경제",
-      "source": "뉴스비전e",
+      "time": "09:40",
+      "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
+      "source": "연합뉴스",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MYlhXallPRnNnd1Q3cDJfUnNZcl8yeVNsbm85Wm1jdjc1RXlzZDcxWWpOOHlqc0llS3FiYXdyTDR6NzBwTVJhOWNJTkNzVmpETlhiQ2VCZmhGZGxRSW54Wm5fUWh3Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
       "relatedNews": []
     },
     {
-      "time": "09:32",
-      "title": "노벨 경제학상 수상자 우드포드가 한국 경제에 던지는 경고등",
-      "source": "한국NGO신문",
-      "tag": "경제",
+      "time": "09:40",
+      "title": "\"이상하네, 금리 왜 이래?\"…美시장서 포착된 심상찮은 시그널 [분석+]",
+      "source": "한국경제",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uZXdZSG9hRUlSbnozLV92cXdRaVA5M0xOaGlhZU1oUTU5bjJEeUNQZUJmLVBmeGktWWpUU0RoUmNGUHVLWTVyb1JCdkRySUliNVRZQVZneHlvQUVkVkFFNjFtbHFrTm14?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OTkwV3psTHd6LUU4dEZiVU8xOUhmS05WN1F1UWJnQXdvQndnUl83cWFQLVdKbWhqWVBZaGhVS3N1Wm9iRjdnSVBOY09BaW1YVmwzcEhsbERydw?oc=5",
       "relatedNews": [
         {
-          "title": "노벨 경제학상 수상자 우드포드가 한국 경제에 던지는 경고등",
-          "date": "2026-10-15",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uZXdZSG9hRUlSbnozLV92cXdRaVA5M0xOaGlhZU1oUTU5bjJEeUNQZUJmLVBmeGktWWpUU0RoUmNGUHVLWTVyb1JCdkRySUliNVRZQVZneHlvQUVkVkFFNjFtbHFrTm14?oc=5",
-          "score": 1.0
+          "title": "심상찮은 엔화…\"한국도 예외 아니다\" 경고 나온 이유 [분석+]",
+          "date": "2026-09-09",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNnBfMG5SU3ZwWm1DZmJ4bzEwMmU5RnUyQnRBMko0bnZOaGI4R085NkRYOXlmUmM5U3dtQ2tlMXpsUlVTTWFyTXRDQVFPVG4zUkRpcGxQUHBuZw?oc=5",
+          "score": 0.253
         }
       ]
     },
     {
-      "time": "09:32",
-      "title": "신현송 한은 총재 첫 국감, 금리 선제 대응 강조···ETF 경고 미흡엔 사과",
-      "source": "여성경제신문",
-      "tag": "정책",
+      "time": "09:40",
+      "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
+      "source": "한국경제",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRFFpQ1NjbXVNVEh2NzFleFU4M3hpVkpIWW9TWUFLMXRXeDFac3JqSnhVVUZFTFRJS0cybzZIWEVNZGdxbFpmREVZdGtnWEdzX2ZqeFhISHFzdzdBT1FmbjBFa29zYlRYMEpvRGh2djFRVknSAXdBVV95cUxNb2J4LUxsbHZGYS14X1J1bHdKbjR0VG9nQmFadWxyOTZ0blU5WnBQeGF1NzRBaWw2TDNYOUc5enRoSUlYZndrZHc0NW90OTZPLTQ3eEptaE8wOUs0S0hHN2ZmWk5ZdXlUU2Z3M005WDljaUVsdk5ydw?oc=5",
-      "relatedNews": [
-        {
-          "title": "신현송 한은 총재 첫 국감, 금리 선제 대응 강조···ETF 경고 미흡엔 사과",
-          "date": "2026-10-13",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRFFpQ1NjbXVNVEh2NzFleFU4M3hpVkpIWW9TWUFLMXRXeDFac3JqSnhVVUZFTFRJS0cybzZIWEVNZGdxbFpmREVZdGtnWEdzX2ZqeFhISHFzdzdBT1FmbjBFa29zYlRYMEpvRGh2djFRVknSAXdBVV95cUxNb2J4LUxsbHZGYS14X1J1bHdKbjR0VG9nQmFadWxyOTZ0blU5WnBQeGF1NzRBaWw2TDNYOUc5enRoSUlYZndrZHc0NW90OTZPLTQ3eEptaE8wOUs0S0hHN2ZmWk5ZdXlUU2Z3M005WDljaUVsdk5ydw?oc=5",
-          "score": 1.0
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "09:32",
-      "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세",
+      "time": "09:40",
+      "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMl8wWFd6SHRORElSN0pQUzVUVVFvLXVZUi1nVUxKNXUyeE9oMktZUU4wQXNqTWpNcnBObmxqbnk4clBoRTBUU1MySm9ScFo5RUlXSHdCcXlBdw?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:40",
+      "title": "더 강화된 美 금리인상 기조…미국 수혜주와 피해주는?",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTFFVOVZzempiem1aWXdMVjRwd2VTa19NNGg3YktxMVBqelFZOThXNE56bW9EX3BDcDZVdHh3T2d2am04cGhrckJUNVZfcno2V1NDRkJvUjVFdw?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:40",
+      "title": "KB증권 \"삼성전자·SK하이닉스 급락 과도…실적은 오히려 개선\"",
       "source": "연합뉴스",
       "tag": "기업",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YktfODk4UlUwZHpjcWdzRzFFd1lsczBxQ0hrVGY2Z3RZZl9oaU80TnQ1ZzJOdnNIWEktY1NhWWVKTEwwY3c2UUVjVU1qRkJfRi1YZ1g4UTlmTHfSAWBBVV95cUxPYjZ5TmFrYjhOdnctX1IwUExVVEpMcFhVRjRadlBfSEtaVEpJZUxBbVlYUzRfVUM4Y1hoX1FTWERQU21FS21NZW5OaFFreXhfeHVoZlhRWGo4XzdGR1dVNHE?oc=5",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVktWSjVJemdPQXZUQTFzbXhkX0JfZkU5T0Z3bS1GSWRJdWVxUDlZMnpVcmVhSWJpdXJTQkZURlVkU3ZtVzJsOC1RYzJ0S2g3dXB6UGxod3k3dUnSAWBBVV95cUxQVm1CUjRhQmdVN1BfRVZUWmVUb2JKVXRrc3RYU0hoOUNWWEJjNmlhQnVzTFZ3NWk2RlI4MC1HeEYzTFFUVUhqcXo5eF93eW1kRjkzMTBZbjA1OVpMRTFPWlg?oc=5",
       "relatedNews": [
         {
-          "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 1%대 약세",
-          "date": "2026-09-01",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Sb3JSOVVhLU5ObWJZa1NfVlRVU3BwMzBpemEwVjR1SVpkTktoNXVWR1p3MmpBVVlMMmZCSTFDVk9VM293d0xJclkyY0hMMmZTT1NVLTRoZTlMTmfSAWBBVV95cUxOUVlCNkhJc3RibEk5TWVORmhRYXVNbEE1M2xvOTdxVnRTcnprX2p4dUdsRy03bGFTQlRjYVZhcm5LeWhXUVlnYjdaYWFmLUdEY2RCeGUyODBiZGhRWEZKNTM?oc=5",
-          "score": 0.694
-        },
-        {
-          "title": "[특징주] 전날 5%대 급락했던 삼전닉스, 1% 안팎 상승세",
-          "date": "2026-09-29",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cTVSeG5RanY1ZVpCNlF3MFNJRjRlandLYTBvbHB5M1NYYTZscGVuZXRxRkE3ZDNwZkFpLUt1M1djN1h2eUpzSDM4UjRaTmpRb3EzajVOYUVMNWfSAWBBVV95cUxPMDlaUF8wVDg0Vm9fN0h0WE80dnc0WnNuTHNHLXJPRmt1TUNXN2JUZGIzOHdyMFdtREtsNU05VXBsb3ZBdENOWEtSWjg0TmhfckFDQzAyOERSdm1VZFhnUEc?oc=5",
-          "score": 0.29
+          "title": "KB증권 \"내년 메모리 사상 초유의 공급 부족 온다…삼성전자·SK하이닉스 극단적 저평가\"",
+          "date": "2026-09-09",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CbXU3YUNpdnRZWWR4RnBuekxqZGNXeVNsaUw3S0ttOUNvdEo3S1N6NXEyaTZVcGJQcVB3djBWSmtSSVRNUGM5ODVHSzMxZzRsWFdmRA?oc=5",
+          "score": 0.264
         }
       ]
     },
     {
-      "time": "09:32",
-      "title": "삼성전자·SK하이닉스 저격한 머스크…\"마이크론 메모리 가격만 적당\"",
-      "source": "연합인포맥스",
-      "tag": "기업",
+      "time": "09:40",
+      "title": "\"돈 삭제\" 개미 비명 터진다...주가 10% 뚝뚝, 삼전닉스 추락의 날 - 머니투데이",
+      "source": "머니투데이",
+      "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZGJLcmVJVHJyRnpWVlAycWc2RkF3dklKV0diUXhJN1N0TFh6Wi16Qm5hSG1tUXlnZ0VZeE40c2dUalE4dWliendrMEo4WV9BN0wxTmVCbk9CQWpKSmZTWkxFcXNPdjZNWGhJNDIxNnU?oc=5",
-      "relatedNews": [
-        {
-          "title": "삼성전자·SK하이닉스 저격한 머스크…\"마이크론 메모리 가격만 적당\"",
-          "date": "2026-10-15",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZGJLcmVJVHJyRnpWVlAycWc2RkF3dklKV0diUXhJN1N0TFh6Wi16Qm5hSG1tUXlnZ0VZeE40c2dUalE4dWliendrMEo4WV9BN0wxTmVCbk9CQWpKSmZTWkxFcXNPdjZNWGhJNDIxNnU?oc=5",
-          "score": 1.0
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PMWZTcG9oN1VnM0sta1QyckhXOGFLV293YW1vUXpDSElEeXlLdnN4M2tuRTI2QWhaU0RJNDF0TF9XSmtIb2g4SjNQSjBZV2d5OTJjWE80enNRZDRrcHZpRjAxSU9CTUVN0gFuQVVfeXFMTlplcVdwTncwVzBmQ0QyMDlVWlFiOGZBR2M2OElLVVQ5dTRlcDZOb0lMY1FhUlJOc1FKS3hOeTJYUXNIQ1RKYVRCRFp1Q3FUNUhzQ3BvZnFCanZRZmxVV2ZURTNvSTM0T0huTUxWY3c?oc=5",
+      "relatedNews": []
     }
   ],
   "aiSummary": null
