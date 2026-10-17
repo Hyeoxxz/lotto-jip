@@ -1,170 +1,5 @@
 [
   {
-    "time": "12:26",
-    "title": "키움증권 \"고액자산가, 삼성전자·SK하이닉스·현대차 '톱픽'\"",
-    "source": "연합인포맥스",
-    "tag": "기업",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oUUhWMVVqSUZURUd4ODlwUEJmZDNodDdRTE9iSEhrQjJ3SkRwZTFLbWJlZVJ1cEVTWU5uWkVzS3pqcklYRFhOOC02LXZHaEI2cnJUdVllRk1WMFM4Zmw5UUpCOTBaa25TN0xBVHR2emY?oc=5",
-    "relatedNews": [],
-    "date": "2026-08-27"
-  },
-  {
-    "time": "12:26",
-    "title": "달라진 슈퍼개미 포트폴리오...'2030 하닉, 40대 이상 삼전'",
-    "source": "v.daum.net",
-    "tag": "시장",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFNnQybW5UU2NQbFFuNDZ2My1NeEp2VGlFS0JpSkt2VFhmSWhZbk9hUjhRakRQR2haa2kxX0hGLTctUWpwXzJoU0tjMFlFaUE?oc=5",
-    "relatedNews": [],
-    "date": "2026-08-27"
-  },
-  {
-    "time": "15:13",
-    "title": "[개장시황] '엔비디아 훈풍' 하루 만에 꺾이나…코스피 0.7% 하락 출발",
-    "source": "뉴스핌",
-    "tag": "시장",
-    "impact": "리스크",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XZVlMZ3FzWWJjOWU0ZHJpajRZVFFjSk5mTjVybHNjbGFUOVg5WmhEdmZVLXpvenlOT1dDYnVPc0kwczI2dkEyUVE3MURXZURnQjI0ZFp2WUNYbE5X?oc=5",
-    "relatedNews": [
-      {
-        "title": "[개장시황] 코스피 6%대 하락에 사이드카 발동…코스닥도 3%대 '털썩'",
-        "date": "2026-08-21",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NendjNkFDREFLekpfTFJsandETE5Jc3JGYS1MMllReXlEWU9hLXdjeHVfY0pVTkkxalhMTGs0TkdYWllCWDdpTERKemVNTXZlQUp2VlNvX0QwTnhC?oc=5",
-        "score": 0.256
-      },
-      {
-        "title": "[개장시황] 코스피 6%대 하락에 사이드카 발동…코스닥도 3%대 '털썩'",
-        "date": "2026-08-22",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NendjNkFDREFLekpfTFJsandETE5Jc3JGYS1MMllReXlEWU9hLXdjeHVfY0pVTkkxalhMTGs0TkdYWllCWDdpTERKemVNTXZlQUp2VlNvX0QwTnhC?oc=5",
-        "score": 0.256
-      }
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "코스피·코스닥, 내림세로 장 출발",
-    "source": "한강타임즈",
-    "tag": "시장",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSmFZRmNuLXB4ZmRLUzR5akN4V25lX2ZWYlhMRHBMM184T2JRbkFkZXUwdVZZV1NpM0NKYlh1Z1pxNWlMeFVra1MyaWNDOXJpbjdYQTYwWW54YlpZcExoY1Q2QUI4MmJHMDZr?oc=5",
-    "relatedNews": [
-      {
-        "title": "코스피·코스닥, 내림세로 장 출발",
-        "date": "2026-07-20",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBud2tRQlFGWGl4dWp5LWw3VjJCX2RQTlcxQTFla01SZ1NqbUFLQ2JyN21CaTM5QUVScmhhVkxJR3IxTThKcEhOM3NoNFg4aGpUNmpnc1N2c1NMU3VqejF4TF82SG1qTGV1X3pJ?oc=5",
-        "score": 1.0
-      },
-      {
-        "title": "코스피·코스닥, 내림세로 장 출발",
-        "date": "2026-07-27",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ0tBRVNxd2tkZExfZ2l4aG5sOHBvQXpMRHNfSV9YazBwa09DejVSVUkzdDg0M2Y3ZGRmQjZsZG15UHlvVkZZTUNvTGtUeUZhMlYxN0N4QWxlWWFxVDZTRnhVclMwVEtMLThv?oc=5",
-        "score": 1.0
-      }
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "[코스피·코스닥 전 거래일(26일) 주요공시]",
-    "source": "연합뉴스",
-    "tag": "기업",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wdDhfMlo3REptMDBFVERfX2txQU1lYlpYaDNxSlAyM3RKM0w2dWQ3U2Voak1icDYzWDlBcWdBeWJwd1BRUmxKQlZuOVhhRmp5R1phMDJvZmlTdG_SAWBBVV95cUxOS1h4RnRVdWZWUE4wQnp3NGFiZDBlSlNCTmZhOERDbl9TQ0ZLNWlzS0EzalZJZnNjaXcxdkI3YkpMMS1kUG9odEh0LXE5MDdsZXhzaEthNUNaSzRDMTJ3Y1E?oc=5",
-    "relatedNews": [
-      {
-        "title": "[코스피·코스닥 전 거래일(26일) 주요공시]",
-        "date": "2026-08-27",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wdDhfMlo3REptMDBFVERfX2txQU1lYlpYaDNxSlAyM3RKM0w2dWQ3U2Voak1icDYzWDlBcWdBeWJwd1BRUmxKQlZuOVhhRmp5R1phMDJvZmlTdG_SAWBBVV95cUxOS1h4RnRVdWZWUE4wQnp3NGFiZDBlSlNCTmZhOERDbl9TQ0ZLNWlzS0EzalZJZnNjaXcxdkI3YkpMMS1kUG9odEh0LXE5MDdsZXhzaEthNUNaSzRDMTJ3Y1E?oc=5",
-        "score": 1.0
-      },
-      {
-        "title": "[코스피·코스닥 전 거래일(23일) 주요공시]",
-        "date": "2026-07-25",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTklqTllicUJJejFWTE8wQjJqc2tnb1VKTFV0R1pfNER3U2NIeDdKcWZEQUxqdkdmV29rUUt6M2hHZHdyeW9wemRFN2l5NzlxckFfX0dJSEtYSWfSAWBBVV95cUxQbVBtaHJsa2Vmb2RnUDNneU5FczRuT1VrSVd3bHdtSTdlVWloaWpaOGdoaFZxUUVNb3hGZkh6dVN6U2Z4RGtldEVSbVFDZmJRcGRDU1pYdUhrOF9WXzRwcHQ?oc=5",
-        "score": 0.728
-      }
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "[0826마감체크] 코스피, 기관 매수에 6800선 회복... 코스닥은 약보합",
-    "source": "인포스탁데일리",
-    "tag": "시장",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NM044dk81Vk8wTFltZ3VycjJ3Wk5qWG5oVmpPNlFYVHpsSUVfOThoRDE4Q1BXUVJXZWRYUmt0MHNZc21sbDI2cm1QQW1obnU1dG9WVXh1NFNGcDVNZ3ExOVNSNXBvU2U1eFd6TW4yYjJjVTNtbXc?oc=5",
-    "relatedNews": [
-      {
-        "title": "흔들린 코스피, 코스닥은 800선 돌파",
-        "date": "2026-08-08",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96TXEzRC1YM3VKeU1scVlLRzM5RkhUNDVubG9EV0xTbS00eDhXM2FSS1BlVmNGTzJfV3BwUXRIc001WjY4aGtGWmVRZEYtdk1SdVQ2eWFhLUcyQ3gxRE8wQk8zbzhTMW1NMVlTQQ?oc=5",
-        "score": 0.252
-      },
-      {
-        "title": "흔들린 코스피, 코스닥은 800선 돌파",
-        "date": "2026-08-10",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96TXEzRC1YM3VKeU1scVlLRzM5RkhUNDVubG9EV0xTbS00eDhXM2FSS1BlVmNGTzJfV3BwUXRIc001WjY4aGtGWmVRZEYtdk1SdVQ2eWFhLUcyQ3gxRE8wQk8zbzhTMW1NMVlTQQ?oc=5",
-        "score": 0.252
-      }
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "한은, 기준금리 2연속 인상…'3% 금리 시대' 열렸다",
-    "source": "한국경제",
-    "tag": "정책",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQUR5Z0RIeng2SnBubzczU2hNZDlObHIyUmprUnVxVVAwSlhINDhNVHlvY3YwU24ybXlXay1FV1RJdm92Y1VHTjFXbFk3VjJGbGpaSjJHVF96dw?oc=5",
-    "relatedNews": [
-      {
-        "title": "[속보] 한은, 기준금리 2연속 인상…'3% 금리 시대' 열렸다",
-        "date": "2026-08-27",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQUR5Z0RIeng2SnBubzczU2hNZDlObHIyUmprUnVxVVAwSlhINDhNVHlvY3YwU24ybXlXay1FV1RJdm92Y1VHTjFXbFk3VjJGbGpaSjJHVF96dw?oc=5",
-        "score": 0.939
-      },
-      {
-        "title": "코스피, 한은 2연속 기준금리 인상에 장중 상승폭 축소",
-        "date": "2026-08-27",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WDVKTkN3azFOYlZfRGdaUU1uQWY4Y1hta1M4RXZBZUpBZzNPeTlGSFhsNEN0M1FXZlM1Mkk0aXVZaTk1Nk1hQ19TbjhYNkRKQmZYWXRGX0tpQQ?oc=5",
-        "score": 0.313
-      }
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "한국 경제, 과열 신호?… 금리인상 재촉한 ‘GDP갭’ 뭐길래",
-    "source": "IT조선",
-    "tag": "정책",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feTVJYWtiUE1ielpTZk5xSWVVbGNtX0xLRzN2XzVNMGdhSjl5TlhTWGlXVVVrMDUyeEtpRjVqUkMzNHZnSTNXcHlGWjItcmJ3dEU4WEJtSTloQWIxdUk2dUVKRUhnUDI5SExwME1ZYXDSAXRBVV95cUxQYTRTZkQteThVVGhDR241c0o0VjZBVjBCcVZuRXVPR2w2cG00WmdfdUZIbVZJRTc0bU5LUVgxbG5mUEd4SkppUm9ZUXkyajFoYTRvR3VZN0FmTW5JOGVrTktrWDFESDA5czdjUFljWDdqT2pTRg?oc=5",
-    "relatedNews": [],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "기준금리 두 달 새 0.5%p↑...한국 경제 무엇이 달라지나",
-    "source": "ppss.kr",
-    "tag": "정책",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPNTZuNUtYY2FweVBkd2g4ekktdElmcm9JdW1zeUdXVDE1MVdHUlE1QlBvRktOdHNMdHc4X2psWDVTaUVFVGM0Q0pQLTY4SE9jd2xUeEVaNGxhd0p2bTBocmQ2cVk?oc=5",
-    "relatedNews": [],
-    "date": "2026-08-28"
-  },
-  {
-    "time": "15:13",
-    "title": "증시 널뛰고 금리 오르자…고금리 단기상품 들어볼까",
-    "source": "한국경제",
-    "tag": "정책",
-    "impact": "중립",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yWlQ3R0ZqREhiZ0E5ekd2MXRZOVNUbjZlU2YzVmMya0ZNX3hzT0RTRElNbVl3Yk5lOVRUQlVYQVNtaDlNdUdwOWxQSmQzcUw2QWdpM0YtVVc0dw?oc=5",
-    "relatedNews": [],
-    "date": "2026-08-28"
-  },
-  {
     "time": "15:13",
     "title": "퀄컴 \"삼성·SK하이닉스 HBC에 적극적...HBM과 병행 개발\"",
     "source": "디일렉",
@@ -8696,5 +8531,185 @@
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PMWZTcG9oN1VnM0sta1QyckhXOGFLV293YW1vUXpDSElEeXlLdnN4M2tuRTI2QWhaU0RJNDF0TF9XSmtIb2g4SjNQSjBZV2d5OTJjWE80enNRZDRrcHZpRjAxSU9CTUVN0gFuQVVfeXFMTlplcVdwTncwVzBmQ0QyMDlVWlFiOGZBR2M2OElLVVQ5dTRlcDZOb0lMY1FhUlJOc1FKS3hOeTJYUXNIQ1RKYVRCRFp1Q3FUNUhzQ3BvZnFCanZRZmxVV2ZURTNvSTM0T0huTUxWY3c?oc=5",
     "relatedNews": [],
     "date": "2026-10-17"
+  },
+  {
+    "time": "00:59",
+    "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
+    "source": "히트뉴스",
+    "tag": "시장",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
+    "relatedNews": [
+      {
+        "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
+        "date": "2026-10-16",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
+        "score": 1.0
+      },
+      {
+        "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
+        "date": "2026-10-17",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFZCZmZPYzJLQm1wZzJPMV9peXJPLTFDT3ktVkcyX2dOYVhGSGwzaVJCRkxTWklmdkM2TXZaZ2U5alZLY0FrZUJBc1pQeHFZYUJEQjhrZEREMy0yLW1IMnRTS1RNRDN2d1FN?oc=5",
+        "score": 1.0
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "코스피·코스닥 8% 폭락…양대 증시 서킷브레이커 발동",
+    "source": "주간조선",
+    "tag": "시장",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcXFmLVg2bDRZbnZXNGZEZGt1WGJQMElNUFJWa2ZIU1MyY0dmZ212WHpIaXpjcVkxdGcyTElDTy1DTnJBcWFzbk9pMTlWWnpKNGsycmVVeHk2dC1jRmNtZ2xuUUNlQnpxM2fSAW5BVV95cUxOWC1iZnFvZl9FakdsRkFwMFliMnYtMXVLR1VISVNkT2hUSHVrTS1rR2dQaDBYeHVPanNlWjRxRjJMX1poTU9hb0N2QkJTQ1R2VVkwRlU1NTlSeklTTGJGTkZrLTEyb2VSR1lFQnFvUQ?oc=5",
+    "relatedNews": [
+      {
+        "title": "코스피·코스닥 8% 폭락…양대 증시 서킷브레이커 발동",
+        "date": "2026-10-17",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcXFmLVg2bDRZbnZXNGZEZGt1WGJQMElNUFJWa2ZIU1MyY0dmZ212WHpIaXpjcVkxdGcyTElDTy1DTnJBcWFzbk9pMTlWWnpKNGsycmVVeHk2dC1jRmNtZ2xuUUNlQnpxM2fSAW5BVV95cUxOWC1iZnFvZl9FakdsRkFwMFliMnYtMXVLR1VISVNkT2hUSHVrTS1rR2dQaDBYeHVPanNlWjRxRjJMX1poTU9hb0N2QkJTQ1R2VVkwRlU1NTlSeklTTGJGTkZrLTEyb2VSR1lFQnFvUQ?oc=5",
+        "score": 1.0
+      },
+      {
+        "title": "코스피·코스닥 동반 서킷브레이커…미국발 충격에 ‘검은 목요일’",
+        "date": "2026-10-16",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZ1hJX0oyd0JodDd2SXAwaVdtSGFJT3B5bU1malpXa2xhRnBsRmVRdFRoN1VoY2hnYlR2LWNhcFpvVWIwMWZUOElIVndsTms1bFF0LVY5dkt5cEk?oc=5",
+        "score": 0.312
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
+    "source": "연합뉴스",
+    "tag": "글로벌",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
+    "relatedNews": [
+      {
+        "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
+        "date": "2026-10-17",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
+        "score": 1.0
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "코스피·코스닥 동반 -7%대 급락",
+    "source": "KB Think",
+    "tag": "시장",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
+    "relatedNews": [
+      {
+        "title": "코스피·코스닥 동반 -7%대 급락",
+        "date": "2026-10-16",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
+        "score": 1.0
+      },
+      {
+        "title": "코스피·코스닥 동반 -7%대 급락",
+        "date": "2026-10-17",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
+        "score": 1.0
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "\"이상하네, 금리 왜 이래?\"…美시장서 포착된 심상찮은 시그널 [분석+]",
+    "source": "한국경제",
+    "tag": "글로벌",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OTkwV3psTHd6LUU4dEZiVU8xOUhmS05WN1F1UWJnQXdvQndnUl83cWFQLVdKbWhqWVBZaGhVS3N1Wm9iRjdnSVBOY09BaW1YVmwzcEhsbERydw?oc=5",
+    "relatedNews": [
+      {
+        "title": "\"이상하네, 금리 왜 이래?\"…美시장서 포착된 심상찮은 시그널 [분석+]",
+        "date": "2026-10-17",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OTkwV3psTHd6LUU4dEZiVU8xOUhmS05WN1F1UWJnQXdvQndnUl83cWFQLVdKbWhqWVBZaGhVS3N1Wm9iRjdnSVBOY09BaW1YVmwzcEhsbERydw?oc=5",
+        "score": 1.0
+      },
+      {
+        "title": "심상찮은 엔화…\"한국도 예외 아니다\" 경고 나온 이유 [분석+]",
+        "date": "2026-09-09",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNnBfMG5SU3ZwWm1DZmJ4bzEwMmU5RnUyQnRBMko0bnZOaGI4R085NkRYOXlmUmM5U3dtQ2tlMXpsUlVTTWFyTXRDQVFPVG4zUkRpcGxQUHBuZw?oc=5",
+        "score": 0.253
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
+    "source": "한국경제",
+    "tag": "글로벌",
+    "impact": "리스크",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMl8wWFd6SHRORElSN0pQUzVUVVFvLXVZUi1nVUxKNXUyeE9oMktZUU4wQXNqTWpNcnBObmxqbnk4clBoRTBUU1MySm9ScFo5RUlXSHdCcXlBdw?oc=5",
+    "relatedNews": [
+      {
+        "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
+        "date": "2026-10-17",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMl8wWFd6SHRORElSN0pQUzVUVVFvLXVZUi1nVUxKNXUyeE9oMktZUU4wQXNqTWpNcnBObmxqbnk4clBoRTBUU1MySm9ScFo5RUlXSHdCcXlBdw?oc=5",
+        "score": 1.0
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
+    "source": "한국경제",
+    "tag": "정책",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MbEc2QzluaWdrRW5iMXIySmFwc2hSdVJSak5uTkRTSTg5bnNsOVIwZm1pUFpyY29tTk1XTFM3UVNralY2UjJNbGltV1FNY1pidWtGRk03NWg3Zw?oc=5",
+    "relatedNews": [],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "CPI 이은 PPI 쇼크에도…美 국채금리 뚝 떨어진 까닭은 [심성미의 중앙은행 워치]",
+    "source": "한국경제",
+    "tag": "글로벌",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MEs4aXp1Q2JwMWR4dnFHVWRCNS1GS3V5MDdjU0wxRDFMTHVEbnVvZjhVM1ZvTWVCanltZUotRW9fTzNPMDBPT3NtcXFaWmRHR3hRZHF6aXJ2Zw?oc=5",
+    "relatedNews": [
+      {
+        "title": "전세계 첫 ‘코로나 고점’ 돌파한 호주 금리…한국도 3.75% 갈까 [심성미의 중앙은행 워치]",
+        "date": "2026-10-01",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVTlqVnBtWmdJSnVhNTNPRUVCZzRMdmt4Uk8xNTZQLUFGRjMxeFdWTGVEZmkzV1M3UHQ2eHJIRVNjTkZpUHE2dUR1elJVWHpQMUVwMFU4eTZzdw?oc=5",
+        "score": 0.298
+      }
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "이달 시총 678조 증발…삼성전자·SK하이닉스 반전 조건은?",
+    "source": "이투데이",
+    "tag": "기업",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSFNjMVprSUhWSzREMjhGbk44X3p4b3RFM054Z3pWWW5JS29xNVZoMHEzYUoyVzVxTnZrMTN5cjRzM0FPblBLenpjVnJRTFQwVmc4aw?oc=5",
+    "relatedNews": [],
+    "date": "2026-10-18"
+  },
+  {
+    "time": "00:59",
+    "title": "“삼전 7만원, 하이닉스 20만원” vs “과도한 조정”…엇갈린 전망",
+    "source": "경기일보",
+    "tag": "시장",
+    "impact": "중립",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fX0huTElPVENqUzhyUFBYeHUzNk9zNTN3dGRncUxpWTNodjZ2R3lvUlRHYUZYTzJraU02alRkYWNIX1QyMnp3Y1RXSzVZX2phRkRjUGhPSDNCSWc?oc=5",
+    "relatedNews": [
+      {
+        "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+        "date": "2026-10-15",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdzRkNGNmMXl4OEV1T1JMTU9pRW9jMXV6VlVnbHJxbF9ZQmptMHZfbjlQMFBpdTJHNXNNVHFZRzFKSkN2Y2NXbkxUblVMclVDWjZ2UUFSUHNHZw?oc=5",
+        "score": 0.329
+      }
+    ],
+    "date": "2026-10-18"
   }
 ]
