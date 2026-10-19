@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18 00:59",
-  "date": "2026-10-18",
-  "autoSummary": "2026년 10월 18일 주요 경제 뉴스 10건. 호재 0 · 리스크 3 · 중립 7",
+  "updatedAt": "2026-10-19 09:20",
+  "date": "2026-10-19",
+  "autoSummary": "2026년 10월 19일 주요 경제 뉴스 10건. 호재 2 · 리스크 3 · 중립 5",
   "trendNote": "'[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가' 이슈가 2026-10-16부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "00:59",
+      "time": "09:20",
       "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
       "source": "히트뉴스",
       "tag": "시장",
@@ -27,7 +27,16 @@
       ]
     },
     {
-      "time": "00:59",
+      "time": "09:20",
+      "title": "코스피·코스닥 급락에 등 돌린 개미들…미국 주식 순매수 급증",
+      "source": "글로벌이코노믹",
+      "tag": "글로벌",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcldZWEVOei00RlM4SkNzVS1RSS1WaVAzMWx3ZFNtQXJCRHVLaFpkYXZ1NmIxZjRUYTQtellCSndlOHJkd0VtM3N1SXRNZjJ1eXR1c2RvQ2lrRkdGRnFHZDczenpwRVVjZzZmVktvUmthTkZXemwxcV9JdW1acmpPaWN3MVQxMFND?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "09:20",
       "title": "코스피·코스닥 8% 폭락…양대 증시 서킷브레이커 발동",
       "source": "주간조선",
       "tag": "시장",
@@ -41,15 +50,15 @@
           "score": 1.0
         },
         {
-          "title": "코스피·코스닥 동반 서킷브레이커…미국발 충격에 ‘검은 목요일’",
-          "date": "2026-10-16",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZ1hJX0oyd0JodDd2SXAwaVdtSGFJT3B5bU1malpXa2xhRnBsRmVRdFRoN1VoY2hnYlR2LWNhcFpvVWIwMWZUOElIVndsTms1bFF0LVY5dkt5cEk?oc=5",
-          "score": 0.312
+          "title": "코스피·코스닥 8% 폭락…양대 증시 서킷브레이커 발동",
+          "date": "2026-10-18",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcXFmLVg2bDRZbnZXNGZEZGt1WGJQMElNUFJWa2ZIU1MyY0dmZ212WHpIaXpjcVkxdGcyTElDTy1DTnJBcWFzbk9pMTlWWnpKNGsycmVVeHk2dC1jRmNtZ2xuUUNlQnpxM2fSAW5BVV95cUxOWC1iZnFvZl9FakdsRkFwMFliMnYtMXVLR1VISVNkT2hUSHVrTS1rR2dQaDBYeHVPanNlWjRxRjJMX1poTU9hb0N2QkJTQ1R2VVkwRlU1NTlSeklTTGJGTkZrLTEyb2VSR1lFQnFvUQ?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "00:59",
+      "time": "09:20",
       "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
       "source": "연합뉴스",
       "tag": "글로벌",
@@ -61,55 +70,26 @@
           "date": "2026-10-17",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
           "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "00:59",
-      "title": "코스피·코스닥 동반 -7%대 급락",
-      "source": "KB Think",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥 동반 -7%대 급락",
-          "date": "2026-10-16",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
-          "score": 1.0
         },
         {
-          "title": "코스피·코스닥 동반 -7%대 급락",
-          "date": "2026-10-17",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZW1MbVplbGtCbnRwNTZFSGNlQ1FvN2V6dlBFa0NJbnRuckVyN09oam51cER6cmJsMlBfaTlxTVpEX2Z6ZmpLQ3BQSDZXN2lnVEROa3g1ZDVIZGp0TjhiN2lkXzREMWJReW1YWQ?oc=5",
+          "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
+          "date": "2026-10-18",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "00:59",
-      "title": "\"이상하네, 금리 왜 이래?\"…美시장서 포착된 심상찮은 시그널 [분석+]",
+      "time": "09:20",
+      "title": "\"한은, 기준금리 10월 동결, 11월엔 인상 유력\"",
       "source": "한국경제",
-      "tag": "글로벌",
+      "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OTkwV3psTHd6LUU4dEZiVU8xOUhmS05WN1F1UWJnQXdvQndnUl83cWFQLVdKbWhqWVBZaGhVS3N1Wm9iRjdnSVBOY09BaW1YVmwzcEhsbERydw?oc=5",
-      "relatedNews": [
-        {
-          "title": "\"이상하네, 금리 왜 이래?\"…美시장서 포착된 심상찮은 시그널 [분석+]",
-          "date": "2026-10-17",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OTkwV3psTHd6LUU4dEZiVU8xOUhmS05WN1F1UWJnQXdvQndnUl83cWFQLVdKbWhqWVBZaGhVS3N1Wm9iRjdnSVBOY09BaW1YVmwzcEhsbERydw?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "심상찮은 엔화…\"한국도 예외 아니다\" 경고 나온 이유 [분석+]",
-          "date": "2026-09-09",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNnBfMG5SU3ZwWm1DZmJ4bzEwMmU5RnUyQnRBMko0bnZOaGI4R085NkRYOXlmUmM5U3dtQ2tlMXpsUlVTTWFyTXRDQVFPVG4zUkRpcGxQUHBuZw?oc=5",
-          "score": 0.253
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xRlBleVVMN3Jra3J0RlBsUWYwQ19xUXRzZWYwSXRrUjY5ckw1Rjc5aDJwNlpkV3FVcnotVzA2VkRlNGhNcWtwYmE1WEJlV3pnak5ua2NDbFhDUQ?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "00:59",
+      "time": "09:20",
       "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
       "source": "한국경제",
       "tag": "글로벌",
@@ -121,58 +101,57 @@
           "date": "2026-10-17",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMl8wWFd6SHRORElSN0pQUzVUVVFvLXVZUi1nVUxKNXUyeE9oMktZUU4wQXNqTWpNcnBObmxqbnk4clBoRTBUU1MySm9ScFo5RUlXSHdCcXlBdw?oc=5",
           "score": 1.0
+        },
+        {
+          "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
+          "date": "2026-10-18",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMl8wWFd6SHRORElSN0pQUzVUVVFvLXVZUi1nVUxKNXUyeE9oMktZUU4wQXNqTWpNcnBObmxqbnk4clBoRTBUU1MySm9ScFo5RUlXSHdCcXlBdw?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "00:59",
-      "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
+      "time": "09:20",
+      "title": "신한은행, 중저신용자 대출금리 0.3%P 인하",
       "source": "한국경제",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MbEc2QzluaWdrRW5iMXIySmFwc2hSdVJSak5uTkRTSTg5bnNsOVIwZm1pUFpyY29tTk1XTFM3UVNralY2UjJNbGltV1FNY1pidWtGRk03NWg3Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dGRZblpFa2QtS040REYzR08xQkZaM3RSNWJxdVBGdDctekx4eXhfMWY3UGVoSkhVZ3RNT1ZwMTBMdGI0YzJud1VIbVJHTzJ4QUFPbFN0ZmFLdw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "00:59",
-      "title": "CPI 이은 PPI 쇼크에도…美 국채금리 뚝 떨어진 까닭은 [심성미의 중앙은행 워치]",
+      "time": "09:20",
+      "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MEs4aXp1Q2JwMWR4dnFHVWRCNS1GS3V5MDdjU0wxRDFMTHVEbnVvZjhVM1ZvTWVCanltZUotRW9fTzNPMDBPT3NtcXFaWmRHR3hRZHF6aXJ2Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
       "relatedNews": [
         {
-          "title": "전세계 첫 ‘코로나 고점’ 돌파한 호주 금리…한국도 3.75% 갈까 [심성미의 중앙은행 워치]",
-          "date": "2026-10-01",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVTlqVnBtWmdJSnVhNTNPRUVCZzRMdmt4Uk8xNTZQLUFGRjMxeFdWTGVEZmkzV1M3UHQ2eHJIRVNjTkZpUHE2dUR1elJVWHpQMUVwMFU4eTZzdw?oc=5",
-          "score": 0.298
+          "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
+          "date": "2026-10-17",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "00:59",
-      "title": "이달 시총 678조 증발…삼성전자·SK하이닉스 반전 조건은?",
-      "source": "이투데이",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSFNjMVprSUhWSzREMjhGbk44X3p4b3RFM054Z3pWWW5JS29xNVZoMHEzYUoyVzVxTnZrMTN5cjRzM0FPblBLenpjVnJRTFQwVmc4aw?oc=5",
+      "time": "09:20",
+      "title": "\"살려주세요\" 검은 목요일 다음날 삼전닉스 반등했지만… - 머니투데이",
+      "source": "머니투데이",
+      "tag": "시장",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEeU5rY3RTNFRZa2hhN0FQNDBSNVlpY2pfQVQwOGRyU2lmbGZTWjY3SG0yeDVQTEtndVR5YTh6MndRbllQd1RDUDV1bEhhTzVqenhMNUVpZ05UcHVzRmZTaEdNVkhzQk5q0gFuQVVfeXFMTTBtaU5wUmtmNjE1aVViOXNuX2NzZmVmaWMzSDdKcXFrZGR1T3BzYUpGUVhPclNOUlVXMHJuSk5XbHFadzNkMzdZVFBxTjNvVUZHdC16Z0dwU3N0b2x2UDdwWHh5bC1mU0VpNjdjTnc?oc=5",
       "relatedNews": []
     },
     {
-      "time": "00:59",
-      "title": "“삼전 7만원, 하이닉스 20만원” vs “과도한 조정”…엇갈린 전망",
-      "source": "경기일보",
+      "time": "09:20",
+      "title": "삼전닉스, 금융위기 이후 최악의 주간 하락률…반등 모멘텀은",
+      "source": "연합뉴스",
       "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fX0huTElPVENqUzhyUFBYeHUzNk9zNTN3dGRncUxpWTNodjZ2R3lvUlRHYUZYTzJraU02alRkYWNIX1QyMnp3Y1RXSzVZX2phRkRjUGhPSDNCSWc?oc=5",
-      "relatedNews": [
-        {
-          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
-          "date": "2026-10-15",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdzRkNGNmMXl4OEV1T1JMTU9pRW9jMXV6VlVnbHJxbF9ZQmptMHZfbjlQMFBpdTJHNXNNVHFZRzFKSkN2Y2NXbkxUblVMclVDWjZ2UUFSUHNHZw?oc=5",
-          "score": 0.329
-        }
-      ]
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZVVsNWtGTXBxZFBhVm1TeDU1XzdIazdVT2VoNy05V1FnOTdxWXZWQmVpaGtibTdrU0VSWmpUc2VWSnZtOV9vRkh4QnM5WjlTNV8wZHZfbjdqczDSAWBBVV95cUxPRHlCYWdZdmp6ZW0zNWo0bjRkN1dkQzBGeWthTktSdHFDZzY3bWtQYTViZGdaTjhSdzJZNFhndG1aTlFzQnN3ZDhwZG1nNVRfZG9QSUhyM2NTamQzQVVrVWM?oc=5",
+      "relatedNews": []
     }
   ],
   "aiSummary": null
