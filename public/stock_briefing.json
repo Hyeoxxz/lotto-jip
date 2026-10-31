@@ -1,42 +1,27 @@
 {
-  "updatedAt": "2026-10-31 10:43",
-  "date": "2026-10-31",
-  "autoSummary": "2026년 10월 31일 주요 경제 뉴스 10건. 호재 1 · 리스크 1 · 중립 8",
-  "trendNote": "'코스피·코스닥, 내림세로 장 마감' 이슈가 2026-09-12부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-11-01 02:31",
+  "date": "2026-11-01",
+  "autoSummary": "2026년 11월 01일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
+  "trendNote": "'“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에' 이슈가 2026-10-31부터 이어지고 있습니다 (관련 과거 기사 1건 확인).",
   "news": [
     {
-      "time": "10:43",
+      "time": "02:31",
       "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
       "source": "전자신문",
       "tag": "시장",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQjVNSGdISzNJUUdpZFEtSXpERE9MaE1jdTJwbGRVb1RnbDZ6ak1kdkw2RUtBVjNjTFl2XzU5M3NzNDIxMkszNmplWmVDUQ?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "10:43",
-      "title": "코스피·코스닥, 내림세로 장 마감",
-      "source": "한강타임즈",
-      "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPR2RTQ2o1UTJVV2k5T2s5Zm1ZWmF2TVdoSV9Qd2dVWDU4MnVLRkpETE9VdElTcTNwMkE2akZqRV9xUFJYMlplQ3VkaGpoZ2xUWUNheldHeG05eFZNUjFxS2IzRGE2a3ZTQkJB?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-09-12",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRjlCZGVUU2JVX2hDc0lidHRfSW82UzI2R0lnVjZ6MzJRTVRqSWFiYmhjZnZsc1loQ1hLR0QxN1JSMEZ4RXpNNTlYR3RxQnpkajNZWVNUSU1zTzZDRWF4NVhlQWhPNE9tOHhV?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-10-09",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ZDZNdXR1TEUwVzk0QmR2UmVUOXlaVmhkX1lZUmFzTWNQZjRvLU14dU1tcWtyLTk4ci02S1pMRmRLMFJGWFcycnpIZTNhRmxxUFRJS2ctY3VjTHFJMFJQVS1OZFlqaURXcUQ4?oc=5",
+          "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+          "date": "2026-10-31",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQjVNSGdISzNJUUdpZFEtSXpERE9MaE1jdTJwbGRVb1RnbDZ6ak1kdkw2RUtBVjNjTFl2XzU5M3NzNDIxMkszNmplWmVDUQ?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "10:43",
+      "time": "02:31",
       "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
       "source": "YTN",
       "tag": "시장",
@@ -58,12 +43,34 @@
       ]
     },
     {
-      "time": "10:43",
+      "time": "02:31",
+      "title": "코스피·코스닥, 내림세로 장 마감",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPR2RTQ2o1UTJVV2k5T2s5Zm1ZWmF2TVdoSV9Qd2dVWDU4MnVLRkpETE9VdElTcTNwMkE2akZqRV9xUFJYMlplQ3VkaGpoZ2xUWUNheldHeG05eFZNUjFxS2IzRGE2a3ZTQkJB?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥, 내림세로 장 마감",
+          "date": "2026-09-12",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRjlCZGVUU2JVX2hDc0lidHRfSW82UzI2R0lnVjZ6MzJRTVRqSWFiYmhjZnZsc1loQ1hLR0QxN1JSMEZ4RXpNNTlYR3RxQnpkajNZWVNUSU1zTzZDRWF4NVhlQWhPNE9tOHhV?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥, 내림세로 장 마감",
+          "date": "2026-10-09",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ZDZNdXR1TEUwVzk0QmR2UmVUOXlaVmhkX1lZUmFzTWNQZjRvLU14dU1tcWtyLTk4ci02S1pMRmRLMFJGWFcycnpIZTNhRmxxUFRJS2ctY3VjTHFJMFJQVS1OZFlqaURXcUQ4?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "02:31",
       "title": "[코스피·코스닥 전 거래일(27일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qQVZBYklZRnczcUxXdGp0RF9QRkNIVjRHMVA0Z3ZqUjhWSThWenMwYnBOWUkxUVNoVmVfQ0dTRktnaFRvS3hVbnlIaE5VZkloa3NMUG5EYTY3bWgzeDRKRtIBYEFVX3lxTE5qQVZBYklZRnczcUxXdGp0RF9QRkNIVjRHMVA0Z3ZqUjhWSThWenMwYnBOWUkxUVNoVmVfQ0dTRktnaFRvS3hVbnlIaE5VZkloa3NMUG5EYTY3bWgzeDRKRg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GekdKZ19vUGlfSHJ5TTBSOGtkTWk4X3JLV2FJd2RSY0tkWnZvY0xtSy1xYkRPeFBuWE5RZG9GV3d6WE9RQUQzVFBheUdCR0hETGVWWXpEQTNVdG_SAWBBVV95cUxOakFWQWJJWUZ3M3FMV3RqdERfUEZDSFY0RzFQNGd2alI4Vkk4VnpzMGJwTllJMVFTaFZlX0NHU0ZLZ2hUb0t4VW55SGhOVWZJaGtzTFBuRGE2N21oM3g0SkY?oc=5",
       "relatedNews": [
         {
           "title": "[코스피·코스닥 전 거래일(27일) 주요공시]",
@@ -80,7 +87,7 @@
       ]
     },
     {
-      "time": "10:43",
+      "time": "02:31",
       "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
       "source": "한국경제",
       "tag": "글로벌",
@@ -88,15 +95,21 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
       "relatedNews": [
         {
+          "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
+          "date": "2026-10-31",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "[속보] 한은, 기준금리 연 3.00%로 동결",
           "date": "2026-10-23",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUHZMazAwc0RxSVZnWG91SE1Tcmh3TWlrR3dXRnRmTmVwMFNrQWVOb3JCV3kzUkhmeDBRbVZJVTc5SmVmX0hNbEJfcDc1WC1kal9QX3dKZW9GUQ?oc=5",
-          "score": 0.323
+          "score": 0.321
         }
       ]
     },
     {
-      "time": "10:43",
+      "time": "02:31",
       "title": "[속보] ECB 금리 동결, 예금금리 연 2.50％",
       "source": "한국경제",
       "tag": "정책",
@@ -110,15 +123,15 @@
           "score": 1.0
         },
         {
-          "title": "[속보] 한은, 기준금리 연 3.00%로 동결",
-          "date": "2026-10-23",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUHZMazAwc0RxSVZnWG91SE1Tcmh3TWlrR3dXRnRmTmVwMFNrQWVOb3JCV3kzUkhmeDBRbVZJVTc5SmVmX0hNbEJfcDc1WC1kal9QX3dKZW9GUQ?oc=5",
-          "score": 0.257
+          "title": "[속보] ECB 금리 동결, 예금금리 연 2.50％",
+          "date": "2026-10-31",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aVpaY3B5b05Ycng5djMtaWNKNVBpb2Y3aDhjeFBULWl0MlNfM09TRW1WTkk0ZHFJU0V4OUtQdlZfNGEyZXFnRjlvRUpmaG55TlJ1R3V3WGNUQQ?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "10:43",
+      "time": "02:31",
       "title": "[속보] Fed, 美 기준금리 연 3.75~4.00%로 동결 [Fed워치]",
       "source": "한국경제",
       "tag": "글로벌",
@@ -132,65 +145,59 @@
           "score": 1.0
         },
         {
-          "title": "Fed, 기준금리 연 3.75%~4.00%로 동결…2명은 인상 주장 [Fed워치]",
-          "date": "2026-10-29",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XU2lBSXlnOUVOZzlSQ2RJeWpXLVFwWmtNVkhWemI0UHU1ZkJwRWxCZVp3ck1BdWtPdUF6QkItZHFQOXcwZE1OZ3BSNEx1Tjl3Rzkyd3B2OWZkZw?oc=5",
-          "score": 0.696
+          "title": "[속보] Fed, 美 기준금리 연 3.75~4.00%로 동결 [Fed워치]",
+          "date": "2026-10-31",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZGVYX3h1azkyamk0MXlUd2RrX0VHRno2VkFBeEQ0aTZNWHd2QlFpQ3dMZkVuakx5clU5RXhJdHczbmxmS3hXdWJpejZVNnlRZTQzeUc4T2U0QQ?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "10:43",
-      "title": "[속보] Fed, 금리 동결…\"경제활동 빠른 속도로 확장 중\"",
+      "time": "02:31",
+      "title": "뉴욕증시, 미 Fed 금리 동결에 3일째 상승…오라클 10%↑ [뉴욕증시 브리핑]",
       "source": "한국경제",
       "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yS0pfb29pUWVlc3c5ZVhvanBDWjdNcFRqTDlGaWtycUJmY3JQbXc1S3ZDWW5OTkVBUGpvOVc3dl94cFAwT0x6d0xRbVVzSHVqVEp5ak5icDVGQQ?oc=5",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZzU5LTRVLVRycFRLSUd3eE5EUGdRWXFQMUJTaGNWdUFEbzdxU3BCWFdQeFd1VG44c2pyMWU4WTlrWmFwVjhXUW1RVll4dUs5LW1pc25SVmFFZw?oc=5",
       "relatedNews": [
         {
-          "title": "[속보] Fed, 금리 동결…\"경제활동 빠른 속도로 확장 중\"",
-          "date": "2026-10-29",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yS0pfb29pUWVlc3c5ZVhvanBDWjdNcFRqTDlGaWtycUJmY3JQbXc1S3ZDWW5OTkVBUGpvOVc3dl94cFAwT0x6d0xRbVVzSHVqVEp5ak5icDVGQQ?oc=5",
+          "title": "뉴욕증시, 미 Fed 금리 동결에 3일째 상승…오라클 10%↑ [뉴욕증시 브리핑]",
+          "date": "2026-10-30",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZzU5LTRVLVRycFRLSUd3eE5EUGdRWXFQMUJTaGNWdUFEbzdxU3BCWFdQeFd1VG44c2pyMWU4WTlrWmFwVjhXUW1RVll4dUs5LW1pc25SVmFFZw?oc=5",
           "score": 1.0
         },
         {
-          "title": "[속보] Fed, 금리 동결…\"경제활동 빠른 속도로 확장 중\"",
-          "date": "2026-10-30",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yS0pfb29pUWVlc3c5ZVhvanBDWjdNcFRqTDlGaWtycUJmY3JQbXc1S3ZDWW5OTkVBUGpvOVc3dl94cFAwT0x6d0xRbVVzSHVqVEp5ak5icDVGQQ?oc=5",
-          "score": 1.0
+          "title": "美국채금리 급등에도 상승 마감…나스닥 사상 최고치 [뉴욕증시 브리핑]",
+          "date": "2026-10-06",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNWJmNW94YzEtTzIxMEV3cXNSNGVSeS1yc2JlcnlfZ1gtcW9QUmlJZ0FpcTd2RVZlZHNwakttT0hTVjRLSmx6WkhGakN3a2VpZEVfOVBROWIwQQ?oc=5",
+          "score": 0.298
         }
       ]
     },
     {
-      "time": "10:43",
-      "title": "코스피 4%대 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 동반 약세",
-      "source": "조선일보",
+      "time": "02:31",
+      "title": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
+      "source": "KBS 뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbEJSTUtOdzFCakFSOHQ5cGtjZ2ZPNlhiTVE5SHRPT002aWVxR3pPeDc1VzE3VWRvcjJnY2hEWW1pR2VlSVZxZXN3bWdiSzVvYlFsZ0JFYk5XNmc?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "02:31",
+      "title": "“현금흐름이 깨뜨린 AI 낙관론”...삼성전자·SK하이닉스 동반 급락",
+      "source": "에너지경제신문",
       "tag": "기업",
       "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTBCZnVBdDVTcXNLQ0dJUFd3QkZtaTd0YVBySEJFd2hOWXBWd05leFp5cm9GZl9aN2xfTXdqLV95ZVR2RDVlNUJXVVIzcHJ3S1VHUzVsVUJ0RGhSYlVfSFBwQ2s4TFdVWU55Vkx3YXhabHV6emx3SEYwa2VhNTVmNk1rRmVvR1AtTm1V?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41SVRkUnpaZDd3MVFEdTRSeEZ6VmRyQlJHLUs3UWRpZk52d3RjM09DRXZOLWZYYklqM19Ub1BrSGxCV1RTTjdyTUNrQi1WVmRCelpzMjdJLTFwSkU?oc=5",
       "relatedNews": [
         {
           "title": "코스피 장 초반 4% 급락…미국발 AI 우려에 삼성전자·SK하이닉스 동반 약세",
           "date": "2026-10-30",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0JTMVlDODBCM0stTjdycFdEOTJ1aU1QMGdEWGF1Ql9XanJTdWVmVmd6UVRZd0xmVW1IaVdxd2p2YTBjeEZ1eUl2UmQyN3loV3F5dmlYZkdPMkx5endzeDVycHBYNUFZd2h3TXpKQkp1akNFVExQNWpTTExYaUJLbzg2NTI2NWpzQ2xJ?oc=5",
-          "score": 0.39
-        },
-        {
-          "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
-          "date": "2026-10-17",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
-          "score": 0.335
+          "score": 0.263
         }
       ]
-    },
-    {
-      "time": "10:43",
-      "title": "삼성·SK하이닉스 분기 영업익 100조 '뉴노멀' 시대 연다",
-      "source": "지디넷코리아",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PR194WXhJa0VUUmJJWThBSDZ0RVFDbDVKQXBIQVJiNGM5ZGhRYllncGZ4X0g0TGhESWsyN2Q2YklRQVJmSTZ1OG9ZVWZYWWg4eHQ3SmhR?oc=5",
-      "relatedNews": []
     }
   ],
   "aiSummary": null
