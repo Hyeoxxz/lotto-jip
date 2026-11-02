@@ -1,11 +1,33 @@
 {
-  "updatedAt": "2026-11-01 02:31",
-  "date": "2026-11-01",
-  "autoSummary": "2026년 11월 01일 주요 경제 뉴스 10건. 호재 2 · 리스크 1 · 중립 7",
-  "trendNote": "'“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에' 이슈가 2026-10-31부터 이어지고 있습니다 (관련 과거 기사 1건 확인).",
+  "updatedAt": "2026-11-02 10:41",
+  "date": "2026-11-02",
+  "autoSummary": "2026년 11월 02일 주요 경제 뉴스 10건. 호재 1 · 리스크 2 · 중립 7",
+  "trendNote": "'코스피·코스닥, 내림세로 장 출발' 이슈가 2026-09-15부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "02:31",
+      "time": "10:41",
+      "title": "코스피·코스닥, 내림세로 장 출발",
+      "source": "한강타임즈",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySDktakF5al9fcXJKZmdTaXJhVGlvTWkwaVlCV3IwMVpFTFJ2bGc2eHl3MDlrY2djZUV0cThaUl9hUmNTNjVZLWJuNWJzeGhZT2xBY2E3bWVyVGNKMUNweDgzRnBydG1rVWlV?oc=5",
+      "relatedNews": [
+        {
+          "title": "코스피·코스닥, 내림세로 장 출발",
+          "date": "2026-09-15",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1R244bnkxYVU0Q1M0WEdBektzV2NyZ0twektqV2JCTnJyTXRuTmFDS2x1VnlPa055V21LMXZ1UTY5ZURLMXR4RzFsMGZSU2xkbElId1V5bjZVUmNLdjNFb1FzWlUzTnRtZFZz?oc=5",
+          "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥, 내림세로 장 출발",
+          "date": "2026-09-16",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmREpLSy1ZWXB4eXd1SmdEa2ZKMVBlNmZHSUE3alVfV1FVa0I1bmF3RzRhdmNKb2NpQll1cVBLOWhuMldCQnBFd2x5X1lYdkgzZHFQUFl6eXB1TmhlM2ZGOUJQQW53ZktneVkw?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "10:41",
       "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
       "source": "전자신문",
       "tag": "시장",
@@ -17,55 +39,26 @@
           "date": "2026-10-31",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQjVNSGdISzNJUUdpZFEtSXpERE9MaE1jdTJwbGRVb1RnbDZ6ak1kdkw2RUtBVjNjTFl2XzU5M3NzNDIxMkszNmplWmVDUQ?oc=5",
           "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "02:31",
-      "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
-      "source": "YTN",
-      "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbVhkdi02VUs1Q1F2WlE0X0dBeVhmaGl4aTk4Sm05Y1YxZF9TYVY3dTNSaGtWVFRMR0xSbGR2WVdkZ25VTXAzc2RjZ0l2WEFmSmVQbS05VlZEdGxpQXc?oc=5",
-      "relatedNews": [
-        {
-          "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
-          "date": "2026-10-28",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUU1uaUtDZWU3YmhfTGhWVFdKemhCeVpaYnRsbW9vaThWQmg3aDExY05xVG1YMDNFY3NhU3JCVGloaUxraEJZODVNeEtmWDRVTkdCSEc3VEo0YUtha2c?oc=5",
-          "score": 1.0
         },
         {
-          "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
-          "date": "2026-10-29",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbVhkdi02VUs1Q1F2WlE0X0dBeVhmaGl4aTk4Sm05Y1YxZF9TYVY3dTNSaGtWVFRMR0xSbGR2WVdkZ25VTXAzc2RjZ0l2WEFmSmVQbS05VlZEdGxpQXc?oc=5",
+          "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+          "date": "2026-11-01",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQjVNSGdISzNJUUdpZFEtSXpERE9MaE1jdTJwbGRVb1RnbDZ6ak1kdkw2RUtBVjNjTFl2XzU5M3NzNDIxMkszNmplWmVDUQ?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "02:31",
-      "title": "코스피·코스닥, 내림세로 장 마감",
-      "source": "한강타임즈",
+      "time": "10:41",
+      "title": "[속보] 코스피, 1%대 하락 출발…코스닥 약세",
+      "source": "스페셜타임스",
       "tag": "시장",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPR2RTQ2o1UTJVV2k5T2s5Zm1ZWmF2TVdoSV9Qd2dVWDU4MnVLRkpETE9VdElTcTNwMkE2akZqRV9xUFJYMlplQ3VkaGpoZ2xUWUNheldHeG05eFZNUjFxS2IzRGE2a3ZTQkJB?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-09-12",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRjlCZGVUU2JVX2hDc0lidHRfSW82UzI2R0lnVjZ6MzJRTVRqSWFiYmhjZnZsc1loQ1hLR0QxN1JSMEZ4RXpNNTlYR3RxQnpkajNZWVNUSU1zTzZDRWF4NVhlQWhPNE9tOHhV?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "코스피·코스닥, 내림세로 장 마감",
-          "date": "2026-10-09",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ZDZNdXR1TEUwVzk0QmR2UmVUOXlaVmhkX1lZUmFzTWNQZjRvLU14dU1tcWtyLTk4ci02S1pMRmRLMFJGWFcycnpIZTNhRmxxUFRJS2ctY3VjTHFJMFJQVS1OZFlqaURXcUQ4?oc=5",
-          "score": 1.0
-        }
-      ]
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40aUZYdExOc253amREUHRZeW5pZXFDNVlwUV9FdGdHTG90Qjl4X1pudzh4V2lFUDZnb2hhaVdlQXNFYlg3bHhnUG10Ul9NTUFUOG96dWdQZVlzQ2hVS29wTXNFVUF4b3lQV25FWnlBOFRGQQ?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "02:31",
+      "time": "10:41",
       "title": "[코스피·코스닥 전 거래일(27일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -87,117 +80,58 @@
       ]
     },
     {
-      "time": "02:31",
-      "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
-          "date": "2026-10-31",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[속보] 한은, 기준금리 연 3.00%로 동결",
-          "date": "2026-10-23",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUHZMazAwc0RxSVZnWG91SE1Tcmh3TWlrR3dXRnRmTmVwMFNrQWVOb3JCV3kzUkhmeDBRbVZJVTc5SmVmX0hNbEJfcDc1WC1kal9QX3dKZW9GUQ?oc=5",
-          "score": 0.321
-        }
-      ]
-    },
-    {
-      "time": "02:31",
-      "title": "[속보] ECB 금리 동결, 예금금리 연 2.50％",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aVpaY3B5b05Ycng5djMtaWNKNVBpb2Y3aDhjeFBULWl0MlNfM09TRW1WTkk0ZHFJU0V4OUtQdlZfNGEyZXFnRjlvRUpmaG55TlJ1R3V3WGNUQQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "[속보] ECB 금리 동결, 예금금리 연 2.50％",
-          "date": "2026-10-30",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aVpaY3B5b05Ycng5djMtaWNKNVBpb2Y3aDhjeFBULWl0MlNfM09TRW1WTkk0ZHFJU0V4OUtQdlZfNGEyZXFnRjlvRUpmaG55TlJ1R3V3WGNUQQ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[속보] ECB 금리 동결, 예금금리 연 2.50％",
-          "date": "2026-10-31",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aVpaY3B5b05Ycng5djMtaWNKNVBpb2Y3aDhjeFBULWl0MlNfM09TRW1WTkk0ZHFJU0V4OUtQdlZfNGEyZXFnRjlvRUpmaG55TlJ1R3V3WGNUQQ?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "02:31",
-      "title": "[속보] Fed, 美 기준금리 연 3.75~4.00%로 동결 [Fed워치]",
-      "source": "한국경제",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZGVYX3h1azkyamk0MXlUd2RrX0VHRno2VkFBeEQ0aTZNWHd2QlFpQ3dMZkVuakx5clU5RXhJdHczbmxmS3hXdWJpejZVNnlRZTQzeUc4T2U0QQ?oc=5",
-      "relatedNews": [
-        {
-          "title": "[속보] Fed, 美 기준금리 연 3.75~4.00%로 동결 [Fed워치]",
-          "date": "2026-10-30",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZGVYX3h1azkyamk0MXlUd2RrX0VHRno2VkFBeEQ0aTZNWHd2QlFpQ3dMZkVuakx5clU5RXhJdHczbmxmS3hXdWJpejZVNnlRZTQzeUc4T2U0QQ?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[속보] Fed, 美 기준금리 연 3.75~4.00%로 동결 [Fed워치]",
-          "date": "2026-10-31",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZGVYX3h1azkyamk0MXlUd2RrX0VHRno2VkFBeEQ0aTZNWHd2QlFpQ3dMZkVuakx5clU5RXhJdHczbmxmS3hXdWJpejZVNnlRZTQzeUc4T2U0QQ?oc=5",
-          "score": 1.0
-        }
-      ]
-    },
-    {
-      "time": "02:31",
-      "title": "뉴욕증시, 미 Fed 금리 동결에 3일째 상승…오라클 10%↑ [뉴욕증시 브리핑]",
+      "time": "10:41",
+      "title": "유럽 정크채권 수익률 21% 돌파…신용시장 충격 확산",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZzU5LTRVLVRycFRLSUd3eE5EUGdRWXFQMUJTaGNWdUFEbzdxU3BCWFdQeFd1VG44c2pyMWU4WTlrWmFwVjhXUW1RVll4dUs5LW1pc25SVmFFZw?oc=5",
-      "relatedNews": [
-        {
-          "title": "뉴욕증시, 미 Fed 금리 동결에 3일째 상승…오라클 10%↑ [뉴욕증시 브리핑]",
-          "date": "2026-10-30",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZzU5LTRVLVRycFRLSUd3eE5EUGdRWXFQMUJTaGNWdUFEbzdxU3BCWFdQeFd1VG44c2pyMWU4WTlrWmFwVjhXUW1RVll4dUs5LW1pc25SVmFFZw?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "美국채금리 급등에도 상승 마감…나스닥 사상 최고치 [뉴욕증시 브리핑]",
-          "date": "2026-10-06",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNWJmNW94YzEtTzIxMEV3cXNSNGVSeS1yc2JlcnlfZ1gtcW9QUmlJZ0FpcTd2RVZlZHNwakttT0hTVjRLSmx6WkhGakN3a2VpZEVfOVBROWIwQQ?oc=5",
-          "score": 0.298
-        }
-      ]
-    },
-    {
-      "time": "02:31",
-      "title": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
-      "source": "KBS 뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbEJSTUtOdzFCakFSOHQ5cGtjZ2ZPNlhiTVE5SHRPT002aWVxR3pPeDc1VzE3VWRvcjJnY2hEWW1pR2VlSVZxZXN3bWdiSzVvYlFsZ0JFYk5XNmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVzV4WVA5cndpcV9yUTh4RjcwYVhkMFB2RXBXd3otTE9Pam9nVmpka1lCRmdaQ0t4eV9iOFZqQmhjQXRpam9feTNnNG5tOTJJaEJ2SHpoV3lmUQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "02:31",
-      "title": "“현금흐름이 깨뜨린 AI 낙관론”...삼성전자·SK하이닉스 동반 급락",
-      "source": "에너지경제신문",
+      "time": "10:41",
+      "title": "美연준 금리 동결…워시 \"'AI 핵심 공급국' 한국 경제 면밀히 주시\"(종합)",
+      "source": "뉴스1",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82aXdMRTQzSzlZSnBlNEk2NHhrdWFMU0xMZkdZeDFqak1USzVydGZFUzExeG56Um5yZS1SclFWd1dSS29iYXpTdGJhT1NDel9lRXZENUlaNnBELUpxc2VmbUZJZHVhQTA?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:41",
+      "title": "미국 연준, 금리 동결하며 '숨 고르기'...케빈 워시 연준 의장 \"한국 경제에 많은 관심\"",
+      "source": "YTN",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51REhoU05kWUpBYjNhdUxxOUxRbnR2N2diTGVkeWxiLUROck81X2Vub01BZ2ZNWldNbV9ETGhTTHNwRkVTcGZnUTBMbnVYMi01ajRCNThWQm1pQWhwdnc?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:41",
+      "title": "'韓 이어 미국도' 기준금리 동결…워시 의장 \"한국 경제 주시\"",
+      "source": "KBC광주방송",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRExlc0FCdFZvN3AxM1c0SC1fMjRrU3U5LVgxRnNvbDhNb0RxbTVsYW51VUtPTzhfbVRnNDV1aG9UUEYxZzZhc3FfcXUwSHlfMXloaXFDSHhwLUdqSkE5dg?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:41",
+      "title": "‘역대급 축제’ 엇갈린 표정…SK하이닉스 웃고 삼성전자 고개 숙이다",
+      "source": "블로터",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV0FkQXhZVkxQVDlpZ1dlNHlQb3hCU2Zmb1FvUGNUT0tNbHNJODd0UllnaEQ4UjRjS0xaTlFpcmc0aFVLRUF5MF9tbkExbGxXbjU4dkpJLVlGeFRmRThrWkM5Wm9SN0Rf0gFsQVVfeXFMTzI3QjVCeUthS01JSEs3eEhTTkQzVjBFYlRINWtRNnltWF8yNHAxQkhtVUYwdDF1OXBPaFZDUjdBNlEzUlNQWEdYQk9tdXNxa1FTRHpZbjd6c2ZZUld5LWhYRWRFeVlJZDMyWDBM?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "10:41",
+      "title": "'인텔 쇼크' 삼성전자 3% 하락…SK하이닉스 1%↓[핫종목]",
+      "source": "뉴스1",
       "tag": "기업",
       "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41SVRkUnpaZDd3MVFEdTRSeEZ6VmRyQlJHLUs3UWRpZk52d3RjM09DRXZOLWZYYklqM19Ub1BrSGxCV1RTTjdyTUNrQi1WVmRCelpzMjdJLTFwSkU?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피 장 초반 4% 급락…미국발 AI 우려에 삼성전자·SK하이닉스 동반 약세",
-          "date": "2026-10-30",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0JTMVlDODBCM0stTjdycFdEOTJ1aU1QMGdEWGF1Ql9XanJTdWVmVmd6UVRZd0xmVW1IaVdxd2p2YTBjeEZ1eUl2UmQyN3loV3F5dmlYZkdPMkx5endzeDVycHBYNUFZd2h3TXpKQkp1akNFVExQNWpTTExYaUJLbzg2NTI2NWpzQ2xJ?oc=5",
-          "score": 0.263
-        }
-      ]
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52b2FheUU1eDk1QkpqRDBpZHQxaGFrUzl1R094MVpIYll3QUxvVExmQjdZMThYNC1wSkh2eXBkN3lOMmxmV0RodDhaNEcyWk9CcGRuX0RhYnZ5NGQxWDZZ?oc=5",
+      "relatedNews": []
     }
   ],
   "aiSummary": null
