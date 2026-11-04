@@ -1,42 +1,49 @@
 {
-  "updatedAt": "2026-11-03 12:34",
-  "date": "2026-11-03",
-  "autoSummary": "2026년 11월 03일 주요 경제 뉴스 10건. 호재 3 · 리스크 2 · 중립 5",
-  "trendNote": "'코스피·코스닥, 내림세로 장 출발' 이슈가 2026-09-15부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-11-04 11:31",
+  "date": "2026-11-04",
+  "autoSummary": "2026년 11월 04일 주요 경제 뉴스 10건. 호재 3 · 리스크 2 · 중립 5",
+  "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-09-17부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "12:34",
-      "title": "코스피·코스닥, 내림세로 장 출발",
+      "time": "11:31",
+      "title": "코스피·코스닥, 오름세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yQ1ZZU3c5azEyWkhnMWptUzF3OUx6U2FaeTE1QUNqVXdXYmtmdlRfa2Z5bVAxaGlETlBHM1lqTlpEMEdSUGt6d2hqLXBxTmtzMWw0WkVBQnU0RHRDcHlmbXlQdExUV25Na2Vz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZWl80VWN0UzBhb2lvTGo4UWpOOWdBamt5eXBZemtQLXRpc3R2a1lsMnA0SndKejFMWmxuZ01objdaMldkdFE1dUJCcDQwcDdtNHFZOGRleHdETnJwTDFlYjg3em9sbFdnVlJF?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-09-15",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1R244bnkxYVU0Q1M0WEdBektzV2NyZ0twektqV2JCTnJyTXRuTmFDS2x1VnlPa055V21LMXZ1UTY5ZURLMXR4RzFsMGZSU2xkbElId1V5bjZVUmNLdjNFb1FzWlUzTnRtZFZz?oc=5",
+          "title": "코스피·코스닥, 오름세로 장 출발",
+          "date": "2026-09-17",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IcUM4VEp5SnRMcVRSN1o4bi1mNkF1YXcya1RVT1VQaWRaX09xN1Y2QmF1ZjZvRkltdF84UGFnTXhNdFJvMV9FSmZFNnhNbElpazRaU2lZdkNnRTBHSlk3QmxvcHhpSVllRkFF?oc=5",
           "score": 1.0
         },
         {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-09-16",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmREpLSy1ZWXB4eXd1SmdEa2ZKMVBlNmZHSUE3alVfV1FVa0I1bmF3RzRhdmNKb2NpQll1cVBLOWhuMldCQnBFd2x5X1lYdkgzZHFQUFl6eXB1TmhlM2ZGOUJQQW53ZktneVkw?oc=5",
+          "title": "코스피·코스닥, 오름세로 장 출발",
+          "date": "2026-09-18",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4waF9OMFJLZmNCQy1tNV9YWUxzRU5UT0tvMFpxajhqWURHcWlJeG1pMXhkeFdVTVlOdTgxVWZCbW1manFaVnpLRkI5VTdFSnJaRFFYUGhEdkgxWW93eG9QMGd2bzdDVUVTeGZj?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "12:34",
+      "time": "11:31",
       "title": "'블랙먼데이' 공포 딛고 코스피·코스닥 상승 마감",
       "source": "프리진경제",
       "tag": "시장",
       "impact": "호재",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUHE2M1Z1aG5qR0lIM0Z1V2JScXNqcFM1ak5SZE9LY1puQXRxUkZYQWZfWU5WVHhyd1NTOXBhbUx3SkpEb0h3bkVNbFBVMXVkdTEwWmY0UWc4ZkFpOUpTaHVxN2FkeWo4YnY5Qw?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "'블랙먼데이' 공포 딛고 코스피·코스닥 상승 마감",
+          "date": "2026-11-03",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUHE2M1Z1aG5qR0lIM0Z1V2JScXNqcFM1ak5SZE9LY1puQXRxUkZYQWZfWU5WVHhyd1NTOXBhbUx3SkpEb0h3bkVNbFBVMXVkdTEwWmY0UWc4ZkFpOUpTaHVxN2FkeWo4YnY5Qw?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "12:34",
+      "time": "11:31",
       "title": "[주식] 코스피·코스닥 나란히 7%대 하락...듀켐바이오 홀로 상한가",
       "source": "히트뉴스",
       "tag": "시장",
@@ -58,101 +65,119 @@
       ]
     },
     {
-      "time": "12:34",
-      "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
-      "source": "YTN",
+      "time": "11:31",
+      "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
+      "source": "주간조선",
       "tag": "시장",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbVhkdi02VUs1Q1F2WlE0X0dBeVhmaGl4aTk4Sm05Y1YxZF9TYVY3dTNSaGtWVFRMR0xSbGR2WVdkZ25VTXAzc2RjZ0l2WEFmSmVQbS05VlZEdGxpQXc?oc=5",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
       "relatedNews": [
         {
-          "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
-          "date": "2026-10-28",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUU1uaUtDZWU3YmhfTGhWVFdKemhCeVpaYnRsbW9vaThWQmg3aDExY05xVG1YMDNFY3NhU3JCVGloaUxraEJZODVNeEtmWDRVTkdCSEc3VEo0YUtha2c?oc=5",
+          "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
+          "date": "2026-09-14",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
           "score": 1.0
         },
         {
-          "title": "'앤트로픽'발 AI 훈풍에...코스피·코스닥 4% 급등",
-          "date": "2026-10-29",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbVhkdi02VUs1Q1F2WlE0X0dBeVhmaGl4aTk4Sm05Y1YxZF9TYVY3dTNSaGtWVFRMR0xSbGR2WVdkZ25VTXAzc2RjZ0l2WEFmSmVQbS05VlZEdGxpQXc?oc=5",
+          "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
+          "date": "2026-09-15",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "12:34",
-      "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
+      "time": "11:31",
+      "title": "같은 고유가, 다른 금리…호주·캐나다 올리고 美·유럽 멈췄다 [김주완의 글로벌머니 X파일]",
+      "source": "한국경제",
+      "tag": "글로벌",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42cngyTTNGblc5Rk1sX0kwME00b2FfRlMtUnVPLU13b1NSMy1wOE9JR0Q4aHNSQnNyM2ZiWW9ranY0dG1hZnNrSE01ckVaU2ZhdEF4aG05UDR2dw?oc=5",
+      "relatedNews": [
+        {
+          "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+          "date": "2026-09-27",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ZlJzRjlHRUp0WWsxc0hMQ1Myd2ZxNS1STDFZekJJNGtabHVpLVE4UTNFQ2xoR3VUTVFFSmUzUldIVHBtUEJ3Z3RxcGdkcmllbE1sRFliZXI1dw?oc=5",
+          "score": 0.29
+        },
+        {
+          "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+          "date": "2026-09-28",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ZlJzRjlHRUp0WWsxc0hMQ1Myd2ZxNS1STDFZekJJNGtabHVpLVE4UTNFQ2xoR3VUTVFFSmUzUldIVHBtUEJ3Z3RxcGdkcmllbE1sRFliZXI1dw?oc=5",
+          "score": 0.29
+        }
+      ]
+    },
+    {
+      "time": "11:31",
+      "title": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
+      "source": "OBC 뉴스",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
+      "relatedNews": [
+        {
+          "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
+          "date": "2026-10-31",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
+          "score": 0.26
+        },
+        {
+          "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
+          "date": "2026-11-01",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
+          "score": 0.26
+        }
+      ]
+    },
+    {
+      "time": "11:31",
+      "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치",
       "source": "한국경제",
       "tag": "정책",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DTDluaDVPR0trQ1YyU21HQmNQeE03SjBwXzNsdjRkZUYyMmMwZ0s2a2ZrTEs1WG9wcVZORlZFb2ZTRllUOFlYYjhsX0VIVzhaVWRnb3N0NFZMZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "12:34",
-      "title": "[美중간선거 D-2] AI 투자·금리에 韓 경제 촉각…관세 부담은 여전",
-      "source": "뉴스1",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5Z3pOVzh6WkFxd3g1VWQxd0NPYXJ2ckQtdHpwbW5Rd0oxY1FycnVpTVlMUUJVT09RQnk5WDcwMDkwcW5vbnFQOFNLS3ZnT1JUOHJERw?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "12:34",
-      "title": "미 중간선거, 한국 경제·환율·채권엔 어떤 영향 미칠까",
-      "source": "이투데이",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VdTEtcU84YVpCOW1sazMxQl9RWFc5N3hlbHpMZ05ucUpBZXlUSTloRC1qLUI4VjZuUHdHRWVCU210eDdESERVNXlfeTk3VDhEeTFFcC03TjVmWkw4U3hUQTlOQ2x0WEFkM1dQekFB?oc=5",
-      "relatedNews": [
-        {
-          "title": "미국 중간선거와 한국 경제",
-          "date": "2026-10-16",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MYlhXallPRnNnd1Q3cDJfUnNZcl8yeVNsbm85Wm1jdjc1RXlzZDcxWWpOOHlqc0llS3FiYXdyTDR6NzBwTVJhOWNJTkNzVmpETlhiQ2VCZmhGZGxRSW54Wm5fUWh3Zw?oc=5",
-          "score": 0.312
-        }
-      ]
-    },
-    {
-      "time": "12:34",
-      "title": "금리 7% 눈앞인데…한 달 새 대출 2조8000억원 늘었다",
+      "time": "11:31",
+      "title": "'NIM'의 배신…금리 올라도 울상인 은행들",
       "source": "한국경제",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZ3VhWE9MSUhUYklQYW02a0VJSEhMUVNXaHdiQmVZaHFHSmMtNUVUSGwzU1VETE10SXF0YXNyLWh1c1VoSGpQS1hZbUFyYS1hbmhvdEZHTjJDQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oeVpoU2czcWVQemxlRE9UYmxKU1dlYjNLbEs1bE1TUW5sN0dOS0JKUXVmYzU3V0p0SG54NllsZW1GWFd4X3h4Z2ZiMDNneV9JWE5VLU53QVVmUQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "12:34",
-      "title": "‘역대급 축제’ 엇갈린 표정…SK하이닉스 웃고 삼성전자 고개 숙이다",
-      "source": "블로터",
+      "time": "11:31",
+      "title": "'AI 수익성 우려' 재확산…삼성전자·SK하이닉스 프리마켓서 3%대↓",
+      "source": "뉴스1",
       "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV0FkQXhZVkxQVDlpZ1dlNHlQb3hCU2Zmb1FvUGNUT0tNbHNJODd0UllnaEQ4UjRjS0xaTlFpcmc0aFVLRUF5MF9tbkExbGxXbjU4dkpJLVlGeFRmRThrWkM5Wm9SN0Rf0gFsQVVfeXFMTzI3QjVCeUthS01JSEs3eEhTTkQzVjBFYlRINWtRNnltWF8yNHAxQkhtVUYwdDF1OXBPaFZDUjdBNlEzUlNQWEdYQk9tdXNxa1FTRHpZbjd6c2ZZUld5LWhYRWRFeVlJZDMyWDBM?oc=5",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZDdyenY0aXFPQS16d3VZMFd5bVc5MExMS3RQeUxEZUdEVjVZaDlrYUVxSGtJTl93UzlBcmlfdnY0aEJ4eThXLVZqMGdLLWJQU29qQ3NqTXdod3M?oc=5",
       "relatedNews": [
         {
-          "title": "‘역대급 축제’ 엇갈린 표정…SK하이닉스 웃고 삼성전자 고개 숙이다",
-          "date": "2026-11-02",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV0FkQXhZVkxQVDlpZ1dlNHlQb3hCU2Zmb1FvUGNUT0tNbHNJODd0UllnaEQ4UjRjS0xaTlFpcmc0aFVLRUF5MF9tbkExbGxXbjU4dkpJLVlGeFRmRThrWkM5Wm9SN0Rf0gFsQVVfeXFMTzI3QjVCeUthS01JSEs3eEhTTkQzVjBFYlRINWtRNnltWF8yNHAxQkhtVUYwdDF1OXBPaFZDUjdBNlEzUlNQWEdYQk9tdXNxa1FTRHpZbjd6c2ZZUld5LWhYRWRFeVlJZDMyWDBM?oc=5",
-          "score": 1.0
+          "title": "SK하이닉스 주가 장중 4%대 내려, 'AI 수익성 우려'에 삼성전자도 3%대 하락",
+          "date": "2026-11-03",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5acldkb0NfQmJlc0lLYkc1VDhtT0l4bWZEMG5kcEJRei13T1B2RkxqNGhIMm8xV0E2TlgzOGJNTmpSQm9pZHExenBfeHQ5Q2tlQlFGRnVTZXJiS1NYQzZqbTJWM24zNkZiUVF4V3lPX0NPRUE?oc=5",
+          "score": 0.407
+        },
+        {
+          "title": "삼성전자, 프리마켓서 강보합…SK하이닉스 1%↑",
+          "date": "2026-10-26",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2dUY4UGE3RFMtZms5RDdHMi1wb3ZPRW14d0xKM0lOUllQUUY0SzBHc1VpMlF3VnBiUVFsNUpQbTlBNWExUVJmZE42NngxbEhDNXRHR3RmaWxPWkV2dHd4LdIBeEFVX3lxTE5GQ2c3RnF4SW15Z1NwUE1NUTZUckZkdFNpV1dlX2V1WnFQSHNjSUliaGs0YThZQ3psMTVGajFYV0ZXSjlaRDVRbnBKcFM4eTE5ay0wcDhsQ1NXM0lKQjdUZ0x6eFQwNXJmZ2xsdjd4Y1d1QzlFdWxwaw?oc=5",
+          "score": 0.342
         }
       ]
     },
     {
-      "time": "12:34",
-      "title": "SK하이닉스 주가 장중 4%대 내려, 'AI 수익성 우려'에 삼성전자도 3%대 하락",
-      "source": "비즈니스포스트",
+      "time": "11:31",
+      "title": "\"삼성전자 19만원·SK하닉 90만원이 바닥\"...'손절' 말라는 전문가, \"이때 더 사라\"",
+      "source": "파이낸셜뉴스",
       "tag": "기업",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5acldkb0NfQmJlc0lLYkc1VDhtT0l4bWZEMG5kcEJRei13T1B2RkxqNGhIMm8xV0E2TlgzOGJNTmpSQm9pZHExenBfeHQ5Q2tlQlFGRnVTZXJiS1NYQzZqbTJWM24zNkZiUVF4V3lPX0NPRUE?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피·코스닥 7%대 동반 폭락‥AI 수익성 우려",
-          "date": "2026-10-16",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUGczZHpvZ2NSVThTbWtuTzh5bmtsY25oWmIybzRqcVBYTXpnYW1YcVpUT1RyUkJWeFl4MjJMdU9qSXIzUnBvbHlkQ3hKcUZYVHdaT2FEeDAxQVpjRXNWU1YzM3liLTdBZ2Nia2hZY0ZMX1RwZ0R5T0R30gF6QVVfeXFMTWdKS3ZyQ21DdE5KUXVFMWNsbFdPQzJGV29jRTlWS3VqdTF0YkZLMmc0WEVraC1yOUJsS3hTSlgzQmE0QXJzVmx6R08tNU1TRzJ6R0g4Nk5wWksya1YxcTR1SGhtUXc5bVdUMHlSYS0xN1NramxldXFBa0E?oc=5",
-          "score": 0.275
-        }
-      ]
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JV3c4MGpycjNwNDlKZ3lUcERQeThRQ0VfQnk1aklYcC1fZkZFX2NObC1vZlA0S2c5dm5heUhNVGp4YzBIbHN2TzVPekxEek9SQy1YVDZwamY2Zw?oc=5",
+      "relatedNews": []
     }
   ],
   "aiSummary": null
