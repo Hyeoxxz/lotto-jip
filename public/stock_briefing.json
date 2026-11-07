@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-06 11:42",
-  "date": "2026-11-06",
-  "autoSummary": "2026년 11월 06일 주요 경제 뉴스 10건. 호재 0 · 리스크 3 · 중립 7",
-  "trendNote": "'코스피·코스닥, 내림세로 장 출발' 이슈가 2026-09-16부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-11-07 11:09",
+  "date": "2026-11-07",
+  "autoSummary": "2026년 11월 07일 주요 경제 뉴스 10건. 호재 0 · 리스크 2 · 중립 8",
+  "trendNote": "'코스피·코스닥, 내림세로 장 마감' 이슈가 2026-10-09부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "11:42",
-      "title": "코스피·코스닥, 내림세로 장 출발",
+      "time": "11:09",
+      "title": "코스피 -6%대·코스닥 -5%대↓",
+      "source": "KB Think",
+      "tag": "시장",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qZ1RnU0xPOW5rdGhyc0Y3dDlVdU5sQ3VkZmlHa09GY0oybmZ6by1JbU9xSjFOZXpDY3FqazRFT1o5a0xJSFhQZTFyeU9OOUt1cGN2eW0yNTZ5eGNWdDRvcEUzd0tWeVVxdVB4ag?oc=5",
+      "relatedNews": []
+    },
+    {
+      "time": "11:09",
+      "title": "코스피·코스닥, 내림세로 장 마감",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12VmNRN2RYWFNKNUpNV1VxaVN2bDM5cTd6aGd6bk13RFJ0WWFZOXdsUlVtTXFCX2xkb3dfYWFhU1MxS0JDY1FicTVMZk1razdpWDExU2xLRURtTUR4TndfM2oyMmRPR19CYThv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PQXphMS1xSlVabFpmSThUNXZtYllWZWxDVjF1UDJUUVZBU2RjNGt2TWFCY0liQy1uTjFVQWRWYnNOTm5yd0VyZFc1dEhOcDVHNVJBejRGZnQ0dW9TeVdFRWpuT09RTVVfWXVz?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-09-16",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmREpLSy1ZWXB4eXd1SmdEa2ZKMVBlNmZHSUE3alVfV1FVa0I1bmF3RzRhdmNKb2NpQll1cVBLOWhuMldCQnBFd2x5X1lYdkgzZHFQUFl6eXB1TmhlM2ZGOUJQQW53ZktneVkw?oc=5",
+          "title": "코스피·코스닥, 내림세로 장 마감",
+          "date": "2026-10-09",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ZDZNdXR1TEUwVzk0QmR2UmVUOXlaVmhkX1lZUmFzTWNQZjRvLU14dU1tcWtyLTk4ci02S1pMRmRLMFJGWFcycnpIZTNhRmxxUFRJS2ctY3VjTHFJMFJQVS1OZFlqaURXcUQ4?oc=5",
           "score": 1.0
         },
         {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-09-29",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mV1hCNzJIcXFTWlh4clA5aXlHeFJ4SDVsbnhuX2loSmlLZm16Qlg5ekNGd0FWWTVkWlVITUdOZm5ueDNVZnJQckZsRUh2SjFVOUZfZWszR1FfdGpxdlloanVId2YtNUlpWURZ?oc=5",
+          "title": "코스피·코스닥, 내림세로 장 마감",
+          "date": "2026-10-10",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ZDZNdXR1TEUwVzk0QmR2UmVUOXlaVmhkX1lZUmFzTWNQZjRvLU14dU1tcWtyLTk4ci02S1pMRmRLMFJGWFcycnpIZTNhRmxxUFRJS2ctY3VjTHFJMFJQVS1OZFlqaURXcUQ4?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "11:42",
-      "title": "미국 중간선거 '블루웨이브' 쇼크에 급락한 코스피·코스닥, 삼상전자·하이닉스 주가 전망은? 📊",
-      "source": "뉴닉",
-      "tag": "글로벌",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSLVVaRktuc0VDYUpBaElQNUVXZ3RMeFVMLUF2dHI5WjhFR3pyeXAxZWg1MmdXZGRpNFpkQVpBZXBNQ1JwSjA3VGxiNFpTaWg4REVv?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "11:42",
+      "time": "11:09",
       "title": "반도체 투매에 국내 증시 '패닉'…코스피·코스닥 동반 매도 사이드카",
       "source": "산경투데이",
       "tag": "시장",
@@ -44,57 +44,64 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVzlXT2ZzYTFLcG9ITE9KSDlNS0tuVXNYU2lVRjNIeUtQYmNHQ2VXcF8zS3c4N3VPTHJHV0xlczhja2lhQ3JIdmk1ME1ESzZUWUlOM3I5OUZlRU50YUJHcTBQSUtmb0RaemlfUjAzRnTSAXRBVV95cUxNQnBLY1lDdmJzMnNUQjRCWWtxRFczVzlGeEVuLWRoUFZfaW8yc0VCcXpRRy1WYnFmRWhxMWdueU0wNk5Cc210LUd5QnI4LVV1dGVfODFEd21vWG5LYkZHTEhzRlFQQ2dIc0VfS0J6RUJHaGg5eQ?oc=5",
       "relatedNews": [
         {
-          "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
-          "date": "2026-10-17",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
-          "score": 0.299
+          "title": "반도체 투매에 국내 증시 '패닉'…코스피·코스닥 동반 매도 사이드카",
+          "date": "2026-11-06",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVzlXT2ZzYTFLcG9ITE9KSDlNS0tuVXNYU2lVRjNIeUtQYmNHQ2VXcF8zS3c4N3VPTHJHV0xlczhja2lhQ3JIdmk1ME1ESzZUWUlOM3I5OUZlRU50YUJHcTBQSUtmb0RaemlfUjAzRnTSAXRBVV95cUxNQnBLY1lDdmJzMnNUQjRCWWtxRFczVzlGeEVuLWRoUFZfaW8yc0VCcXpRRy1WYnFmRWhxMWdueU0wNk5Cc210LUd5QnI4LVV1dGVfODFEd21vWG5LYkZHTEhzRlFQQ2dIc0VfS0J6RUJHaGg5eQ?oc=5",
+          "score": 1.0
         },
         {
           "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VXBBaEg0Z2p2Y25WRFNQamQ2OU9wS2UxZWV1eE5pYWliYW5jLTlSRDJfaml2U09Cc3dSTjVjYVE4TWRNOUVkSEIxbDh6RXd4clBFZ3JVWk9QZ3PSAWBBVV95cUxNdC1admNzNUQ5eDcxeF9WVHVGV2ZHSmFJeDVnV3loUjNIVGcxZ0V1YUZremtaTEZMTFk1SS1uSV9QQXJ0RVdUaFc4UlJDbnpSU2lpckZsSzhMaHRyWGRUc3k?oc=5",
-          "score": 0.299
+          "score": 0.298
         }
       ]
     },
     {
-      "time": "11:42",
-      "title": "‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓",
-      "source": "한겨레",
+      "time": "11:09",
+      "title": "하락 출발하는 코스피 - 코스닥",
+      "source": "뉴스핌",
       "tag": "시장",
       "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2QmdsLUhfcGVqeWw5ejBIRFVGemxETG1ud0N1SjRtMTdIeDhvSnNINjh2ank0dGVXeHJxaHpoVFduVERybHdFWXZ4RjZwdjVTZTRRcVR0TEkzTFZ6MF9mRlJwOHNuTTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uYXp4T3dCTjBtdmNiTEw3dl9LV0Zlb3NjTGg4MmRnbGxaZE41djVpdnk4ZmlaZFpHVHcxTzh3bWl0c3JWLTNsUXdQTjNkaXlkV1ZBdVVQYXltdFFS?oc=5",
       "relatedNews": []
     },
     {
-      "time": "11:42",
-      "title": "금리 오르면 집값 폭락?…절반만 맞다 [심형석의 부동산정석]",
+      "time": "11:09",
+      "title": "[책마을] 투자 고수는 달러와 금리를 본다",
       "source": "한국경제",
-      "tag": "정책",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WkplYlNlMmlJQmQwRVp6TkVSY2JVbEtseDJELVBYaWpqVkdhZTgwd3lHOVc5ZVU3QTBkRk9DOXNZWWYzVzhQbHVWSkhSNzFUbW5DYkR4dDkydw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZWM5eVVDX09VcFFkQzdFQlFya3FLTjEtcW92TEMxOVJkZEZzdFA3X2Z1UnZIOS1FZEJKZ1BxbkxicEs3MDl0cDFscmNXa0hKdEo3WUNWaVY5QQ?oc=5",
       "relatedNews": []
     },
     {
-      "time": "11:42",
+      "time": "11:09",
       "title": "미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험”",
       "source": "경향신문",
       "tag": "글로벌",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDBiNjVsdVBuS19HM2lnSGJQdDJoTS04QzNCQ2poRWF5aDFXS1g0Q0w1SkxyNWE4Vnh1N29IZGFlUks0SHpES0VfRmVXWFEzMVpBcHR3UWtKd9IBX0FVX3lxTE9rWl94eGg2QXFENTdKYjU3Y3RGZEJPczY0cDEyZXlMVE82ZmJTVHl2dExhODh2WXhFUWh4MVMtdlRjZnphSnQ3aU1zbWYxYVhxdG9OOHBFblZsVktDVTFv?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험”",
+          "date": "2026-11-06",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDBiNjVsdVBuS19HM2lnSGJQdDJoTS04QzNCQ2poRWF5aDFXS1g0Q0w1SkxyNWE4Vnh1N29IZGFlUks0SHpES0VfRmVXWFEzMVpBcHR3UWtKd9IBX0FVX3lxTE9rWl94eGg2QXFENTdKYjU3Y3RGZEJPczY0cDEyZXlMVE82ZmJTVHl2dExhODh2WXhFUWh4MVMtdlRjZnphSnQ3aU1zbWYxYVhxdG9OOHBFblZsVktDVTFv?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "11:42",
-      "title": "한달만에 1.1조 몰린 이 예금, 금리도 올랐다",
+      "time": "11:09",
+      "title": "\"이례적으로 강한 고용\"…미국 금리인상 확률 '매우 높음'",
       "source": "한국경제",
-      "tag": "정책",
+      "tag": "글로벌",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JSUcxNnRHNGxtWWY5akRCSlFXRVdmWGxvZV9STU9PV1JnbXQ5TzNjQzZ4akIwQ3JVdVFGYWVPZTNVTDRYTkpMbUhFYnNjNVNTbWVzWjB3aWtFQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Id3ByeDlINEpXcHB6M1JWZnFwdENFc29US19wMXhKN29KNm9TVEI3YXUtNFRNWG5iN21TRGRmZG1zU0E3aXFuNTVSQ1pfMXpGYnpWMGJaM0twdw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "11:42",
+      "time": "11:09",
       "title": "금리 동결, 한국 경제에 숨통 트일까? 전문가들의 11월 전망은",
       "source": "공감신문",
       "tag": "정책",
@@ -116,21 +123,28 @@
       ]
     },
     {
-      "time": "11:42",
-      "title": "삼성전자·SK하이닉스 주가 '미국 중간선거 후폭풍'에 변동성 커져, '미국 이란 종전 기대감' 수급 청신호 되나",
-      "source": "비즈니스포스트",
-      "tag": "글로벌",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pLWtaNktPZ2dvbmU5VWRaaFI3X1NhVEF2UlpPNzRqYlZqeTdMWXlmY3BNWjhFYjBYZ084emthUVZfLWZIOGFHcU9XQWpWQU1DYW1RSVFCWDVlRmdFaExzRDNmUjgxcVFvMDVtX0lNbWhYemM?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "11:42",
+      "time": "11:09",
       "title": "DDR5 현물가격 '1% 하락', 또 'AI 고점론'…삼성·SK하이닉스 수요 위축되나",
       "source": "뉴스핌",
       "tag": "기업",
       "impact": "리스크",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oR1dEVF9zbkk2d1BlUFV3RG85aU1GcDRpNmRDeVJvcDZrVGNKX2dpOVJ6alhEc3JxT19WM1U3N05INmJwRUM1WXZUemhGRU50eHJuV1FFTXZpYVBR?oc=5",
+      "relatedNews": [
+        {
+          "title": "DDR5 현물가격 '1% 하락', 또 'AI 고점론'…삼성·SK하이닉스 수요 위축되나",
+          "date": "2026-11-06",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oR1dEVF9zbkk2d1BlUFV3RG85aU1GcDRpNmRDeVJvcDZrVGNKX2dpOVJ6alhEc3JxT19WM1U3N05INmJwRUM1WXZUemhGRU50eHJuV1FFTXZpYVBR?oc=5",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "time": "11:09",
+      "title": "SK하이닉스, '턱밑 추격' 마이크론 따돌렸다...1위 삼성전자",
+      "source": "이코노미스트",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92UkZ6cmRhN2hBZ0dTV1hCSW9ZaXpsdmhkejhRaWdUeC1iSmRnTnBxUXBMUm5PeVoxWXprNU5DUW1jejhyV2IyVjE3bmRVQW9qYlFJa2NJUk1iTk1UVTRjQjJn?oc=5",
       "relatedNews": []
     }
   ],
