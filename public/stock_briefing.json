@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-11-18 12:46",
-  "date": "2026-11-18",
-  "autoSummary": "2026년 11월 18일 주요 경제 뉴스 10건. 호재 4 · 리스크 2 · 중립 4",
+  "updatedAt": "2026-11-19 12:44",
+  "date": "2026-11-19",
+  "autoSummary": "2026년 11월 19일 주요 경제 뉴스 10건. 호재 4 · 리스크 0 · 중립 6",
   "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-09-30부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "12:46",
+      "time": "12:44",
+      "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
+      "source": "연합뉴스",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52X01vcmE3X1k0S2gzbGZYYUMtcEJoOXhFM3ljRkQwVExlbEhiMl9YWGQyMkY4WE9nNERNQU93dktzX1RvVzFRWmFUaEVUOHJuY2k1V2o0UVoya1HSAWBBVV95cUxPVGNOWWl0WFhmdUdZU0JNbVRiQnFaLW9CMXhZakxNSlpyeTE3OVdaYmNlRzA1ODdiVkJPYWI1cVVjVmlmS0taV3BUTHp4XzFTV3R2dzlOSEo0U3gtY3VzNXA?oc=5",
+      "relatedNews": [
+        {
+          "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
+          "date": "2026-11-11",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ZC1iQTJnNkhpcVQwSGNxc0MySEVEXzJ0UHpIV1BqZW9yV3R6MWk3NDdLNzJSaXJ3Q2NqLUl6Z1VQVDBTVTdGWU1LQ1RfbHJseHBaRjRtNjRxZUEtdWEtetIBYEFVX3lxTE12ZC1iQTJnNkhpcVQwSGNxc0MySEVEXzJ0UHpIV1BqZW9yV3R6MWk3NDdLNzJSaXJ3Q2NqLUl6Z1VQVDBTVTdGWU1LQ1RfbHJseHBaRjRtNjRxZUEtdWEteg?oc=5",
+          "score": 0.676
+        },
+        {
+          "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
+          "date": "2026-11-14",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ZC1iQTJnNkhpcVQwSGNxc0MySEVEXzJ0UHpIV1BqZW9yV3R6MWk3NDdLNzJSaXJ3Q2NqLUl6Z1VQVDBTVTdGWU1LQ1RfbHJseHBaRjRtNjRxZUEtdWEtetIBYEFVX3lxTE12ZC1iQTJnNkhpcVQwSGNxc0MySEVEXzJ0UHpIV1BqZW9yV3R6MWk3NDdLNzJSaXJ3Q2NqLUl6Z1VQVDBTVTdGWU1LQ1RfbHJseHBaRjRtNjRxZUEtdWEteg?oc=5",
+          "score": 0.676
+        }
+      ]
+    },
+    {
+      "time": "12:44",
       "title": "코스피·코스닥, 오름세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5cWhUQktwXzRZWHVFM1pIeHg4ZFBIdEVHQk84OHI5UzdvOTQ0N3ZzVU44aW0wWDNtakVCUnFGa1A1SlhZang0YmRud1k2RXpwalZMaUdZQlBwbGZZOVlEOXBpSXhGVHVzSnlF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiMnBjdXNPSmRKZ2F5VjB4cHV6eENwSmJOQXhWZDk5VXZTU296dGpmYXRDLVVaVktzdmJZM0hvTE85SnczNlRaN20wNUZxMGpJbUplZE5zenpsaWh4ZVRwOUdSRDAwSnBUbTFN?oc=5",
       "relatedNews": [
         {
           "title": "코스피·코스닥, 오름세로 장 출발",
@@ -27,96 +49,75 @@
       ]
     },
     {
-      "time": "12:46",
-      "title": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+]",
-      "source": "한국경제",
+      "time": "12:44",
+      "title": "[한국증시] 코스피·코스닥 수능일 주식 거래시간 변경된다…일정은?",
+      "source": "CBC뉴스",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYTU0T2k3MmVmcVZEd1c2TVJSWWJRMi1kdU1XMmlyaVk2OV9LaFYtVzU2X3VOMnpFSEVWM1E2S1p2ZDMtdlAxZGxCMHJXRm5vLXNQdW00NV9wN2MteXJCZ0Voc0x6Q3hi?oc=5",
       "relatedNews": []
     },
     {
-      "time": "12:46",
-      "title": "코스피 장중 3%대 급락…외국인 매도에 반도체주 동반 하락",
-      "source": "산경투데이",
+      "time": "12:44",
+      "title": "수능일 주식시장 늦게 열린다…코스피·코스닥 거래시간 조정 > 뉴스",
+      "source": "지데일리",
       "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zTGtNNDJCLUI4YTVwSThhMUoxVlkyeVVMQktOU1FaRGRLZGpTUFhpY2N3azJlQXVtV3o2RXM2ZzdFMjh4V09EMmR6My0ycUMwVFh2TGl1dWhNOWVYOXpZVDNuNDctTXdwY080aTRHeDjSAXRBVV95cUxNTVVNWUtlaTJRaFlfUzM1dkpfS2owdmRnODVEU0ZIbFh0UVBnekgtb2dUV0x6SC1qbEp4SDQ4emtOT3hBWFpybHdqc1d5ZExSYzIta3RwUFNwSFU3cERzdktUWWNrekVXbFRiUk5IdlNxNFRJMw?oc=5",
-      "relatedNews": [
-        {
-          "title": "코스피 장중 3%대 급락…외국인 매도에 반도체주 동반 하락",
-          "date": "2026-11-17",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zTGtNNDJCLUI4YTVwSThhMUoxVlkyeVVMQktOU1FaRGRLZGpTUFhpY2N3azJlQXVtV3o2RXM2ZzdFMjh4V09EMmR6My0ycUMwVFh2TGl1dWhNOWVYOXpZVDNuNDctTXdwY080aTRHeDjSAXRBVV95cUxNTVVNWUtlaTJRaFlfUzM1dkpfS2owdmRnODVEU0ZIbFh0UVBnekgtb2dUV0x6SC1qbEp4SDQ4emtOT3hBWFpybHdqc1d5ZExSYzIta3RwUFNwSFU3cERzdktUWWNrekVXbFRiUk5IdlNxNFRJMw?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[마감시황] 코스피·코스닥 3%대 동반 하락…외국인 매도에 약세",
-          "date": "2026-10-25",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUjlPTTRxWFE4LURod3EtWDFIWC1vNWhMTHBzX2FwRmdWc2p2dTM1N0VPZkpaRzA3NmdOQ29wdTZ6VUhXdDE4S0ozSGtDUG1qUEkyaDZYbm1ERnBP?oc=5",
-          "score": 0.548
-        }
-      ]
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5UXhxd01iZnBPUHVvWGhNLTRzOGtJeHphSTFwaGw1OUtZbWVKZ2h0dVRpSnVkWHRyb1ZLTU4tMlZsdlI3TzdOUktLV1ZXUkRPRVVCcjN3dmtYbGpDeDd5akc1c18wMXkzQjhJWA?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "12:46",
-      "title": "외국인·기관 '쌍끌이' 매도 폭탄…코스피·코스닥 급락",
-      "source": "프리진경제",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wU21TV3BwN21aWDZ6aVd2a1daSVhBZC00c0NzbmFxQnJBUjQ2U0tNdE8xQTlfbFNOQlJPOGhKOWhzNGxrNzlEZ0dzUkVBa3NkVHgwaFMtQXNpcmhyWjhXaUVick9EOEhvN3RJdg?oc=5",
-      "relatedNews": [
-        {
-          "title": "외국인·기관 '쌍끌이' 매도 폭탄…코스피·코스닥 급락",
-          "date": "2026-11-17",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wU21TV3BwN21aWDZ6aVd2a1daSVhBZC00c0NzbmFxQnJBUjQ2U0tNdE8xQTlfbFNOQlJPOGhKOWhzNGxrNzlEZ0dzUkVBa3NkVHgwaFMtQXNpcmhyWjhXaUVick9EOEhvN3RJdg?oc=5",
-          "score": 1.0
-        },
-        {
-          "title": "[마감시황] 외국인·기관 매수에 코스피·코스닥 동반 상승…5200선 탈환",
-          "date": "2026-11-14",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hakJ0bGhBMmNsWlR0elFKeW8xdFJITFlCZU5tM2N1bTdSb0ZHSWwyWHJ5RFZ0a0FaOHNWTkRacThQMTN6QVhsMUs3eENkeDFkR1hueWk0NUtSaTJa?oc=5",
-          "score": 0.29
-        }
-      ]
+      "time": "12:44",
+      "title": "“한국 경제 3.9% 성장한다는데”…금리는 더 오를 수 있다는 경고",
+      "source": "동아일보",
+      "tag": "정책",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZ0hUSk1DeU5VM1RQc1UzdnBuYzFuRC1rNkFyM0tPcE4xZzFubjEtNVN5enFHQUpadUtDMjduMjBicEYyN201VnFwZDBfN1RJaUI5YnJCM0xOdFA3WHNhcXhhMFNYSmpUZ2hoQXhiM21rUnhZekHSAWZBVV95cUxQbV8wbHVoaUNCdlFxemJHWkk4V01KWlRhREVOM3NLWXM3OER1OW5KZzRQNm95dnZTQ3dIbkRGU09qaEpzM2pXU1YtTGNDWGswZlF4LVNTXzJZeHdPOXRtQUhJZ0xKTUE?oc=5",
+      "relatedNews": []
     },
     {
-      "time": "12:46",
+      "time": "12:44",
       "title": "금값 1년 만에 최저…美 국채금리·달러 강세 직격",
       "source": "한국경제",
       "tag": "글로벌",
       "impact": "호재",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rd056clhrVXI0TXg1bzI3clRYeWlTeWpqd29neXo1cmlEMGhCMWVLY0lqUVc2X05xeHE5WnhlRjZid19uZ3hIMEFMcldjbVRoc1Q5ZG1NRm9yUQ?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "금값 1년 만에 최저…美 국채금리·달러 강세 직격",
+          "date": "2026-11-18",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rd056clhrVXI0TXg1bzI3clRYeWlTeWpqd29neXo1cmlEMGhCMWVLY0lqUVc2X05xeHE5WnhlRjZid19uZ3hIMEFMcldjbVRoc1Q5ZG1NRm9yUQ?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "12:46",
-      "title": "경제지표 좋아지는데 살림살이는 왜… 성장률 3.9%의 역설",
-      "source": "더스쿠프",
-      "tag": "경제",
-      "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kcEluOGxqaGlJYTFHVlM3VDVYSmVDWVJKYU5yOC14eTRYSGFiZFI1d0F0SE4zVDU4M0k4dnJiZGktQVFRZDczajZpaFBzX2dfaG50QVplZjl3MXNNMklIWWtIS2RnbFllNVRCc2xn?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "12:46",
+      "time": "12:44",
       "title": "[데일리 경제 분석] (11월 17일) 성장률 3.9%의 빛, 금리와 반도체 변동성이 한국 경제의 다음 문을 두드린다",
       "source": "미디어피아",
       "tag": "정책",
       "impact": "호재",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rVHEtWU45cHFOazVPU2ZRUXdJZHhTSWxmb3hJelJlXzBidTIzMFlVWWdUS1JESzdCRUFYbi1jR2JMQlZFQnVtVEFSUGhaSk9teGVLLWhxaDJOaFBWalNsMGtGRkRWUTRxZzk0YWVn?oc=5",
-      "relatedNews": []
+      "relatedNews": [
+        {
+          "title": "[데일리 경제 분석] (11월 17일) 성장률 3.9%의 빛, 금리와 반도체 변동성이 한국 경제의 다음 문을 두드린다",
+          "date": "2026-11-18",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rVHEtWU45cHFOazVPU2ZRUXdJZHhTSWxmb3hJelJlXzBidTIzMFlVWWdUS1JESzdCRUFYbi1jR2JMQlZFQnVtVEFSUGhaSk9teGVLLWhxaDJOaFBWalNsMGtGRkRWUTRxZzk0YWVn?oc=5",
+          "score": 1.0
+        }
+      ]
     },
     {
-      "time": "12:46",
-      "title": "[이슈앤피플] 한국 성장률 3.9% 전망…한미 금리 향방은?",
-      "source": "매일경제 마켓",
+      "time": "12:44",
+      "title": "[유병규 칼럼] K자형 성장구조 속 금리인상의 명암",
+      "source": "https://technovalue.com/",
       "tag": "정책",
       "impact": "호재",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTVUZDNGZtTzExcUpHSVhyUnFRakVMbDNLNEg1M1M1T0JZUlJZS3dzTEFVVkx5akxqVFA4bjhGT3FLZE9hRGNJMGg3UnNFZmY0b1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IQllEbzNSdXplRXc2NHp2bW14eXJFaG9PdURXTEI2VFNrc0JFMXZ1a0cwUTNkMTljdG9ZMHlrYjc0amNSNDBEOWxQWVVyam5lcWs5bDQ4cw?oc=5",
       "relatedNews": []
     },
     {
-      "time": "12:46",
+      "time": "12:44",
       "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
       "source": "뉴스핌",
       "tag": "글로벌",
@@ -124,21 +125,34 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMnM0T212RDEzTWs4dzhCUHNEWkVXc0xUVHYyT1hTOVEwYkFxVHEyQ3JlelpTbmJZYnRZSDNldWZOOXFlRXlSNFlSNzBOc1gxWUgtaHJyWFFpUkpS?oc=5",
       "relatedNews": [
         {
+          "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
+          "date": "2026-11-18",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMnM0T212RDEzTWs4dzhCUHNEWkVXc0xUVHYyT1hTOVEwYkFxVHEyQ3JlelpTbmJZYnRZSDNldWZOOXFlRXlSNFlSNzBOc1gxWUgtaHJyWFFpUkpS?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "美법원, D램 담합 정황 인정…삼성·SK하이닉스 'HBM 생산' 차질 빚나",
           "date": "2026-11-16",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMnM0T212RDEzTWs4dzhCUHNEWkVXc0xUVHYyT1hTOVEwYkFxVHEyQ3JlelpTbmJZYnRZSDNldWZOOXFlRXlSNFlSNzBOc1gxWUgtaHJyWFFpUkpS?oc=5",
-          "score": 0.63
+          "score": 0.628
         }
       ]
     },
     {
-      "time": "12:46",
-      "title": "美 법원, 삼성·SK하이닉스·마이크론 DRAM 담합소송 각하 기각",
-      "source": "연합인포맥스",
-      "tag": "글로벌",
+      "time": "12:44",
+      "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원",
+      "source": "지디넷코리아",
+      "tag": "기업",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcFVuRDFpbFRtd3lTMnpZOUJsSEhzTTNrQTJENC1OQkFxUFBOM0tvbkNjd1JFSy00ekRvUEgzWDI3UVlCb3Z2Q3dqR0ZDdXdhQVJQNTh0eU1BbnRoakRHLVFCMHd2MVI3aDkzcEtfMmU?oc=5",
-      "relatedNews": []
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeVRwVk5USmt6MzRUSU16LXpVXzA3cW4wUDlRTEJzR1c5NEVIYmQ5WW96VnhBdHBPMGNOejNOR1F2NmtwOTZidUJSMlVwelk4ZndXNWxR?oc=5",
+      "relatedNews": [
+        {
+          "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원",
+          "date": "2026-11-17",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeVRwVk5USmt6MzRUSU16LXpVXzA3cW4wUDlRTEJzR1c5NEVIYmQ5WW96VnhBdHBPMGNOejNOR1F2NmtwOTZidUJSMlVwelk4ZndXNWxR?oc=5",
+          "score": 1.0
+        }
+      ]
     }
   ],
   "aiSummary": null
