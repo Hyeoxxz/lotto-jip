@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-11-25 13:58",
-  "date": "2026-11-25",
-  "autoSummary": "2026년 11월 25일 주요 경제 뉴스 10건. 호재 0 · 리스크 3 · 중립 7",
-  "trendNote": "'코스피·코스닥, 내림세로 장 출발' 이슈가 2026-10-07부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
+  "updatedAt": "2026-11-26 13:15",
+  "date": "2026-11-26",
+  "autoSummary": "2026년 11월 26일 주요 경제 뉴스 10건. 호재 1 · 리스크 2 · 중립 7",
+  "trendNote": "'코스피·코스닥, 오름세로 장 출발' 이슈가 2026-10-21부터 이어지고 있습니다 (관련 과거 기사 2건 확인).",
   "news": [
     {
-      "time": "13:58",
-      "title": "코스피·코스닥, 내림세로 장 출발",
+      "time": "13:15",
+      "title": "코스피·코스닥, 오름세로 장 출발",
       "source": "한강타임즈",
       "tag": "시장",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LLUYxeDZDN1BWRjlTZ3Zyd0J3ZFJ4dVZpSnZaUTFta3FDOG1YOEJ5VmJDTTJoZlA3ZXRmSUFhNkl6enZGdHVmVHlfTVU2MUI5S3p6R2EwQkVHdjVXb29KYlROcERzMGNhdzJ3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZZFlFalhHb3FkQm8ybXZqV2VxY1czNFhjTGtwLTN3Z3ZMYTN1RjVKQlZScnFIMjNJV011Y1pMME54U1k3MUx5clh0bUVuQ3FQTEJDY29UaXlMcHNQTkVCTXVDbjZaWVlucFk0?oc=5",
       "relatedNews": [
         {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-10-07",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96REJPMzQ0YWVyY0dtWnNYRVhoSmdNVjdwb1pJQTlIUHBZUGRSdS02ZkxCbi1jbXVvdk5zT2FtNlpDTnJZMkFsb1JIMXNZc3kzTnJPWVUxaTZOQTAyTWhXMndBODcyX1ZjWlZJ?oc=5",
+          "title": "코스피·코스닥, 오름세로 장 출발",
+          "date": "2026-10-21",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5b2VwcHBjVDZ2OEp6b1FfSVlwOExTNjIzeElFTC1VaGlvUDNudHpWcHRQaGhod0lfanc3ZTQ2dHYtSlhvUWhzaTFwd1BCajNha2tDSDFKWk1ZYkdrYi1nWnd6X3NTa2pmQVJZ?oc=5",
           "score": 1.0
         },
         {
-          "title": "코스피·코스닥, 내림세로 장 출발",
-          "date": "2026-10-12",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wYng5TWVVaVBYSXFTa1Etd24wT2ljT2U3ZDh1X3V3Ukl3NjFPUXdlSi1TWGhpWlBWNWptelhpMFJ4azN1c2RWLW5JYmVuOXRkTWpVSUktZmtFVEhxVFlya3pxcnZwSXF6YkRN?oc=5",
+          "title": "코스피·코스닥, 오름세로 장 출발",
+          "date": "2026-10-27",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsVFhnd1g1R0VFTlk0eVpNNjZ4RHhFTDZrOVJSMERONGl5Q25HSDRxdExPMnpweGI3dDVrT2VHV2loVnhDZnhTU2Z0NXM5cWlfTFE3ZXVzY201SXl6X0ZUR3liNHV6WUVXQkY0?oc=5",
           "score": 1.0
         }
       ]
     },
     {
-      "time": "13:58",
+      "time": "13:15",
       "title": "코스피·코스닥 동반 하락에 \"주식창 못 열어요\"",
       "source": "충북일보",
       "tag": "시장",
@@ -39,11 +39,17 @@
           "date": "2026-11-24",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LNFpzUF9XSU52UnFoNnJIVFptOS1xQW9Kei1WMGl1R0RVcE9vMExIalR4eWM3a05KbDBla19JZ1Y3QWMyQ0RnQm0tbTJGNkdDZ0JSc2hqbUNiQk1yS3lLVlZ3?oc=5",
           "score": 1.0
+        },
+        {
+          "title": "코스피·코스닥 동반 하락에 \"주식창 못 열어요\"",
+          "date": "2026-11-25",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LNFpzUF9XSU52UnFoNnJIVFptOS1xQW9Kei1WMGl1R0RVcE9vMExIalR4eWM3a05KbDBla19JZ1Y3QWMyQ0RnQm0tbTJGNkdDZ0JSc2hqbUNiQk1yS3lLVlZ3?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "13:58",
+      "time": "13:15",
       "title": "[코스피·코스닥 전 거래일(19일) 주요공시]",
       "source": "연합뉴스",
       "tag": "기업",
@@ -57,40 +63,53 @@
           "score": 1.0
         },
         {
-          "title": "[코스피·코스닥 전 거래일(10일) 주요공시]",
-          "date": "2026-11-11",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ZC1iQTJnNkhpcVQwSGNxc0MySEVEXzJ0UHpIV1BqZW9yV3R6MWk3NDdLNzJSaXJ3Q2NqLUl6Z1VQVDBTVTdGWU1LQ1RfbHJseHBaRjRtNjRxZUEtdWEtetIBYEFVX3lxTE12ZC1iQTJnNkhpcVQwSGNxc0MySEVEXzJ0UHpIV1BqZW9yV3R6MWk3NDdLNzJSaXJ3Q2NqLUl6Z1VQVDBTVTdGWU1LQ1RfbHJseHBaRjRtNjRxZUEtdWEteg?oc=5",
-          "score": 0.688
+          "title": "[코스피·코스닥 전 거래일(19일) 주요공시]",
+          "date": "2026-11-25",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03TDN5Zlg2dlNpOENRX2VZQll5cjBpTGJYZVhTSnlrMF9jMnZvZ0g5YzVqVjJ6Ymd4WkcyVWprZWxWX1lhQUlLSzIxd0VmekFuWnphRVBoMkVkWDDSAWBBVV95cUxNSnZBMlc3Ul9ETHVGQVdqZkM0dmRicE0wWVlpckp2cFgzNjc0TUhMMmp5NHQxYlo1YS1ZNElKbUx1ZzFqVlU4TjBkZVlBd0NrMGw4bEtvZnplZ3FITlFjd2s?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "13:58",
+      "time": "13:15",
       "title": "코스피·코스닥 사이드카 올해 101회…2002년 제도 개편 이후 최다",
       "source": "한국면세뉴스",
       "tag": "시장",
       "impact": "중립",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrSDcycC1qaURfNWJtWkktQml2MzhoMS10T0Z1aHNJQVBvWGxWMXZjb3Z0M0FlaXVOVVVMR3U3RFRwUUZuQldzTXBqbGNJejQwVFE0UnZxd1RtRmlZbG5WT1BfMGM2TXZzS2c?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "13:58",
-      "title": "골드만삭스 \"한국, 기준금리 연 3.5% 넘기기 어려워\"",
-      "source": "한국경제",
-      "tag": "정책",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yXzBHQWg3cW9FVFRPd3ZDNE1NMmJWZG02b19pOXNkb3FaZmtFdkk4NkhMTGVsYjJ0Q2t5SWltVllrenJXblRkOUZnQ0JMQlN6Zm1tMW5CVWdOUQ?oc=5",
       "relatedNews": [
         {
-          "title": "골드만삭스 \"한국, 내년 3.2% 성장 전망…기준금리 상단 3.5%\"",
-          "date": "2026-11-24",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94OWlxaXJvM3VXQnFpTjJiaXdiRnRwcEdMd2NVWDNUWWJJOV96YUdBSE4tYnZHYW41VnFGb255TFBNWXZvNExDT2tQNjgwbElnYnE1TjlKY2JvQQ?oc=5",
-          "score": 0.521
+          "title": "코스피·코스닥 사이드카 올해 101회…2002년 제도 개편 이후 최다",
+          "date": "2026-11-25",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrSDcycC1qaURfNWJtWkktQml2MzhoMS10T0Z1aHNJQVBvWGxWMXZjb3Z0M0FlaXVOVVVMR3U3RFRwUUZuQldzTXBqbGNJejQwVFE0UnZxd1RtRmlZbG5WT1BfMGM2TXZzS2c?oc=5",
+          "score": 1.0
         }
       ]
     },
     {
-      "time": "13:58",
+      "time": "13:15",
+      "title": "[속보] 반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상",
+      "source": "한국경제",
+      "tag": "정책",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLZ25HNi0zU2lJbGpkel8zUFhUWnRJLWFSMkZ4Y1phZjd4b2VyRlZENkRxMXJ6ZnRMSHNiVTJCTTNuNzU0SHViZWdEcUtxWEkyc2MzMXE3TkIyZw?oc=5",
+      "relatedNews": [
+        {
+          "title": "[속보] 한은, 기준금리 연 3.00%로 동결",
+          "date": "2026-10-23",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUHZMazAwc0RxSVZnWG91SE1Tcmh3TWlrR3dXRnRmTmVwMFNrQWVOb3JCV3kzUkhmeDBRbVZJVTc5SmVmX0hNbEJfcDc1WC1kal9QX3dKZW9GUQ?oc=5",
+          "score": 0.351
+        },
+        {
+          "title": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
+          "date": "2026-10-31",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
+          "score": 0.254
+        }
+      ]
+    },
+    {
+      "time": "13:15",
       "title": "[2027 한국경제 전망] 내년 기준금리 상단 3.5%...11월엔 안 좋은 주식시장 눈치 By FinancialPost",
       "source": "Investing.com 한국어",
       "tag": "정책",
@@ -98,62 +117,87 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTRjlfX0VWSjFRd3JoUkxQUUVFRzd2NDRQRW1BTnFmZ0RENURfT2lIRDNwN293emdQTGVNci1DYkFfMVlzVkN3bEJVX2xHU0dISUp0ZWdCMXBXTUhKZGRZVGVBMFlER3NaeDBzbGduZWQ?oc=5",
       "relatedNews": [
         {
+          "title": "[2027 한국경제 전망] 내년 기준금리 상단 3.5%...11월엔 안 좋은 주식시장 눈치 By FinancialPost",
+          "date": "2026-11-25",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTRjlfX0VWSjFRd3JoUkxQUUVFRzd2NDRQRW1BTnFmZ0RENURfT2lIRDNwN293emdQTGVNci1DYkFfMVlzVkN3bEJVX2xHU0dISUp0ZWdCMXBXTUhKZGRZVGVBMFlER3NaeDBzbGduZWQ?oc=5",
+          "score": 1.0
+        },
+        {
           "title": "[2027 한국경제 전망] 내년 기준금리 상단 3.5%...11월엔 안 좋은 주식시장 눈치",
           "date": "2026-11-24",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KY1Bwb0k5cEN6eVd0UE9BdEl4aFJwS0VZTnh1TUJVY3ZSdVdULVpsRHN4NEcxRXQycWtYNnY0cHFVUWR5M1dmSmRQR2dreHkweHJxQmtVVkVRVWd2R3ExTnpKVFBsalNFa3Y2V0tkM21wVnB3?oc=5",
-          "score": 0.787
+          "score": 0.795
         }
       ]
     },
     {
-      "time": "13:58",
-      "title": "증시 급락에 기준금리 추가 인상 가능성…한국 경제 '이중 긴축' 우려",
-      "source": "폴리뉴스 Polinews",
+      "time": "13:15",
+      "title": "한은, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 상향",
+      "source": "한국경제",
       "tag": "정책",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoYXBLeHExaWFqZEtHSEhKZXVUVlR6Y0hYb2NaX3JMLWdwYmVMWmJmUnp1ZzJiV25iUTNMR21zTDJQSkpFdFJ1LU9Kck80ekRTWlBOQmJoOGMzdDZNSHZzMEpJbU1wWUJhdEN1VnFB?oc=5",
+      "impact": "호재",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yd0t4V2dSVXYyYkNZWmpvMkdXMUZ1NW1UVDJyQlRIUzhYaTMxOGdKMmtlOXVZZHJvYS1oay1PSXdpTnZTY3d0ZlNUT1BOVU1nSlMySTNkZkxqQQ?oc=5",
       "relatedNews": [
         {
-          "title": "한은, 기준금리 동결 유력 전망…11월 추가 인상 가능성 주목",
-          "date": "2026-10-22",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUXVUM2c2WFlwOWp5enRJaW1BVC0tZl96UlVuOVpLLTRiMV9MSmt4aTR0bmFPdGZKdWFfUElxWUdMVW1MeXplcThmenNaVkYteTktcW52VkhkZw?oc=5",
-          "score": 0.273
+          "title": "[속보] 한은, 기준금리 연 3.00%로 동결",
+          "date": "2026-10-23",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUHZMazAwc0RxSVZnWG91SE1Tcmh3TWlrR3dXRnRmTmVwMFNrQWVOb3JCV3kzUkhmeDBRbVZJVTc5SmVmX0hNbEJfcDc1WC1kal9QX3dKZW9GUQ?oc=5",
+          "score": 0.28
+        },
+        {
+          "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치",
+          "date": "2026-11-04",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
+          "score": 0.269
         }
       ]
     },
     {
-      "time": "13:58",
-      "title": "금리 인상기 전세시장…수치의 이면 봐야 [김효선의 부동산 이지!]",
+      "time": "13:15",
+      "title": "엔비디아 '신용등급 강등 경고' 왜… 한은은 금리 결정 [오늘 아침 당신이 알아야 할 7가지]",
       "source": "한국경제",
       "tag": "정책",
       "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54dE85UkNwNFlCRTM1YjZrTURlQ1Q4WFlqZjhUZEVpSjJVb2NfcWpDRHRQbHFfdURORDkyTk9qTmVucDBvV2hnS3JjZzJ6QkExRDRqMDEwd094UQ?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "13:58",
-      "title": "글로벌IB, 삼전닉스 목표가 잇달아 하향…2028년 업황 둔화 우려",
-      "source": "연합뉴스",
-      "tag": "시장",
-      "impact": "리스크",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JTE9mVWxyczlFUGc0UDdXVFBqNlllOHZNNzBXcC04OEo3dzBvY1FERHZIZ3kzVmV3OHU3NEQ1MTNmV2hyWWZmR3F1RlZ0MEhVdlh2eElnaDg4dzjSAWBBVV95cUxQaHJMV3lSbjNwYzlCSTlySjh4VDI1eFl5aGs3OV9ab3ltSjlNTXk0clh2WUVmUFM4V19uTE5PUkhEX2J3dUo5ZkF0RE9EdmVmZThxNUc5TnpJYmZQNEVkSlA?oc=5",
-      "relatedNews": []
-    },
-    {
-      "time": "13:58",
-      "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-      "source": "파이낸셜뉴스",
-      "tag": "기업",
-      "impact": "중립",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Md3J0VzZqdUI5eGhVMVRiSGIteWVIT3laQVZOcHlVdjhpM2lWaFFKaGNZclRxOHF0aDVlaGZ1WVI0OEFQd1VlV3lRcmpSVFRxcExlbHozb3J1Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTHkySC1nQU9BOUpCTEpHeTB5dmVLRjQ2MkwzQnBneUxUdzg1R0VSVjNvYkFuUVJNZFJfYlNpY1V6QlFDV3RkSXlXZTIyVmo0WEx5UC1EVjVadw?oc=5",
       "relatedNews": [
         {
-          "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-          "date": "2026-11-23",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Md3J0VzZqdUI5eGhVMVRiSGIteWVIT3laQVZOcHlVdjhpM2lWaFFKaGNZclRxOHF0aDVlaGZ1WVI0OEFQd1VlV3lRcmpSVFRxcExlbHozb3J1Zw?oc=5",
-          "score": 1.0
+          "title": "치솟는 금리, 물가 속 엔비디아 실적 발표…빅위크의 시작 [오늘 아침 당신이 알아야 할 7가지]",
+          "date": "2026-11-16",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSHdRaXdqZEtOQXIzVWFIb25IMVZILVB0Um1KaGVVeFN5SHVIcEp2VkJiZHZiVkZBU0s1azZ1ZU5XVkM4MExUV3ZqVTZCR2tUZUdSSW9kREQyZw?oc=5",
+          "score": 0.452
+        },
+        {
+          "title": "치솟은 미 국채금리…수요도 몰렸다 [오늘 아침, 당신이 알아야 할 7가지]",
+          "date": "2026-10-08",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TVVFHRjdSUGdfMU0tWGNKVndvamxueTU5aDdLYjJMS2phRGM2OS1WMUNsdFJ2SXY0VjMzdXFPX1VCTU54cGRiYzdjX2ZPVmFXbkZjelNpUjdUdw?oc=5",
+          "score": 0.393
         }
       ]
+    },
+    {
+      "time": "13:15",
+      "title": "메모리반도체 \"2027년 중반부터 가격 하락\" 전망 나와, 삼성전자 SK하이닉스 공급 과잉 리스크",
+      "source": "비즈니스포스트",
+      "tag": "기업",
+      "impact": "리스크",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13eTAzMVhwS1E0M1ktMXdwQW8xVWsyaWRlWER1aUlXQlN4VnRreURfWjFfME5YWW1GM012YnpnLTJvXzFYc1c5djBMWFFYLUM1UXBSZ0lyR2ZtVUxGM2dYdlJlcmd2b3lUY04wV0JIdTVjV1U?oc=5",
+      "relatedNews": [
+        {
+          "title": "AMD \"HBM 가격 상승 고객사와 분담\", 삼성전자 SK하이닉스 메모리반도체 협상력 부각",
+          "date": "2026-11-05",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45R0Uwb0xTc0VrX2tITGJxQVFXSWNzaHFIVHI1ODR2TFpCbEFWWjkyM0RkU1VPZG5tNHNBY3VOZ24yNFN0V1ZNcjgzMlJwbVZndWVqN0RZOXU2MnhmRE1mLUE1VURmN0psLVg0LXVhaUFLWnc?oc=5",
+          "score": 0.278
+        }
+      ]
+    },
+    {
+      "time": "13:15",
+      "title": "[속보] 코스피 `멸망의 날`? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+      "source": "매일신문",
+      "tag": "기업",
+      "impact": "중립",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80RHBlS0JfMlo2b1Z4ZWgtVkJLc1BUQzZVdkZDdTJmM0N2NFVuU1BGTXJfZ05lYlIzU0pIeHVCQkRZemxMRThZNEdpSFBRQzZLUG5PQmlFRzB0WHVTZ1dua3p3?oc=5",
+      "relatedNews": []
     }
   ],
   "aiSummary": null
